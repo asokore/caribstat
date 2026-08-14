@@ -1,0 +1,1493 @@
+{
+  "source": "Eastern Caribbean Central Bank",
+  "source_id": "eccb",
+  "source_url": "https://www.eccb-centralbank.org/statistics-category/external-sector/selected-tourism-statistics",
+  "table_id": "selected-tourism-statistics",
+  "table_title": "Selected Tourism Statistics",
+  "country": {
+    "iso3": "ATG",
+    "name": "Antigua and Barbuda"
+  },
+  "frequency": "q",
+  "data_as_at": "2026-07-28",
+  "data_as_at_raw": "28 July 2026",
+  "retrieved_at": "2026-08-13T21:52:01.556Z",
+  "periods": [
+    "2020-Q1",
+    "2020-Q2",
+    "2020-Q3",
+    "2020-Q4",
+    "2021-Q1",
+    "2021-Q2",
+    "2021-Q3",
+    "2021-Q4",
+    "2022-Q1",
+    "2022-Q2",
+    "2022-Q3",
+    "2022-Q4",
+    "2023-Q1",
+    "2023-Q2",
+    "2023-Q3",
+    "2023-Q4",
+    "2024-Q1",
+    "2024-Q2",
+    "2024-Q3",
+    "2024-Q4",
+    "2025-Q1",
+    "2025-Q2",
+    "2025-Q3",
+    "2025-Q4",
+    "2026-Q1",
+    "2026-Q2",
+    "2026-Q3",
+    "2026-Q4"
+  ],
+  "periods_raw": [
+    "Mar 2020",
+    "Jun 2020",
+    "Sep 2020",
+    "Dec 2020",
+    "Mar 2021",
+    "Jun 2021",
+    "Sep 2021",
+    "Dec 2021",
+    "Mar 2022",
+    "Jun 2022",
+    "Sep 2022",
+    "Dec 2022",
+    "Mar 2023",
+    "Jun 2023",
+    "Sep 2023",
+    "Dec 2023",
+    "Mar 2024",
+    "Jun 2024",
+    "Sep 2024",
+    "Dec 2024",
+    "Mar 2025",
+    "Jun 2025",
+    "Sep 2025",
+    "Dec 2025",
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026",
+    "Dec 2026"
+  ],
+  "series": [
+    {
+      "label": "Total Visitor Arrivals",
+      "unit": "No.",
+      "observations": [
+        {
+          "period": "2020-Q1",
+          "value": 353616
+        },
+        {
+          "period": "2020-Q2",
+          "value": 2825
+        },
+        {
+          "period": "2020-Q3",
+          "value": 12751
+        },
+        {
+          "period": "2020-Q4",
+          "value": 28590
+        },
+        {
+          "period": "2021-Q1",
+          "value": 23421
+        },
+        {
+          "period": "2021-Q2",
+          "value": 36507
+        },
+        {
+          "period": "2021-Q3",
+          "value": 54818
+        },
+        {
+          "period": "2021-Q4",
+          "value": 137472
+        },
+        {
+          "period": "2022-Q1",
+          "value": 222795
+        },
+        {
+          "period": "2022-Q2",
+          "value": 101900
+        },
+        {
+          "period": "2022-Q3",
+          "value": 68626
+        },
+        {
+          "period": "2022-Q4",
+          "value": 256459
+        },
+        {
+          "period": "2023-Q1",
+          "value": 422869
+        },
+        {
+          "period": "2023-Q2",
+          "value": 153489
+        },
+        {
+          "period": "2023-Q3",
+          "value": 69659
+        },
+        {
+          "period": "2023-Q4",
+          "value": 284663
+        },
+        {
+          "period": "2024-Q1",
+          "value": 528479
+        },
+        {
+          "period": "2024-Q2",
+          "value": 190313
+        },
+        {
+          "period": "2024-Q3",
+          "value": 81883
+        },
+        {
+          "period": "2024-Q4",
+          "value": 338790
+        },
+        {
+          "period": "2025-Q1",
+          "value": 544481
+        },
+        {
+          "period": "2025-Q2",
+          "value": 118559
+        },
+        {
+          "period": "2025-Q3",
+          "value": 81372
+        },
+        {
+          "period": "2025-Q4",
+          "value": 368228
+        },
+        {
+          "period": "2026-Q1",
+          "value": 589873
+        },
+        {
+          "period": "2026-Q2",
+          "value": null
+        },
+        {
+          "period": "2026-Q3",
+          "value": null
+        },
+        {
+          "period": "2026-Q4",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Stay-Over Arrivals",
+      "unit": "No.",
+      "observations": [
+        {
+          "period": "2020-Q1",
+          "value": 83354
+        },
+        {
+          "period": "2020-Q2",
+          "value": 2693
+        },
+        {
+          "period": "2020-Q3",
+          "value": 12435
+        },
+        {
+          "period": "2020-Q4",
+          "value": 26606
+        },
+        {
+          "period": "2021-Q1",
+          "value": 21675
+        },
+        {
+          "period": "2021-Q2",
+          "value": 35429
+        },
+        {
+          "period": "2021-Q3",
+          "value": 53786
+        },
+        {
+          "period": "2021-Q4",
+          "value": 58579
+        },
+        {
+          "period": "2022-Q1",
+          "value": 64877
+        },
+        {
+          "period": "2022-Q2",
+          "value": 64549
+        },
+        {
+          "period": "2022-Q3",
+          "value": 60260
+        },
+        {
+          "period": "2022-Q4",
+          "value": 75433
+        },
+        {
+          "period": "2023-Q1",
+          "value": 87667
+        },
+        {
+          "period": "2023-Q2",
+          "value": 66666
+        },
+        {
+          "period": "2023-Q3",
+          "value": 54178
+        },
+        {
+          "period": "2023-Q4",
+          "value": 73385
+        },
+        {
+          "period": "2024-Q1",
+          "value": 97341
+        },
+        {
+          "period": "2024-Q2",
+          "value": 79318
+        },
+        {
+          "period": "2024-Q3",
+          "value": 65609
+        },
+        {
+          "period": "2024-Q4",
+          "value": 88013
+        },
+        {
+          "period": "2025-Q1",
+          "value": 103843
+        },
+        {
+          "period": "2025-Q2",
+          "value": 77085
+        },
+        {
+          "period": "2025-Q3",
+          "value": 62392
+        },
+        {
+          "period": "2025-Q4",
+          "value": 82153
+        },
+        {
+          "period": "2026-Q1",
+          "value": 108278
+        },
+        {
+          "period": "2026-Q2",
+          "value": null
+        },
+        {
+          "period": "2026-Q3",
+          "value": null
+        },
+        {
+          "period": "2026-Q4",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "USA",
+      "unit": "No.",
+      "observations": [
+        {
+          "period": "2020-Q1",
+          "value": 34903
+        },
+        {
+          "period": "2020-Q2",
+          "value": 2094
+        },
+        {
+          "period": "2020-Q3",
+          "value": 8836
+        },
+        {
+          "period": "2020-Q4",
+          "value": 14486
+        },
+        {
+          "period": "2021-Q1",
+          "value": 16047
+        },
+        {
+          "period": "2021-Q2",
+          "value": 29684
+        },
+        {
+          "period": "2021-Q3",
+          "value": 30935
+        },
+        {
+          "period": "2021-Q4",
+          "value": 25829
+        },
+        {
+          "period": "2022-Q1",
+          "value": 28376
+        },
+        {
+          "period": "2022-Q2",
+          "value": 34704
+        },
+        {
+          "period": "2022-Q3",
+          "value": 31203
+        },
+        {
+          "period": "2022-Q4",
+          "value": 35238
+        },
+        {
+          "period": "2023-Q1",
+          "value": 40450
+        },
+        {
+          "period": "2023-Q2",
+          "value": 35728
+        },
+        {
+          "period": "2023-Q3",
+          "value": 26781
+        },
+        {
+          "period": "2023-Q4",
+          "value": 34198
+        },
+        {
+          "period": "2024-Q1",
+          "value": 46004
+        },
+        {
+          "period": "2024-Q2",
+          "value": 45552
+        },
+        {
+          "period": "2024-Q3",
+          "value": 38084
+        },
+        {
+          "period": "2024-Q4",
+          "value": 43543
+        },
+        {
+          "period": "2025-Q1",
+          "value": 51980
+        },
+        {
+          "period": "2025-Q2",
+          "value": 47474
+        },
+        {
+          "period": "2025-Q3",
+          "value": 35418
+        },
+        {
+          "period": "2025-Q4",
+          "value": 40567
+        },
+        {
+          "period": "2026-Q1",
+          "value": 50564
+        },
+        {
+          "period": "2026-Q2",
+          "value": null
+        },
+        {
+          "period": "2026-Q3",
+          "value": null
+        },
+        {
+          "period": "2026-Q4",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Canada",
+      "unit": "No.",
+      "observations": [
+        {
+          "period": "2020-Q1",
+          "value": 14662
+        },
+        {
+          "period": "2020-Q2",
+          "value": 225
+        },
+        {
+          "period": "2020-Q3",
+          "value": 229
+        },
+        {
+          "period": "2020-Q4",
+          "value": 600
+        },
+        {
+          "period": "2021-Q1",
+          "value": 337
+        },
+        {
+          "period": "2021-Q2",
+          "value": 129
+        },
+        {
+          "period": "2021-Q3",
+          "value": 285
+        },
+        {
+          "period": "2021-Q4",
+          "value": 3304
+        },
+        {
+          "period": "2022-Q1",
+          "value": 3410
+        },
+        {
+          "period": "2022-Q2",
+          "value": 3313
+        },
+        {
+          "period": "2022-Q3",
+          "value": 3010
+        },
+        {
+          "period": "2022-Q4",
+          "value": 7878
+        },
+        {
+          "period": "2023-Q1",
+          "value": 12910
+        },
+        {
+          "period": "2023-Q2",
+          "value": 4870
+        },
+        {
+          "period": "2023-Q3",
+          "value": 2509
+        },
+        {
+          "period": "2023-Q4",
+          "value": 8486
+        },
+        {
+          "period": "2024-Q1",
+          "value": 14295
+        },
+        {
+          "period": "2024-Q2",
+          "value": 4833
+        },
+        {
+          "period": "2024-Q3",
+          "value": 3562
+        },
+        {
+          "period": "2024-Q4",
+          "value": 8222
+        },
+        {
+          "period": "2025-Q1",
+          "value": 12139
+        },
+        {
+          "period": "2025-Q2",
+          "value": 4418
+        },
+        {
+          "period": "2025-Q3",
+          "value": 2828
+        },
+        {
+          "period": "2025-Q4",
+          "value": 8219
+        },
+        {
+          "period": "2026-Q1",
+          "value": 13589
+        },
+        {
+          "period": "2026-Q2",
+          "value": null
+        },
+        {
+          "period": "2026-Q3",
+          "value": null
+        },
+        {
+          "period": "2026-Q4",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "UK",
+      "unit": "No.",
+      "observations": [
+        {
+          "period": "2020-Q1",
+          "value": 20512
+        },
+        {
+          "period": "2020-Q2",
+          "value": 57
+        },
+        {
+          "period": "2020-Q3",
+          "value": 1920
+        },
+        {
+          "period": "2020-Q4",
+          "value": 9276
+        },
+        {
+          "period": "2021-Q1",
+          "value": 2807
+        },
+        {
+          "period": "2021-Q2",
+          "value": 2978
+        },
+        {
+          "period": "2021-Q3",
+          "value": 18686
+        },
+        {
+          "period": "2021-Q4",
+          "value": 23857
+        },
+        {
+          "period": "2022-Q1",
+          "value": 25733
+        },
+        {
+          "period": "2022-Q2",
+          "value": 17986
+        },
+        {
+          "period": "2022-Q3",
+          "value": 14934
+        },
+        {
+          "period": "2022-Q4",
+          "value": 21247
+        },
+        {
+          "period": "2023-Q1",
+          "value": 23324
+        },
+        {
+          "period": "2023-Q2",
+          "value": 15140
+        },
+        {
+          "period": "2023-Q3",
+          "value": 10828
+        },
+        {
+          "period": "2023-Q4",
+          "value": 18986
+        },
+        {
+          "period": "2024-Q1",
+          "value": 23523
+        },
+        {
+          "period": "2024-Q2",
+          "value": 14548
+        },
+        {
+          "period": "2024-Q3",
+          "value": 10716
+        },
+        {
+          "period": "2024-Q4",
+          "value": 22061
+        },
+        {
+          "period": "2025-Q1",
+          "value": 25651
+        },
+        {
+          "period": "2025-Q2",
+          "value": 14460
+        },
+        {
+          "period": "2025-Q3",
+          "value": 11141
+        },
+        {
+          "period": "2025-Q4",
+          "value": 20108
+        },
+        {
+          "period": "2026-Q1",
+          "value": 29385
+        },
+        {
+          "period": "2026-Q2",
+          "value": null
+        },
+        {
+          "period": "2026-Q3",
+          "value": null
+        },
+        {
+          "period": "2026-Q4",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Caribbean",
+      "unit": "No.",
+      "observations": [
+        {
+          "period": "2020-Q1",
+          "value": 6042
+        },
+        {
+          "period": "2020-Q2",
+          "value": 126
+        },
+        {
+          "period": "2020-Q3",
+          "value": 779
+        },
+        {
+          "period": "2020-Q4",
+          "value": 1060
+        },
+        {
+          "period": "2021-Q1",
+          "value": 1144
+        },
+        {
+          "period": "2021-Q2",
+          "value": 1366
+        },
+        {
+          "period": "2021-Q3",
+          "value": 2461
+        },
+        {
+          "period": "2021-Q4",
+          "value": 2897
+        },
+        {
+          "period": "2022-Q1",
+          "value": 3255
+        },
+        {
+          "period": "2022-Q2",
+          "value": 5174
+        },
+        {
+          "period": "2022-Q3",
+          "value": 8072
+        },
+        {
+          "period": "2022-Q4",
+          "value": 6815
+        },
+        {
+          "period": "2023-Q1",
+          "value": 5405
+        },
+        {
+          "period": "2023-Q2",
+          "value": 7248
+        },
+        {
+          "period": "2023-Q3",
+          "value": 10293
+        },
+        {
+          "period": "2023-Q4",
+          "value": 7010
+        },
+        {
+          "period": "2024-Q1",
+          "value": 6471
+        },
+        {
+          "period": "2024-Q2",
+          "value": 8225
+        },
+        {
+          "period": "2024-Q3",
+          "value": 9403
+        },
+        {
+          "period": "2024-Q4",
+          "value": 8332
+        },
+        {
+          "period": "2025-Q1",
+          "value": 7014
+        },
+        {
+          "period": "2025-Q2",
+          "value": 6507
+        },
+        {
+          "period": "2025-Q3",
+          "value": 9756
+        },
+        {
+          "period": "2025-Q4",
+          "value": 7303
+        },
+        {
+          "period": "2026-Q1",
+          "value": 5259
+        },
+        {
+          "period": "2026-Q2",
+          "value": null
+        },
+        {
+          "period": "2026-Q3",
+          "value": null
+        },
+        {
+          "period": "2026-Q4",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Other Countries",
+      "unit": "No.",
+      "observations": [
+        {
+          "period": "2020-Q1",
+          "value": 7235
+        },
+        {
+          "period": "2020-Q2",
+          "value": 191
+        },
+        {
+          "period": "2020-Q3",
+          "value": 671
+        },
+        {
+          "period": "2020-Q4",
+          "value": 1184
+        },
+        {
+          "period": "2021-Q1",
+          "value": 1340
+        },
+        {
+          "period": "2021-Q2",
+          "value": 1272
+        },
+        {
+          "period": "2021-Q3",
+          "value": 1419
+        },
+        {
+          "period": "2021-Q4",
+          "value": 2692
+        },
+        {
+          "period": "2022-Q1",
+          "value": 4103
+        },
+        {
+          "period": "2022-Q2",
+          "value": 3372
+        },
+        {
+          "period": "2022-Q3",
+          "value": 3041
+        },
+        {
+          "period": "2022-Q4",
+          "value": 4255
+        },
+        {
+          "period": "2023-Q1",
+          "value": 5578
+        },
+        {
+          "period": "2023-Q2",
+          "value": 3680
+        },
+        {
+          "period": "2023-Q3",
+          "value": 3767
+        },
+        {
+          "period": "2023-Q4",
+          "value": 4705
+        },
+        {
+          "period": "2024-Q1",
+          "value": 7048
+        },
+        {
+          "period": "2024-Q2",
+          "value": 6160
+        },
+        {
+          "period": "2024-Q3",
+          "value": 3844
+        },
+        {
+          "period": "2024-Q4",
+          "value": 5855
+        },
+        {
+          "period": "2025-Q1",
+          "value": 7059
+        },
+        {
+          "period": "2025-Q2",
+          "value": 4226
+        },
+        {
+          "period": "2025-Q3",
+          "value": 3249
+        },
+        {
+          "period": "2025-Q4",
+          "value": 5956
+        },
+        {
+          "period": "2026-Q1",
+          "value": 9481
+        },
+        {
+          "period": "2026-Q2",
+          "value": null
+        },
+        {
+          "period": "2026-Q3",
+          "value": null
+        },
+        {
+          "period": "2026-Q4",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Excursionists",
+      "unit": "No.",
+      "observations": [
+        {
+          "period": "2020-Q1",
+          "value": null
+        },
+        {
+          "period": "2020-Q2",
+          "value": null
+        },
+        {
+          "period": "2020-Q3",
+          "value": null
+        },
+        {
+          "period": "2020-Q4",
+          "value": null
+        },
+        {
+          "period": "2021-Q1",
+          "value": null
+        },
+        {
+          "period": "2021-Q2",
+          "value": null
+        },
+        {
+          "period": "2021-Q3",
+          "value": null
+        },
+        {
+          "period": "2021-Q4",
+          "value": null
+        },
+        {
+          "period": "2022-Q1",
+          "value": null
+        },
+        {
+          "period": "2022-Q2",
+          "value": null
+        },
+        {
+          "period": "2022-Q3",
+          "value": null
+        },
+        {
+          "period": "2022-Q4",
+          "value": null
+        },
+        {
+          "period": "2023-Q1",
+          "value": null
+        },
+        {
+          "period": "2023-Q2",
+          "value": null
+        },
+        {
+          "period": "2023-Q3",
+          "value": null
+        },
+        {
+          "period": "2023-Q4",
+          "value": null
+        },
+        {
+          "period": "2024-Q1",
+          "value": null
+        },
+        {
+          "period": "2024-Q2",
+          "value": null
+        },
+        {
+          "period": "2024-Q3",
+          "value": null
+        },
+        {
+          "period": "2024-Q4",
+          "value": null
+        },
+        {
+          "period": "2025-Q1",
+          "value": null
+        },
+        {
+          "period": "2025-Q2",
+          "value": null
+        },
+        {
+          "period": "2025-Q3",
+          "value": null
+        },
+        {
+          "period": "2025-Q4",
+          "value": null
+        },
+        {
+          "period": "2026-Q1",
+          "value": null
+        },
+        {
+          "period": "2026-Q2",
+          "value": null
+        },
+        {
+          "period": "2026-Q3",
+          "value": null
+        },
+        {
+          "period": "2026-Q4",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Yacht Passengers",
+      "unit": "No.",
+      "observations": [
+        {
+          "period": "2020-Q1",
+          "value": 10836
+        },
+        {
+          "period": "2020-Q2",
+          "value": 132
+        },
+        {
+          "period": "2020-Q3",
+          "value": 316
+        },
+        {
+          "period": "2020-Q4",
+          "value": 1984
+        },
+        {
+          "period": "2021-Q1",
+          "value": 1746
+        },
+        {
+          "period": "2021-Q2",
+          "value": 1078
+        },
+        {
+          "period": "2021-Q3",
+          "value": 325
+        },
+        {
+          "period": "2021-Q4",
+          "value": 2460
+        },
+        {
+          "period": "2022-Q1",
+          "value": 6230
+        },
+        {
+          "period": "2022-Q2",
+          "value": 1797
+        },
+        {
+          "period": "2022-Q3",
+          "value": 316
+        },
+        {
+          "period": "2022-Q4",
+          "value": 2605
+        },
+        {
+          "period": "2023-Q1",
+          "value": 9308
+        },
+        {
+          "period": "2023-Q2",
+          "value": 3786
+        },
+        {
+          "period": "2023-Q3",
+          "value": 603
+        },
+        {
+          "period": "2023-Q4",
+          "value": 1190
+        },
+        {
+          "period": "2024-Q1",
+          "value": 9102
+        },
+        {
+          "period": "2024-Q2",
+          "value": 3204
+        },
+        {
+          "period": "2024-Q3",
+          "value": 731
+        },
+        {
+          "period": "2024-Q4",
+          "value": 4952
+        },
+        {
+          "period": "2025-Q1",
+          "value": 9519
+        },
+        {
+          "period": "2025-Q2",
+          "value": 3315
+        },
+        {
+          "period": "2025-Q3",
+          "value": 535
+        },
+        {
+          "period": "2025-Q4",
+          "value": 5329
+        },
+        {
+          "period": "2026-Q1",
+          "value": 10426
+        },
+        {
+          "period": "2026-Q2",
+          "value": null
+        },
+        {
+          "period": "2026-Q3",
+          "value": null
+        },
+        {
+          "period": "2026-Q4",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Cruise Ship Passengers",
+      "unit": "No.",
+      "observations": [
+        {
+          "period": "2020-Q1",
+          "value": 259426
+        },
+        {
+          "period": "2020-Q2",
+          "value": 0
+        },
+        {
+          "period": "2020-Q3",
+          "value": 0
+        },
+        {
+          "period": "2020-Q4",
+          "value": 0
+        },
+        {
+          "period": "2021-Q1",
+          "value": 0
+        },
+        {
+          "period": "2021-Q2",
+          "value": 0
+        },
+        {
+          "period": "2021-Q3",
+          "value": 707
+        },
+        {
+          "period": "2021-Q4",
+          "value": 76433
+        },
+        {
+          "period": "2022-Q1",
+          "value": 151688
+        },
+        {
+          "period": "2022-Q2",
+          "value": 35554
+        },
+        {
+          "period": "2022-Q3",
+          "value": 8050
+        },
+        {
+          "period": "2022-Q4",
+          "value": 178421
+        },
+        {
+          "period": "2023-Q1",
+          "value": 325894
+        },
+        {
+          "period": "2023-Q2",
+          "value": 83037
+        },
+        {
+          "period": "2023-Q3",
+          "value": 14878
+        },
+        {
+          "period": "2023-Q4",
+          "value": 210088
+        },
+        {
+          "period": "2024-Q1",
+          "value": 422036
+        },
+        {
+          "period": "2024-Q2",
+          "value": 107791
+        },
+        {
+          "period": "2024-Q3",
+          "value": 15543
+        },
+        {
+          "period": "2024-Q4",
+          "value": 245825
+        },
+        {
+          "period": "2025-Q1",
+          "value": 431119
+        },
+        {
+          "period": "2025-Q2",
+          "value": 38159
+        },
+        {
+          "period": "2025-Q3",
+          "value": 18445
+        },
+        {
+          "period": "2025-Q4",
+          "value": 280746
+        },
+        {
+          "period": "2026-Q1",
+          "value": 471170
+        },
+        {
+          "period": "2026-Q2",
+          "value": null
+        },
+        {
+          "period": "2026-Q3",
+          "value": null
+        },
+        {
+          "period": "2026-Q4",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Number of Cruise Ship Calls",
+      "unit": "No.",
+      "observations": [
+        {
+          "period": "2020-Q1",
+          "value": 144
+        },
+        {
+          "period": "2020-Q2",
+          "value": 0
+        },
+        {
+          "period": "2020-Q3",
+          "value": 0
+        },
+        {
+          "period": "2020-Q4",
+          "value": 0
+        },
+        {
+          "period": "2021-Q1",
+          "value": 0
+        },
+        {
+          "period": "2021-Q2",
+          "value": 4
+        },
+        {
+          "period": "2021-Q3",
+          "value": 12
+        },
+        {
+          "period": "2021-Q4",
+          "value": 94
+        },
+        {
+          "period": "2022-Q1",
+          "value": 171
+        },
+        {
+          "period": "2022-Q2",
+          "value": 28
+        },
+        {
+          "period": "2022-Q3",
+          "value": 3
+        },
+        {
+          "period": "2022-Q4",
+          "value": 116
+        },
+        {
+          "period": "2023-Q1",
+          "value": 176
+        },
+        {
+          "period": "2023-Q2",
+          "value": 38
+        },
+        {
+          "period": "2023-Q3",
+          "value": 7
+        },
+        {
+          "period": "2023-Q4",
+          "value": 133
+        },
+        {
+          "period": "2024-Q1",
+          "value": 211
+        },
+        {
+          "period": "2024-Q2",
+          "value": 49
+        },
+        {
+          "period": "2024-Q3",
+          "value": 10
+        },
+        {
+          "period": "2024-Q4",
+          "value": 136
+        },
+        {
+          "period": "2025-Q1",
+          "value": 236
+        },
+        {
+          "period": "2025-Q2",
+          "value": 21
+        },
+        {
+          "period": "2025-Q3",
+          "value": 8
+        },
+        {
+          "period": "2025-Q4",
+          "value": 144
+        },
+        {
+          "period": "2026-Q1",
+          "value": 255
+        },
+        {
+          "period": "2026-Q2",
+          "value": null
+        },
+        {
+          "period": "2026-Q3",
+          "value": null
+        },
+        {
+          "period": "2026-Q4",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Total Visitor Expenditure (EC$M)",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2020-Q1",
+          "value": 563.35
+        },
+        {
+          "period": "2020-Q2",
+          "value": 22.52
+        },
+        {
+          "period": "2020-Q3",
+          "value": 100.1
+        },
+        {
+          "period": "2020-Q4",
+          "value": 259.26
+        },
+        {
+          "period": "2021-Q1",
+          "value": 170
+        },
+        {
+          "period": "2021-Q2",
+          "value": 220.86
+        },
+        {
+          "period": "2021-Q3",
+          "value": 335.99
+        },
+        {
+          "period": "2021-Q4",
+          "value": 387.59
+        },
+        {
+          "period": "2022-Q1",
+          "value": 504.68
+        },
+        {
+          "period": "2022-Q2",
+          "value": 410.58
+        },
+        {
+          "period": "2022-Q3",
+          "value": 431.09
+        },
+        {
+          "period": "2022-Q4",
+          "value": 530.79
+        },
+        {
+          "period": "2023-Q1",
+          "value": 675.54
+        },
+        {
+          "period": "2023-Q2",
+          "value": 442.81
+        },
+        {
+          "period": "2023-Q3",
+          "value": 353.53
+        },
+        {
+          "period": "2023-Q4",
+          "value": 570.37
+        },
+        {
+          "period": "2024-Q1",
+          "value": 756.91
+        },
+        {
+          "period": "2024-Q2",
+          "value": 540.42
+        },
+        {
+          "period": "2024-Q3",
+          "value": 452.67
+        },
+        {
+          "period": "2024-Q4",
+          "value": 631.02
+        },
+        {
+          "period": "2025-Q1",
+          "value": 798.33
+        },
+        {
+          "period": "2025-Q2",
+          "value": 531.96
+        },
+        {
+          "period": "2025-Q3",
+          "value": 426.55
+        },
+        {
+          "period": "2025-Q4",
+          "value": 585.83
+        },
+        {
+          "period": "2026-Q1",
+          "value": 853.87
+        },
+        {
+          "period": "2026-Q2",
+          "value": null
+        },
+        {
+          "period": "2026-Q3",
+          "value": null
+        },
+        {
+          "period": "2026-Q4",
+          "value": null
+        }
+      ]
+    }
+  ]
+}

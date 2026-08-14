@@ -1,0 +1,6057 @@
+{
+  "source": "Eastern Caribbean Central Bank",
+  "source_id": "eccb",
+  "source_url": "https://www.eccb-centralbank.org/statistics-category/monetary-and-financial-statistics/summarized-monetary-survey",
+  "table_id": "summarized-monetary-survey",
+  "table_title": "Summarized Monetary Survey",
+  "country": {
+    "iso3": "KNA",
+    "name": "Saint Christopher (St Kitts) and Nevis"
+  },
+  "frequency": "m",
+  "data_as_at": "2026-07-09",
+  "data_as_at_raw": "09 July 2026",
+  "retrieved_at": "2026-08-13T21:54:22.870Z",
+  "periods": [
+    "2023-01",
+    "2023-02",
+    "2023-03",
+    "2023-04",
+    "2023-05",
+    "2023-06",
+    "2023-07",
+    "2023-08",
+    "2023-09",
+    "2023-10",
+    "2023-11",
+    "2023-12",
+    "2024-01",
+    "2024-02",
+    "2024-03",
+    "2024-04",
+    "2024-05",
+    "2024-06",
+    "2024-07",
+    "2024-08",
+    "2024-09",
+    "2024-10",
+    "2024-11",
+    "2024-12",
+    "2025-01",
+    "2025-02",
+    "2025-03",
+    "2025-04",
+    "2025-05",
+    "2025-06",
+    "2025-07",
+    "2025-08",
+    "2025-09",
+    "2025-10",
+    "2025-11",
+    "2025-12",
+    "2026-01",
+    "2026-02",
+    "2026-03",
+    "2026-04",
+    "2026-05",
+    "2026-06",
+    "2026-07",
+    "2026-08",
+    "2026-09",
+    "2026-10",
+    "2026-11",
+    "2026-12"
+  ],
+  "periods_raw": [
+    "Jan 2023",
+    "Feb 2023",
+    "Mar 2023",
+    "Apr 2023",
+    "May 2023",
+    "Jun 2023",
+    "Jul 2023",
+    "Aug 2023",
+    "Sep 2023",
+    "Oct 2023",
+    "Nov 2023",
+    "Dec 2023",
+    "Jan 2024",
+    "Feb 2024",
+    "Mar 2024",
+    "Apr 2024",
+    "May 2024",
+    "Jun 2024",
+    "Jul 2024",
+    "Aug 2024",
+    "Sep 2024",
+    "Oct 2024",
+    "Nov 2024",
+    "Dec 2024",
+    "Jan 2025",
+    "Feb 2025",
+    "Mar 2025",
+    "Apr 2025",
+    "May 2025",
+    "Jun 2025",
+    "Jul 2025",
+    "Aug 2025",
+    "Sep 2025",
+    "Oct 2025",
+    "Nov 2025",
+    "Dec 2025",
+    "Jan 2026",
+    "Feb 2026",
+    "Mar 2026",
+    "Apr 2026",
+    "May 2026",
+    "Jun 2026",
+    "Jul 2026",
+    "Aug 2026",
+    "Sep 2026",
+    "Oct 2026",
+    "Nov 2026",
+    "Dec 2026"
+  ],
+  "series": [
+    {
+      "label": "Net Foreign Assets",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2023-01",
+          "value": 2539.91
+        },
+        {
+          "period": "2023-02",
+          "value": 2656.61
+        },
+        {
+          "period": "2023-03",
+          "value": 2736.7
+        },
+        {
+          "period": "2023-04",
+          "value": 2675.33
+        },
+        {
+          "period": "2023-05",
+          "value": 2680.41
+        },
+        {
+          "period": "2023-06",
+          "value": 2685.14
+        },
+        {
+          "period": "2023-07",
+          "value": 2646.71
+        },
+        {
+          "period": "2023-08",
+          "value": 2660.07
+        },
+        {
+          "period": "2023-09",
+          "value": 2583.33
+        },
+        {
+          "period": "2023-10",
+          "value": 2478.32
+        },
+        {
+          "period": "2023-11",
+          "value": 2368.55
+        },
+        {
+          "period": "2023-12",
+          "value": 2381.49
+        },
+        {
+          "period": "2024-01",
+          "value": 2362.77
+        },
+        {
+          "period": "2024-02",
+          "value": 2349.98
+        },
+        {
+          "period": "2024-03",
+          "value": 2367.24
+        },
+        {
+          "period": "2024-04",
+          "value": 2368.96
+        },
+        {
+          "period": "2024-05",
+          "value": 2335.39
+        },
+        {
+          "period": "2024-06",
+          "value": 2352.46
+        },
+        {
+          "period": "2024-07",
+          "value": 2288.32
+        },
+        {
+          "period": "2024-08",
+          "value": 2216.72
+        },
+        {
+          "period": "2024-09",
+          "value": 2219.16
+        },
+        {
+          "period": "2024-10",
+          "value": 2078.28
+        },
+        {
+          "period": "2024-11",
+          "value": 2058.13
+        },
+        {
+          "period": "2024-12",
+          "value": 1986.92
+        },
+        {
+          "period": "2025-01",
+          "value": 1975.35
+        },
+        {
+          "period": "2025-02",
+          "value": 1968.38
+        },
+        {
+          "period": "2025-03",
+          "value": 1946.56
+        },
+        {
+          "period": "2025-04",
+          "value": 1934.31
+        },
+        {
+          "period": "2025-05",
+          "value": 1911.94
+        },
+        {
+          "period": "2025-06",
+          "value": 1886.61
+        },
+        {
+          "period": "2025-07",
+          "value": 1871.72
+        },
+        {
+          "period": "2025-08",
+          "value": 1891.89
+        },
+        {
+          "period": "2025-09",
+          "value": 1839.9
+        },
+        {
+          "period": "2025-10",
+          "value": 1784.89
+        },
+        {
+          "period": "2025-11",
+          "value": 1714.08
+        },
+        {
+          "period": "2025-12",
+          "value": 1690.28
+        },
+        {
+          "period": "2026-01",
+          "value": 1791.83
+        },
+        {
+          "period": "2026-02",
+          "value": 1897.3
+        },
+        {
+          "period": "2026-03",
+          "value": 1900.29
+        },
+        {
+          "period": "2026-04",
+          "value": 1894.3
+        },
+        {
+          "period": "2026-05",
+          "value": 1941.48
+        },
+        {
+          "period": "2026-06",
+          "value": null
+        },
+        {
+          "period": "2026-07",
+          "value": null
+        },
+        {
+          "period": "2026-08",
+          "value": null
+        },
+        {
+          "period": "2026-09",
+          "value": null
+        },
+        {
+          "period": "2026-10",
+          "value": null
+        },
+        {
+          "period": "2026-11",
+          "value": null
+        },
+        {
+          "period": "2026-12",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Claims On Non-Residents",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2023-01",
+          "value": 3444.23
+        },
+        {
+          "period": "2023-02",
+          "value": 3530.61
+        },
+        {
+          "period": "2023-03",
+          "value": 3528.94
+        },
+        {
+          "period": "2023-04",
+          "value": 3405.93
+        },
+        {
+          "period": "2023-05",
+          "value": 3460.32
+        },
+        {
+          "period": "2023-06",
+          "value": 3386.02
+        },
+        {
+          "period": "2023-07",
+          "value": 3345.76
+        },
+        {
+          "period": "2023-08",
+          "value": 3370.09
+        },
+        {
+          "period": "2023-09",
+          "value": 3274.93
+        },
+        {
+          "period": "2023-10",
+          "value": 3178.47
+        },
+        {
+          "period": "2023-11",
+          "value": 3094.67
+        },
+        {
+          "period": "2023-12",
+          "value": 3117.19
+        },
+        {
+          "period": "2024-01",
+          "value": 3275.35
+        },
+        {
+          "period": "2024-02",
+          "value": 3184.64
+        },
+        {
+          "period": "2024-03",
+          "value": 3189.54
+        },
+        {
+          "period": "2024-04",
+          "value": 3211.19
+        },
+        {
+          "period": "2024-05",
+          "value": 3198.48
+        },
+        {
+          "period": "2024-06",
+          "value": 3172.09
+        },
+        {
+          "period": "2024-07",
+          "value": 3123.98
+        },
+        {
+          "period": "2024-08",
+          "value": 3103.57
+        },
+        {
+          "period": "2024-09",
+          "value": 3197.01
+        },
+        {
+          "period": "2024-10",
+          "value": 3081.06
+        },
+        {
+          "period": "2024-11",
+          "value": 3160.81
+        },
+        {
+          "period": "2024-12",
+          "value": 3123.59
+        },
+        {
+          "period": "2025-01",
+          "value": 3153.07
+        },
+        {
+          "period": "2025-02",
+          "value": 3117.79
+        },
+        {
+          "period": "2025-03",
+          "value": 3007.83
+        },
+        {
+          "period": "2025-04",
+          "value": 2908.76
+        },
+        {
+          "period": "2025-05",
+          "value": 2865.6
+        },
+        {
+          "period": "2025-06",
+          "value": 2870
+        },
+        {
+          "period": "2025-07",
+          "value": 2868.24
+        },
+        {
+          "period": "2025-08",
+          "value": 2747.43
+        },
+        {
+          "period": "2025-09",
+          "value": 2675.12
+        },
+        {
+          "period": "2025-10",
+          "value": 2641.66
+        },
+        {
+          "period": "2025-11",
+          "value": 2628.06
+        },
+        {
+          "period": "2025-12",
+          "value": 2634.18
+        },
+        {
+          "period": "2026-01",
+          "value": 2701.36
+        },
+        {
+          "period": "2026-02",
+          "value": 2779.14
+        },
+        {
+          "period": "2026-03",
+          "value": 2762.36
+        },
+        {
+          "period": "2026-04",
+          "value": 2781.33
+        },
+        {
+          "period": "2026-05",
+          "value": 2888.43
+        },
+        {
+          "period": "2026-06",
+          "value": null
+        },
+        {
+          "period": "2026-07",
+          "value": null
+        },
+        {
+          "period": "2026-08",
+          "value": null
+        },
+        {
+          "period": "2026-09",
+          "value": null
+        },
+        {
+          "period": "2026-10",
+          "value": null
+        },
+        {
+          "period": "2026-11",
+          "value": null
+        },
+        {
+          "period": "2026-12",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Central Bank Claims On Non-Residents",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2023-01",
+          "value": 713.47
+        },
+        {
+          "period": "2023-02",
+          "value": 726.69
+        },
+        {
+          "period": "2023-03",
+          "value": 773.82
+        },
+        {
+          "period": "2023-04",
+          "value": 747.56
+        },
+        {
+          "period": "2023-05",
+          "value": 766.34
+        },
+        {
+          "period": "2023-06",
+          "value": 707.03
+        },
+        {
+          "period": "2023-07",
+          "value": 719.1
+        },
+        {
+          "period": "2023-08",
+          "value": 721.49
+        },
+        {
+          "period": "2023-09",
+          "value": 705.66
+        },
+        {
+          "period": "2023-10",
+          "value": 692.89
+        },
+        {
+          "period": "2023-11",
+          "value": 669.28
+        },
+        {
+          "period": "2023-12",
+          "value": 709.14
+        },
+        {
+          "period": "2024-01",
+          "value": 751.03
+        },
+        {
+          "period": "2024-02",
+          "value": 696.55
+        },
+        {
+          "period": "2024-03",
+          "value": 705.61
+        },
+        {
+          "period": "2024-04",
+          "value": 702.41
+        },
+        {
+          "period": "2024-05",
+          "value": 716.76
+        },
+        {
+          "period": "2024-06",
+          "value": 706.46
+        },
+        {
+          "period": "2024-07",
+          "value": 673.76
+        },
+        {
+          "period": "2024-08",
+          "value": 704.2
+        },
+        {
+          "period": "2024-09",
+          "value": 782.57
+        },
+        {
+          "period": "2024-10",
+          "value": 720.06
+        },
+        {
+          "period": "2024-11",
+          "value": 735
+        },
+        {
+          "period": "2024-12",
+          "value": 734.81
+        },
+        {
+          "period": "2025-01",
+          "value": 687.15
+        },
+        {
+          "period": "2025-02",
+          "value": 680.52
+        },
+        {
+          "period": "2025-03",
+          "value": 685.84
+        },
+        {
+          "period": "2025-04",
+          "value": 712.49
+        },
+        {
+          "period": "2025-05",
+          "value": 761.93
+        },
+        {
+          "period": "2025-06",
+          "value": 726.46
+        },
+        {
+          "period": "2025-07",
+          "value": 739.71
+        },
+        {
+          "period": "2025-08",
+          "value": 737.8
+        },
+        {
+          "period": "2025-09",
+          "value": 672.89
+        },
+        {
+          "period": "2025-10",
+          "value": 681.81
+        },
+        {
+          "period": "2025-11",
+          "value": 675.81
+        },
+        {
+          "period": "2025-12",
+          "value": 697.88
+        },
+        {
+          "period": "2026-01",
+          "value": 712.25
+        },
+        {
+          "period": "2026-02",
+          "value": 752.93
+        },
+        {
+          "period": "2026-03",
+          "value": 696.31
+        },
+        {
+          "period": "2026-04",
+          "value": 697.17
+        },
+        {
+          "period": "2026-05",
+          "value": 699.27
+        },
+        {
+          "period": "2026-06",
+          "value": null
+        },
+        {
+          "period": "2026-07",
+          "value": null
+        },
+        {
+          "period": "2026-08",
+          "value": null
+        },
+        {
+          "period": "2026-09",
+          "value": null
+        },
+        {
+          "period": "2026-10",
+          "value": null
+        },
+        {
+          "period": "2026-11",
+          "value": null
+        },
+        {
+          "period": "2026-12",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Other Depository Corporations (Commercial Banks) Claims On Non-Residents",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2023-01",
+          "value": 2730.77
+        },
+        {
+          "period": "2023-02",
+          "value": 2803.92
+        },
+        {
+          "period": "2023-03",
+          "value": 2755.12
+        },
+        {
+          "period": "2023-04",
+          "value": 2658.38
+        },
+        {
+          "period": "2023-05",
+          "value": 2693.98
+        },
+        {
+          "period": "2023-06",
+          "value": 2679
+        },
+        {
+          "period": "2023-07",
+          "value": 2626.66
+        },
+        {
+          "period": "2023-08",
+          "value": 2648.6
+        },
+        {
+          "period": "2023-09",
+          "value": 2569.28
+        },
+        {
+          "period": "2023-10",
+          "value": 2485.58
+        },
+        {
+          "period": "2023-11",
+          "value": 2425.39
+        },
+        {
+          "period": "2023-12",
+          "value": 2408.05
+        },
+        {
+          "period": "2024-01",
+          "value": 2524.32
+        },
+        {
+          "period": "2024-02",
+          "value": 2488.09
+        },
+        {
+          "period": "2024-03",
+          "value": 2483.93
+        },
+        {
+          "period": "2024-04",
+          "value": 2508.78
+        },
+        {
+          "period": "2024-05",
+          "value": 2481.72
+        },
+        {
+          "period": "2024-06",
+          "value": 2465.64
+        },
+        {
+          "period": "2024-07",
+          "value": 2450.23
+        },
+        {
+          "period": "2024-08",
+          "value": 2399.37
+        },
+        {
+          "period": "2024-09",
+          "value": 2414.44
+        },
+        {
+          "period": "2024-10",
+          "value": 2361
+        },
+        {
+          "period": "2024-11",
+          "value": 2425.81
+        },
+        {
+          "period": "2024-12",
+          "value": 2388.77
+        },
+        {
+          "period": "2025-01",
+          "value": 2465.92
+        },
+        {
+          "period": "2025-02",
+          "value": 2437.27
+        },
+        {
+          "period": "2025-03",
+          "value": 2322
+        },
+        {
+          "period": "2025-04",
+          "value": 2196.27
+        },
+        {
+          "period": "2025-05",
+          "value": 2103.66
+        },
+        {
+          "period": "2025-06",
+          "value": 2143.55
+        },
+        {
+          "period": "2025-07",
+          "value": 2128.54
+        },
+        {
+          "period": "2025-08",
+          "value": 2009.63
+        },
+        {
+          "period": "2025-09",
+          "value": 2002.24
+        },
+        {
+          "period": "2025-10",
+          "value": 1959.85
+        },
+        {
+          "period": "2025-11",
+          "value": 1952.25
+        },
+        {
+          "period": "2025-12",
+          "value": 1936.3
+        },
+        {
+          "period": "2026-01",
+          "value": 1989.11
+        },
+        {
+          "period": "2026-02",
+          "value": 2026.21
+        },
+        {
+          "period": "2026-03",
+          "value": 2066.05
+        },
+        {
+          "period": "2026-04",
+          "value": 2084.15
+        },
+        {
+          "period": "2026-05",
+          "value": 2189.16
+        },
+        {
+          "period": "2026-06",
+          "value": null
+        },
+        {
+          "period": "2026-07",
+          "value": null
+        },
+        {
+          "period": "2026-08",
+          "value": null
+        },
+        {
+          "period": "2026-09",
+          "value": null
+        },
+        {
+          "period": "2026-10",
+          "value": null
+        },
+        {
+          "period": "2026-11",
+          "value": null
+        },
+        {
+          "period": "2026-12",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Liabilities To Non-Residents",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2023-01",
+          "value": 904.32
+        },
+        {
+          "period": "2023-02",
+          "value": 874
+        },
+        {
+          "period": "2023-03",
+          "value": 792.24
+        },
+        {
+          "period": "2023-04",
+          "value": 730.6
+        },
+        {
+          "period": "2023-05",
+          "value": 779.91
+        },
+        {
+          "period": "2023-06",
+          "value": 700.88
+        },
+        {
+          "period": "2023-07",
+          "value": 699.04
+        },
+        {
+          "period": "2023-08",
+          "value": 710.01
+        },
+        {
+          "period": "2023-09",
+          "value": 691.6
+        },
+        {
+          "period": "2023-10",
+          "value": 700.15
+        },
+        {
+          "period": "2023-11",
+          "value": 726.12
+        },
+        {
+          "period": "2023-12",
+          "value": 735.71
+        },
+        {
+          "period": "2024-01",
+          "value": 912.57
+        },
+        {
+          "period": "2024-02",
+          "value": 834.66
+        },
+        {
+          "period": "2024-03",
+          "value": 822.3
+        },
+        {
+          "period": "2024-04",
+          "value": 842.23
+        },
+        {
+          "period": "2024-05",
+          "value": 863.09
+        },
+        {
+          "period": "2024-06",
+          "value": 819.63
+        },
+        {
+          "period": "2024-07",
+          "value": 835.66
+        },
+        {
+          "period": "2024-08",
+          "value": 886.85
+        },
+        {
+          "period": "2024-09",
+          "value": 977.85
+        },
+        {
+          "period": "2024-10",
+          "value": 1002.78
+        },
+        {
+          "period": "2024-11",
+          "value": 1102.68
+        },
+        {
+          "period": "2024-12",
+          "value": 1136.67
+        },
+        {
+          "period": "2025-01",
+          "value": 1177.72
+        },
+        {
+          "period": "2025-02",
+          "value": 1149.41
+        },
+        {
+          "period": "2025-03",
+          "value": 1061.27
+        },
+        {
+          "period": "2025-04",
+          "value": 974.45
+        },
+        {
+          "period": "2025-05",
+          "value": 953.65
+        },
+        {
+          "period": "2025-06",
+          "value": 983.4
+        },
+        {
+          "period": "2025-07",
+          "value": 996.52
+        },
+        {
+          "period": "2025-08",
+          "value": 855.54
+        },
+        {
+          "period": "2025-09",
+          "value": 835.22
+        },
+        {
+          "period": "2025-10",
+          "value": 856.77
+        },
+        {
+          "period": "2025-11",
+          "value": 913.98
+        },
+        {
+          "period": "2025-12",
+          "value": 943.89
+        },
+        {
+          "period": "2026-01",
+          "value": 909.53
+        },
+        {
+          "period": "2026-02",
+          "value": 881.85
+        },
+        {
+          "period": "2026-03",
+          "value": 862.06
+        },
+        {
+          "period": "2026-04",
+          "value": 887.03
+        },
+        {
+          "period": "2026-05",
+          "value": 946.96
+        },
+        {
+          "period": "2026-06",
+          "value": null
+        },
+        {
+          "period": "2026-07",
+          "value": null
+        },
+        {
+          "period": "2026-08",
+          "value": null
+        },
+        {
+          "period": "2026-09",
+          "value": null
+        },
+        {
+          "period": "2026-10",
+          "value": null
+        },
+        {
+          "period": "2026-11",
+          "value": null
+        },
+        {
+          "period": "2026-12",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Central Bank Liabilities To Non-Residents",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2023-01",
+          "value": 0.66
+        },
+        {
+          "period": "2023-02",
+          "value": 0.85
+        },
+        {
+          "period": "2023-03",
+          "value": 0.62
+        },
+        {
+          "period": "2023-04",
+          "value": 0.47
+        },
+        {
+          "period": "2023-05",
+          "value": 0.42
+        },
+        {
+          "period": "2023-06",
+          "value": 0.38
+        },
+        {
+          "period": "2023-07",
+          "value": 0.38
+        },
+        {
+          "period": "2023-08",
+          "value": 0.35
+        },
+        {
+          "period": "2023-09",
+          "value": 0.28
+        },
+        {
+          "period": "2023-10",
+          "value": 0.71
+        },
+        {
+          "period": "2023-11",
+          "value": 0.65
+        },
+        {
+          "period": "2023-12",
+          "value": 0.61
+        },
+        {
+          "period": "2024-01",
+          "value": 0.37
+        },
+        {
+          "period": "2024-02",
+          "value": 0.31
+        },
+        {
+          "period": "2024-03",
+          "value": 0.53
+        },
+        {
+          "period": "2024-04",
+          "value": 0.49
+        },
+        {
+          "period": "2024-05",
+          "value": 0.64
+        },
+        {
+          "period": "2024-06",
+          "value": 0.59
+        },
+        {
+          "period": "2024-07",
+          "value": 0.7
+        },
+        {
+          "period": "2024-08",
+          "value": 2.77
+        },
+        {
+          "period": "2024-09",
+          "value": 3.04
+        },
+        {
+          "period": "2024-10",
+          "value": 3.74
+        },
+        {
+          "period": "2024-11",
+          "value": 3.7
+        },
+        {
+          "period": "2024-12",
+          "value": 3.79
+        },
+        {
+          "period": "2025-01",
+          "value": 3.85
+        },
+        {
+          "period": "2025-02",
+          "value": 3.92
+        },
+        {
+          "period": "2025-03",
+          "value": 3.96
+        },
+        {
+          "period": "2025-04",
+          "value": 33.22
+        },
+        {
+          "period": "2025-05",
+          "value": 4.53
+        },
+        {
+          "period": "2025-06",
+          "value": 24.34
+        },
+        {
+          "period": "2025-07",
+          "value": 40.3
+        },
+        {
+          "period": "2025-08",
+          "value": 5.56
+        },
+        {
+          "period": "2025-09",
+          "value": 5.53
+        },
+        {
+          "period": "2025-10",
+          "value": 17.54
+        },
+        {
+          "period": "2025-11",
+          "value": 62.46
+        },
+        {
+          "period": "2025-12",
+          "value": 91.38
+        },
+        {
+          "period": "2026-01",
+          "value": 6.17
+        },
+        {
+          "period": "2026-02",
+          "value": 6.12
+        },
+        {
+          "period": "2026-03",
+          "value": 5.93
+        },
+        {
+          "period": "2026-04",
+          "value": 5.93
+        },
+        {
+          "period": "2026-05",
+          "value": 6.03
+        },
+        {
+          "period": "2026-06",
+          "value": null
+        },
+        {
+          "period": "2026-07",
+          "value": null
+        },
+        {
+          "period": "2026-08",
+          "value": null
+        },
+        {
+          "period": "2026-09",
+          "value": null
+        },
+        {
+          "period": "2026-10",
+          "value": null
+        },
+        {
+          "period": "2026-11",
+          "value": null
+        },
+        {
+          "period": "2026-12",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Other Depository Corporations (Commercial Banks) Liabilities To Non-Residents",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2023-01",
+          "value": 903.66
+        },
+        {
+          "period": "2023-02",
+          "value": 873.15
+        },
+        {
+          "period": "2023-03",
+          "value": 791.62
+        },
+        {
+          "period": "2023-04",
+          "value": 730.13
+        },
+        {
+          "period": "2023-05",
+          "value": 779.49
+        },
+        {
+          "period": "2023-06",
+          "value": 700.51
+        },
+        {
+          "period": "2023-07",
+          "value": 698.66
+        },
+        {
+          "period": "2023-08",
+          "value": 709.66
+        },
+        {
+          "period": "2023-09",
+          "value": 691.33
+        },
+        {
+          "period": "2023-10",
+          "value": 699.44
+        },
+        {
+          "period": "2023-11",
+          "value": 725.47
+        },
+        {
+          "period": "2023-12",
+          "value": 735.09
+        },
+        {
+          "period": "2024-01",
+          "value": 912.2
+        },
+        {
+          "period": "2024-02",
+          "value": 834.35
+        },
+        {
+          "period": "2024-03",
+          "value": 821.77
+        },
+        {
+          "period": "2024-04",
+          "value": 841.74
+        },
+        {
+          "period": "2024-05",
+          "value": 862.45
+        },
+        {
+          "period": "2024-06",
+          "value": 819.04
+        },
+        {
+          "period": "2024-07",
+          "value": 834.97
+        },
+        {
+          "period": "2024-08",
+          "value": 884.08
+        },
+        {
+          "period": "2024-09",
+          "value": 974.81
+        },
+        {
+          "period": "2024-10",
+          "value": 999.04
+        },
+        {
+          "period": "2024-11",
+          "value": 1098.98
+        },
+        {
+          "period": "2024-12",
+          "value": 1132.88
+        },
+        {
+          "period": "2025-01",
+          "value": 1173.87
+        },
+        {
+          "period": "2025-02",
+          "value": 1145.49
+        },
+        {
+          "period": "2025-03",
+          "value": 1057.31
+        },
+        {
+          "period": "2025-04",
+          "value": 941.23
+        },
+        {
+          "period": "2025-05",
+          "value": 949.12
+        },
+        {
+          "period": "2025-06",
+          "value": 959.06
+        },
+        {
+          "period": "2025-07",
+          "value": 956.22
+        },
+        {
+          "period": "2025-08",
+          "value": 849.98
+        },
+        {
+          "period": "2025-09",
+          "value": 829.69
+        },
+        {
+          "period": "2025-10",
+          "value": 839.23
+        },
+        {
+          "period": "2025-11",
+          "value": 851.52
+        },
+        {
+          "period": "2025-12",
+          "value": 852.52
+        },
+        {
+          "period": "2026-01",
+          "value": 903.36
+        },
+        {
+          "period": "2026-02",
+          "value": 875.72
+        },
+        {
+          "period": "2026-03",
+          "value": 856.14
+        },
+        {
+          "period": "2026-04",
+          "value": 881.1
+        },
+        {
+          "period": "2026-05",
+          "value": 940.93
+        },
+        {
+          "period": "2026-06",
+          "value": null
+        },
+        {
+          "period": "2026-07",
+          "value": null
+        },
+        {
+          "period": "2026-08",
+          "value": null
+        },
+        {
+          "period": "2026-09",
+          "value": null
+        },
+        {
+          "period": "2026-10",
+          "value": null
+        },
+        {
+          "period": "2026-11",
+          "value": null
+        },
+        {
+          "period": "2026-12",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Net Domestic Assets",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2023-01",
+          "value": 571
+        },
+        {
+          "period": "2023-02",
+          "value": 467.75
+        },
+        {
+          "period": "2023-03",
+          "value": 425.17
+        },
+        {
+          "period": "2023-04",
+          "value": 483.61
+        },
+        {
+          "period": "2023-05",
+          "value": 427.73
+        },
+        {
+          "period": "2023-06",
+          "value": 404.8
+        },
+        {
+          "period": "2023-07",
+          "value": 418.29
+        },
+        {
+          "period": "2023-08",
+          "value": 447.9
+        },
+        {
+          "period": "2023-09",
+          "value": 491.64
+        },
+        {
+          "period": "2023-10",
+          "value": 565.78
+        },
+        {
+          "period": "2023-11",
+          "value": 597.91
+        },
+        {
+          "period": "2023-12",
+          "value": 690.42
+        },
+        {
+          "period": "2024-01",
+          "value": 714.81
+        },
+        {
+          "period": "2024-02",
+          "value": 757.93
+        },
+        {
+          "period": "2024-03",
+          "value": 772.8
+        },
+        {
+          "period": "2024-04",
+          "value": 778.84
+        },
+        {
+          "period": "2024-05",
+          "value": 817.3
+        },
+        {
+          "period": "2024-06",
+          "value": 798.27
+        },
+        {
+          "period": "2024-07",
+          "value": 890
+        },
+        {
+          "period": "2024-08",
+          "value": 915.75
+        },
+        {
+          "period": "2024-09",
+          "value": 869.18
+        },
+        {
+          "period": "2024-10",
+          "value": 985.98
+        },
+        {
+          "period": "2024-11",
+          "value": 1046.67
+        },
+        {
+          "period": "2024-12",
+          "value": 1161.48
+        },
+        {
+          "period": "2025-01",
+          "value": 1183.3
+        },
+        {
+          "period": "2025-02",
+          "value": 1235.02
+        },
+        {
+          "period": "2025-03",
+          "value": 1258.07
+        },
+        {
+          "period": "2025-04",
+          "value": 1313.67
+        },
+        {
+          "period": "2025-05",
+          "value": 1362.7
+        },
+        {
+          "period": "2025-06",
+          "value": 1326.63
+        },
+        {
+          "period": "2025-07",
+          "value": 1362.29
+        },
+        {
+          "period": "2025-08",
+          "value": 1389.63
+        },
+        {
+          "period": "2025-09",
+          "value": 1373.75
+        },
+        {
+          "period": "2025-10",
+          "value": 1430.4
+        },
+        {
+          "period": "2025-11",
+          "value": 1514.99
+        },
+        {
+          "period": "2025-12",
+          "value": 1623.08
+        },
+        {
+          "period": "2026-01",
+          "value": 1550.56
+        },
+        {
+          "period": "2026-02",
+          "value": 1530.01
+        },
+        {
+          "period": "2026-03",
+          "value": 1525.98
+        },
+        {
+          "period": "2026-04",
+          "value": 1579.87
+        },
+        {
+          "period": "2026-05",
+          "value": 1526.26
+        },
+        {
+          "period": "2026-06",
+          "value": null
+        },
+        {
+          "period": "2026-07",
+          "value": null
+        },
+        {
+          "period": "2026-08",
+          "value": null
+        },
+        {
+          "period": "2026-09",
+          "value": null
+        },
+        {
+          "period": "2026-10",
+          "value": null
+        },
+        {
+          "period": "2026-11",
+          "value": null
+        },
+        {
+          "period": "2026-12",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Domestic Claims",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2023-01",
+          "value": 852.49
+        },
+        {
+          "period": "2023-02",
+          "value": 770.62
+        },
+        {
+          "period": "2023-03",
+          "value": 696.01
+        },
+        {
+          "period": "2023-04",
+          "value": 733.87
+        },
+        {
+          "period": "2023-05",
+          "value": 702.81
+        },
+        {
+          "period": "2023-06",
+          "value": 665.08
+        },
+        {
+          "period": "2023-07",
+          "value": 689.91
+        },
+        {
+          "period": "2023-08",
+          "value": 707.54
+        },
+        {
+          "period": "2023-09",
+          "value": 757.57
+        },
+        {
+          "period": "2023-10",
+          "value": 799.63
+        },
+        {
+          "period": "2023-11",
+          "value": 834.67
+        },
+        {
+          "period": "2023-12",
+          "value": 952.72
+        },
+        {
+          "period": "2024-01",
+          "value": 1017.98
+        },
+        {
+          "period": "2024-02",
+          "value": 977.62
+        },
+        {
+          "period": "2024-03",
+          "value": 994.14
+        },
+        {
+          "period": "2024-04",
+          "value": 1006.2
+        },
+        {
+          "period": "2024-05",
+          "value": 1045.04
+        },
+        {
+          "period": "2024-06",
+          "value": 1059.34
+        },
+        {
+          "period": "2024-07",
+          "value": 1168.54
+        },
+        {
+          "period": "2024-08",
+          "value": 1191.99
+        },
+        {
+          "period": "2024-09",
+          "value": 1199.27
+        },
+        {
+          "period": "2024-10",
+          "value": 1272.14
+        },
+        {
+          "period": "2024-11",
+          "value": 1337.4
+        },
+        {
+          "period": "2024-12",
+          "value": 1410.76
+        },
+        {
+          "period": "2025-01",
+          "value": 1462.69
+        },
+        {
+          "period": "2025-02",
+          "value": 1513.12
+        },
+        {
+          "period": "2025-03",
+          "value": 1538.39
+        },
+        {
+          "period": "2025-04",
+          "value": 1590.18
+        },
+        {
+          "period": "2025-05",
+          "value": 1643.43
+        },
+        {
+          "period": "2025-06",
+          "value": 1665.53
+        },
+        {
+          "period": "2025-07",
+          "value": 1693.21
+        },
+        {
+          "period": "2025-08",
+          "value": 1721.27
+        },
+        {
+          "period": "2025-09",
+          "value": 1716.59
+        },
+        {
+          "period": "2025-10",
+          "value": 1790.46
+        },
+        {
+          "period": "2025-11",
+          "value": 1847.01
+        },
+        {
+          "period": "2025-12",
+          "value": 1914.63
+        },
+        {
+          "period": "2026-01",
+          "value": 1845.24
+        },
+        {
+          "period": "2026-02",
+          "value": 1836.62
+        },
+        {
+          "period": "2026-03",
+          "value": 1877.82
+        },
+        {
+          "period": "2026-04",
+          "value": 1906.16
+        },
+        {
+          "period": "2026-05",
+          "value": 1916.74
+        },
+        {
+          "period": "2026-06",
+          "value": null
+        },
+        {
+          "period": "2026-07",
+          "value": null
+        },
+        {
+          "period": "2026-08",
+          "value": null
+        },
+        {
+          "period": "2026-09",
+          "value": null
+        },
+        {
+          "period": "2026-10",
+          "value": null
+        },
+        {
+          "period": "2026-11",
+          "value": null
+        },
+        {
+          "period": "2026-12",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Net Claims On General Government",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2023-01",
+          "value": -1049.52
+        },
+        {
+          "period": "2023-02",
+          "value": -1137.1
+        },
+        {
+          "period": "2023-03",
+          "value": -1215.27
+        },
+        {
+          "period": "2023-04",
+          "value": -1196.68
+        },
+        {
+          "period": "2023-05",
+          "value": -1225.13
+        },
+        {
+          "period": "2023-06",
+          "value": -1231.76
+        },
+        {
+          "period": "2023-07",
+          "value": -1214.2
+        },
+        {
+          "period": "2023-08",
+          "value": -1187.4
+        },
+        {
+          "period": "2023-09",
+          "value": -1142.23
+        },
+        {
+          "period": "2023-10",
+          "value": -1123.8
+        },
+        {
+          "period": "2023-11",
+          "value": -1109.43
+        },
+        {
+          "period": "2023-12",
+          "value": -1058.79
+        },
+        {
+          "period": "2024-01",
+          "value": -1037.19
+        },
+        {
+          "period": "2024-02",
+          "value": -1015.66
+        },
+        {
+          "period": "2024-03",
+          "value": -1002.35
+        },
+        {
+          "period": "2024-04",
+          "value": -995.65
+        },
+        {
+          "period": "2024-05",
+          "value": -971.83
+        },
+        {
+          "period": "2024-06",
+          "value": -970.73
+        },
+        {
+          "period": "2024-07",
+          "value": -897.37
+        },
+        {
+          "period": "2024-08",
+          "value": -879.35
+        },
+        {
+          "period": "2024-09",
+          "value": -890.96
+        },
+        {
+          "period": "2024-10",
+          "value": -838.29
+        },
+        {
+          "period": "2024-11",
+          "value": -802.74
+        },
+        {
+          "period": "2024-12",
+          "value": -755.11
+        },
+        {
+          "period": "2025-01",
+          "value": -708.29
+        },
+        {
+          "period": "2025-02",
+          "value": -670.1
+        },
+        {
+          "period": "2025-03",
+          "value": -649.1
+        },
+        {
+          "period": "2025-04",
+          "value": -601.21
+        },
+        {
+          "period": "2025-05",
+          "value": -552.35
+        },
+        {
+          "period": "2025-06",
+          "value": -539.09
+        },
+        {
+          "period": "2025-07",
+          "value": -523.36
+        },
+        {
+          "period": "2025-08",
+          "value": -501.12
+        },
+        {
+          "period": "2025-09",
+          "value": -516.58
+        },
+        {
+          "period": "2025-10",
+          "value": -464.92
+        },
+        {
+          "period": "2025-11",
+          "value": -441.73
+        },
+        {
+          "period": "2025-12",
+          "value": -372.44
+        },
+        {
+          "period": "2026-01",
+          "value": -442.33
+        },
+        {
+          "period": "2026-02",
+          "value": -474.31
+        },
+        {
+          "period": "2026-03",
+          "value": -440.6
+        },
+        {
+          "period": "2026-04",
+          "value": -419.52
+        },
+        {
+          "period": "2026-05",
+          "value": -415.47
+        },
+        {
+          "period": "2026-06",
+          "value": null
+        },
+        {
+          "period": "2026-07",
+          "value": null
+        },
+        {
+          "period": "2026-08",
+          "value": null
+        },
+        {
+          "period": "2026-09",
+          "value": null
+        },
+        {
+          "period": "2026-10",
+          "value": null
+        },
+        {
+          "period": "2026-11",
+          "value": null
+        },
+        {
+          "period": "2026-12",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Claims On General Government",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2023-01",
+          "value": 391.57
+        },
+        {
+          "period": "2023-02",
+          "value": 386.18
+        },
+        {
+          "period": "2023-03",
+          "value": 393.05
+        },
+        {
+          "period": "2023-04",
+          "value": 388.57
+        },
+        {
+          "period": "2023-05",
+          "value": 389.39
+        },
+        {
+          "period": "2023-06",
+          "value": 387.81
+        },
+        {
+          "period": "2023-07",
+          "value": 387.81
+        },
+        {
+          "period": "2023-08",
+          "value": 391.2
+        },
+        {
+          "period": "2023-09",
+          "value": 389.11
+        },
+        {
+          "period": "2023-10",
+          "value": 391.25
+        },
+        {
+          "period": "2023-11",
+          "value": 395.94
+        },
+        {
+          "period": "2023-12",
+          "value": 395.49
+        },
+        {
+          "period": "2024-01",
+          "value": 395.25
+        },
+        {
+          "period": "2024-02",
+          "value": 394.86
+        },
+        {
+          "period": "2024-03",
+          "value": 398.23
+        },
+        {
+          "period": "2024-04",
+          "value": 394.01
+        },
+        {
+          "period": "2024-05",
+          "value": 392.6
+        },
+        {
+          "period": "2024-06",
+          "value": 394.4
+        },
+        {
+          "period": "2024-07",
+          "value": 400.92
+        },
+        {
+          "period": "2024-08",
+          "value": 406.3
+        },
+        {
+          "period": "2024-09",
+          "value": 390.88
+        },
+        {
+          "period": "2024-10",
+          "value": 391.96
+        },
+        {
+          "period": "2024-11",
+          "value": 395.84
+        },
+        {
+          "period": "2024-12",
+          "value": 397.02
+        },
+        {
+          "period": "2025-01",
+          "value": 400.39
+        },
+        {
+          "period": "2025-02",
+          "value": 392.9
+        },
+        {
+          "period": "2025-03",
+          "value": 393.02
+        },
+        {
+          "period": "2025-04",
+          "value": 425.57
+        },
+        {
+          "period": "2025-05",
+          "value": 419.51
+        },
+        {
+          "period": "2025-06",
+          "value": 442.32
+        },
+        {
+          "period": "2025-07",
+          "value": 465.51
+        },
+        {
+          "period": "2025-08",
+          "value": 442.81
+        },
+        {
+          "period": "2025-09",
+          "value": 440.94
+        },
+        {
+          "period": "2025-10",
+          "value": 461.25
+        },
+        {
+          "period": "2025-11",
+          "value": 508.79
+        },
+        {
+          "period": "2025-12",
+          "value": 548.8
+        },
+        {
+          "period": "2026-01",
+          "value": 466.72
+        },
+        {
+          "period": "2026-02",
+          "value": 468.14
+        },
+        {
+          "period": "2026-03",
+          "value": 467.35
+        },
+        {
+          "period": "2026-04",
+          "value": 468.43
+        },
+        {
+          "period": "2026-05",
+          "value": 468.31
+        },
+        {
+          "period": "2026-06",
+          "value": null
+        },
+        {
+          "period": "2026-07",
+          "value": null
+        },
+        {
+          "period": "2026-08",
+          "value": null
+        },
+        {
+          "period": "2026-09",
+          "value": null
+        },
+        {
+          "period": "2026-10",
+          "value": null
+        },
+        {
+          "period": "2026-11",
+          "value": null
+        },
+        {
+          "period": "2026-12",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "From Central Bank",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2023-01",
+          "value": 0
+        },
+        {
+          "period": "2023-02",
+          "value": 0
+        },
+        {
+          "period": "2023-03",
+          "value": 0
+        },
+        {
+          "period": "2023-04",
+          "value": 0
+        },
+        {
+          "period": "2023-05",
+          "value": 0
+        },
+        {
+          "period": "2023-06",
+          "value": 0
+        },
+        {
+          "period": "2023-07",
+          "value": 0
+        },
+        {
+          "period": "2023-08",
+          "value": 0
+        },
+        {
+          "period": "2023-09",
+          "value": 0
+        },
+        {
+          "period": "2023-10",
+          "value": 0
+        },
+        {
+          "period": "2023-11",
+          "value": 0
+        },
+        {
+          "period": "2023-12",
+          "value": 0
+        },
+        {
+          "period": "2024-01",
+          "value": 0
+        },
+        {
+          "period": "2024-02",
+          "value": 0
+        },
+        {
+          "period": "2024-03",
+          "value": 0
+        },
+        {
+          "period": "2024-04",
+          "value": 0
+        },
+        {
+          "period": "2024-05",
+          "value": 0
+        },
+        {
+          "period": "2024-06",
+          "value": 0
+        },
+        {
+          "period": "2024-07",
+          "value": 0
+        },
+        {
+          "period": "2024-08",
+          "value": 0
+        },
+        {
+          "period": "2024-09",
+          "value": 0
+        },
+        {
+          "period": "2024-10",
+          "value": 0
+        },
+        {
+          "period": "2024-11",
+          "value": 0
+        },
+        {
+          "period": "2024-12",
+          "value": 0
+        },
+        {
+          "period": "2025-01",
+          "value": 0
+        },
+        {
+          "period": "2025-02",
+          "value": 0
+        },
+        {
+          "period": "2025-03",
+          "value": 0
+        },
+        {
+          "period": "2025-04",
+          "value": 29.3
+        },
+        {
+          "period": "2025-05",
+          "value": 0
+        },
+        {
+          "period": "2025-06",
+          "value": 19.74
+        },
+        {
+          "period": "2025-07",
+          "value": 35.69
+        },
+        {
+          "period": "2025-08",
+          "value": 0
+        },
+        {
+          "period": "2025-09",
+          "value": 0
+        },
+        {
+          "period": "2025-10",
+          "value": 11.26
+        },
+        {
+          "period": "2025-11",
+          "value": 56.24
+        },
+        {
+          "period": "2025-12",
+          "value": 85.41
+        },
+        {
+          "period": "2026-01",
+          "value": 0.15
+        },
+        {
+          "period": "2026-02",
+          "value": 0
+        },
+        {
+          "period": "2026-03",
+          "value": 0
+        },
+        {
+          "period": "2026-04",
+          "value": 0
+        },
+        {
+          "period": "2026-05",
+          "value": 0
+        },
+        {
+          "period": "2026-06",
+          "value": null
+        },
+        {
+          "period": "2026-07",
+          "value": null
+        },
+        {
+          "period": "2026-08",
+          "value": null
+        },
+        {
+          "period": "2026-09",
+          "value": null
+        },
+        {
+          "period": "2026-10",
+          "value": null
+        },
+        {
+          "period": "2026-11",
+          "value": null
+        },
+        {
+          "period": "2026-12",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "From Other Depository Corporations",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2023-01",
+          "value": 391.57
+        },
+        {
+          "period": "2023-02",
+          "value": 386.18
+        },
+        {
+          "period": "2023-03",
+          "value": 393.05
+        },
+        {
+          "period": "2023-04",
+          "value": 388.57
+        },
+        {
+          "period": "2023-05",
+          "value": 389.39
+        },
+        {
+          "period": "2023-06",
+          "value": 387.81
+        },
+        {
+          "period": "2023-07",
+          "value": 387.81
+        },
+        {
+          "period": "2023-08",
+          "value": 391.2
+        },
+        {
+          "period": "2023-09",
+          "value": 389.11
+        },
+        {
+          "period": "2023-10",
+          "value": 391.25
+        },
+        {
+          "period": "2023-11",
+          "value": 395.94
+        },
+        {
+          "period": "2023-12",
+          "value": 395.49
+        },
+        {
+          "period": "2024-01",
+          "value": 395.25
+        },
+        {
+          "period": "2024-02",
+          "value": 394.86
+        },
+        {
+          "period": "2024-03",
+          "value": 398.23
+        },
+        {
+          "period": "2024-04",
+          "value": 394.01
+        },
+        {
+          "period": "2024-05",
+          "value": 392.6
+        },
+        {
+          "period": "2024-06",
+          "value": 394.4
+        },
+        {
+          "period": "2024-07",
+          "value": 400.92
+        },
+        {
+          "period": "2024-08",
+          "value": 406.3
+        },
+        {
+          "period": "2024-09",
+          "value": 390.88
+        },
+        {
+          "period": "2024-10",
+          "value": 391.96
+        },
+        {
+          "period": "2024-11",
+          "value": 395.84
+        },
+        {
+          "period": "2024-12",
+          "value": 397.02
+        },
+        {
+          "period": "2025-01",
+          "value": 400.39
+        },
+        {
+          "period": "2025-02",
+          "value": 392.9
+        },
+        {
+          "period": "2025-03",
+          "value": 393.02
+        },
+        {
+          "period": "2025-04",
+          "value": 396.28
+        },
+        {
+          "period": "2025-05",
+          "value": 419.51
+        },
+        {
+          "period": "2025-06",
+          "value": 422.58
+        },
+        {
+          "period": "2025-07",
+          "value": 429.82
+        },
+        {
+          "period": "2025-08",
+          "value": 442.81
+        },
+        {
+          "period": "2025-09",
+          "value": 440.94
+        },
+        {
+          "period": "2025-10",
+          "value": 450
+        },
+        {
+          "period": "2025-11",
+          "value": 452.56
+        },
+        {
+          "period": "2025-12",
+          "value": 463.39
+        },
+        {
+          "period": "2026-01",
+          "value": 466.57
+        },
+        {
+          "period": "2026-02",
+          "value": 468.14
+        },
+        {
+          "period": "2026-03",
+          "value": 467.35
+        },
+        {
+          "period": "2026-04",
+          "value": 468.43
+        },
+        {
+          "period": "2026-05",
+          "value": 468.31
+        },
+        {
+          "period": "2026-06",
+          "value": null
+        },
+        {
+          "period": "2026-07",
+          "value": null
+        },
+        {
+          "period": "2026-08",
+          "value": null
+        },
+        {
+          "period": "2026-09",
+          "value": null
+        },
+        {
+          "period": "2026-10",
+          "value": null
+        },
+        {
+          "period": "2026-11",
+          "value": null
+        },
+        {
+          "period": "2026-12",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Liabilities To General Government",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2023-01",
+          "value": 1441.09
+        },
+        {
+          "period": "2023-02",
+          "value": 1523.28
+        },
+        {
+          "period": "2023-03",
+          "value": 1608.32
+        },
+        {
+          "period": "2023-04",
+          "value": 1585.24
+        },
+        {
+          "period": "2023-05",
+          "value": 1614.52
+        },
+        {
+          "period": "2023-06",
+          "value": 1619.57
+        },
+        {
+          "period": "2023-07",
+          "value": 1602
+        },
+        {
+          "period": "2023-08",
+          "value": 1578.6
+        },
+        {
+          "period": "2023-09",
+          "value": 1531.34
+        },
+        {
+          "period": "2023-10",
+          "value": 1515.05
+        },
+        {
+          "period": "2023-11",
+          "value": 1505.37
+        },
+        {
+          "period": "2023-12",
+          "value": 1454.28
+        },
+        {
+          "period": "2024-01",
+          "value": 1432.44
+        },
+        {
+          "period": "2024-02",
+          "value": 1410.51
+        },
+        {
+          "period": "2024-03",
+          "value": 1400.58
+        },
+        {
+          "period": "2024-04",
+          "value": 1389.66
+        },
+        {
+          "period": "2024-05",
+          "value": 1364.43
+        },
+        {
+          "period": "2024-06",
+          "value": 1365.13
+        },
+        {
+          "period": "2024-07",
+          "value": 1298.28
+        },
+        {
+          "period": "2024-08",
+          "value": 1285.65
+        },
+        {
+          "period": "2024-09",
+          "value": 1281.85
+        },
+        {
+          "period": "2024-10",
+          "value": 1230.24
+        },
+        {
+          "period": "2024-11",
+          "value": 1198.57
+        },
+        {
+          "period": "2024-12",
+          "value": 1152.13
+        },
+        {
+          "period": "2025-01",
+          "value": 1108.68
+        },
+        {
+          "period": "2025-02",
+          "value": 1063
+        },
+        {
+          "period": "2025-03",
+          "value": 1042.12
+        },
+        {
+          "period": "2025-04",
+          "value": 1026.79
+        },
+        {
+          "period": "2025-05",
+          "value": 971.86
+        },
+        {
+          "period": "2025-06",
+          "value": 981.41
+        },
+        {
+          "period": "2025-07",
+          "value": 988.87
+        },
+        {
+          "period": "2025-08",
+          "value": 943.93
+        },
+        {
+          "period": "2025-09",
+          "value": 957.53
+        },
+        {
+          "period": "2025-10",
+          "value": 926.17
+        },
+        {
+          "period": "2025-11",
+          "value": 950.53
+        },
+        {
+          "period": "2025-12",
+          "value": 921.24
+        },
+        {
+          "period": "2026-01",
+          "value": 909.05
+        },
+        {
+          "period": "2026-02",
+          "value": 942.45
+        },
+        {
+          "period": "2026-03",
+          "value": 907.95
+        },
+        {
+          "period": "2026-04",
+          "value": 887.95
+        },
+        {
+          "period": "2026-05",
+          "value": 883.78
+        },
+        {
+          "period": "2026-06",
+          "value": null
+        },
+        {
+          "period": "2026-07",
+          "value": null
+        },
+        {
+          "period": "2026-08",
+          "value": null
+        },
+        {
+          "period": "2026-09",
+          "value": null
+        },
+        {
+          "period": "2026-10",
+          "value": null
+        },
+        {
+          "period": "2026-11",
+          "value": null
+        },
+        {
+          "period": "2026-12",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Claims On Other Sectors",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2023-01",
+          "value": 1902
+        },
+        {
+          "period": "2023-02",
+          "value": 1907.72
+        },
+        {
+          "period": "2023-03",
+          "value": 1911.28
+        },
+        {
+          "period": "2023-04",
+          "value": 1930.55
+        },
+        {
+          "period": "2023-05",
+          "value": 1927.94
+        },
+        {
+          "period": "2023-06",
+          "value": 1896.84
+        },
+        {
+          "period": "2023-07",
+          "value": 1904.11
+        },
+        {
+          "period": "2023-08",
+          "value": 1894.94
+        },
+        {
+          "period": "2023-09",
+          "value": 1899.8
+        },
+        {
+          "period": "2023-10",
+          "value": 1923.43
+        },
+        {
+          "period": "2023-11",
+          "value": 1944.1
+        },
+        {
+          "period": "2023-12",
+          "value": 2011.51
+        },
+        {
+          "period": "2024-01",
+          "value": 2055.16
+        },
+        {
+          "period": "2024-02",
+          "value": 1993.28
+        },
+        {
+          "period": "2024-03",
+          "value": 1996.49
+        },
+        {
+          "period": "2024-04",
+          "value": 2001.84
+        },
+        {
+          "period": "2024-05",
+          "value": 2016.87
+        },
+        {
+          "period": "2024-06",
+          "value": 2030.07
+        },
+        {
+          "period": "2024-07",
+          "value": 2065.91
+        },
+        {
+          "period": "2024-08",
+          "value": 2071.34
+        },
+        {
+          "period": "2024-09",
+          "value": 2090.23
+        },
+        {
+          "period": "2024-10",
+          "value": 2110.43
+        },
+        {
+          "period": "2024-11",
+          "value": 2140.14
+        },
+        {
+          "period": "2024-12",
+          "value": 2165.87
+        },
+        {
+          "period": "2025-01",
+          "value": 2170.99
+        },
+        {
+          "period": "2025-02",
+          "value": 2183.22
+        },
+        {
+          "period": "2025-03",
+          "value": 2187.49
+        },
+        {
+          "period": "2025-04",
+          "value": 2191.39
+        },
+        {
+          "period": "2025-05",
+          "value": 2195.78
+        },
+        {
+          "period": "2025-06",
+          "value": 2204.62
+        },
+        {
+          "period": "2025-07",
+          "value": 2216.57
+        },
+        {
+          "period": "2025-08",
+          "value": 2222.39
+        },
+        {
+          "period": "2025-09",
+          "value": 2233.18
+        },
+        {
+          "period": "2025-10",
+          "value": 2255.38
+        },
+        {
+          "period": "2025-11",
+          "value": 2288.75
+        },
+        {
+          "period": "2025-12",
+          "value": 2287.07
+        },
+        {
+          "period": "2026-01",
+          "value": 2287.58
+        },
+        {
+          "period": "2026-02",
+          "value": 2310.93
+        },
+        {
+          "period": "2026-03",
+          "value": 2318.43
+        },
+        {
+          "period": "2026-04",
+          "value": 2325.68
+        },
+        {
+          "period": "2026-05",
+          "value": 2332.21
+        },
+        {
+          "period": "2026-06",
+          "value": null
+        },
+        {
+          "period": "2026-07",
+          "value": null
+        },
+        {
+          "period": "2026-08",
+          "value": null
+        },
+        {
+          "period": "2026-09",
+          "value": null
+        },
+        {
+          "period": "2026-10",
+          "value": null
+        },
+        {
+          "period": "2026-11",
+          "value": null
+        },
+        {
+          "period": "2026-12",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Claims On Other Financial Corporations (NBFI)",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2023-01",
+          "value": 104.97
+        },
+        {
+          "period": "2023-02",
+          "value": 108.36
+        },
+        {
+          "period": "2023-03",
+          "value": 103.67
+        },
+        {
+          "period": "2023-04",
+          "value": 103.22
+        },
+        {
+          "period": "2023-05",
+          "value": 101.54
+        },
+        {
+          "period": "2023-06",
+          "value": 99.65
+        },
+        {
+          "period": "2023-07",
+          "value": 107.83
+        },
+        {
+          "period": "2023-08",
+          "value": 87.52
+        },
+        {
+          "period": "2023-09",
+          "value": 81.82
+        },
+        {
+          "period": "2023-10",
+          "value": 89.34
+        },
+        {
+          "period": "2023-11",
+          "value": 99.21
+        },
+        {
+          "period": "2023-12",
+          "value": 127.45
+        },
+        {
+          "period": "2024-01",
+          "value": 156.69
+        },
+        {
+          "period": "2024-02",
+          "value": 94.39
+        },
+        {
+          "period": "2024-03",
+          "value": 84.94
+        },
+        {
+          "period": "2024-04",
+          "value": 76.72
+        },
+        {
+          "period": "2024-05",
+          "value": 81
+        },
+        {
+          "period": "2024-06",
+          "value": 82.88
+        },
+        {
+          "period": "2024-07",
+          "value": 84.07
+        },
+        {
+          "period": "2024-08",
+          "value": 81.33
+        },
+        {
+          "period": "2024-09",
+          "value": 85.16
+        },
+        {
+          "period": "2024-10",
+          "value": 79.72
+        },
+        {
+          "period": "2024-11",
+          "value": 81.53
+        },
+        {
+          "period": "2024-12",
+          "value": 88.26
+        },
+        {
+          "period": "2025-01",
+          "value": 80.4
+        },
+        {
+          "period": "2025-02",
+          "value": 81.28
+        },
+        {
+          "period": "2025-03",
+          "value": 83.76
+        },
+        {
+          "period": "2025-04",
+          "value": 81.23
+        },
+        {
+          "period": "2025-05",
+          "value": 77.39
+        },
+        {
+          "period": "2025-06",
+          "value": 78.83
+        },
+        {
+          "period": "2025-07",
+          "value": 80.49
+        },
+        {
+          "period": "2025-08",
+          "value": 80.55
+        },
+        {
+          "period": "2025-09",
+          "value": 79.26
+        },
+        {
+          "period": "2025-10",
+          "value": 82.65
+        },
+        {
+          "period": "2025-11",
+          "value": 85.85
+        },
+        {
+          "period": "2025-12",
+          "value": 87.9
+        },
+        {
+          "period": "2026-01",
+          "value": 80.52
+        },
+        {
+          "period": "2026-02",
+          "value": 86.37
+        },
+        {
+          "period": "2026-03",
+          "value": 86.48
+        },
+        {
+          "period": "2026-04",
+          "value": 95.68
+        },
+        {
+          "period": "2026-05",
+          "value": 83.54
+        },
+        {
+          "period": "2026-06",
+          "value": null
+        },
+        {
+          "period": "2026-07",
+          "value": null
+        },
+        {
+          "period": "2026-08",
+          "value": null
+        },
+        {
+          "period": "2026-09",
+          "value": null
+        },
+        {
+          "period": "2026-10",
+          "value": null
+        },
+        {
+          "period": "2026-11",
+          "value": null
+        },
+        {
+          "period": "2026-12",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Claims On Public Non-Financial Corporations",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2023-01",
+          "value": 131.12
+        },
+        {
+          "period": "2023-02",
+          "value": 129.14
+        },
+        {
+          "period": "2023-03",
+          "value": 128.77
+        },
+        {
+          "period": "2023-04",
+          "value": 128.97
+        },
+        {
+          "period": "2023-05",
+          "value": 128.97
+        },
+        {
+          "period": "2023-06",
+          "value": 128.02
+        },
+        {
+          "period": "2023-07",
+          "value": 129.57
+        },
+        {
+          "period": "2023-08",
+          "value": 129.38
+        },
+        {
+          "period": "2023-09",
+          "value": 129.37
+        },
+        {
+          "period": "2023-10",
+          "value": 129.16
+        },
+        {
+          "period": "2023-11",
+          "value": 126.7
+        },
+        {
+          "period": "2023-12",
+          "value": 125.23
+        },
+        {
+          "period": "2024-01",
+          "value": 124.43
+        },
+        {
+          "period": "2024-02",
+          "value": 122.73
+        },
+        {
+          "period": "2024-03",
+          "value": 123.29
+        },
+        {
+          "period": "2024-04",
+          "value": 121.38
+        },
+        {
+          "period": "2024-05",
+          "value": 121.45
+        },
+        {
+          "period": "2024-06",
+          "value": 121.6
+        },
+        {
+          "period": "2024-07",
+          "value": 121.55
+        },
+        {
+          "period": "2024-08",
+          "value": 121.59
+        },
+        {
+          "period": "2024-09",
+          "value": 129.78
+        },
+        {
+          "period": "2024-10",
+          "value": 129.71
+        },
+        {
+          "period": "2024-11",
+          "value": 128.92
+        },
+        {
+          "period": "2024-12",
+          "value": 128.04
+        },
+        {
+          "period": "2025-01",
+          "value": 126.69
+        },
+        {
+          "period": "2025-02",
+          "value": 124.74
+        },
+        {
+          "period": "2025-03",
+          "value": 123.81
+        },
+        {
+          "period": "2025-04",
+          "value": 124.2
+        },
+        {
+          "period": "2025-05",
+          "value": 124.18
+        },
+        {
+          "period": "2025-06",
+          "value": 124
+        },
+        {
+          "period": "2025-07",
+          "value": 124.17
+        },
+        {
+          "period": "2025-08",
+          "value": 124.27
+        },
+        {
+          "period": "2025-09",
+          "value": 124.06
+        },
+        {
+          "period": "2025-10",
+          "value": 124.18
+        },
+        {
+          "period": "2025-11",
+          "value": 122.06
+        },
+        {
+          "period": "2025-12",
+          "value": 121.08
+        },
+        {
+          "period": "2026-01",
+          "value": 119.29
+        },
+        {
+          "period": "2026-02",
+          "value": 117.71
+        },
+        {
+          "period": "2026-03",
+          "value": 116.21
+        },
+        {
+          "period": "2026-04",
+          "value": 116.67
+        },
+        {
+          "period": "2026-05",
+          "value": 117.23
+        },
+        {
+          "period": "2026-06",
+          "value": null
+        },
+        {
+          "period": "2026-07",
+          "value": null
+        },
+        {
+          "period": "2026-08",
+          "value": null
+        },
+        {
+          "period": "2026-09",
+          "value": null
+        },
+        {
+          "period": "2026-10",
+          "value": null
+        },
+        {
+          "period": "2026-11",
+          "value": null
+        },
+        {
+          "period": "2026-12",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Claims On Private Sector",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2023-01",
+          "value": 1665.92
+        },
+        {
+          "period": "2023-02",
+          "value": 1670.22
+        },
+        {
+          "period": "2023-03",
+          "value": 1678.85
+        },
+        {
+          "period": "2023-04",
+          "value": 1698.37
+        },
+        {
+          "period": "2023-05",
+          "value": 1697.43
+        },
+        {
+          "period": "2023-06",
+          "value": 1669.16
+        },
+        {
+          "period": "2023-07",
+          "value": 1666.72
+        },
+        {
+          "period": "2023-08",
+          "value": 1678.04
+        },
+        {
+          "period": "2023-09",
+          "value": 1688.61
+        },
+        {
+          "period": "2023-10",
+          "value": 1704.93
+        },
+        {
+          "period": "2023-11",
+          "value": 1718.2
+        },
+        {
+          "period": "2023-12",
+          "value": 1758.83
+        },
+        {
+          "period": "2024-01",
+          "value": 1774.04
+        },
+        {
+          "period": "2024-02",
+          "value": 1776.16
+        },
+        {
+          "period": "2024-03",
+          "value": 1788.27
+        },
+        {
+          "period": "2024-04",
+          "value": 1803.75
+        },
+        {
+          "period": "2024-05",
+          "value": 1814.42
+        },
+        {
+          "period": "2024-06",
+          "value": 1825.59
+        },
+        {
+          "period": "2024-07",
+          "value": 1860.28
+        },
+        {
+          "period": "2024-08",
+          "value": 1868.42
+        },
+        {
+          "period": "2024-09",
+          "value": 1875.3
+        },
+        {
+          "period": "2024-10",
+          "value": 1901
+        },
+        {
+          "period": "2024-11",
+          "value": 1929.69
+        },
+        {
+          "period": "2024-12",
+          "value": 1949.57
+        },
+        {
+          "period": "2025-01",
+          "value": 1963.9
+        },
+        {
+          "period": "2025-02",
+          "value": 1977.2
+        },
+        {
+          "period": "2025-03",
+          "value": 1979.92
+        },
+        {
+          "period": "2025-04",
+          "value": 1985.96
+        },
+        {
+          "period": "2025-05",
+          "value": 1994.21
+        },
+        {
+          "period": "2025-06",
+          "value": 2001.79
+        },
+        {
+          "period": "2025-07",
+          "value": 2011.92
+        },
+        {
+          "period": "2025-08",
+          "value": 2017.57
+        },
+        {
+          "period": "2025-09",
+          "value": 2029.86
+        },
+        {
+          "period": "2025-10",
+          "value": 2048.55
+        },
+        {
+          "period": "2025-11",
+          "value": 2080.84
+        },
+        {
+          "period": "2025-12",
+          "value": 2078.09
+        },
+        {
+          "period": "2026-01",
+          "value": 2087.77
+        },
+        {
+          "period": "2026-02",
+          "value": 2106.85
+        },
+        {
+          "period": "2026-03",
+          "value": 2115.73
+        },
+        {
+          "period": "2026-04",
+          "value": 2113.33
+        },
+        {
+          "period": "2026-05",
+          "value": 2131.44
+        },
+        {
+          "period": "2026-06",
+          "value": null
+        },
+        {
+          "period": "2026-07",
+          "value": null
+        },
+        {
+          "period": "2026-08",
+          "value": null
+        },
+        {
+          "period": "2026-09",
+          "value": null
+        },
+        {
+          "period": "2026-10",
+          "value": null
+        },
+        {
+          "period": "2026-11",
+          "value": null
+        },
+        {
+          "period": "2026-12",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Claims On Other Non-Financial Corporations (Business Credit)",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2023-01",
+          "value": 606.74
+        },
+        {
+          "period": "2023-02",
+          "value": 614.18
+        },
+        {
+          "period": "2023-03",
+          "value": 618.49
+        },
+        {
+          "period": "2023-04",
+          "value": 636.02
+        },
+        {
+          "period": "2023-05",
+          "value": 632.62
+        },
+        {
+          "period": "2023-06",
+          "value": 598.45
+        },
+        {
+          "period": "2023-07",
+          "value": 595.27
+        },
+        {
+          "period": "2023-08",
+          "value": 597.42
+        },
+        {
+          "period": "2023-09",
+          "value": 600.64
+        },
+        {
+          "period": "2023-10",
+          "value": 612.93
+        },
+        {
+          "period": "2023-11",
+          "value": 612.1
+        },
+        {
+          "period": "2023-12",
+          "value": 626.64
+        },
+        {
+          "period": "2024-01",
+          "value": 631.69
+        },
+        {
+          "period": "2024-02",
+          "value": 625.81
+        },
+        {
+          "period": "2024-03",
+          "value": 635.54
+        },
+        {
+          "period": "2024-04",
+          "value": 640.96
+        },
+        {
+          "period": "2024-05",
+          "value": 640.33
+        },
+        {
+          "period": "2024-06",
+          "value": 643.45
+        },
+        {
+          "period": "2024-07",
+          "value": 667.41
+        },
+        {
+          "period": "2024-08",
+          "value": 669.38
+        },
+        {
+          "period": "2024-09",
+          "value": 670.39
+        },
+        {
+          "period": "2024-10",
+          "value": 678.58
+        },
+        {
+          "period": "2024-11",
+          "value": 686.1
+        },
+        {
+          "period": "2024-12",
+          "value": 678.63
+        },
+        {
+          "period": "2025-01",
+          "value": 679.62
+        },
+        {
+          "period": "2025-02",
+          "value": 680.67
+        },
+        {
+          "period": "2025-03",
+          "value": 674.56
+        },
+        {
+          "period": "2025-04",
+          "value": 672.67
+        },
+        {
+          "period": "2025-05",
+          "value": 670.53
+        },
+        {
+          "period": "2025-06",
+          "value": 672.79
+        },
+        {
+          "period": "2025-07",
+          "value": 677.19
+        },
+        {
+          "period": "2025-08",
+          "value": 677.27
+        },
+        {
+          "period": "2025-09",
+          "value": 700.87
+        },
+        {
+          "period": "2025-10",
+          "value": 708.06
+        },
+        {
+          "period": "2025-11",
+          "value": 715.99
+        },
+        {
+          "period": "2025-12",
+          "value": 702.66
+        },
+        {
+          "period": "2026-01",
+          "value": 697.38
+        },
+        {
+          "period": "2026-02",
+          "value": 693
+        },
+        {
+          "period": "2026-03",
+          "value": 697.32
+        },
+        {
+          "period": "2026-04",
+          "value": 694.52
+        },
+        {
+          "period": "2026-05",
+          "value": 704.07
+        },
+        {
+          "period": "2026-06",
+          "value": null
+        },
+        {
+          "period": "2026-07",
+          "value": null
+        },
+        {
+          "period": "2026-08",
+          "value": null
+        },
+        {
+          "period": "2026-09",
+          "value": null
+        },
+        {
+          "period": "2026-10",
+          "value": null
+        },
+        {
+          "period": "2026-11",
+          "value": null
+        },
+        {
+          "period": "2026-12",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Claims On Other Resident Sectors (Households and Non-Profit Institutions)",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2023-01",
+          "value": 1059.18
+        },
+        {
+          "period": "2023-02",
+          "value": 1056.04
+        },
+        {
+          "period": "2023-03",
+          "value": 1060.36
+        },
+        {
+          "period": "2023-04",
+          "value": 1062.35
+        },
+        {
+          "period": "2023-05",
+          "value": 1064.82
+        },
+        {
+          "period": "2023-06",
+          "value": 1070.71
+        },
+        {
+          "period": "2023-07",
+          "value": 1071.45
+        },
+        {
+          "period": "2023-08",
+          "value": 1080.62
+        },
+        {
+          "period": "2023-09",
+          "value": 1087.98
+        },
+        {
+          "period": "2023-10",
+          "value": 1092.01
+        },
+        {
+          "period": "2023-11",
+          "value": 1106.09
+        },
+        {
+          "period": "2023-12",
+          "value": 1132.19
+        },
+        {
+          "period": "2024-01",
+          "value": 1142.35
+        },
+        {
+          "period": "2024-02",
+          "value": 1150.35
+        },
+        {
+          "period": "2024-03",
+          "value": 1152.73
+        },
+        {
+          "period": "2024-04",
+          "value": 1162.79
+        },
+        {
+          "period": "2024-05",
+          "value": 1174.09
+        },
+        {
+          "period": "2024-06",
+          "value": 1182.14
+        },
+        {
+          "period": "2024-07",
+          "value": 1192.87
+        },
+        {
+          "period": "2024-08",
+          "value": 1199.05
+        },
+        {
+          "period": "2024-09",
+          "value": 1204.91
+        },
+        {
+          "period": "2024-10",
+          "value": 1222.43
+        },
+        {
+          "period": "2024-11",
+          "value": 1243.59
+        },
+        {
+          "period": "2024-12",
+          "value": 1270.94
+        },
+        {
+          "period": "2025-01",
+          "value": 1284.28
+        },
+        {
+          "period": "2025-02",
+          "value": 1296.53
+        },
+        {
+          "period": "2025-03",
+          "value": 1305.36
+        },
+        {
+          "period": "2025-04",
+          "value": 1313.3
+        },
+        {
+          "period": "2025-05",
+          "value": 1323.69
+        },
+        {
+          "period": "2025-06",
+          "value": 1329.01
+        },
+        {
+          "period": "2025-07",
+          "value": 1334.73
+        },
+        {
+          "period": "2025-08",
+          "value": 1340.3
+        },
+        {
+          "period": "2025-09",
+          "value": 1328.99
+        },
+        {
+          "period": "2025-10",
+          "value": 1340.49
+        },
+        {
+          "period": "2025-11",
+          "value": 1364.85
+        },
+        {
+          "period": "2025-12",
+          "value": 1375.43
+        },
+        {
+          "period": "2026-01",
+          "value": 1390.39
+        },
+        {
+          "period": "2026-02",
+          "value": 1413.86
+        },
+        {
+          "period": "2026-03",
+          "value": 1418.41
+        },
+        {
+          "period": "2026-04",
+          "value": 1418.81
+        },
+        {
+          "period": "2026-05",
+          "value": 1427.37
+        },
+        {
+          "period": "2026-06",
+          "value": null
+        },
+        {
+          "period": "2026-07",
+          "value": null
+        },
+        {
+          "period": "2026-08",
+          "value": null
+        },
+        {
+          "period": "2026-09",
+          "value": null
+        },
+        {
+          "period": "2026-10",
+          "value": null
+        },
+        {
+          "period": "2026-11",
+          "value": null
+        },
+        {
+          "period": "2026-12",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Other Items (Net)",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2023-01",
+          "value": -281.48
+        },
+        {
+          "period": "2023-02",
+          "value": -302.88
+        },
+        {
+          "period": "2023-03",
+          "value": -270.84
+        },
+        {
+          "period": "2023-04",
+          "value": -250.26
+        },
+        {
+          "period": "2023-05",
+          "value": -275.08
+        },
+        {
+          "period": "2023-06",
+          "value": -260.28
+        },
+        {
+          "period": "2023-07",
+          "value": -271.62
+        },
+        {
+          "period": "2023-08",
+          "value": -259.64
+        },
+        {
+          "period": "2023-09",
+          "value": -265.93
+        },
+        {
+          "period": "2023-10",
+          "value": -233.85
+        },
+        {
+          "period": "2023-11",
+          "value": -236.76
+        },
+        {
+          "period": "2023-12",
+          "value": -262.3
+        },
+        {
+          "period": "2024-01",
+          "value": -303.17
+        },
+        {
+          "period": "2024-02",
+          "value": -219.69
+        },
+        {
+          "period": "2024-03",
+          "value": -221.35
+        },
+        {
+          "period": "2024-04",
+          "value": -227.36
+        },
+        {
+          "period": "2024-05",
+          "value": -227.74
+        },
+        {
+          "period": "2024-06",
+          "value": -261.07
+        },
+        {
+          "period": "2024-07",
+          "value": -278.54
+        },
+        {
+          "period": "2024-08",
+          "value": -276.24
+        },
+        {
+          "period": "2024-09",
+          "value": -330.09
+        },
+        {
+          "period": "2024-10",
+          "value": -286.17
+        },
+        {
+          "period": "2024-11",
+          "value": -290.73
+        },
+        {
+          "period": "2024-12",
+          "value": -249.28
+        },
+        {
+          "period": "2025-01",
+          "value": -279.39
+        },
+        {
+          "period": "2025-02",
+          "value": -278.1
+        },
+        {
+          "period": "2025-03",
+          "value": -280.32
+        },
+        {
+          "period": "2025-04",
+          "value": -276.51
+        },
+        {
+          "period": "2025-05",
+          "value": -280.73
+        },
+        {
+          "period": "2025-06",
+          "value": -338.91
+        },
+        {
+          "period": "2025-07",
+          "value": -330.92
+        },
+        {
+          "period": "2025-08",
+          "value": -331.65
+        },
+        {
+          "period": "2025-09",
+          "value": -342.84
+        },
+        {
+          "period": "2025-10",
+          "value": -360.07
+        },
+        {
+          "period": "2025-11",
+          "value": -332.03
+        },
+        {
+          "period": "2025-12",
+          "value": -291.55
+        },
+        {
+          "period": "2026-01",
+          "value": -294.68
+        },
+        {
+          "period": "2026-02",
+          "value": -306.61
+        },
+        {
+          "period": "2026-03",
+          "value": -351.84
+        },
+        {
+          "period": "2026-04",
+          "value": -326.3
+        },
+        {
+          "period": "2026-05",
+          "value": -390.48
+        },
+        {
+          "period": "2026-06",
+          "value": null
+        },
+        {
+          "period": "2026-07",
+          "value": null
+        },
+        {
+          "period": "2026-08",
+          "value": null
+        },
+        {
+          "period": "2026-09",
+          "value": null
+        },
+        {
+          "period": "2026-10",
+          "value": null
+        },
+        {
+          "period": "2026-11",
+          "value": null
+        },
+        {
+          "period": "2026-12",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Broad Money Liabilities (M2)",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2023-01",
+          "value": 3110.92
+        },
+        {
+          "period": "2023-02",
+          "value": 3124.35
+        },
+        {
+          "period": "2023-03",
+          "value": 3161.88
+        },
+        {
+          "period": "2023-04",
+          "value": 3158.94
+        },
+        {
+          "period": "2023-05",
+          "value": 3108.15
+        },
+        {
+          "period": "2023-06",
+          "value": 3089.94
+        },
+        {
+          "period": "2023-07",
+          "value": 3065.01
+        },
+        {
+          "period": "2023-08",
+          "value": 3107.97
+        },
+        {
+          "period": "2023-09",
+          "value": 3074.97
+        },
+        {
+          "period": "2023-10",
+          "value": 3044.1
+        },
+        {
+          "period": "2023-11",
+          "value": 2966.46
+        },
+        {
+          "period": "2023-12",
+          "value": 3071.91
+        },
+        {
+          "period": "2024-01",
+          "value": 3077.58
+        },
+        {
+          "period": "2024-02",
+          "value": 3107.91
+        },
+        {
+          "period": "2024-03",
+          "value": 3140.04
+        },
+        {
+          "period": "2024-04",
+          "value": 3147.8
+        },
+        {
+          "period": "2024-05",
+          "value": 3152.68
+        },
+        {
+          "period": "2024-06",
+          "value": 3150.73
+        },
+        {
+          "period": "2024-07",
+          "value": 3178.32
+        },
+        {
+          "period": "2024-08",
+          "value": 3132.47
+        },
+        {
+          "period": "2024-09",
+          "value": 3088.34
+        },
+        {
+          "period": "2024-10",
+          "value": 3064.26
+        },
+        {
+          "period": "2024-11",
+          "value": 3104.8
+        },
+        {
+          "period": "2024-12",
+          "value": 3148.4
+        },
+        {
+          "period": "2025-01",
+          "value": 3158.66
+        },
+        {
+          "period": "2025-02",
+          "value": 3203.4
+        },
+        {
+          "period": "2025-03",
+          "value": 3204.62
+        },
+        {
+          "period": "2025-04",
+          "value": 3247.98
+        },
+        {
+          "period": "2025-05",
+          "value": 3274.64
+        },
+        {
+          "period": "2025-06",
+          "value": 3213.23
+        },
+        {
+          "period": "2025-07",
+          "value": 3234.01
+        },
+        {
+          "period": "2025-08",
+          "value": 3281.52
+        },
+        {
+          "period": "2025-09",
+          "value": 3213.65
+        },
+        {
+          "period": "2025-10",
+          "value": 3215.29
+        },
+        {
+          "period": "2025-11",
+          "value": 3229.06
+        },
+        {
+          "period": "2025-12",
+          "value": 3313.36
+        },
+        {
+          "period": "2026-01",
+          "value": 3342.39
+        },
+        {
+          "period": "2026-02",
+          "value": 3427.31
+        },
+        {
+          "period": "2026-03",
+          "value": 3426.28
+        },
+        {
+          "period": "2026-04",
+          "value": 3474.17
+        },
+        {
+          "period": "2026-05",
+          "value": 3467.73
+        },
+        {
+          "period": "2026-06",
+          "value": null
+        },
+        {
+          "period": "2026-07",
+          "value": null
+        },
+        {
+          "period": "2026-08",
+          "value": null
+        },
+        {
+          "period": "2026-09",
+          "value": null
+        },
+        {
+          "period": "2026-10",
+          "value": null
+        },
+        {
+          "period": "2026-11",
+          "value": null
+        },
+        {
+          "period": "2026-12",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Narrow Money (M1)",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2023-01",
+          "value": 841.29
+        },
+        {
+          "period": "2023-02",
+          "value": 871.27
+        },
+        {
+          "period": "2023-03",
+          "value": 879.63
+        },
+        {
+          "period": "2023-04",
+          "value": 892.71
+        },
+        {
+          "period": "2023-05",
+          "value": 882.8
+        },
+        {
+          "period": "2023-06",
+          "value": 902.85
+        },
+        {
+          "period": "2023-07",
+          "value": 880.56
+        },
+        {
+          "period": "2023-08",
+          "value": 914.56
+        },
+        {
+          "period": "2023-09",
+          "value": 888.37
+        },
+        {
+          "period": "2023-10",
+          "value": 872
+        },
+        {
+          "period": "2023-11",
+          "value": 846.58
+        },
+        {
+          "period": "2023-12",
+          "value": 897.22
+        },
+        {
+          "period": "2024-01",
+          "value": 889.63
+        },
+        {
+          "period": "2024-02",
+          "value": 897.27
+        },
+        {
+          "period": "2024-03",
+          "value": 906.77
+        },
+        {
+          "period": "2024-04",
+          "value": 894.28
+        },
+        {
+          "period": "2024-05",
+          "value": 920.6
+        },
+        {
+          "period": "2024-06",
+          "value": 922.15
+        },
+        {
+          "period": "2024-07",
+          "value": 941.92
+        },
+        {
+          "period": "2024-08",
+          "value": 928.14
+        },
+        {
+          "period": "2024-09",
+          "value": 909.5
+        },
+        {
+          "period": "2024-10",
+          "value": 889.57
+        },
+        {
+          "period": "2024-11",
+          "value": 915.47
+        },
+        {
+          "period": "2024-12",
+          "value": 939.65
+        },
+        {
+          "period": "2025-01",
+          "value": 913.91
+        },
+        {
+          "period": "2025-02",
+          "value": 933.78
+        },
+        {
+          "period": "2025-03",
+          "value": 933.05
+        },
+        {
+          "period": "2025-04",
+          "value": 963.93
+        },
+        {
+          "period": "2025-05",
+          "value": 990
+        },
+        {
+          "period": "2025-06",
+          "value": 967.02
+        },
+        {
+          "period": "2025-07",
+          "value": 978.7
+        },
+        {
+          "period": "2025-08",
+          "value": 1018.95
+        },
+        {
+          "period": "2025-09",
+          "value": 931.56
+        },
+        {
+          "period": "2025-10",
+          "value": 934.01
+        },
+        {
+          "period": "2025-11",
+          "value": 944.7
+        },
+        {
+          "period": "2025-12",
+          "value": 996.75
+        },
+        {
+          "period": "2026-01",
+          "value": 997.02
+        },
+        {
+          "period": "2026-02",
+          "value": 1042.57
+        },
+        {
+          "period": "2026-03",
+          "value": 1036.25
+        },
+        {
+          "period": "2026-04",
+          "value": 1065.54
+        },
+        {
+          "period": "2026-05",
+          "value": 1043.64
+        },
+        {
+          "period": "2026-06",
+          "value": null
+        },
+        {
+          "period": "2026-07",
+          "value": null
+        },
+        {
+          "period": "2026-08",
+          "value": null
+        },
+        {
+          "period": "2026-09",
+          "value": null
+        },
+        {
+          "period": "2026-10",
+          "value": null
+        },
+        {
+          "period": "2026-11",
+          "value": null
+        },
+        {
+          "period": "2026-12",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Currency Outside Depository Corporations",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2023-01",
+          "value": 230.35
+        },
+        {
+          "period": "2023-02",
+          "value": 230.08
+        },
+        {
+          "period": "2023-03",
+          "value": 231.06
+        },
+        {
+          "period": "2023-04",
+          "value": 232.51
+        },
+        {
+          "period": "2023-05",
+          "value": 226.39
+        },
+        {
+          "period": "2023-06",
+          "value": 228.6
+        },
+        {
+          "period": "2023-07",
+          "value": 226.34
+        },
+        {
+          "period": "2023-08",
+          "value": 225.37
+        },
+        {
+          "period": "2023-09",
+          "value": 228.21
+        },
+        {
+          "period": "2023-10",
+          "value": 225.58
+        },
+        {
+          "period": "2023-11",
+          "value": 224.73
+        },
+        {
+          "period": "2023-12",
+          "value": 241.23
+        },
+        {
+          "period": "2024-01",
+          "value": 229.15
+        },
+        {
+          "period": "2024-02",
+          "value": 230.22
+        },
+        {
+          "period": "2024-03",
+          "value": 232.73
+        },
+        {
+          "period": "2024-04",
+          "value": 226.66
+        },
+        {
+          "period": "2024-05",
+          "value": 228.79
+        },
+        {
+          "period": "2024-06",
+          "value": 230.56
+        },
+        {
+          "period": "2024-07",
+          "value": 228.03
+        },
+        {
+          "period": "2024-08",
+          "value": 227.59
+        },
+        {
+          "period": "2024-09",
+          "value": 226.63
+        },
+        {
+          "period": "2024-10",
+          "value": 229.62
+        },
+        {
+          "period": "2024-11",
+          "value": 231.33
+        },
+        {
+          "period": "2024-12",
+          "value": 239.04
+        },
+        {
+          "period": "2025-01",
+          "value": 236.09
+        },
+        {
+          "period": "2025-02",
+          "value": 233.39
+        },
+        {
+          "period": "2025-03",
+          "value": 232.61
+        },
+        {
+          "period": "2025-04",
+          "value": 232.15
+        },
+        {
+          "period": "2025-05",
+          "value": 234.13
+        },
+        {
+          "period": "2025-06",
+          "value": 236
+        },
+        {
+          "period": "2025-07",
+          "value": 234.86
+        },
+        {
+          "period": "2025-08",
+          "value": 235.12
+        },
+        {
+          "period": "2025-09",
+          "value": 232.21
+        },
+        {
+          "period": "2025-10",
+          "value": 235.74
+        },
+        {
+          "period": "2025-11",
+          "value": 238.73
+        },
+        {
+          "period": "2025-12",
+          "value": 249.25
+        },
+        {
+          "period": "2026-01",
+          "value": 243.23
+        },
+        {
+          "period": "2026-02",
+          "value": 244.79
+        },
+        {
+          "period": "2026-03",
+          "value": 246.81
+        },
+        {
+          "period": "2026-04",
+          "value": 244.58
+        },
+        {
+          "period": "2026-05",
+          "value": 246.97
+        },
+        {
+          "period": "2026-06",
+          "value": null
+        },
+        {
+          "period": "2026-07",
+          "value": null
+        },
+        {
+          "period": "2026-08",
+          "value": null
+        },
+        {
+          "period": "2026-09",
+          "value": null
+        },
+        {
+          "period": "2026-10",
+          "value": null
+        },
+        {
+          "period": "2026-11",
+          "value": null
+        },
+        {
+          "period": "2026-12",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Currency Issued By Central Bank (Currency In Circulation)",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2023-01",
+          "value": 263.42
+        },
+        {
+          "period": "2023-02",
+          "value": 261.06
+        },
+        {
+          "period": "2023-03",
+          "value": 258.56
+        },
+        {
+          "period": "2023-04",
+          "value": 263.44
+        },
+        {
+          "period": "2023-05",
+          "value": 257.4
+        },
+        {
+          "period": "2023-06",
+          "value": 257.29
+        },
+        {
+          "period": "2023-07",
+          "value": 252.74
+        },
+        {
+          "period": "2023-08",
+          "value": 251.12
+        },
+        {
+          "period": "2023-09",
+          "value": 252.34
+        },
+        {
+          "period": "2023-10",
+          "value": 253.6
+        },
+        {
+          "period": "2023-11",
+          "value": 256.37
+        },
+        {
+          "period": "2023-12",
+          "value": 288.76
+        },
+        {
+          "period": "2024-01",
+          "value": 262.96
+        },
+        {
+          "period": "2024-02",
+          "value": 264.94
+        },
+        {
+          "period": "2024-03",
+          "value": 266.84
+        },
+        {
+          "period": "2024-04",
+          "value": 259.8
+        },
+        {
+          "period": "2024-05",
+          "value": 259.39
+        },
+        {
+          "period": "2024-06",
+          "value": 259.69
+        },
+        {
+          "period": "2024-07",
+          "value": 263.92
+        },
+        {
+          "period": "2024-08",
+          "value": 258.34
+        },
+        {
+          "period": "2024-09",
+          "value": 259.45
+        },
+        {
+          "period": "2024-10",
+          "value": 265.12
+        },
+        {
+          "period": "2024-11",
+          "value": 263.27
+        },
+        {
+          "period": "2024-12",
+          "value": 282.52
+        },
+        {
+          "period": "2025-01",
+          "value": 267.25
+        },
+        {
+          "period": "2025-02",
+          "value": 264.71
+        },
+        {
+          "period": "2025-03",
+          "value": 265.54
+        },
+        {
+          "period": "2025-04",
+          "value": 268.3
+        },
+        {
+          "period": "2025-05",
+          "value": 269.41
+        },
+        {
+          "period": "2025-06",
+          "value": 269.89
+        },
+        {
+          "period": "2025-07",
+          "value": 272.12
+        },
+        {
+          "period": "2025-08",
+          "value": 269.06
+        },
+        {
+          "period": "2025-09",
+          "value": 269.33
+        },
+        {
+          "period": "2025-10",
+          "value": 270.2
+        },
+        {
+          "period": "2025-11",
+          "value": 269.14
+        },
+        {
+          "period": "2025-12",
+          "value": 290.84
+        },
+        {
+          "period": "2026-01",
+          "value": 279.9
+        },
+        {
+          "period": "2026-02",
+          "value": 277.94
+        },
+        {
+          "period": "2026-03",
+          "value": 282.85
+        },
+        {
+          "period": "2026-04",
+          "value": 282.85
+        },
+        {
+          "period": "2026-05",
+          "value": 286.14
+        },
+        {
+          "period": "2026-06",
+          "value": null
+        },
+        {
+          "period": "2026-07",
+          "value": null
+        },
+        {
+          "period": "2026-08",
+          "value": null
+        },
+        {
+          "period": "2026-09",
+          "value": null
+        },
+        {
+          "period": "2026-10",
+          "value": null
+        },
+        {
+          "period": "2026-11",
+          "value": null
+        },
+        {
+          "period": "2026-12",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Less Holdings Of National Currency By Odc (Commercial Banks)",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2023-01",
+          "value": 33.08
+        },
+        {
+          "period": "2023-02",
+          "value": 30.99
+        },
+        {
+          "period": "2023-03",
+          "value": 27.5
+        },
+        {
+          "period": "2023-04",
+          "value": 30.93
+        },
+        {
+          "period": "2023-05",
+          "value": 31.01
+        },
+        {
+          "period": "2023-06",
+          "value": 28.69
+        },
+        {
+          "period": "2023-07",
+          "value": 26.4
+        },
+        {
+          "period": "2023-08",
+          "value": 25.75
+        },
+        {
+          "period": "2023-09",
+          "value": 24.14
+        },
+        {
+          "period": "2023-10",
+          "value": 28.02
+        },
+        {
+          "period": "2023-11",
+          "value": 31.65
+        },
+        {
+          "period": "2023-12",
+          "value": 47.53
+        },
+        {
+          "period": "2024-01",
+          "value": 33.81
+        },
+        {
+          "period": "2024-02",
+          "value": 34.73
+        },
+        {
+          "period": "2024-03",
+          "value": 34.11
+        },
+        {
+          "period": "2024-04",
+          "value": 33.13
+        },
+        {
+          "period": "2024-05",
+          "value": 30.6
+        },
+        {
+          "period": "2024-06",
+          "value": 29.15
+        },
+        {
+          "period": "2024-07",
+          "value": 35.89
+        },
+        {
+          "period": "2024-08",
+          "value": 30.76
+        },
+        {
+          "period": "2024-09",
+          "value": 32.82
+        },
+        {
+          "period": "2024-10",
+          "value": 35.51
+        },
+        {
+          "period": "2024-11",
+          "value": 31.94
+        },
+        {
+          "period": "2024-12",
+          "value": 43.49
+        },
+        {
+          "period": "2025-01",
+          "value": 31.16
+        },
+        {
+          "period": "2025-02",
+          "value": 31.33
+        },
+        {
+          "period": "2025-03",
+          "value": 32.93
+        },
+        {
+          "period": "2025-04",
+          "value": 36.15
+        },
+        {
+          "period": "2025-05",
+          "value": 35.28
+        },
+        {
+          "period": "2025-06",
+          "value": 33.9
+        },
+        {
+          "period": "2025-07",
+          "value": 37.26
+        },
+        {
+          "period": "2025-08",
+          "value": 33.94
+        },
+        {
+          "period": "2025-09",
+          "value": 37.15
+        },
+        {
+          "period": "2025-10",
+          "value": 34.46
+        },
+        {
+          "period": "2025-11",
+          "value": 30.45
+        },
+        {
+          "period": "2025-12",
+          "value": 41.59
+        },
+        {
+          "period": "2026-01",
+          "value": 36.68
+        },
+        {
+          "period": "2026-02",
+          "value": 33.16
+        },
+        {
+          "period": "2026-03",
+          "value": 36.05
+        },
+        {
+          "period": "2026-04",
+          "value": 38.28
+        },
+        {
+          "period": "2026-05",
+          "value": 39.18
+        },
+        {
+          "period": "2026-06",
+          "value": null
+        },
+        {
+          "period": "2026-07",
+          "value": null
+        },
+        {
+          "period": "2026-08",
+          "value": null
+        },
+        {
+          "period": "2026-09",
+          "value": null
+        },
+        {
+          "period": "2026-10",
+          "value": null
+        },
+        {
+          "period": "2026-11",
+          "value": null
+        },
+        {
+          "period": "2026-12",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Transferable Deposits, In National Currency",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2023-01",
+          "value": 610.94
+        },
+        {
+          "period": "2023-02",
+          "value": 641.19
+        },
+        {
+          "period": "2023-03",
+          "value": 648.57
+        },
+        {
+          "period": "2023-04",
+          "value": 660.19
+        },
+        {
+          "period": "2023-05",
+          "value": 656.41
+        },
+        {
+          "period": "2023-06",
+          "value": 674.25
+        },
+        {
+          "period": "2023-07",
+          "value": 654.22
+        },
+        {
+          "period": "2023-08",
+          "value": 689.18
+        },
+        {
+          "period": "2023-09",
+          "value": 660.16
+        },
+        {
+          "period": "2023-10",
+          "value": 646.42
+        },
+        {
+          "period": "2023-11",
+          "value": 621.85
+        },
+        {
+          "period": "2023-12",
+          "value": 655.99
+        },
+        {
+          "period": "2024-01",
+          "value": 660.48
+        },
+        {
+          "period": "2024-02",
+          "value": 667.05
+        },
+        {
+          "period": "2024-03",
+          "value": 674.03
+        },
+        {
+          "period": "2024-04",
+          "value": 667.62
+        },
+        {
+          "period": "2024-05",
+          "value": 691.81
+        },
+        {
+          "period": "2024-06",
+          "value": 691.6
+        },
+        {
+          "period": "2024-07",
+          "value": 713.89
+        },
+        {
+          "period": "2024-08",
+          "value": 700.56
+        },
+        {
+          "period": "2024-09",
+          "value": 682.87
+        },
+        {
+          "period": "2024-10",
+          "value": 659.95
+        },
+        {
+          "period": "2024-11",
+          "value": 684.14
+        },
+        {
+          "period": "2024-12",
+          "value": 700.61
+        },
+        {
+          "period": "2025-01",
+          "value": 677.82
+        },
+        {
+          "period": "2025-02",
+          "value": 700.39
+        },
+        {
+          "period": "2025-03",
+          "value": 700.44
+        },
+        {
+          "period": "2025-04",
+          "value": 731.78
+        },
+        {
+          "period": "2025-05",
+          "value": 755.87
+        },
+        {
+          "period": "2025-06",
+          "value": 731.02
+        },
+        {
+          "period": "2025-07",
+          "value": 743.84
+        },
+        {
+          "period": "2025-08",
+          "value": 783.83
+        },
+        {
+          "period": "2025-09",
+          "value": 699.36
+        },
+        {
+          "period": "2025-10",
+          "value": 698.27
+        },
+        {
+          "period": "2025-11",
+          "value": 705.97
+        },
+        {
+          "period": "2025-12",
+          "value": 747.5
+        },
+        {
+          "period": "2026-01",
+          "value": 753.79
+        },
+        {
+          "period": "2026-02",
+          "value": 797.78
+        },
+        {
+          "period": "2026-03",
+          "value": 789.44
+        },
+        {
+          "period": "2026-04",
+          "value": 820.96
+        },
+        {
+          "period": "2026-05",
+          "value": 796.67
+        },
+        {
+          "period": "2026-06",
+          "value": null
+        },
+        {
+          "period": "2026-07",
+          "value": null
+        },
+        {
+          "period": "2026-08",
+          "value": null
+        },
+        {
+          "period": "2026-09",
+          "value": null
+        },
+        {
+          "period": "2026-10",
+          "value": null
+        },
+        {
+          "period": "2026-11",
+          "value": null
+        },
+        {
+          "period": "2026-12",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Quasi Money",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2023-01",
+          "value": 2269.63
+        },
+        {
+          "period": "2023-02",
+          "value": 2253.09
+        },
+        {
+          "period": "2023-03",
+          "value": 2282.25
+        },
+        {
+          "period": "2023-04",
+          "value": 2266.24
+        },
+        {
+          "period": "2023-05",
+          "value": 2225.35
+        },
+        {
+          "period": "2023-06",
+          "value": 2187.09
+        },
+        {
+          "period": "2023-07",
+          "value": 2184.45
+        },
+        {
+          "period": "2023-08",
+          "value": 2193.42
+        },
+        {
+          "period": "2023-09",
+          "value": 2186.6
+        },
+        {
+          "period": "2023-10",
+          "value": 2172.1
+        },
+        {
+          "period": "2023-11",
+          "value": 2119.88
+        },
+        {
+          "period": "2023-12",
+          "value": 2174.7
+        },
+        {
+          "period": "2024-01",
+          "value": 2187.96
+        },
+        {
+          "period": "2024-02",
+          "value": 2210.65
+        },
+        {
+          "period": "2024-03",
+          "value": 2233.28
+        },
+        {
+          "period": "2024-04",
+          "value": 2253.52
+        },
+        {
+          "period": "2024-05",
+          "value": 2232.08
+        },
+        {
+          "period": "2024-06",
+          "value": 2228.59
+        },
+        {
+          "period": "2024-07",
+          "value": 2236.4
+        },
+        {
+          "period": "2024-08",
+          "value": 2204.32
+        },
+        {
+          "period": "2024-09",
+          "value": 2178.84
+        },
+        {
+          "period": "2024-10",
+          "value": 2174.69
+        },
+        {
+          "period": "2024-11",
+          "value": 2189.34
+        },
+        {
+          "period": "2024-12",
+          "value": 2208.75
+        },
+        {
+          "period": "2025-01",
+          "value": 2244.75
+        },
+        {
+          "period": "2025-02",
+          "value": 2269.63
+        },
+        {
+          "period": "2025-03",
+          "value": 2271.57
+        },
+        {
+          "period": "2025-04",
+          "value": 2284.05
+        },
+        {
+          "period": "2025-05",
+          "value": 2284.64
+        },
+        {
+          "period": "2025-06",
+          "value": 2246.22
+        },
+        {
+          "period": "2025-07",
+          "value": 2255.31
+        },
+        {
+          "period": "2025-08",
+          "value": 2262.57
+        },
+        {
+          "period": "2025-09",
+          "value": 2282.11
+        },
+        {
+          "period": "2025-10",
+          "value": 2281.28
+        },
+        {
+          "period": "2025-11",
+          "value": 2284.41
+        },
+        {
+          "period": "2025-12",
+          "value": 2316.61
+        },
+        {
+          "period": "2026-01",
+          "value": 2345.38
+        },
+        {
+          "period": "2026-02",
+          "value": 2384.74
+        },
+        {
+          "period": "2026-03",
+          "value": 2390.03
+        },
+        {
+          "period": "2026-04",
+          "value": 2408.63
+        },
+        {
+          "period": "2026-05",
+          "value": 2424.1
+        },
+        {
+          "period": "2026-06",
+          "value": null
+        },
+        {
+          "period": "2026-07",
+          "value": null
+        },
+        {
+          "period": "2026-08",
+          "value": null
+        },
+        {
+          "period": "2026-09",
+          "value": null
+        },
+        {
+          "period": "2026-10",
+          "value": null
+        },
+        {
+          "period": "2026-11",
+          "value": null
+        },
+        {
+          "period": "2026-12",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Other Deposits, In National Currency",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2023-01",
+          "value": 1529.64
+        },
+        {
+          "period": "2023-02",
+          "value": 1532.3
+        },
+        {
+          "period": "2023-03",
+          "value": 1546.19
+        },
+        {
+          "period": "2023-04",
+          "value": 1554.78
+        },
+        {
+          "period": "2023-05",
+          "value": 1560.69
+        },
+        {
+          "period": "2023-06",
+          "value": 1563.35
+        },
+        {
+          "period": "2023-07",
+          "value": 1563.24
+        },
+        {
+          "period": "2023-08",
+          "value": 1569.91
+        },
+        {
+          "period": "2023-09",
+          "value": 1592.7
+        },
+        {
+          "period": "2023-10",
+          "value": 1581.78
+        },
+        {
+          "period": "2023-11",
+          "value": 1522.55
+        },
+        {
+          "period": "2023-12",
+          "value": 1548.36
+        },
+        {
+          "period": "2024-01",
+          "value": 1549.95
+        },
+        {
+          "period": "2024-02",
+          "value": 1558.09
+        },
+        {
+          "period": "2024-03",
+          "value": 1566.13
+        },
+        {
+          "period": "2024-04",
+          "value": 1571.31
+        },
+        {
+          "period": "2024-05",
+          "value": 1576.51
+        },
+        {
+          "period": "2024-06",
+          "value": 1589.9
+        },
+        {
+          "period": "2024-07",
+          "value": 1581.81
+        },
+        {
+          "period": "2024-08",
+          "value": 1570.16
+        },
+        {
+          "period": "2024-09",
+          "value": 1566.79
+        },
+        {
+          "period": "2024-10",
+          "value": 1565.48
+        },
+        {
+          "period": "2024-11",
+          "value": 1573.31
+        },
+        {
+          "period": "2024-12",
+          "value": 1572.81
+        },
+        {
+          "period": "2025-01",
+          "value": 1594.29
+        },
+        {
+          "period": "2025-02",
+          "value": 1600.57
+        },
+        {
+          "period": "2025-03",
+          "value": 1605.7
+        },
+        {
+          "period": "2025-04",
+          "value": 1611.54
+        },
+        {
+          "period": "2025-05",
+          "value": 1610.23
+        },
+        {
+          "period": "2025-06",
+          "value": 1554.63
+        },
+        {
+          "period": "2025-07",
+          "value": 1555.63
+        },
+        {
+          "period": "2025-08",
+          "value": 1553.01
+        },
+        {
+          "period": "2025-09",
+          "value": 1549.96
+        },
+        {
+          "period": "2025-10",
+          "value": 1552.3
+        },
+        {
+          "period": "2025-11",
+          "value": 1566.4
+        },
+        {
+          "period": "2025-12",
+          "value": 1594.24
+        },
+        {
+          "period": "2026-01",
+          "value": 1595.58
+        },
+        {
+          "period": "2026-02",
+          "value": 1589.76
+        },
+        {
+          "period": "2026-03",
+          "value": 1591
+        },
+        {
+          "period": "2026-04",
+          "value": 1594.15
+        },
+        {
+          "period": "2026-05",
+          "value": 1592.08
+        },
+        {
+          "period": "2026-06",
+          "value": null
+        },
+        {
+          "period": "2026-07",
+          "value": null
+        },
+        {
+          "period": "2026-08",
+          "value": null
+        },
+        {
+          "period": "2026-09",
+          "value": null
+        },
+        {
+          "period": "2026-10",
+          "value": null
+        },
+        {
+          "period": "2026-11",
+          "value": null
+        },
+        {
+          "period": "2026-12",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Foreign Currency Deposits",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2023-01",
+          "value": 739.99
+        },
+        {
+          "period": "2023-02",
+          "value": 720.78
+        },
+        {
+          "period": "2023-03",
+          "value": 736.06
+        },
+        {
+          "period": "2023-04",
+          "value": 711.45
+        },
+        {
+          "period": "2023-05",
+          "value": 664.66
+        },
+        {
+          "period": "2023-06",
+          "value": 623.74
+        },
+        {
+          "period": "2023-07",
+          "value": 621.21
+        },
+        {
+          "period": "2023-08",
+          "value": 623.51
+        },
+        {
+          "period": "2023-09",
+          "value": 593.91
+        },
+        {
+          "period": "2023-10",
+          "value": 590.33
+        },
+        {
+          "period": "2023-11",
+          "value": 597.34
+        },
+        {
+          "period": "2023-12",
+          "value": 626.34
+        },
+        {
+          "period": "2024-01",
+          "value": 638.01
+        },
+        {
+          "period": "2024-02",
+          "value": 652.56
+        },
+        {
+          "period": "2024-03",
+          "value": 667.15
+        },
+        {
+          "period": "2024-04",
+          "value": 682.21
+        },
+        {
+          "period": "2024-05",
+          "value": 655.58
+        },
+        {
+          "period": "2024-06",
+          "value": 638.69
+        },
+        {
+          "period": "2024-07",
+          "value": 654.59
+        },
+        {
+          "period": "2024-08",
+          "value": 634.17
+        },
+        {
+          "period": "2024-09",
+          "value": 612.04
+        },
+        {
+          "period": "2024-10",
+          "value": 609.21
+        },
+        {
+          "period": "2024-11",
+          "value": 616.03
+        },
+        {
+          "period": "2024-12",
+          "value": 635.94
+        },
+        {
+          "period": "2025-01",
+          "value": 650.46
+        },
+        {
+          "period": "2025-02",
+          "value": 669.05
+        },
+        {
+          "period": "2025-03",
+          "value": 665.87
+        },
+        {
+          "period": "2025-04",
+          "value": 672.51
+        },
+        {
+          "period": "2025-05",
+          "value": 674.42
+        },
+        {
+          "period": "2025-06",
+          "value": 691.59
+        },
+        {
+          "period": "2025-07",
+          "value": 699.68
+        },
+        {
+          "period": "2025-08",
+          "value": 709.56
+        },
+        {
+          "period": "2025-09",
+          "value": 732.15
+        },
+        {
+          "period": "2025-10",
+          "value": 728.98
+        },
+        {
+          "period": "2025-11",
+          "value": 718.01
+        },
+        {
+          "period": "2025-12",
+          "value": 722.37
+        },
+        {
+          "period": "2026-01",
+          "value": 749.79
+        },
+        {
+          "period": "2026-02",
+          "value": 794.98
+        },
+        {
+          "period": "2026-03",
+          "value": 799.03
+        },
+        {
+          "period": "2026-04",
+          "value": 814.48
+        },
+        {
+          "period": "2026-05",
+          "value": 832.03
+        },
+        {
+          "period": "2026-06",
+          "value": null
+        },
+        {
+          "period": "2026-07",
+          "value": null
+        },
+        {
+          "period": "2026-08",
+          "value": null
+        },
+        {
+          "period": "2026-09",
+          "value": null
+        },
+        {
+          "period": "2026-10",
+          "value": null
+        },
+        {
+          "period": "2026-11",
+          "value": null
+        },
+        {
+          "period": "2026-12",
+          "value": null
+        }
+      ]
+    }
+  ]
+}

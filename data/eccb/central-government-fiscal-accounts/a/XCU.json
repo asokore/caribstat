@@ -1,0 +1,3015 @@
+{
+  "source": "Eastern Caribbean Central Bank",
+  "source_id": "eccb",
+  "source_url": "https://www.eccb-centralbank.org/statistics-category/central-government-fiscal-accounts-2/central-government-fiscal-accounts",
+  "table_id": "central-government-fiscal-accounts",
+  "table_title": "Central Government Fiscal Accounts",
+  "country": {
+    "iso3": "XCU",
+    "name": "ECCU"
+  },
+  "frequency": "a",
+  "data_as_at": "2026-07-28",
+  "data_as_at_raw": "28 July 2026",
+  "retrieved_at": "2026-08-14T11:35:41.748Z",
+  "periods": [
+    "2015",
+    "2016",
+    "2017",
+    "2018",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024",
+    "2025",
+    "2026"
+  ],
+  "periods_raw": [
+    "2015",
+    "2016",
+    "2017",
+    "2018",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024",
+    "2025",
+    "2026"
+  ],
+  "series": [
+    {
+      "label": "Total Revenue and Grants",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 4846.78
+        },
+        {
+          "period": "2016",
+          "value": 5325.42
+        },
+        {
+          "period": "2017",
+          "value": 5252.14
+        },
+        {
+          "period": "2018",
+          "value": 5822.46
+        },
+        {
+          "period": "2019",
+          "value": 5822.61
+        },
+        {
+          "period": "2020",
+          "value": 5295.55
+        },
+        {
+          "period": "2021",
+          "value": 6151.81
+        },
+        {
+          "period": "2022",
+          "value": 6681.86
+        },
+        {
+          "period": "2023",
+          "value": 7338.3
+        },
+        {
+          "period": "2024",
+          "value": 8422.29
+        },
+        {
+          "period": "2025",
+          "value": 8093.7
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Current Revenue",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 4362.76
+        },
+        {
+          "period": "2016",
+          "value": 4807.49
+        },
+        {
+          "period": "2017",
+          "value": 4741.44
+        },
+        {
+          "period": "2018",
+          "value": 5355.86
+        },
+        {
+          "period": "2019",
+          "value": 5413.99
+        },
+        {
+          "period": "2020",
+          "value": 4577.84
+        },
+        {
+          "period": "2021",
+          "value": 5437.65
+        },
+        {
+          "period": "2022",
+          "value": 6050.91
+        },
+        {
+          "period": "2023",
+          "value": 6947.5
+        },
+        {
+          "period": "2024",
+          "value": 7915.58
+        },
+        {
+          "period": "2025",
+          "value": 7621.44
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Tax Revenue",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 3590.01
+        },
+        {
+          "period": "2016",
+          "value": 3814.45
+        },
+        {
+          "period": "2017",
+          "value": 3877.84
+        },
+        {
+          "period": "2018",
+          "value": 4141.2
+        },
+        {
+          "period": "2019",
+          "value": 4248.13
+        },
+        {
+          "period": "2020",
+          "value": 3644.39
+        },
+        {
+          "period": "2021",
+          "value": 3866.69
+        },
+        {
+          "period": "2022",
+          "value": 4346.19
+        },
+        {
+          "period": "2023",
+          "value": 4811.62
+        },
+        {
+          "period": "2024",
+          "value": 5320.15
+        },
+        {
+          "period": "2025",
+          "value": 5637.32
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Taxes on Income, Profit and Capital Gains",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 780.31
+        },
+        {
+          "period": "2016",
+          "value": 842.96
+        },
+        {
+          "period": "2017",
+          "value": 856.25
+        },
+        {
+          "period": "2018",
+          "value": 890.32
+        },
+        {
+          "period": "2019",
+          "value": 912.02
+        },
+        {
+          "period": "2020",
+          "value": 809.15
+        },
+        {
+          "period": "2021",
+          "value": 802.59
+        },
+        {
+          "period": "2022",
+          "value": 837.4
+        },
+        {
+          "period": "2023",
+          "value": 1001.18
+        },
+        {
+          "period": "2024",
+          "value": 1096.61
+        },
+        {
+          "period": "2025",
+          "value": 1240.88
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Corporate Tax",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 320.07
+        },
+        {
+          "period": "2016",
+          "value": 379.54
+        },
+        {
+          "period": "2017",
+          "value": 407.16
+        },
+        {
+          "period": "2018",
+          "value": 407.56
+        },
+        {
+          "period": "2019",
+          "value": 444.57
+        },
+        {
+          "period": "2020",
+          "value": 375.38
+        },
+        {
+          "period": "2021",
+          "value": 354.11
+        },
+        {
+          "period": "2022",
+          "value": 319.68
+        },
+        {
+          "period": "2023",
+          "value": 471.63
+        },
+        {
+          "period": "2024",
+          "value": 538.1
+        },
+        {
+          "period": "2025",
+          "value": 640.15
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Personal/Individual Tax",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 307.31
+        },
+        {
+          "period": "2016",
+          "value": 314.07
+        },
+        {
+          "period": "2017",
+          "value": 295.96
+        },
+        {
+          "period": "2018",
+          "value": 295.15
+        },
+        {
+          "period": "2019",
+          "value": 327.36
+        },
+        {
+          "period": "2020",
+          "value": 310.9
+        },
+        {
+          "period": "2021",
+          "value": 323.16
+        },
+        {
+          "period": "2022",
+          "value": 365.34
+        },
+        {
+          "period": "2023",
+          "value": 380.43
+        },
+        {
+          "period": "2024",
+          "value": 384.32
+        },
+        {
+          "period": "2025",
+          "value": 430.7
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Withholding/Non-Resident Tax",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 53.39
+        },
+        {
+          "period": "2016",
+          "value": 50.17
+        },
+        {
+          "period": "2017",
+          "value": 48.79
+        },
+        {
+          "period": "2018",
+          "value": 80.9
+        },
+        {
+          "period": "2019",
+          "value": 75.95
+        },
+        {
+          "period": "2020",
+          "value": 61.54
+        },
+        {
+          "period": "2021",
+          "value": 62.41
+        },
+        {
+          "period": "2022",
+          "value": 78.32
+        },
+        {
+          "period": "2023",
+          "value": 72.85
+        },
+        {
+          "period": "2024",
+          "value": 95.61
+        },
+        {
+          "period": "2025",
+          "value": 77.14
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Taxes on Property",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 113.79
+        },
+        {
+          "period": "2016",
+          "value": 128.41
+        },
+        {
+          "period": "2017",
+          "value": 145.03
+        },
+        {
+          "period": "2018",
+          "value": 130.6
+        },
+        {
+          "period": "2019",
+          "value": 138.91
+        },
+        {
+          "period": "2020",
+          "value": 127.96
+        },
+        {
+          "period": "2021",
+          "value": 199.47
+        },
+        {
+          "period": "2022",
+          "value": 146.89
+        },
+        {
+          "period": "2023",
+          "value": 153.65
+        },
+        {
+          "period": "2024",
+          "value": 147.64
+        },
+        {
+          "period": "2025",
+          "value": 136.19
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Taxes on Goods and Services",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 1619.07
+        },
+        {
+          "period": "2016",
+          "value": 1693.03
+        },
+        {
+          "period": "2017",
+          "value": 1677.65
+        },
+        {
+          "period": "2018",
+          "value": 1878.46
+        },
+        {
+          "period": "2019",
+          "value": 2071.18
+        },
+        {
+          "period": "2020",
+          "value": 1776.28
+        },
+        {
+          "period": "2021",
+          "value": 1884.94
+        },
+        {
+          "period": "2022",
+          "value": 2195.83
+        },
+        {
+          "period": "2023",
+          "value": 2426.02
+        },
+        {
+          "period": "2024",
+          "value": 2740.17
+        },
+        {
+          "period": "2025",
+          "value": 2856
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Value Added Tax/Sales Tax",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 955.98
+        },
+        {
+          "period": "2016",
+          "value": 992.07
+        },
+        {
+          "period": "2017",
+          "value": 974.72
+        },
+        {
+          "period": "2018",
+          "value": 1072.16
+        },
+        {
+          "period": "2019",
+          "value": 1352.32
+        },
+        {
+          "period": "2020",
+          "value": 1116.81
+        },
+        {
+          "period": "2021",
+          "value": 1202.45
+        },
+        {
+          "period": "2022",
+          "value": 1515.66
+        },
+        {
+          "period": "2023",
+          "value": 1714.75
+        },
+        {
+          "period": "2024",
+          "value": 1925.08
+        },
+        {
+          "period": "2025",
+          "value": 1975.24
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Excise Tax",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 152.87
+        },
+        {
+          "period": "2016",
+          "value": 172.03
+        },
+        {
+          "period": "2017",
+          "value": 188.84
+        },
+        {
+          "period": "2018",
+          "value": 226.6
+        },
+        {
+          "period": "2019",
+          "value": 256.83
+        },
+        {
+          "period": "2020",
+          "value": 251.44
+        },
+        {
+          "period": "2021",
+          "value": 221.12
+        },
+        {
+          "period": "2022",
+          "value": 201.15
+        },
+        {
+          "period": "2023",
+          "value": 257.49
+        },
+        {
+          "period": "2024",
+          "value": 295.66
+        },
+        {
+          "period": "2025",
+          "value": 325.33
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Stamp Duties",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 102.59
+        },
+        {
+          "period": "2016",
+          "value": 109.05
+        },
+        {
+          "period": "2017",
+          "value": 110.09
+        },
+        {
+          "period": "2018",
+          "value": 97.54
+        },
+        {
+          "period": "2019",
+          "value": 104.42
+        },
+        {
+          "period": "2020",
+          "value": 86.02
+        },
+        {
+          "period": "2021",
+          "value": 152.59
+        },
+        {
+          "period": "2022",
+          "value": 168.1
+        },
+        {
+          "period": "2023",
+          "value": 132.81
+        },
+        {
+          "period": "2024",
+          "value": 148.68
+        },
+        {
+          "period": "2025",
+          "value": 163.19
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Consumption Tax",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 11.2
+        },
+        {
+          "period": "2016",
+          "value": 11.48
+        },
+        {
+          "period": "2017",
+          "value": 10.91
+        },
+        {
+          "period": "2018",
+          "value": 11.99
+        },
+        {
+          "period": "2019",
+          "value": 12.37
+        },
+        {
+          "period": "2020",
+          "value": 11.4
+        },
+        {
+          "period": "2021",
+          "value": 11.95
+        },
+        {
+          "period": "2022",
+          "value": 13.7
+        },
+        {
+          "period": "2023",
+          "value": 14.78
+        },
+        {
+          "period": "2024",
+          "value": 14.48
+        },
+        {
+          "period": "2025",
+          "value": 14.94
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Licences",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 117.79
+        },
+        {
+          "period": "2016",
+          "value": 116.38
+        },
+        {
+          "period": "2017",
+          "value": 118.97
+        },
+        {
+          "period": "2018",
+          "value": 113.91
+        },
+        {
+          "period": "2019",
+          "value": 127.32
+        },
+        {
+          "period": "2020",
+          "value": 110.36
+        },
+        {
+          "period": "2021",
+          "value": 95.04
+        },
+        {
+          "period": "2022",
+          "value": 100.89
+        },
+        {
+          "period": "2023",
+          "value": 114.14
+        },
+        {
+          "period": "2024",
+          "value": 116.89
+        },
+        {
+          "period": "2025",
+          "value": 114
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Taxes on International Trade and Transactions",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 1074.34
+        },
+        {
+          "period": "2016",
+          "value": 1147.66
+        },
+        {
+          "period": "2017",
+          "value": 1196.38
+        },
+        {
+          "period": "2018",
+          "value": 1238.89
+        },
+        {
+          "period": "2019",
+          "value": 1122.25
+        },
+        {
+          "period": "2020",
+          "value": 927.84
+        },
+        {
+          "period": "2021",
+          "value": 972.73
+        },
+        {
+          "period": "2022",
+          "value": 1162.57
+        },
+        {
+          "period": "2023",
+          "value": 1226.66
+        },
+        {
+          "period": "2024",
+          "value": 1331.81
+        },
+        {
+          "period": "2025",
+          "value": 1404.24
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Import Duty",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 470.91
+        },
+        {
+          "period": "2016",
+          "value": 499.06
+        },
+        {
+          "period": "2017",
+          "value": 503.96
+        },
+        {
+          "period": "2018",
+          "value": 565.3
+        },
+        {
+          "period": "2019",
+          "value": 561.38
+        },
+        {
+          "period": "2020",
+          "value": 450.91
+        },
+        {
+          "period": "2021",
+          "value": 500.26
+        },
+        {
+          "period": "2022",
+          "value": 612.35
+        },
+        {
+          "period": "2023",
+          "value": 638.23
+        },
+        {
+          "period": "2024",
+          "value": 670.85
+        },
+        {
+          "period": "2025",
+          "value": 699.31
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Customs Service Tax/Customs Service Charge",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 227.52
+        },
+        {
+          "period": "2016",
+          "value": 236.01
+        },
+        {
+          "period": "2017",
+          "value": 244.69
+        },
+        {
+          "period": "2018",
+          "value": 280.86
+        },
+        {
+          "period": "2019",
+          "value": 274.24
+        },
+        {
+          "period": "2020",
+          "value": 217.83
+        },
+        {
+          "period": "2021",
+          "value": 247.27
+        },
+        {
+          "period": "2022",
+          "value": 297.75
+        },
+        {
+          "period": "2023",
+          "value": 332.86
+        },
+        {
+          "period": "2024",
+          "value": 345.29
+        },
+        {
+          "period": "2025",
+          "value": 369.01
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Consumption Tax on imports",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 64.45
+        },
+        {
+          "period": "2016",
+          "value": 78.46
+        },
+        {
+          "period": "2017",
+          "value": 64.85
+        },
+        {
+          "period": "2018",
+          "value": 53.43
+        },
+        {
+          "period": "2019",
+          "value": 64.38
+        },
+        {
+          "period": "2020",
+          "value": 79.58
+        },
+        {
+          "period": "2021",
+          "value": 47.6
+        },
+        {
+          "period": "2022",
+          "value": 35.21
+        },
+        {
+          "period": "2023",
+          "value": 33.66
+        },
+        {
+          "period": "2024",
+          "value": 59.69
+        },
+        {
+          "period": "2025",
+          "value": 70.17
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Environment Levy",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 22.39
+        },
+        {
+          "period": "2016",
+          "value": 23.08
+        },
+        {
+          "period": "2017",
+          "value": 21
+        },
+        {
+          "period": "2018",
+          "value": 38.36
+        },
+        {
+          "period": "2019",
+          "value": 38.89
+        },
+        {
+          "period": "2020",
+          "value": 31.01
+        },
+        {
+          "period": "2021",
+          "value": 28.27
+        },
+        {
+          "period": "2022",
+          "value": 29.25
+        },
+        {
+          "period": "2023",
+          "value": 36.97
+        },
+        {
+          "period": "2024",
+          "value": 44.49
+        },
+        {
+          "period": "2025",
+          "value": 51.62
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Other Taxes",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": null
+        },
+        {
+          "period": "2016",
+          "value": null
+        },
+        {
+          "period": "2017",
+          "value": null
+        },
+        {
+          "period": "2018",
+          "value": 2.94
+        },
+        {
+          "period": "2019",
+          "value": 3.76
+        },
+        {
+          "period": "2020",
+          "value": 3.16
+        },
+        {
+          "period": "2021",
+          "value": 6.96
+        },
+        {
+          "period": "2022",
+          "value": 3.5
+        },
+        {
+          "period": "2023",
+          "value": 4.11
+        },
+        {
+          "period": "2024",
+          "value": 3.92
+        },
+        {
+          "period": "2025",
+          "value": null
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Non Tax Revenue/Other Revenue",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 772.75
+        },
+        {
+          "period": "2016",
+          "value": 993.04
+        },
+        {
+          "period": "2017",
+          "value": 863.6
+        },
+        {
+          "period": "2018",
+          "value": 1214.65
+        },
+        {
+          "period": "2019",
+          "value": 1165.87
+        },
+        {
+          "period": "2020",
+          "value": 933.45
+        },
+        {
+          "period": "2021",
+          "value": 1570.96
+        },
+        {
+          "period": "2022",
+          "value": 1704.72
+        },
+        {
+          "period": "2023",
+          "value": 2135.88
+        },
+        {
+          "period": "2024",
+          "value": 2595.42
+        },
+        {
+          "period": "2025",
+          "value": 1984.11
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Citizenship by Investment",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 493.5
+        },
+        {
+          "period": "2016",
+          "value": 654.57
+        },
+        {
+          "period": "2017",
+          "value": 513.77
+        },
+        {
+          "period": "2018",
+          "value": 829.07
+        },
+        {
+          "period": "2019",
+          "value": 757.08
+        },
+        {
+          "period": "2020",
+          "value": 606.31
+        },
+        {
+          "period": "2021",
+          "value": 1186.87
+        },
+        {
+          "period": "2022",
+          "value": 1279.85
+        },
+        {
+          "period": "2023",
+          "value": 1651.85
+        },
+        {
+          "period": "2024",
+          "value": 1786.18
+        },
+        {
+          "period": "2025",
+          "value": 1208.76
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Current Expenditure",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 3924.14
+        },
+        {
+          "period": "2016",
+          "value": 4157.9
+        },
+        {
+          "period": "2017",
+          "value": 4376.17
+        },
+        {
+          "period": "2018",
+          "value": 4734.58
+        },
+        {
+          "period": "2019",
+          "value": 5061.86
+        },
+        {
+          "period": "2020",
+          "value": 5052.71
+        },
+        {
+          "period": "2021",
+          "value": 5271.38
+        },
+        {
+          "period": "2022",
+          "value": 5517.47
+        },
+        {
+          "period": "2023",
+          "value": 5702.85
+        },
+        {
+          "period": "2024",
+          "value": 6364.45
+        },
+        {
+          "period": "2025",
+          "value": 6676.39
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Personal Emoluments/Compensation of Employees",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 1712.64
+        },
+        {
+          "period": "2016",
+          "value": 1831.33
+        },
+        {
+          "period": "2017",
+          "value": 1860.36
+        },
+        {
+          "period": "2018",
+          "value": 1965.35
+        },
+        {
+          "period": "2019",
+          "value": 2044.21
+        },
+        {
+          "period": "2020",
+          "value": 2034.44
+        },
+        {
+          "period": "2021",
+          "value": 2117.17
+        },
+        {
+          "period": "2022",
+          "value": 2152.47
+        },
+        {
+          "period": "2023",
+          "value": 2199.18
+        },
+        {
+          "period": "2024",
+          "value": 2368.26
+        },
+        {
+          "period": "2025",
+          "value": 2615.82
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Goods and Services",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 776.79
+        },
+        {
+          "period": "2016",
+          "value": 823.54
+        },
+        {
+          "period": "2017",
+          "value": 886.21
+        },
+        {
+          "period": "2018",
+          "value": 1048.34
+        },
+        {
+          "period": "2019",
+          "value": 1170.24
+        },
+        {
+          "period": "2020",
+          "value": 1224.93
+        },
+        {
+          "period": "2021",
+          "value": 1299.14
+        },
+        {
+          "period": "2022",
+          "value": 1305.87
+        },
+        {
+          "period": "2023",
+          "value": 1379.5
+        },
+        {
+          "period": "2024",
+          "value": 1522.84
+        },
+        {
+          "period": "2025",
+          "value": 1442.84
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Interest Payments",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 452.17
+        },
+        {
+          "period": "2016",
+          "value": 460.1
+        },
+        {
+          "period": "2017",
+          "value": 472.51
+        },
+        {
+          "period": "2018",
+          "value": 477.53
+        },
+        {
+          "period": "2019",
+          "value": 494.12
+        },
+        {
+          "period": "2020",
+          "value": 450.97
+        },
+        {
+          "period": "2021",
+          "value": 461.26
+        },
+        {
+          "period": "2022",
+          "value": 509.66
+        },
+        {
+          "period": "2023",
+          "value": 568.34
+        },
+        {
+          "period": "2024",
+          "value": 685.27
+        },
+        {
+          "period": "2025",
+          "value": 773.64
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Domestic",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 259.07
+        },
+        {
+          "period": "2016",
+          "value": 262.81
+        },
+        {
+          "period": "2017",
+          "value": 266.87
+        },
+        {
+          "period": "2018",
+          "value": 265.76
+        },
+        {
+          "period": "2019",
+          "value": 277.38
+        },
+        {
+          "period": "2020",
+          "value": 246.03
+        },
+        {
+          "period": "2021",
+          "value": 267.11
+        },
+        {
+          "period": "2022",
+          "value": 296.12
+        },
+        {
+          "period": "2023",
+          "value": 304.8
+        },
+        {
+          "period": "2024",
+          "value": 319.96
+        },
+        {
+          "period": "2025",
+          "value": 368.25
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "External",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 193.09
+        },
+        {
+          "period": "2016",
+          "value": 197.29
+        },
+        {
+          "period": "2017",
+          "value": 205.64
+        },
+        {
+          "period": "2018",
+          "value": 211.77
+        },
+        {
+          "period": "2019",
+          "value": 216.74
+        },
+        {
+          "period": "2020",
+          "value": 204.95
+        },
+        {
+          "period": "2021",
+          "value": 194.16
+        },
+        {
+          "period": "2022",
+          "value": 213.54
+        },
+        {
+          "period": "2023",
+          "value": 263.54
+        },
+        {
+          "period": "2024",
+          "value": 365.32
+        },
+        {
+          "period": "2025",
+          "value": 405.39
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Transfers and Subsidies",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 978.51
+        },
+        {
+          "period": "2016",
+          "value": 1040.7
+        },
+        {
+          "period": "2017",
+          "value": 1154.5
+        },
+        {
+          "period": "2018",
+          "value": 1239.11
+        },
+        {
+          "period": "2019",
+          "value": 1349.88
+        },
+        {
+          "period": "2020",
+          "value": 1333.06
+        },
+        {
+          "period": "2021",
+          "value": 1389.89
+        },
+        {
+          "period": "2022",
+          "value": 1546.22
+        },
+        {
+          "period": "2023",
+          "value": 1550.67
+        },
+        {
+          "period": "2024",
+          "value": 1782.84
+        },
+        {
+          "period": "2025",
+          "value": 1840.99
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Pension",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 239.69
+        },
+        {
+          "period": "2016",
+          "value": 254.84
+        },
+        {
+          "period": "2017",
+          "value": 272.72
+        },
+        {
+          "period": "2018",
+          "value": 284.52
+        },
+        {
+          "period": "2019",
+          "value": 327.82
+        },
+        {
+          "period": "2020",
+          "value": 319.65
+        },
+        {
+          "period": "2021",
+          "value": 348.01
+        },
+        {
+          "period": "2022",
+          "value": 385.31
+        },
+        {
+          "period": "2023",
+          "value": 381.24
+        },
+        {
+          "period": "2024",
+          "value": 407.34
+        },
+        {
+          "period": "2025",
+          "value": 519.83
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Grants and Contributions",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 111.72
+        },
+        {
+          "period": "2016",
+          "value": 107.52
+        },
+        {
+          "period": "2017",
+          "value": 130.04
+        },
+        {
+          "period": "2018",
+          "value": 105.89
+        },
+        {
+          "period": "2019",
+          "value": 379.43
+        },
+        {
+          "period": "2020",
+          "value": 301.95
+        },
+        {
+          "period": "2021",
+          "value": 336.7
+        },
+        {
+          "period": "2022",
+          "value": 344.37
+        },
+        {
+          "period": "2023",
+          "value": 316.82
+        },
+        {
+          "period": "2024",
+          "value": 351.18
+        },
+        {
+          "period": "2025",
+          "value": 288.93
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Current Account Balance (before Grants)",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 438.62
+        },
+        {
+          "period": "2016",
+          "value": 649.6
+        },
+        {
+          "period": "2017",
+          "value": 365.27
+        },
+        {
+          "period": "2018",
+          "value": 621.28
+        },
+        {
+          "period": "2019",
+          "value": 352.13
+        },
+        {
+          "period": "2020",
+          "value": -474.86
+        },
+        {
+          "period": "2021",
+          "value": 166.27
+        },
+        {
+          "period": "2022",
+          "value": 533.44
+        },
+        {
+          "period": "2023",
+          "value": 1244.65
+        },
+        {
+          "period": "2024",
+          "value": 1551.12
+        },
+        {
+          "period": "2025",
+          "value": 945.05
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Current Account Balance (after Grants)",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 554.11
+        },
+        {
+          "period": "2016",
+          "value": 790.54
+        },
+        {
+          "period": "2017",
+          "value": 486.41
+        },
+        {
+          "period": "2018",
+          "value": 756.02
+        },
+        {
+          "period": "2019",
+          "value": 489.22
+        },
+        {
+          "period": "2020",
+          "value": -257.66
+        },
+        {
+          "period": "2021",
+          "value": 361.14
+        },
+        {
+          "period": "2022",
+          "value": 807.02
+        },
+        {
+          "period": "2023",
+          "value": 1436.5
+        },
+        {
+          "period": "2024",
+          "value": 1736.11
+        },
+        {
+          "period": "2025",
+          "value": 1221.19
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Capital Revenue",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 101.27
+        },
+        {
+          "period": "2016",
+          "value": 181.38
+        },
+        {
+          "period": "2017",
+          "value": 25.06
+        },
+        {
+          "period": "2018",
+          "value": 64.86
+        },
+        {
+          "period": "2019",
+          "value": 34.46
+        },
+        {
+          "period": "2020",
+          "value": 74.78
+        },
+        {
+          "period": "2021",
+          "value": 59.3
+        },
+        {
+          "period": "2022",
+          "value": 30.4
+        },
+        {
+          "period": "2023",
+          "value": 17.22
+        },
+        {
+          "period": "2024",
+          "value": 112.9
+        },
+        {
+          "period": "2025",
+          "value": 64.5
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Grants",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 382.75
+        },
+        {
+          "period": "2016",
+          "value": 336.55
+        },
+        {
+          "period": "2017",
+          "value": 485.63
+        },
+        {
+          "period": "2018",
+          "value": 401.75
+        },
+        {
+          "period": "2019",
+          "value": 374.16
+        },
+        {
+          "period": "2020",
+          "value": 642.92
+        },
+        {
+          "period": "2021",
+          "value": 654.86
+        },
+        {
+          "period": "2022",
+          "value": 600.55
+        },
+        {
+          "period": "2023",
+          "value": 373.58
+        },
+        {
+          "period": "2024",
+          "value": 393.82
+        },
+        {
+          "period": "2025",
+          "value": 534.1
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Of which: Capital Grants",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 267.26
+        },
+        {
+          "period": "2016",
+          "value": 195.61
+        },
+        {
+          "period": "2017",
+          "value": 364.5
+        },
+        {
+          "period": "2018",
+          "value": 267.01
+        },
+        {
+          "period": "2019",
+          "value": 237.07
+        },
+        {
+          "period": "2020",
+          "value": 425.72
+        },
+        {
+          "period": "2021",
+          "value": 460
+        },
+        {
+          "period": "2022",
+          "value": 326.97
+        },
+        {
+          "period": "2023",
+          "value": 181.73
+        },
+        {
+          "period": "2024",
+          "value": 208.84
+        },
+        {
+          "period": "2025",
+          "value": 257.95
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Capital Expenditure and Net Lending",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 890.99
+        },
+        {
+          "period": "2016",
+          "value": 783.68
+        },
+        {
+          "period": "2017",
+          "value": 936.39
+        },
+        {
+          "period": "2018",
+          "value": 1238.99
+        },
+        {
+          "period": "2019",
+          "value": 1171.35
+        },
+        {
+          "period": "2020",
+          "value": 1211.3
+        },
+        {
+          "period": "2021",
+          "value": 1517.64
+        },
+        {
+          "period": "2022",
+          "value": 1702.1
+        },
+        {
+          "period": "2023",
+          "value": 1916.7
+        },
+        {
+          "period": "2024",
+          "value": 2333.86
+        },
+        {
+          "period": "2025",
+          "value": 2677.17
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Of which: Capital Expenditure",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 866.61
+        },
+        {
+          "period": "2016",
+          "value": 759.93
+        },
+        {
+          "period": "2017",
+          "value": 934.67
+        },
+        {
+          "period": "2018",
+          "value": 1239.1
+        },
+        {
+          "period": "2019",
+          "value": 1172.27
+        },
+        {
+          "period": "2020",
+          "value": 1212.87
+        },
+        {
+          "period": "2021",
+          "value": 1518.21
+        },
+        {
+          "period": "2022",
+          "value": 1702.81
+        },
+        {
+          "period": "2023",
+          "value": 1918.33
+        },
+        {
+          "period": "2024",
+          "value": 2296.05
+        },
+        {
+          "period": "2025",
+          "value": 2614.32
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Primary Balance (before Grants)",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 104.35
+        },
+        {
+          "period": "2016",
+          "value": 507.47
+        },
+        {
+          "period": "2017",
+          "value": -71.16
+        },
+        {
+          "period": "2018",
+          "value": -75.58
+        },
+        {
+          "period": "2019",
+          "value": -290.55
+        },
+        {
+          "period": "2020",
+          "value": -1160.41
+        },
+        {
+          "period": "2021",
+          "value": -830.8
+        },
+        {
+          "period": "2022",
+          "value": -629.33
+        },
+        {
+          "period": "2023",
+          "value": -88.13
+        },
+        {
+          "period": "2024",
+          "value": 53.24
+        },
+        {
+          "period": "2025",
+          "value": -831.13
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Primary Balance (after Grants)",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 487.1
+        },
+        {
+          "period": "2016",
+          "value": 844.02
+        },
+        {
+          "period": "2017",
+          "value": 414.47
+        },
+        {
+          "period": "2018",
+          "value": 326.16
+        },
+        {
+          "period": "2019",
+          "value": 83.61
+        },
+        {
+          "period": "2020",
+          "value": -517.49
+        },
+        {
+          "period": "2021",
+          "value": -175.94
+        },
+        {
+          "period": "2022",
+          "value": -28.78
+        },
+        {
+          "period": "2023",
+          "value": 285.45
+        },
+        {
+          "period": "2024",
+          "value": 447.06
+        },
+        {
+          "period": "2025",
+          "value": -297.04
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Overall Balance (before Grants)",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": -347.82
+        },
+        {
+          "period": "2016",
+          "value": 47.37
+        },
+        {
+          "period": "2017",
+          "value": -543.68
+        },
+        {
+          "period": "2018",
+          "value": -553.11
+        },
+        {
+          "period": "2019",
+          "value": -784.67
+        },
+        {
+          "period": "2020",
+          "value": -1611.38
+        },
+        {
+          "period": "2021",
+          "value": -1292.07
+        },
+        {
+          "period": "2022",
+          "value": -1138.99
+        },
+        {
+          "period": "2023",
+          "value": -656.46
+        },
+        {
+          "period": "2024",
+          "value": -632.03
+        },
+        {
+          "period": "2025",
+          "value": -1604.77
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Overall Balance (after Grants)",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 34.93
+        },
+        {
+          "period": "2016",
+          "value": 383.91
+        },
+        {
+          "period": "2017",
+          "value": -58.04
+        },
+        {
+          "period": "2018",
+          "value": -151.36
+        },
+        {
+          "period": "2019",
+          "value": -410.52
+        },
+        {
+          "period": "2020",
+          "value": -968.46
+        },
+        {
+          "period": "2021",
+          "value": -637.2
+        },
+        {
+          "period": "2022",
+          "value": -538.44
+        },
+        {
+          "period": "2023",
+          "value": -282.88
+        },
+        {
+          "period": "2024",
+          "value": -238.21
+        },
+        {
+          "period": "2025",
+          "value": -1070.68
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Financing",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": -34.93
+        },
+        {
+          "period": "2016",
+          "value": -383.91
+        },
+        {
+          "period": "2017",
+          "value": 58.04
+        },
+        {
+          "period": "2018",
+          "value": 151.36
+        },
+        {
+          "period": "2019",
+          "value": 410.52
+        },
+        {
+          "period": "2020",
+          "value": 968.46
+        },
+        {
+          "period": "2021",
+          "value": 637.2
+        },
+        {
+          "period": "2022",
+          "value": 538.44
+        },
+        {
+          "period": "2023",
+          "value": 282.88
+        },
+        {
+          "period": "2024",
+          "value": 238.21
+        },
+        {
+          "period": "2025",
+          "value": 1070.68
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Domestic",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": -22.13
+        },
+        {
+          "period": "2016",
+          "value": -121.68
+        },
+        {
+          "period": "2017",
+          "value": 25.02
+        },
+        {
+          "period": "2018",
+          "value": 188.39
+        },
+        {
+          "period": "2019",
+          "value": -96.79
+        },
+        {
+          "period": "2020",
+          "value": 48.99
+        },
+        {
+          "period": "2021",
+          "value": -741.12
+        },
+        {
+          "period": "2022",
+          "value": -323.94
+        },
+        {
+          "period": "2023",
+          "value": -710.77
+        },
+        {
+          "period": "2024",
+          "value": -736.59
+        },
+        {
+          "period": "2025",
+          "value": -28.62
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "ECCB (net)",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": -60.38
+        },
+        {
+          "period": "2016",
+          "value": -41.82
+        },
+        {
+          "period": "2017",
+          "value": -2.62
+        },
+        {
+          "period": "2018",
+          "value": -37.81
+        },
+        {
+          "period": "2019",
+          "value": 62.89
+        },
+        {
+          "period": "2020",
+          "value": 292.84
+        },
+        {
+          "period": "2021",
+          "value": -66.27
+        },
+        {
+          "period": "2022",
+          "value": 113.27
+        },
+        {
+          "period": "2023",
+          "value": -173.05
+        },
+        {
+          "period": "2024",
+          "value": -111.17
+        },
+        {
+          "period": "2025",
+          "value": -88.22
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Commercial Banks (net)",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": -1101.23
+        },
+        {
+          "period": "2016",
+          "value": -279.97
+        },
+        {
+          "period": "2017",
+          "value": -115.49
+        },
+        {
+          "period": "2018",
+          "value": 190.5
+        },
+        {
+          "period": "2019",
+          "value": 60.93
+        },
+        {
+          "period": "2020",
+          "value": 157.34
+        },
+        {
+          "period": "2021",
+          "value": -105.91
+        },
+        {
+          "period": "2022",
+          "value": 64.85
+        },
+        {
+          "period": "2023",
+          "value": -336.78
+        },
+        {
+          "period": "2024",
+          "value": 135.82
+        },
+        {
+          "period": "2025",
+          "value": 539.57
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Other",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 1139.48
+        },
+        {
+          "period": "2016",
+          "value": 200.11
+        },
+        {
+          "period": "2017",
+          "value": 143.13
+        },
+        {
+          "period": "2018",
+          "value": 35.7
+        },
+        {
+          "period": "2019",
+          "value": -220.61
+        },
+        {
+          "period": "2020",
+          "value": -401.18
+        },
+        {
+          "period": "2021",
+          "value": -568.94
+        },
+        {
+          "period": "2022",
+          "value": -502.06
+        },
+        {
+          "period": "2023",
+          "value": -200.95
+        },
+        {
+          "period": "2024",
+          "value": -761.24
+        },
+        {
+          "period": "2025",
+          "value": -479.97
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "External",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 22
+        },
+        {
+          "period": "2016",
+          "value": -169.92
+        },
+        {
+          "period": "2017",
+          "value": -36.97
+        },
+        {
+          "period": "2018",
+          "value": -106.6
+        },
+        {
+          "period": "2019",
+          "value": 534.13
+        },
+        {
+          "period": "2020",
+          "value": 831.61
+        },
+        {
+          "period": "2021",
+          "value": 1348.77
+        },
+        {
+          "period": "2022",
+          "value": 784.59
+        },
+        {
+          "period": "2023",
+          "value": 835.38
+        },
+        {
+          "period": "2024",
+          "value": 873.36
+        },
+        {
+          "period": "2025",
+          "value": 1150.82
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Net Disbursements/(Amortisation)",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 18.05
+        },
+        {
+          "period": "2016",
+          "value": -93.43
+        },
+        {
+          "period": "2017",
+          "value": -22.07
+        },
+        {
+          "period": "2018",
+          "value": -156.22
+        },
+        {
+          "period": "2019",
+          "value": 542.31
+        },
+        {
+          "period": "2020",
+          "value": 768.73
+        },
+        {
+          "period": "2021",
+          "value": 1415.94
+        },
+        {
+          "period": "2022",
+          "value": 775.61
+        },
+        {
+          "period": "2023",
+          "value": 833.32
+        },
+        {
+          "period": "2024",
+          "value": 880.85
+        },
+        {
+          "period": "2025",
+          "value": 1152.19
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Disbursements",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 471.24
+        },
+        {
+          "period": "2016",
+          "value": 372.05
+        },
+        {
+          "period": "2017",
+          "value": 503.01
+        },
+        {
+          "period": "2018",
+          "value": 524.09
+        },
+        {
+          "period": "2019",
+          "value": 1103.75
+        },
+        {
+          "period": "2020",
+          "value": 1389.17
+        },
+        {
+          "period": "2021",
+          "value": 2063.41
+        },
+        {
+          "period": "2022",
+          "value": 1388.85
+        },
+        {
+          "period": "2023",
+          "value": 1524.81
+        },
+        {
+          "period": "2024",
+          "value": 1437.03
+        },
+        {
+          "period": "2025",
+          "value": 1772.83
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Amortisation",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 453.19
+        },
+        {
+          "period": "2016",
+          "value": 465.48
+        },
+        {
+          "period": "2017",
+          "value": 525.08
+        },
+        {
+          "period": "2018",
+          "value": 680.31
+        },
+        {
+          "period": "2019",
+          "value": 561.43
+        },
+        {
+          "period": "2020",
+          "value": 620.44
+        },
+        {
+          "period": "2021",
+          "value": 647.47
+        },
+        {
+          "period": "2022",
+          "value": 613.24
+        },
+        {
+          "period": "2023",
+          "value": 691.49
+        },
+        {
+          "period": "2024",
+          "value": 556.18
+        },
+        {
+          "period": "2025",
+          "value": 620.63
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Change in Government Foreign Assets",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 3.95
+        },
+        {
+          "period": "2016",
+          "value": -76.49
+        },
+        {
+          "period": "2017",
+          "value": -14.9
+        },
+        {
+          "period": "2018",
+          "value": 49.62
+        },
+        {
+          "period": "2019",
+          "value": 0.26
+        },
+        {
+          "period": "2020",
+          "value": 62.87
+        },
+        {
+          "period": "2021",
+          "value": -67.17
+        },
+        {
+          "period": "2022",
+          "value": 8.98
+        },
+        {
+          "period": "2023",
+          "value": 2.06
+        },
+        {
+          "period": "2024",
+          "value": -7.49
+        },
+        {
+          "period": "2025",
+          "value": -1.38
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Arrears",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": -34.8
+        },
+        {
+          "period": "2016",
+          "value": -92.32
+        },
+        {
+          "period": "2017",
+          "value": 69.99
+        },
+        {
+          "period": "2018",
+          "value": 69.58
+        },
+        {
+          "period": "2019",
+          "value": -26.82
+        },
+        {
+          "period": "2020",
+          "value": 87.86
+        },
+        {
+          "period": "2021",
+          "value": 29.55
+        },
+        {
+          "period": "2022",
+          "value": 77.79
+        },
+        {
+          "period": "2023",
+          "value": 158.28
+        },
+        {
+          "period": "2024",
+          "value": 101.44
+        },
+        {
+          "period": "2025",
+          "value": -51.52
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Domestic",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": -51.65
+        },
+        {
+          "period": "2016",
+          "value": -45.54
+        },
+        {
+          "period": "2017",
+          "value": 27.48
+        },
+        {
+          "period": "2018",
+          "value": 10.29
+        },
+        {
+          "period": "2019",
+          "value": -99.93
+        },
+        {
+          "period": "2020",
+          "value": 13.89
+        },
+        {
+          "period": "2021",
+          "value": -26.03
+        },
+        {
+          "period": "2022",
+          "value": 6.05
+        },
+        {
+          "period": "2023",
+          "value": 38.02
+        },
+        {
+          "period": "2024",
+          "value": 104.36
+        },
+        {
+          "period": "2025",
+          "value": -68.51
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "External",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 16.85
+        },
+        {
+          "period": "2016",
+          "value": -46.77
+        },
+        {
+          "period": "2017",
+          "value": 42.52
+        },
+        {
+          "period": "2018",
+          "value": 59.28
+        },
+        {
+          "period": "2019",
+          "value": 73.1
+        },
+        {
+          "period": "2020",
+          "value": 73.97
+        },
+        {
+          "period": "2021",
+          "value": 55.59
+        },
+        {
+          "period": "2022",
+          "value": 71.74
+        },
+        {
+          "period": "2023",
+          "value": 120.26
+        },
+        {
+          "period": "2024",
+          "value": -2.92
+        },
+        {
+          "period": "2025",
+          "value": 16.99
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    }
+  ]
+}

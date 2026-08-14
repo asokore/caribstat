@@ -1,0 +1,421 @@
+{
+  "source": "Eastern Caribbean Central Bank",
+  "source_id": "eccb",
+  "source_url": "https://www.eccb-centralbank.org/statistics-category/other-real-sector/consumer-price-index-saint-lucia",
+  "table_id": "consumer-price-index",
+  "table_title": "Consumer Price Index",
+  "country": {
+    "iso3": "LCA",
+    "name": "Saint Lucia"
+  },
+  "frequency": "q",
+  "data_as_at": "2026-07-29",
+  "data_as_at_raw": "29 July 2026",
+  "retrieved_at": "2026-08-13T16:24:13.947Z",
+  "periods": [
+    "2025-Q1",
+    "2025-Q2",
+    "2025-Q3",
+    "2025-Q4",
+    "2026-Q1"
+  ],
+  "periods_raw": [
+    "Mar 2025",
+    "Jun 2025",
+    "Sep 2025",
+    "Dec 2025",
+    "Mar 2026"
+  ],
+  "series": [
+    {
+      "label": "Inflation Rate - end of period",
+      "unit": "%",
+      "observations": [
+        {
+          "period": "2025-Q1",
+          "value": 0.33
+        },
+        {
+          "period": "2025-Q2",
+          "value": 0.89
+        },
+        {
+          "period": "2025-Q3",
+          "value": -2.56
+        },
+        {
+          "period": "2025-Q4",
+          "value": 1.73
+        },
+        {
+          "period": "2026-Q1",
+          "value": 2.55
+        }
+      ]
+    },
+    {
+      "label": "Inflation Rate - period average",
+      "unit": "%",
+      "observations": [
+        {
+          "period": "2025-Q1",
+          "value": 0.77
+        },
+        {
+          "period": "2025-Q2",
+          "value": -0.28
+        },
+        {
+          "period": "2025-Q3",
+          "value": -0.08
+        },
+        {
+          "period": "2025-Q4",
+          "value": 1.64
+        },
+        {
+          "period": "2026-Q1",
+          "value": 0.34
+        }
+      ]
+    },
+    {
+      "label": "All Items",
+      "unit": "Index",
+      "observations": [
+        {
+          "period": "2025-Q1",
+          "value": 117.83
+        },
+        {
+          "period": "2025-Q2",
+          "value": 118.88
+        },
+        {
+          "period": "2025-Q3",
+          "value": 115.83
+        },
+        {
+          "period": "2025-Q4",
+          "value": 117.83
+        },
+        {
+          "period": "2026-Q1",
+          "value": 120.83
+        }
+      ]
+    },
+    {
+      "label": "Food And Non-Alcoholic Beverages",
+      "unit": "Index",
+      "observations": [
+        {
+          "period": "2025-Q1",
+          "value": 128.76
+        },
+        {
+          "period": "2025-Q2",
+          "value": 127.51
+        },
+        {
+          "period": "2025-Q3",
+          "value": 119.49
+        },
+        {
+          "period": "2025-Q4",
+          "value": 127.09
+        },
+        {
+          "period": "2026-Q1",
+          "value": 128.12
+        }
+      ]
+    },
+    {
+      "label": "Alcohol Beverages, Tobacco And Narcotics",
+      "unit": "Index",
+      "observations": [
+        {
+          "period": "2025-Q1",
+          "value": 127.09
+        },
+        {
+          "period": "2025-Q2",
+          "value": 119.38
+        },
+        {
+          "period": "2025-Q3",
+          "value": 115.87
+        },
+        {
+          "period": "2025-Q4",
+          "value": 127
+        },
+        {
+          "period": "2026-Q1",
+          "value": 111.99
+        }
+      ]
+    },
+    {
+      "label": "Clothing And Footware",
+      "unit": "Index",
+      "observations": [
+        {
+          "period": "2025-Q1",
+          "value": 109.41
+        },
+        {
+          "period": "2025-Q2",
+          "value": 110.23
+        },
+        {
+          "period": "2025-Q3",
+          "value": 103.48
+        },
+        {
+          "period": "2025-Q4",
+          "value": 106.99
+        },
+        {
+          "period": "2026-Q1",
+          "value": 107.34
+        }
+      ]
+    },
+    {
+      "label": "Housing, Water, Electricity, Gas, And Other Fuels",
+      "unit": "Index",
+      "observations": [
+        {
+          "period": "2025-Q1",
+          "value": 122.92
+        },
+        {
+          "period": "2025-Q2",
+          "value": 128.72
+        },
+        {
+          "period": "2025-Q3",
+          "value": 125.98
+        },
+        {
+          "period": "2025-Q4",
+          "value": 123.75
+        },
+        {
+          "period": "2026-Q1",
+          "value": 130.69
+        }
+      ]
+    },
+    {
+      "label": "Furnishing, Household Equipment And Routine Household Maintenance",
+      "unit": "Index",
+      "observations": [
+        {
+          "period": "2025-Q1",
+          "value": 121.01
+        },
+        {
+          "period": "2025-Q2",
+          "value": 115.72
+        },
+        {
+          "period": "2025-Q3",
+          "value": 123.78
+        },
+        {
+          "period": "2025-Q4",
+          "value": 120.5
+        },
+        {
+          "period": "2026-Q1",
+          "value": 129.18
+        }
+      ]
+    },
+    {
+      "label": "Health",
+      "unit": "Index",
+      "observations": [
+        {
+          "period": "2025-Q1",
+          "value": 126.86
+        },
+        {
+          "period": "2025-Q2",
+          "value": 127.17
+        },
+        {
+          "period": "2025-Q3",
+          "value": 126.49
+        },
+        {
+          "period": "2025-Q4",
+          "value": 127.26
+        },
+        {
+          "period": "2026-Q1",
+          "value": 127.49
+        }
+      ]
+    },
+    {
+      "label": "Transport",
+      "unit": "Index",
+      "observations": [
+        {
+          "period": "2025-Q1",
+          "value": 114.97
+        },
+        {
+          "period": "2025-Q2",
+          "value": 115.79
+        },
+        {
+          "period": "2025-Q3",
+          "value": 116.34
+        },
+        {
+          "period": "2025-Q4",
+          "value": 116.81
+        },
+        {
+          "period": "2026-Q1",
+          "value": 121.42
+        }
+      ]
+    },
+    {
+      "label": "Communication",
+      "unit": "Index",
+      "observations": [
+        {
+          "period": "2025-Q1",
+          "value": 84.88
+        },
+        {
+          "period": "2025-Q2",
+          "value": 86.19
+        },
+        {
+          "period": "2025-Q3",
+          "value": 86.19
+        },
+        {
+          "period": "2025-Q4",
+          "value": 86.19
+        },
+        {
+          "period": "2026-Q1",
+          "value": 86.19
+        }
+      ]
+    },
+    {
+      "label": "Recreation And Culture",
+      "unit": "Index",
+      "observations": [
+        {
+          "period": "2025-Q1",
+          "value": 96.88
+        },
+        {
+          "period": "2025-Q2",
+          "value": 99.51
+        },
+        {
+          "period": "2025-Q3",
+          "value": 94.86
+        },
+        {
+          "period": "2025-Q4",
+          "value": 97.03
+        },
+        {
+          "period": "2026-Q1",
+          "value": 96.17
+        }
+      ]
+    },
+    {
+      "label": "Education",
+      "unit": "Index",
+      "observations": [
+        {
+          "period": "2025-Q1",
+          "value": 88.8
+        },
+        {
+          "period": "2025-Q2",
+          "value": 88.8
+        },
+        {
+          "period": "2025-Q3",
+          "value": 88.26
+        },
+        {
+          "period": "2025-Q4",
+          "value": 88.8
+        },
+        {
+          "period": "2026-Q1",
+          "value": 88.58
+        }
+      ]
+    },
+    {
+      "label": "Restaurants And Hotels",
+      "unit": "Index",
+      "observations": [
+        {
+          "period": "2025-Q1",
+          "value": 114.83
+        },
+        {
+          "period": "2025-Q2",
+          "value": 114.82
+        },
+        {
+          "period": "2025-Q3",
+          "value": 115.63
+        },
+        {
+          "period": "2025-Q4",
+          "value": 114.88
+        },
+        {
+          "period": "2026-Q1",
+          "value": 114.45
+        }
+      ]
+    },
+    {
+      "label": "Miscellaneous Goods And Services",
+      "unit": "Index",
+      "observations": [
+        {
+          "period": "2025-Q1",
+          "value": 109.56
+        },
+        {
+          "period": "2025-Q2",
+          "value": 111.35
+        },
+        {
+          "period": "2025-Q3",
+          "value": 111.35
+        },
+        {
+          "period": "2025-Q4",
+          "value": 110.23
+        },
+        {
+          "period": "2026-Q1",
+          "value": 108.95
+        }
+      ]
+    }
+  ]
+}

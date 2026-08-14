@@ -1,0 +1,1665 @@
+{
+  "source": "Eastern Caribbean Central Bank",
+  "source_id": "eccb",
+  "source_url": "https://www.eccb-centralbank.org/statistics-category/monetary-and-financial-statistics/summarized-monetary-survey",
+  "table_id": "summarized-monetary-survey",
+  "table_title": "Summarized Monetary Survey",
+  "country": {
+    "iso3": "VCT",
+    "name": "Saint Vincent and the Grenadines"
+  },
+  "frequency": "a",
+  "data_as_at": "2026-07-09",
+  "data_as_at_raw": "09 July 2026",
+  "retrieved_at": "2026-08-13T21:47:57.753Z",
+  "periods": [
+    "2015",
+    "2016",
+    "2017",
+    "2018",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024",
+    "2025",
+    "2026"
+  ],
+  "periods_raw": [
+    "2015",
+    "2016",
+    "2017",
+    "2018",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024",
+    "2025",
+    "2026"
+  ],
+  "series": [
+    {
+      "label": "Net Foreign Assets",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 555.39
+        },
+        {
+          "period": "2016",
+          "value": 658.16
+        },
+        {
+          "period": "2017",
+          "value": 608
+        },
+        {
+          "period": "2018",
+          "value": 599.25
+        },
+        {
+          "period": "2019",
+          "value": 826.6
+        },
+        {
+          "period": "2020",
+          "value": 904.67
+        },
+        {
+          "period": "2021",
+          "value": 1238.03
+        },
+        {
+          "period": "2022",
+          "value": 1092.15
+        },
+        {
+          "period": "2023",
+          "value": 928.34
+        },
+        {
+          "period": "2024",
+          "value": 1044.19
+        },
+        {
+          "period": "2025",
+          "value": 1174.46
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Claims On Non-Residents",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 939.05
+        },
+        {
+          "period": "2016",
+          "value": 1037.43
+        },
+        {
+          "period": "2017",
+          "value": 977.32
+        },
+        {
+          "period": "2018",
+          "value": 967.5
+        },
+        {
+          "period": "2019",
+          "value": 1100.05
+        },
+        {
+          "period": "2020",
+          "value": 1243.63
+        },
+        {
+          "period": "2021",
+          "value": 1537.63
+        },
+        {
+          "period": "2022",
+          "value": 1496.78
+        },
+        {
+          "period": "2023",
+          "value": 1383.6
+        },
+        {
+          "period": "2024",
+          "value": 1632.19
+        },
+        {
+          "period": "2025",
+          "value": 1792.64
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Central Bank Claims On Non-Residents",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 487.39
+        },
+        {
+          "period": "2016",
+          "value": 543.98
+        },
+        {
+          "period": "2017",
+          "value": 520.76
+        },
+        {
+          "period": "2018",
+          "value": 491.09
+        },
+        {
+          "period": "2019",
+          "value": 543.31
+        },
+        {
+          "period": "2020",
+          "value": 609.52
+        },
+        {
+          "period": "2021",
+          "value": 797.62
+        },
+        {
+          "period": "2022",
+          "value": 823.9
+        },
+        {
+          "period": "2023",
+          "value": 719.18
+        },
+        {
+          "period": "2024",
+          "value": 820.9
+        },
+        {
+          "period": "2025",
+          "value": 728.46
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Other Depository Corporations (Commercial Banks) Claims On Non-Residents",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 451.66
+        },
+        {
+          "period": "2016",
+          "value": 493.44
+        },
+        {
+          "period": "2017",
+          "value": 456.57
+        },
+        {
+          "period": "2018",
+          "value": 476.41
+        },
+        {
+          "period": "2019",
+          "value": 556.73
+        },
+        {
+          "period": "2020",
+          "value": 634.11
+        },
+        {
+          "period": "2021",
+          "value": 740.01
+        },
+        {
+          "period": "2022",
+          "value": 672.88
+        },
+        {
+          "period": "2023",
+          "value": 664.43
+        },
+        {
+          "period": "2024",
+          "value": 811.29
+        },
+        {
+          "period": "2025",
+          "value": 1064.18
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Liabilities To Non-Residents",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 383.66
+        },
+        {
+          "period": "2016",
+          "value": 379.26
+        },
+        {
+          "period": "2017",
+          "value": 369.33
+        },
+        {
+          "period": "2018",
+          "value": 368.25
+        },
+        {
+          "period": "2019",
+          "value": 273.45
+        },
+        {
+          "period": "2020",
+          "value": 338.96
+        },
+        {
+          "period": "2021",
+          "value": 299.61
+        },
+        {
+          "period": "2022",
+          "value": 404.63
+        },
+        {
+          "period": "2023",
+          "value": 455.26
+        },
+        {
+          "period": "2024",
+          "value": 588
+        },
+        {
+          "period": "2025",
+          "value": 618.18
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Central Bank Liabilities To Non-Residents",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 24.39
+        },
+        {
+          "period": "2016",
+          "value": 27.53
+        },
+        {
+          "period": "2017",
+          "value": 33.66
+        },
+        {
+          "period": "2018",
+          "value": 36.04
+        },
+        {
+          "period": "2019",
+          "value": 25.33
+        },
+        {
+          "period": "2020",
+          "value": 58.28
+        },
+        {
+          "period": "2021",
+          "value": 62.79
+        },
+        {
+          "period": "2022",
+          "value": 86.19
+        },
+        {
+          "period": "2023",
+          "value": 82.93
+        },
+        {
+          "period": "2024",
+          "value": 93.12
+        },
+        {
+          "period": "2025",
+          "value": 63.95
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Other Depository Corporations (Commercial Banks) Liabilities To Non-Residents",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 359.27
+        },
+        {
+          "period": "2016",
+          "value": 351.73
+        },
+        {
+          "period": "2017",
+          "value": 335.67
+        },
+        {
+          "period": "2018",
+          "value": 332.22
+        },
+        {
+          "period": "2019",
+          "value": 248.12
+        },
+        {
+          "period": "2020",
+          "value": 280.68
+        },
+        {
+          "period": "2021",
+          "value": 236.82
+        },
+        {
+          "period": "2022",
+          "value": 318.44
+        },
+        {
+          "period": "2023",
+          "value": 372.33
+        },
+        {
+          "period": "2024",
+          "value": 494.88
+        },
+        {
+          "period": "2025",
+          "value": 554.23
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Net Domestic Assets",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 966.78
+        },
+        {
+          "period": "2016",
+          "value": 913.91
+        },
+        {
+          "period": "2017",
+          "value": 969.18
+        },
+        {
+          "period": "2018",
+          "value": 995.82
+        },
+        {
+          "period": "2019",
+          "value": 932.22
+        },
+        {
+          "period": "2020",
+          "value": 738.8
+        },
+        {
+          "period": "2021",
+          "value": 615.5
+        },
+        {
+          "period": "2022",
+          "value": 755.74
+        },
+        {
+          "period": "2023",
+          "value": 998.54
+        },
+        {
+          "period": "2024",
+          "value": 1187.15
+        },
+        {
+          "period": "2025",
+          "value": 1177.88
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Domestic Claims",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 1115.72
+        },
+        {
+          "period": "2016",
+          "value": 1096.69
+        },
+        {
+          "period": "2017",
+          "value": 1128.98
+        },
+        {
+          "period": "2018",
+          "value": 1137.25
+        },
+        {
+          "period": "2019",
+          "value": 1071.71
+        },
+        {
+          "period": "2020",
+          "value": 1127.96
+        },
+        {
+          "period": "2021",
+          "value": 1076.62
+        },
+        {
+          "period": "2022",
+          "value": 1087.93
+        },
+        {
+          "period": "2023",
+          "value": 1262.37
+        },
+        {
+          "period": "2024",
+          "value": 1544.04
+        },
+        {
+          "period": "2025",
+          "value": 1653.84
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Net Claims On General Government",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 38.41
+        },
+        {
+          "period": "2016",
+          "value": 6.85
+        },
+        {
+          "period": "2017",
+          "value": 24.11
+        },
+        {
+          "period": "2018",
+          "value": 32.68
+        },
+        {
+          "period": "2019",
+          "value": -29.77
+        },
+        {
+          "period": "2020",
+          "value": 1.77
+        },
+        {
+          "period": "2021",
+          "value": -49.98
+        },
+        {
+          "period": "2022",
+          "value": -29.37
+        },
+        {
+          "period": "2023",
+          "value": 112.55
+        },
+        {
+          "period": "2024",
+          "value": 391.5
+        },
+        {
+          "period": "2025",
+          "value": 372.63
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Claims On General Government",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 182.93
+        },
+        {
+          "period": "2016",
+          "value": 158.54
+        },
+        {
+          "period": "2017",
+          "value": 193.45
+        },
+        {
+          "period": "2018",
+          "value": 191.84
+        },
+        {
+          "period": "2019",
+          "value": 158
+        },
+        {
+          "period": "2020",
+          "value": 266.8
+        },
+        {
+          "period": "2021",
+          "value": 240.94
+        },
+        {
+          "period": "2022",
+          "value": 282.98
+        },
+        {
+          "period": "2023",
+          "value": 351.6
+        },
+        {
+          "period": "2024",
+          "value": 585.52
+        },
+        {
+          "period": "2025",
+          "value": 581.9
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "From Central Bank",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 24.29
+        },
+        {
+          "period": "2016",
+          "value": 27.52
+        },
+        {
+          "period": "2017",
+          "value": 33.63
+        },
+        {
+          "period": "2018",
+          "value": 36
+        },
+        {
+          "period": "2019",
+          "value": 25.27
+        },
+        {
+          "period": "2020",
+          "value": 58.21
+        },
+        {
+          "period": "2021",
+          "value": 62.71
+        },
+        {
+          "period": "2022",
+          "value": 86.11
+        },
+        {
+          "period": "2023",
+          "value": 82.86
+        },
+        {
+          "period": "2024",
+          "value": 93.07
+        },
+        {
+          "period": "2025",
+          "value": 63.91
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "From Other Depository Corporations",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 158.64
+        },
+        {
+          "period": "2016",
+          "value": 131.01
+        },
+        {
+          "period": "2017",
+          "value": 159.82
+        },
+        {
+          "period": "2018",
+          "value": 155.84
+        },
+        {
+          "period": "2019",
+          "value": 132.73
+        },
+        {
+          "period": "2020",
+          "value": 208.59
+        },
+        {
+          "period": "2021",
+          "value": 178.24
+        },
+        {
+          "period": "2022",
+          "value": 196.87
+        },
+        {
+          "period": "2023",
+          "value": 268.74
+        },
+        {
+          "period": "2024",
+          "value": 492.45
+        },
+        {
+          "period": "2025",
+          "value": 518
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Liabilities To General Government",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 144.51
+        },
+        {
+          "period": "2016",
+          "value": 151.69
+        },
+        {
+          "period": "2017",
+          "value": 169.34
+        },
+        {
+          "period": "2018",
+          "value": 159.16
+        },
+        {
+          "period": "2019",
+          "value": 187.77
+        },
+        {
+          "period": "2020",
+          "value": 265.04
+        },
+        {
+          "period": "2021",
+          "value": 290.92
+        },
+        {
+          "period": "2022",
+          "value": 312.35
+        },
+        {
+          "period": "2023",
+          "value": 239.04
+        },
+        {
+          "period": "2024",
+          "value": 194.02
+        },
+        {
+          "period": "2025",
+          "value": 209.27
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Claims On Other Sectors",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 1077.31
+        },
+        {
+          "period": "2016",
+          "value": 1089.84
+        },
+        {
+          "period": "2017",
+          "value": 1104.87
+        },
+        {
+          "period": "2018",
+          "value": 1104.57
+        },
+        {
+          "period": "2019",
+          "value": 1101.48
+        },
+        {
+          "period": "2020",
+          "value": 1126.19
+        },
+        {
+          "period": "2021",
+          "value": 1126.6
+        },
+        {
+          "period": "2022",
+          "value": 1117.31
+        },
+        {
+          "period": "2023",
+          "value": 1149.81
+        },
+        {
+          "period": "2024",
+          "value": 1152.54
+        },
+        {
+          "period": "2025",
+          "value": 1281.21
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Claims On Other Financial Corporations (NBFI)",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 19.49
+        },
+        {
+          "period": "2016",
+          "value": 27.41
+        },
+        {
+          "period": "2017",
+          "value": 36.55
+        },
+        {
+          "period": "2018",
+          "value": 41.93
+        },
+        {
+          "period": "2019",
+          "value": 27.69
+        },
+        {
+          "period": "2020",
+          "value": 15.73
+        },
+        {
+          "period": "2021",
+          "value": 16.14
+        },
+        {
+          "period": "2022",
+          "value": 14.27
+        },
+        {
+          "period": "2023",
+          "value": 0.38
+        },
+        {
+          "period": "2024",
+          "value": 0.54
+        },
+        {
+          "period": "2025",
+          "value": 7.74
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Claims On Public Non-Financial Corporations",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 7.42
+        },
+        {
+          "period": "2016",
+          "value": 5.79
+        },
+        {
+          "period": "2017",
+          "value": 3.91
+        },
+        {
+          "period": "2018",
+          "value": 1.76
+        },
+        {
+          "period": "2019",
+          "value": 1.66
+        },
+        {
+          "period": "2020",
+          "value": 1.24
+        },
+        {
+          "period": "2021",
+          "value": 1.35
+        },
+        {
+          "period": "2022",
+          "value": 1.1
+        },
+        {
+          "period": "2023",
+          "value": 0
+        },
+        {
+          "period": "2024",
+          "value": 6.5
+        },
+        {
+          "period": "2025",
+          "value": 34.18
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Claims On Private Sector",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 1050.4
+        },
+        {
+          "period": "2016",
+          "value": 1056.64
+        },
+        {
+          "period": "2017",
+          "value": 1064.41
+        },
+        {
+          "period": "2018",
+          "value": 1060.89
+        },
+        {
+          "period": "2019",
+          "value": 1072.13
+        },
+        {
+          "period": "2020",
+          "value": 1109.22
+        },
+        {
+          "period": "2021",
+          "value": 1109.12
+        },
+        {
+          "period": "2022",
+          "value": 1101.95
+        },
+        {
+          "period": "2023",
+          "value": 1149.44
+        },
+        {
+          "period": "2024",
+          "value": 1145.5
+        },
+        {
+          "period": "2025",
+          "value": 1239.29
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Claims On Other Non-Financial Corporations (Business Credit)",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 232.88
+        },
+        {
+          "period": "2016",
+          "value": 210.02
+        },
+        {
+          "period": "2017",
+          "value": 186.45
+        },
+        {
+          "period": "2018",
+          "value": 162.91
+        },
+        {
+          "period": "2019",
+          "value": 170.51
+        },
+        {
+          "period": "2020",
+          "value": 142.32
+        },
+        {
+          "period": "2021",
+          "value": 168.77
+        },
+        {
+          "period": "2022",
+          "value": 200.08
+        },
+        {
+          "period": "2023",
+          "value": 264.16
+        },
+        {
+          "period": "2024",
+          "value": 255.35
+        },
+        {
+          "period": "2025",
+          "value": 342.87
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Claims On Other Resident Sectors (Households and Non-Profit Institutions)",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 817.52
+        },
+        {
+          "period": "2016",
+          "value": 846.62
+        },
+        {
+          "period": "2017",
+          "value": 877.96
+        },
+        {
+          "period": "2018",
+          "value": 897.97
+        },
+        {
+          "period": "2019",
+          "value": 901.62
+        },
+        {
+          "period": "2020",
+          "value": 966.9
+        },
+        {
+          "period": "2021",
+          "value": 940.35
+        },
+        {
+          "period": "2022",
+          "value": 901.86
+        },
+        {
+          "period": "2023",
+          "value": 885.28
+        },
+        {
+          "period": "2024",
+          "value": 890.15
+        },
+        {
+          "period": "2025",
+          "value": 896.42
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Other Items (Net)",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": -148.94
+        },
+        {
+          "period": "2016",
+          "value": -182.78
+        },
+        {
+          "period": "2017",
+          "value": -159.79
+        },
+        {
+          "period": "2018",
+          "value": -141.42
+        },
+        {
+          "period": "2019",
+          "value": -139.49
+        },
+        {
+          "period": "2020",
+          "value": -389.16
+        },
+        {
+          "period": "2021",
+          "value": -461.12
+        },
+        {
+          "period": "2022",
+          "value": -332.19
+        },
+        {
+          "period": "2023",
+          "value": -263.82
+        },
+        {
+          "period": "2024",
+          "value": -356.88
+        },
+        {
+          "period": "2025",
+          "value": -475.95
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Broad Money Liabilities (M2)",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 1522.17
+        },
+        {
+          "period": "2016",
+          "value": 1572.07
+        },
+        {
+          "period": "2017",
+          "value": 1577.18
+        },
+        {
+          "period": "2018",
+          "value": 1595.07
+        },
+        {
+          "period": "2019",
+          "value": 1758.81
+        },
+        {
+          "period": "2020",
+          "value": 1643.47
+        },
+        {
+          "period": "2021",
+          "value": 1853.53
+        },
+        {
+          "period": "2022",
+          "value": 1847.89
+        },
+        {
+          "period": "2023",
+          "value": 1926.89
+        },
+        {
+          "period": "2024",
+          "value": 2231.35
+        },
+        {
+          "period": "2025",
+          "value": 2352.34
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Narrow Money (M1)",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 451.53
+        },
+        {
+          "period": "2016",
+          "value": 494.91
+        },
+        {
+          "period": "2017",
+          "value": 489.42
+        },
+        {
+          "period": "2018",
+          "value": 524.46
+        },
+        {
+          "period": "2019",
+          "value": 597.39
+        },
+        {
+          "period": "2020",
+          "value": 586.28
+        },
+        {
+          "period": "2021",
+          "value": 694.32
+        },
+        {
+          "period": "2022",
+          "value": 812.01
+        },
+        {
+          "period": "2023",
+          "value": 884.04
+        },
+        {
+          "period": "2024",
+          "value": 1059.46
+        },
+        {
+          "period": "2025",
+          "value": 1079.96
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Currency Outside Depository Corporations",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 64.62
+        },
+        {
+          "period": "2016",
+          "value": 91.72
+        },
+        {
+          "period": "2017",
+          "value": 95.87
+        },
+        {
+          "period": "2018",
+          "value": 107.07
+        },
+        {
+          "period": "2019",
+          "value": 131.09
+        },
+        {
+          "period": "2020",
+          "value": 157.13
+        },
+        {
+          "period": "2021",
+          "value": 194.49
+        },
+        {
+          "period": "2022",
+          "value": 204.77
+        },
+        {
+          "period": "2023",
+          "value": 223.9
+        },
+        {
+          "period": "2024",
+          "value": 261.4
+        },
+        {
+          "period": "2025",
+          "value": 279.52
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Currency Issued By Central Bank (Currency In Circulation)",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 91.22
+        },
+        {
+          "period": "2016",
+          "value": 124.42
+        },
+        {
+          "period": "2017",
+          "value": 129.42
+        },
+        {
+          "period": "2018",
+          "value": 140.27
+        },
+        {
+          "period": "2019",
+          "value": 174
+        },
+        {
+          "period": "2020",
+          "value": 186.69
+        },
+        {
+          "period": "2021",
+          "value": 226.5
+        },
+        {
+          "period": "2022",
+          "value": 252.59
+        },
+        {
+          "period": "2023",
+          "value": 271.28
+        },
+        {
+          "period": "2024",
+          "value": 302.21
+        },
+        {
+          "period": "2025",
+          "value": 344.34
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Less Holdings Of National Currency By Odc (Commercial Banks)",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 26.6
+        },
+        {
+          "period": "2016",
+          "value": 32.7
+        },
+        {
+          "period": "2017",
+          "value": 33.55
+        },
+        {
+          "period": "2018",
+          "value": 33.19
+        },
+        {
+          "period": "2019",
+          "value": 42.9
+        },
+        {
+          "period": "2020",
+          "value": 29.57
+        },
+        {
+          "period": "2021",
+          "value": 32.01
+        },
+        {
+          "period": "2022",
+          "value": 47.82
+        },
+        {
+          "period": "2023",
+          "value": 47.38
+        },
+        {
+          "period": "2024",
+          "value": 40.81
+        },
+        {
+          "period": "2025",
+          "value": 64.82
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Transferable Deposits, In National Currency",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 386.91
+        },
+        {
+          "period": "2016",
+          "value": 403.19
+        },
+        {
+          "period": "2017",
+          "value": 393.54
+        },
+        {
+          "period": "2018",
+          "value": 417.39
+        },
+        {
+          "period": "2019",
+          "value": 466.29
+        },
+        {
+          "period": "2020",
+          "value": 429.15
+        },
+        {
+          "period": "2021",
+          "value": 499.82
+        },
+        {
+          "period": "2022",
+          "value": 607.24
+        },
+        {
+          "period": "2023",
+          "value": 660.14
+        },
+        {
+          "period": "2024",
+          "value": 798.06
+        },
+        {
+          "period": "2025",
+          "value": 800.44
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Quasi Money",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 1070.64
+        },
+        {
+          "period": "2016",
+          "value": 1077.17
+        },
+        {
+          "period": "2017",
+          "value": 1087.76
+        },
+        {
+          "period": "2018",
+          "value": 1070.61
+        },
+        {
+          "period": "2019",
+          "value": 1161.43
+        },
+        {
+          "period": "2020",
+          "value": 1057.19
+        },
+        {
+          "period": "2021",
+          "value": 1159.21
+        },
+        {
+          "period": "2022",
+          "value": 1035.88
+        },
+        {
+          "period": "2023",
+          "value": 1042.85
+        },
+        {
+          "period": "2024",
+          "value": 1171.89
+        },
+        {
+          "period": "2025",
+          "value": 1272.38
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Other Deposits, In National Currency",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 978.62
+        },
+        {
+          "period": "2016",
+          "value": 993.64
+        },
+        {
+          "period": "2017",
+          "value": 1008.84
+        },
+        {
+          "period": "2018",
+          "value": 1000.28
+        },
+        {
+          "period": "2019",
+          "value": 1044.08
+        },
+        {
+          "period": "2020",
+          "value": 941.03
+        },
+        {
+          "period": "2021",
+          "value": 980.08
+        },
+        {
+          "period": "2022",
+          "value": 901.27
+        },
+        {
+          "period": "2023",
+          "value": 957.35
+        },
+        {
+          "period": "2024",
+          "value": 1020.33
+        },
+        {
+          "period": "2025",
+          "value": 1120.29
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Foreign Currency Deposits",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 92.02
+        },
+        {
+          "period": "2016",
+          "value": 83.53
+        },
+        {
+          "period": "2017",
+          "value": 78.93
+        },
+        {
+          "period": "2018",
+          "value": 70.32
+        },
+        {
+          "period": "2019",
+          "value": 117.34
+        },
+        {
+          "period": "2020",
+          "value": 116.16
+        },
+        {
+          "period": "2021",
+          "value": 179.13
+        },
+        {
+          "period": "2022",
+          "value": 134.62
+        },
+        {
+          "period": "2023",
+          "value": 85.5
+        },
+        {
+          "period": "2024",
+          "value": 151.56
+        },
+        {
+          "period": "2025",
+          "value": 152.09
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    }
+  ]
+}

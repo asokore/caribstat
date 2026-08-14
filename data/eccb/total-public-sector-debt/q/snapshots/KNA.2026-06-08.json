@@ -1,0 +1,1139 @@
+{
+  "source": "Eastern Caribbean Central Bank",
+  "source_id": "eccb",
+  "source_url": "https://www.eccb-centralbank.org/statistics-category/public-sector-debt/total-public-sector-debt",
+  "table_id": "total-public-sector-debt",
+  "table_title": "Total Public Sector Debt",
+  "country": {
+    "iso3": "KNA",
+    "name": "Saint Christopher (St Kitts) and Nevis"
+  },
+  "frequency": "q",
+  "data_as_at": "2026-06-08",
+  "data_as_at_raw": "08 June 2026",
+  "retrieved_at": "2026-08-13T21:52:33.549Z",
+  "periods": [
+    "2020-Q1",
+    "2020-Q2",
+    "2020-Q3",
+    "2020-Q4",
+    "2021-Q1",
+    "2021-Q2",
+    "2021-Q3",
+    "2021-Q4",
+    "2022-Q1",
+    "2022-Q2",
+    "2022-Q3",
+    "2022-Q4",
+    "2023-Q1",
+    "2023-Q2",
+    "2023-Q3",
+    "2023-Q4",
+    "2024-Q1",
+    "2024-Q2",
+    "2024-Q3",
+    "2024-Q4",
+    "2025-Q1",
+    "2025-Q2",
+    "2025-Q3",
+    "2025-Q4",
+    "2026-Q1",
+    "2026-Q2",
+    "2026-Q3",
+    "2026-Q4"
+  ],
+  "periods_raw": [
+    "Mar 2020",
+    "Jun 2020",
+    "Sep 2020",
+    "Dec 2020",
+    "Mar 2021",
+    "Jun 2021",
+    "Sep 2021",
+    "Dec 2021",
+    "Mar 2022",
+    "Jun 2022",
+    "Sep 2022",
+    "Dec 2022",
+    "Mar 2023",
+    "Jun 2023",
+    "Sep 2023",
+    "Dec 2023",
+    "Mar 2024",
+    "Jun 2024",
+    "Sep 2024",
+    "Dec 2024",
+    "Mar 2025",
+    "Jun 2025",
+    "Sep 2025",
+    "Dec 2025",
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026",
+    "Dec 2026"
+  ],
+  "series": [
+    {
+      "label": "Central Government Debt",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2020-Q1",
+          "value": 1127.17
+        },
+        {
+          "period": "2020-Q2",
+          "value": 1124.97
+        },
+        {
+          "period": "2020-Q3",
+          "value": 1106.42
+        },
+        {
+          "period": "2020-Q4",
+          "value": 1110.93
+        },
+        {
+          "period": "2021-Q1",
+          "value": 1108.34
+        },
+        {
+          "period": "2021-Q2",
+          "value": 1105.06
+        },
+        {
+          "period": "2021-Q3",
+          "value": 1104.13
+        },
+        {
+          "period": "2021-Q4",
+          "value": 1091.54
+        },
+        {
+          "period": "2022-Q1",
+          "value": 1089.12
+        },
+        {
+          "period": "2022-Q2",
+          "value": 1088.21
+        },
+        {
+          "period": "2022-Q3",
+          "value": 1081.6
+        },
+        {
+          "period": "2022-Q4",
+          "value": 1096.68
+        },
+        {
+          "period": "2023-Q1",
+          "value": 1093.36
+        },
+        {
+          "period": "2023-Q2",
+          "value": 1109.38
+        },
+        {
+          "period": "2023-Q3",
+          "value": 1102.56
+        },
+        {
+          "period": "2023-Q4",
+          "value": 1105.07
+        },
+        {
+          "period": "2024-Q1",
+          "value": 1100.38
+        },
+        {
+          "period": "2024-Q2",
+          "value": 1092.86
+        },
+        {
+          "period": "2024-Q3",
+          "value": 1103.35
+        },
+        {
+          "period": "2024-Q4",
+          "value": 1099.21
+        },
+        {
+          "period": "2025-Q1",
+          "value": 1091.3
+        },
+        {
+          "period": "2025-Q2",
+          "value": 1111.38
+        },
+        {
+          "period": "2025-Q3",
+          "value": 1175.88
+        },
+        {
+          "period": "2025-Q4",
+          "value": 1196.47
+        },
+        {
+          "period": "2026-Q1",
+          "value": null
+        },
+        {
+          "period": "2026-Q2",
+          "value": null
+        },
+        {
+          "period": "2026-Q3",
+          "value": null
+        },
+        {
+          "period": "2026-Q4",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Central Government Domestic Debt",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2020-Q1",
+          "value": 771.59
+        },
+        {
+          "period": "2020-Q2",
+          "value": 774.58
+        },
+        {
+          "period": "2020-Q3",
+          "value": 760.76
+        },
+        {
+          "period": "2020-Q4",
+          "value": 767.07
+        },
+        {
+          "period": "2021-Q1",
+          "value": 768.65
+        },
+        {
+          "period": "2021-Q2",
+          "value": 769.55
+        },
+        {
+          "period": "2021-Q3",
+          "value": 771.79
+        },
+        {
+          "period": "2021-Q4",
+          "value": 763.91
+        },
+        {
+          "period": "2022-Q1",
+          "value": 764.1
+        },
+        {
+          "period": "2022-Q2",
+          "value": 766.2
+        },
+        {
+          "period": "2022-Q3",
+          "value": 764.4
+        },
+        {
+          "period": "2022-Q4",
+          "value": 774.83
+        },
+        {
+          "period": "2023-Q1",
+          "value": 775.92
+        },
+        {
+          "period": "2023-Q2",
+          "value": 797.12
+        },
+        {
+          "period": "2023-Q3",
+          "value": 795.51
+        },
+        {
+          "period": "2023-Q4",
+          "value": 803.37
+        },
+        {
+          "period": "2024-Q1",
+          "value": 804.58
+        },
+        {
+          "period": "2024-Q2",
+          "value": 802.96
+        },
+        {
+          "period": "2024-Q3",
+          "value": 781.33
+        },
+        {
+          "period": "2024-Q4",
+          "value": 783.07
+        },
+        {
+          "period": "2025-Q1",
+          "value": 781.14
+        },
+        {
+          "period": "2025-Q2",
+          "value": 807
+        },
+        {
+          "period": "2025-Q3",
+          "value": 855.55
+        },
+        {
+          "period": "2025-Q4",
+          "value": 813.54
+        },
+        {
+          "period": "2026-Q1",
+          "value": null
+        },
+        {
+          "period": "2026-Q2",
+          "value": null
+        },
+        {
+          "period": "2026-Q3",
+          "value": null
+        },
+        {
+          "period": "2026-Q4",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Central Government External Debt",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2020-Q1",
+          "value": 355.58
+        },
+        {
+          "period": "2020-Q2",
+          "value": 350.39
+        },
+        {
+          "period": "2020-Q3",
+          "value": 345.66
+        },
+        {
+          "period": "2020-Q4",
+          "value": 343.86
+        },
+        {
+          "period": "2021-Q1",
+          "value": 339.69
+        },
+        {
+          "period": "2021-Q2",
+          "value": 335.5
+        },
+        {
+          "period": "2021-Q3",
+          "value": 332.33
+        },
+        {
+          "period": "2021-Q4",
+          "value": 327.63
+        },
+        {
+          "period": "2022-Q1",
+          "value": 325.02
+        },
+        {
+          "period": "2022-Q2",
+          "value": 322.01
+        },
+        {
+          "period": "2022-Q3",
+          "value": 317.2
+        },
+        {
+          "period": "2022-Q4",
+          "value": 321.85
+        },
+        {
+          "period": "2023-Q1",
+          "value": 317.44
+        },
+        {
+          "period": "2023-Q2",
+          "value": 312.26
+        },
+        {
+          "period": "2023-Q3",
+          "value": 307.05
+        },
+        {
+          "period": "2023-Q4",
+          "value": 301.7
+        },
+        {
+          "period": "2024-Q1",
+          "value": 295.8
+        },
+        {
+          "period": "2024-Q2",
+          "value": 289.9
+        },
+        {
+          "period": "2024-Q3",
+          "value": 322.02
+        },
+        {
+          "period": "2024-Q4",
+          "value": 316.14
+        },
+        {
+          "period": "2025-Q1",
+          "value": 310.15
+        },
+        {
+          "period": "2025-Q2",
+          "value": 304.38
+        },
+        {
+          "period": "2025-Q3",
+          "value": 320.33
+        },
+        {
+          "period": "2025-Q4",
+          "value": 382.93
+        },
+        {
+          "period": "2026-Q1",
+          "value": null
+        },
+        {
+          "period": "2026-Q2",
+          "value": null
+        },
+        {
+          "period": "2026-Q3",
+          "value": null
+        },
+        {
+          "period": "2026-Q4",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Public Corporation Debt",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2020-Q1",
+          "value": 535.55
+        },
+        {
+          "period": "2020-Q2",
+          "value": 547.9
+        },
+        {
+          "period": "2020-Q3",
+          "value": 561.84
+        },
+        {
+          "period": "2020-Q4",
+          "value": 568.45
+        },
+        {
+          "period": "2021-Q1",
+          "value": 568.56
+        },
+        {
+          "period": "2021-Q2",
+          "value": 569.51
+        },
+        {
+          "period": "2021-Q3",
+          "value": 569.56
+        },
+        {
+          "period": "2021-Q4",
+          "value": 571.08
+        },
+        {
+          "period": "2022-Q1",
+          "value": 584.95
+        },
+        {
+          "period": "2022-Q2",
+          "value": 582.94
+        },
+        {
+          "period": "2022-Q3",
+          "value": 580.56
+        },
+        {
+          "period": "2022-Q4",
+          "value": 579.92
+        },
+        {
+          "period": "2023-Q1",
+          "value": 571.11
+        },
+        {
+          "period": "2023-Q2",
+          "value": 567.96
+        },
+        {
+          "period": "2023-Q3",
+          "value": 564.95
+        },
+        {
+          "period": "2023-Q4",
+          "value": 571.12
+        },
+        {
+          "period": "2024-Q1",
+          "value": 566
+        },
+        {
+          "period": "2024-Q2",
+          "value": 573.11
+        },
+        {
+          "period": "2024-Q3",
+          "value": 555.61
+        },
+        {
+          "period": "2024-Q4",
+          "value": 549.07
+        },
+        {
+          "period": "2025-Q1",
+          "value": 538.33
+        },
+        {
+          "period": "2025-Q2",
+          "value": 534.51
+        },
+        {
+          "period": "2025-Q3",
+          "value": 530.3
+        },
+        {
+          "period": "2025-Q4",
+          "value": 531.53
+        },
+        {
+          "period": "2026-Q1",
+          "value": null
+        },
+        {
+          "period": "2026-Q2",
+          "value": null
+        },
+        {
+          "period": "2026-Q3",
+          "value": null
+        },
+        {
+          "period": "2026-Q4",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Public Corporation Domestic Debt",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2020-Q1",
+          "value": 512.48
+        },
+        {
+          "period": "2020-Q2",
+          "value": 526.28
+        },
+        {
+          "period": "2020-Q3",
+          "value": 541.29
+        },
+        {
+          "period": "2020-Q4",
+          "value": 545.55
+        },
+        {
+          "period": "2021-Q1",
+          "value": 547.18
+        },
+        {
+          "period": "2021-Q2",
+          "value": 549.26
+        },
+        {
+          "period": "2021-Q3",
+          "value": 551.14
+        },
+        {
+          "period": "2021-Q4",
+          "value": 554.12
+        },
+        {
+          "period": "2022-Q1",
+          "value": 569.47
+        },
+        {
+          "period": "2022-Q2",
+          "value": 568.71
+        },
+        {
+          "period": "2022-Q3",
+          "value": 567.73
+        },
+        {
+          "period": "2022-Q4",
+          "value": 565.8
+        },
+        {
+          "period": "2023-Q1",
+          "value": 557.72
+        },
+        {
+          "period": "2023-Q2",
+          "value": 555.11
+        },
+        {
+          "period": "2023-Q3",
+          "value": 552.65
+        },
+        {
+          "period": "2023-Q4",
+          "value": 559.71
+        },
+        {
+          "period": "2024-Q1",
+          "value": 555.15
+        },
+        {
+          "period": "2024-Q2",
+          "value": 558.78
+        },
+        {
+          "period": "2024-Q3",
+          "value": 541.79
+        },
+        {
+          "period": "2024-Q4",
+          "value": 535.75
+        },
+        {
+          "period": "2025-Q1",
+          "value": 525.52
+        },
+        {
+          "period": "2025-Q2",
+          "value": 522.21
+        },
+        {
+          "period": "2025-Q3",
+          "value": 518.25
+        },
+        {
+          "period": "2025-Q4",
+          "value": 519.23
+        },
+        {
+          "period": "2026-Q1",
+          "value": null
+        },
+        {
+          "period": "2026-Q2",
+          "value": null
+        },
+        {
+          "period": "2026-Q3",
+          "value": null
+        },
+        {
+          "period": "2026-Q4",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Public Corporation External Debt",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2020-Q1",
+          "value": 23.07
+        },
+        {
+          "period": "2020-Q2",
+          "value": 21.62
+        },
+        {
+          "period": "2020-Q3",
+          "value": 20.55
+        },
+        {
+          "period": "2020-Q4",
+          "value": 22.9
+        },
+        {
+          "period": "2021-Q1",
+          "value": 21.39
+        },
+        {
+          "period": "2021-Q2",
+          "value": 20.25
+        },
+        {
+          "period": "2021-Q3",
+          "value": 18.43
+        },
+        {
+          "period": "2021-Q4",
+          "value": 16.96
+        },
+        {
+          "period": "2022-Q1",
+          "value": 15.47
+        },
+        {
+          "period": "2022-Q2",
+          "value": 14.23
+        },
+        {
+          "period": "2022-Q3",
+          "value": 12.83
+        },
+        {
+          "period": "2022-Q4",
+          "value": 14.12
+        },
+        {
+          "period": "2023-Q1",
+          "value": 13.39
+        },
+        {
+          "period": "2023-Q2",
+          "value": 12.85
+        },
+        {
+          "period": "2023-Q3",
+          "value": 12.3
+        },
+        {
+          "period": "2023-Q4",
+          "value": 11.41
+        },
+        {
+          "period": "2024-Q1",
+          "value": 10.86
+        },
+        {
+          "period": "2024-Q2",
+          "value": 14.33
+        },
+        {
+          "period": "2024-Q3",
+          "value": 13.82
+        },
+        {
+          "period": "2024-Q4",
+          "value": 13.32
+        },
+        {
+          "period": "2025-Q1",
+          "value": 12.82
+        },
+        {
+          "period": "2025-Q2",
+          "value": 12.3
+        },
+        {
+          "period": "2025-Q3",
+          "value": 12.05
+        },
+        {
+          "period": "2025-Q4",
+          "value": 12.3
+        },
+        {
+          "period": "2026-Q1",
+          "value": null
+        },
+        {
+          "period": "2026-Q2",
+          "value": null
+        },
+        {
+          "period": "2026-Q3",
+          "value": null
+        },
+        {
+          "period": "2026-Q4",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Public Sector Debt",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2020-Q1",
+          "value": 1662.72
+        },
+        {
+          "period": "2020-Q2",
+          "value": 1672.87
+        },
+        {
+          "period": "2020-Q3",
+          "value": 1668.26
+        },
+        {
+          "period": "2020-Q4",
+          "value": 1679.38
+        },
+        {
+          "period": "2021-Q1",
+          "value": 1676.9
+        },
+        {
+          "period": "2021-Q2",
+          "value": 1674.57
+        },
+        {
+          "period": "2021-Q3",
+          "value": 1673.69
+        },
+        {
+          "period": "2021-Q4",
+          "value": 1662.62
+        },
+        {
+          "period": "2022-Q1",
+          "value": 1674.07
+        },
+        {
+          "period": "2022-Q2",
+          "value": 1671.15
+        },
+        {
+          "period": "2022-Q3",
+          "value": 1662.17
+        },
+        {
+          "period": "2022-Q4",
+          "value": 1676.6
+        },
+        {
+          "period": "2023-Q1",
+          "value": 1664.47
+        },
+        {
+          "period": "2023-Q2",
+          "value": 1677.33
+        },
+        {
+          "period": "2023-Q3",
+          "value": 1667.51
+        },
+        {
+          "period": "2023-Q4",
+          "value": 1676.2
+        },
+        {
+          "period": "2024-Q1",
+          "value": 1666.38
+        },
+        {
+          "period": "2024-Q2",
+          "value": 1665.97
+        },
+        {
+          "period": "2024-Q3",
+          "value": 1658.96
+        },
+        {
+          "period": "2024-Q4",
+          "value": 1648.28
+        },
+        {
+          "period": "2025-Q1",
+          "value": 1629.63
+        },
+        {
+          "period": "2025-Q2",
+          "value": 1645.89
+        },
+        {
+          "period": "2025-Q3",
+          "value": 1706.18
+        },
+        {
+          "period": "2025-Q4",
+          "value": 1727.99
+        },
+        {
+          "period": "2026-Q1",
+          "value": null
+        },
+        {
+          "period": "2026-Q2",
+          "value": null
+        },
+        {
+          "period": "2026-Q3",
+          "value": null
+        },
+        {
+          "period": "2026-Q4",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Public Sector Domestic Debt",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2020-Q1",
+          "value": 1284.06
+        },
+        {
+          "period": "2020-Q2",
+          "value": 1300.86
+        },
+        {
+          "period": "2020-Q3",
+          "value": 1302.05
+        },
+        {
+          "period": "2020-Q4",
+          "value": 1312.63
+        },
+        {
+          "period": "2021-Q1",
+          "value": 1315.82
+        },
+        {
+          "period": "2021-Q2",
+          "value": 1318.81
+        },
+        {
+          "period": "2021-Q3",
+          "value": 1322.93
+        },
+        {
+          "period": "2021-Q4",
+          "value": 1318.03
+        },
+        {
+          "period": "2022-Q1",
+          "value": 1333.58
+        },
+        {
+          "period": "2022-Q2",
+          "value": 1334.91
+        },
+        {
+          "period": "2022-Q3",
+          "value": 1332.13
+        },
+        {
+          "period": "2022-Q4",
+          "value": 1340.63
+        },
+        {
+          "period": "2023-Q1",
+          "value": 1333.64
+        },
+        {
+          "period": "2023-Q2",
+          "value": 1352.22
+        },
+        {
+          "period": "2023-Q3",
+          "value": 1348.16
+        },
+        {
+          "period": "2023-Q4",
+          "value": 1363.08
+        },
+        {
+          "period": "2024-Q1",
+          "value": 1359.73
+        },
+        {
+          "period": "2024-Q2",
+          "value": 1361.74
+        },
+        {
+          "period": "2024-Q3",
+          "value": 1323.12
+        },
+        {
+          "period": "2024-Q4",
+          "value": 1318.82
+        },
+        {
+          "period": "2025-Q1",
+          "value": 1306.66
+        },
+        {
+          "period": "2025-Q2",
+          "value": 1329.21
+        },
+        {
+          "period": "2025-Q3",
+          "value": 1373.8
+        },
+        {
+          "period": "2025-Q4",
+          "value": 1332.76
+        },
+        {
+          "period": "2026-Q1",
+          "value": null
+        },
+        {
+          "period": "2026-Q2",
+          "value": null
+        },
+        {
+          "period": "2026-Q3",
+          "value": null
+        },
+        {
+          "period": "2026-Q4",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Public Sector External Debt",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2020-Q1",
+          "value": 378.66
+        },
+        {
+          "period": "2020-Q2",
+          "value": 372.01
+        },
+        {
+          "period": "2020-Q3",
+          "value": 366.21
+        },
+        {
+          "period": "2020-Q4",
+          "value": 366.75
+        },
+        {
+          "period": "2021-Q1",
+          "value": 361.08
+        },
+        {
+          "period": "2021-Q2",
+          "value": 355.76
+        },
+        {
+          "period": "2021-Q3",
+          "value": 350.76
+        },
+        {
+          "period": "2021-Q4",
+          "value": 344.58
+        },
+        {
+          "period": "2022-Q1",
+          "value": 340.49
+        },
+        {
+          "period": "2022-Q2",
+          "value": 336.24
+        },
+        {
+          "period": "2022-Q3",
+          "value": 330.04
+        },
+        {
+          "period": "2022-Q4",
+          "value": 335.97
+        },
+        {
+          "period": "2023-Q1",
+          "value": 330.83
+        },
+        {
+          "period": "2023-Q2",
+          "value": 325.11
+        },
+        {
+          "period": "2023-Q3",
+          "value": 319.35
+        },
+        {
+          "period": "2023-Q4",
+          "value": 313.12
+        },
+        {
+          "period": "2024-Q1",
+          "value": 306.65
+        },
+        {
+          "period": "2024-Q2",
+          "value": 304.23
+        },
+        {
+          "period": "2024-Q3",
+          "value": 335.84
+        },
+        {
+          "period": "2024-Q4",
+          "value": 329.46
+        },
+        {
+          "period": "2025-Q1",
+          "value": 322.97
+        },
+        {
+          "period": "2025-Q2",
+          "value": 316.68
+        },
+        {
+          "period": "2025-Q3",
+          "value": 332.38
+        },
+        {
+          "period": "2025-Q4",
+          "value": 395.23
+        },
+        {
+          "period": "2026-Q1",
+          "value": null
+        },
+        {
+          "period": "2026-Q2",
+          "value": null
+        },
+        {
+          "period": "2026-Q3",
+          "value": null
+        },
+        {
+          "period": "2026-Q4",
+          "value": null
+        }
+      ]
+    }
+  ]
+}

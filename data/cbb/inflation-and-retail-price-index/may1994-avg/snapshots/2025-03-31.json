@@ -1,0 +1,1419 @@
+{
+  "source": "Central Bank of Barbados",
+  "source_id": "cbb",
+  "source_url": "https://www.centralbank.org.bb/news/inflation-and-retail-price-index/retail-price-index-rpi-and-rate-of-inflation-1965-october-2024",
+  "attachment_url": "https://cdn.centralbank.org.bb/documents/2025-03-31-08-59-43-I1I2INFLATIONRPI1965Oct2024.xlsx",
+  "category": "inflation-and-retail-price-index",
+  "publication_title": "Retail Price Index (RPI) and Rate of Inflation 1965- October 2024",
+  "sheet": "May1994_AVG",
+  "country": {
+    "iso3": "BRB",
+    "name": "Barbados"
+  },
+  "published_at": "2025-03-31",
+  "retrieved_at": "2026-08-13T19:13:12.926Z",
+  "periods": [
+    "1994-Q1",
+    "1994-Q2",
+    "1994-Q3",
+    "1994-Q4",
+    "1995-Q1",
+    "1995-Q2",
+    "1995-Q3",
+    "1995-Q4",
+    "1996-Q1",
+    "1996-Q2",
+    "1996-Q3",
+    "1996-Q4",
+    "1997-Q1",
+    "1997-Q2",
+    "1997-Q3",
+    "1997-Q4",
+    "1998-Q1",
+    "1998-Q2",
+    "1998-Q3",
+    "1998-Q4",
+    "1999-Q1",
+    "1999-Q2",
+    "1999-Q3",
+    "1999-Q4",
+    "2000-Q1",
+    "2000-Q2",
+    "2000-Q3",
+    "2000-Q4",
+    "2001-Q1",
+    "2001-Q2",
+    "2001-Q3",
+    "2001-Q4"
+  ],
+  "periods_raw": [
+    "1Q 1994",
+    "2Q 1994",
+    "3Q 1994",
+    "4Q 1994",
+    "1Q 1995",
+    "2Q 1995",
+    "3Q 1995",
+    "4Q 1995",
+    "1Q 1996",
+    "2Q 1996",
+    "3Q 1996",
+    "4Q 1996",
+    "1Q 1997",
+    "2Q 1997",
+    "3Q 1997",
+    "4Q 1997",
+    "1Q 1998",
+    "2Q 1998",
+    "3Q 1998",
+    "4Q 1998",
+    "1Q 1999",
+    "2Q 1999",
+    "3Q 1999",
+    "4Q 1999",
+    "1Q 2000",
+    "2Q 2000",
+    "3Q 2000",
+    "4Q 2000",
+    "1Q 2001",
+    "2Q 2001",
+    "3Q 2001",
+    "4Q 2001"
+  ],
+  "revised_periods": [],
+  "unparsed_labels": [
+    "Basket Weights"
+  ],
+  "series": [
+    {
+      "label": "Food",
+      "observations": [
+        {
+          "period": "1994-Q1",
+          "value": 99.1555
+        },
+        {
+          "period": "1994-Q2",
+          "value": 101.4
+        },
+        {
+          "period": "1994-Q3",
+          "value": 105.9667
+        },
+        {
+          "period": "1994-Q4",
+          "value": 106.4
+        },
+        {
+          "period": "1995-Q1",
+          "value": 103.0667
+        },
+        {
+          "period": "1995-Q2",
+          "value": 102.9333
+        },
+        {
+          "period": "1995-Q3",
+          "value": 108.8667
+        },
+        {
+          "period": "1995-Q4",
+          "value": 109.7
+        },
+        {
+          "period": "1996-Q1",
+          "value": 108.7
+        },
+        {
+          "period": "1996-Q2",
+          "value": 109.3667
+        },
+        {
+          "period": "1996-Q3",
+          "value": 110.1
+        },
+        {
+          "period": "1996-Q4",
+          "value": 112.8
+        },
+        {
+          "period": "1997-Q1",
+          "value": 124.8667
+        },
+        {
+          "period": "1997-Q2",
+          "value": 126.4
+        },
+        {
+          "period": "1997-Q3",
+          "value": 131.0333
+        },
+        {
+          "period": "1997-Q4",
+          "value": 118.2667
+        },
+        {
+          "period": "1998-Q1",
+          "value": 117.2667
+        },
+        {
+          "period": "1998-Q2",
+          "value": 121.2
+        },
+        {
+          "period": "1998-Q3",
+          "value": 119.5333
+        },
+        {
+          "period": "1998-Q4",
+          "value": 120.6667
+        },
+        {
+          "period": "1999-Q1",
+          "value": 118.4
+        },
+        {
+          "period": "1999-Q2",
+          "value": 118.0333
+        },
+        {
+          "period": "1999-Q3",
+          "value": 125.9667
+        },
+        {
+          "period": "1999-Q4",
+          "value": 128.5333
+        },
+        {
+          "period": "2000-Q1",
+          "value": 122.8
+        },
+        {
+          "period": "2000-Q2",
+          "value": 120.8333
+        },
+        {
+          "period": "2000-Q3",
+          "value": 127.1333
+        },
+        {
+          "period": "2000-Q4",
+          "value": 132.3667
+        },
+        {
+          "period": "2001-Q1",
+          "value": 127.7333
+        },
+        {
+          "period": "2001-Q2",
+          "value": 131.5333
+        },
+        {
+          "period": "2001-Q3",
+          "value": 135.8667
+        },
+        {
+          "period": "2001-Q4",
+          "value": 134.3667
+        }
+      ]
+    },
+    {
+      "label": "Alcohol, Beverages and Tobacco",
+      "observations": [
+        {
+          "period": "1994-Q1",
+          "value": 97.2173
+        },
+        {
+          "period": "1994-Q2",
+          "value": 100.05
+        },
+        {
+          "period": "1994-Q3",
+          "value": 99.5667
+        },
+        {
+          "period": "1994-Q4",
+          "value": 99.5333
+        },
+        {
+          "period": "1995-Q1",
+          "value": 99.1333
+        },
+        {
+          "period": "1995-Q2",
+          "value": 99.9
+        },
+        {
+          "period": "1995-Q3",
+          "value": 102.5333
+        },
+        {
+          "period": "1995-Q4",
+          "value": 103.0667
+        },
+        {
+          "period": "1996-Q1",
+          "value": 103.2
+        },
+        {
+          "period": "1996-Q2",
+          "value": 105.3333
+        },
+        {
+          "period": "1996-Q3",
+          "value": 103.5
+        },
+        {
+          "period": "1996-Q4",
+          "value": 104.7333
+        },
+        {
+          "period": "1997-Q1",
+          "value": 111.5667
+        },
+        {
+          "period": "1997-Q2",
+          "value": 112.6
+        },
+        {
+          "period": "1997-Q3",
+          "value": 112.9667
+        },
+        {
+          "period": "1997-Q4",
+          "value": 112.3333
+        },
+        {
+          "period": "1998-Q1",
+          "value": 112.8
+        },
+        {
+          "period": "1998-Q2",
+          "value": 114.6667
+        },
+        {
+          "period": "1998-Q3",
+          "value": 114.2
+        },
+        {
+          "period": "1998-Q4",
+          "value": 113.6
+        },
+        {
+          "period": "1999-Q1",
+          "value": 114.2667
+        },
+        {
+          "period": "1999-Q2",
+          "value": 115.4
+        },
+        {
+          "period": "1999-Q3",
+          "value": 114.9667
+        },
+        {
+          "period": "1999-Q4",
+          "value": 114.6667
+        },
+        {
+          "period": "2000-Q1",
+          "value": 114.5667
+        },
+        {
+          "period": "2000-Q2",
+          "value": 115.8667
+        },
+        {
+          "period": "2000-Q3",
+          "value": 114.8
+        },
+        {
+          "period": "2000-Q4",
+          "value": 118.6667
+        },
+        {
+          "period": "2001-Q1",
+          "value": 118.2667
+        },
+        {
+          "period": "2001-Q2",
+          "value": 121.8667
+        },
+        {
+          "period": "2001-Q3",
+          "value": 120.8333
+        },
+        {
+          "period": "2001-Q4",
+          "value": 120.6667
+        }
+      ]
+    },
+    {
+      "label": "Housing",
+      "observations": [
+        {
+          "period": "1994-Q1",
+          "value": 100.045
+        },
+        {
+          "period": "1994-Q2",
+          "value": 99.85
+        },
+        {
+          "period": "1994-Q3",
+          "value": 99.6333
+        },
+        {
+          "period": "1994-Q4",
+          "value": 99.1667
+        },
+        {
+          "period": "1995-Q1",
+          "value": 101.9
+        },
+        {
+          "period": "1995-Q2",
+          "value": 103.6
+        },
+        {
+          "period": "1995-Q3",
+          "value": 104.3333
+        },
+        {
+          "period": "1995-Q4",
+          "value": 104.8
+        },
+        {
+          "period": "1996-Q1",
+          "value": 104.5333
+        },
+        {
+          "period": "1996-Q2",
+          "value": 105.4
+        },
+        {
+          "period": "1996-Q3",
+          "value": 106.1333
+        },
+        {
+          "period": "1996-Q4",
+          "value": 106.5333
+        },
+        {
+          "period": "1997-Q1",
+          "value": 106.0333
+        },
+        {
+          "period": "1997-Q2",
+          "value": 106.5
+        },
+        {
+          "period": "1997-Q3",
+          "value": 107.6333
+        },
+        {
+          "period": "1997-Q4",
+          "value": 107.9667
+        },
+        {
+          "period": "1998-Q1",
+          "value": 108.7333
+        },
+        {
+          "period": "1998-Q2",
+          "value": 109.4667
+        },
+        {
+          "period": "1998-Q3",
+          "value": 111.4333
+        },
+        {
+          "period": "1998-Q4",
+          "value": 112.9
+        },
+        {
+          "period": "1999-Q1",
+          "value": 112.7333
+        },
+        {
+          "period": "1999-Q2",
+          "value": 113.3
+        },
+        {
+          "period": "1999-Q3",
+          "value": 114.2
+        },
+        {
+          "period": "1999-Q4",
+          "value": 113.4667
+        },
+        {
+          "period": "2000-Q1",
+          "value": 114.3
+        },
+        {
+          "period": "2000-Q2",
+          "value": 115.6667
+        },
+        {
+          "period": "2000-Q3",
+          "value": 117.5
+        },
+        {
+          "period": "2000-Q4",
+          "value": 118.6
+        },
+        {
+          "period": "2001-Q1",
+          "value": 119.6
+        },
+        {
+          "period": "2001-Q2",
+          "value": 120.4333
+        },
+        {
+          "period": "2001-Q3",
+          "value": 119.9
+        },
+        {
+          "period": "2001-Q4",
+          "value": 119.8667
+        }
+      ]
+    },
+    {
+      "label": "Fuel and Light",
+      "observations": [
+        {
+          "period": "1994-Q1",
+          "value": 100.5853
+        },
+        {
+          "period": "1994-Q2",
+          "value": 100
+        },
+        {
+          "period": "1994-Q3",
+          "value": 101.1667
+        },
+        {
+          "period": "1994-Q4",
+          "value": 102.2667
+        },
+        {
+          "period": "1995-Q1",
+          "value": 104.1333
+        },
+        {
+          "period": "1995-Q2",
+          "value": 103.7
+        },
+        {
+          "period": "1995-Q3",
+          "value": 104.8667
+        },
+        {
+          "period": "1995-Q4",
+          "value": 103.4333
+        },
+        {
+          "period": "1996-Q1",
+          "value": 100.4667
+        },
+        {
+          "period": "1996-Q2",
+          "value": 104.6667
+        },
+        {
+          "period": "1996-Q3",
+          "value": 104.1333
+        },
+        {
+          "period": "1996-Q4",
+          "value": 105.3333
+        },
+        {
+          "period": "1997-Q1",
+          "value": 113.3333
+        },
+        {
+          "period": "1997-Q2",
+          "value": 112.7333
+        },
+        {
+          "period": "1997-Q3",
+          "value": 108.7667
+        },
+        {
+          "period": "1997-Q4",
+          "value": 116.6333
+        },
+        {
+          "period": "1998-Q1",
+          "value": 115.9
+        },
+        {
+          "period": "1998-Q2",
+          "value": 109.4667
+        },
+        {
+          "period": "1998-Q3",
+          "value": 106.8667
+        },
+        {
+          "period": "1998-Q4",
+          "value": 107.0667
+        },
+        {
+          "period": "1999-Q1",
+          "value": 105.9667
+        },
+        {
+          "period": "1999-Q2",
+          "value": 104.5333
+        },
+        {
+          "period": "1999-Q3",
+          "value": 106.3
+        },
+        {
+          "period": "1999-Q4",
+          "value": 110.3333
+        },
+        {
+          "period": "2000-Q1",
+          "value": 115.8667
+        },
+        {
+          "period": "2000-Q2",
+          "value": 120.2
+        },
+        {
+          "period": "2000-Q3",
+          "value": 122.8667
+        },
+        {
+          "period": "2000-Q4",
+          "value": 130.8667
+        },
+        {
+          "period": "2001-Q1",
+          "value": 125.0333
+        },
+        {
+          "period": "2001-Q2",
+          "value": 122.9333
+        },
+        {
+          "period": "2001-Q3",
+          "value": 119.9667
+        },
+        {
+          "period": "2001-Q4",
+          "value": 116.5
+        }
+      ]
+    },
+    {
+      "label": "Household Operations and Supplies",
+      "observations": [
+        {
+          "period": "1994-Q1",
+          "value": 99.5492
+        },
+        {
+          "period": "1994-Q2",
+          "value": 100.2
+        },
+        {
+          "period": "1994-Q3",
+          "value": 99.8
+        },
+        {
+          "period": "1994-Q4",
+          "value": 99.5667
+        },
+        {
+          "period": "1995-Q1",
+          "value": 99.0333
+        },
+        {
+          "period": "1995-Q2",
+          "value": 98.1333
+        },
+        {
+          "period": "1995-Q3",
+          "value": 97.1333
+        },
+        {
+          "period": "1995-Q4",
+          "value": 97.8
+        },
+        {
+          "period": "1996-Q1",
+          "value": 97.9
+        },
+        {
+          "period": "1996-Q2",
+          "value": 98.4667
+        },
+        {
+          "period": "1996-Q3",
+          "value": 99.0667
+        },
+        {
+          "period": "1996-Q4",
+          "value": 99.4333
+        },
+        {
+          "period": "1997-Q1",
+          "value": 106.4
+        },
+        {
+          "period": "1997-Q2",
+          "value": 104.4667
+        },
+        {
+          "period": "1997-Q3",
+          "value": 101.8333
+        },
+        {
+          "period": "1997-Q4",
+          "value": 101.5
+        },
+        {
+          "period": "1998-Q1",
+          "value": 102.9333
+        },
+        {
+          "period": "1998-Q2",
+          "value": 102.2333
+        },
+        {
+          "period": "1998-Q3",
+          "value": 101.3667
+        },
+        {
+          "period": "1998-Q4",
+          "value": 101.5
+        },
+        {
+          "period": "1999-Q1",
+          "value": 103.1
+        },
+        {
+          "period": "1999-Q2",
+          "value": 100.9333
+        },
+        {
+          "period": "1999-Q3",
+          "value": 101.3667
+        },
+        {
+          "period": "1999-Q4",
+          "value": 98.6667
+        },
+        {
+          "period": "2000-Q1",
+          "value": 95.8333
+        },
+        {
+          "period": "2000-Q2",
+          "value": 94.6
+        },
+        {
+          "period": "2000-Q3",
+          "value": 94.8667
+        },
+        {
+          "period": "2000-Q4",
+          "value": 95
+        },
+        {
+          "period": "2001-Q1",
+          "value": 93.4667
+        },
+        {
+          "period": "2001-Q2",
+          "value": 90.6
+        },
+        {
+          "period": "2001-Q3",
+          "value": 89.7333
+        },
+        {
+          "period": "2001-Q4",
+          "value": 87.6
+        }
+      ]
+    },
+    {
+      "label": "Clothing and Footwear",
+      "observations": [
+        {
+          "period": "1994-Q1",
+          "value": 100.5212
+        },
+        {
+          "period": "1994-Q2",
+          "value": 100.2
+        },
+        {
+          "period": "1994-Q3",
+          "value": 100.5333
+        },
+        {
+          "period": "1994-Q4",
+          "value": 98.8
+        },
+        {
+          "period": "1995-Q1",
+          "value": 97.6333
+        },
+        {
+          "period": "1995-Q2",
+          "value": 97.1
+        },
+        {
+          "period": "1995-Q3",
+          "value": 97.0667
+        },
+        {
+          "period": "1995-Q4",
+          "value": 98.4667
+        },
+        {
+          "period": "1996-Q1",
+          "value": 98.9667
+        },
+        {
+          "period": "1996-Q2",
+          "value": 96.5333
+        },
+        {
+          "period": "1996-Q3",
+          "value": 97.4667
+        },
+        {
+          "period": "1996-Q4",
+          "value": 94.4
+        },
+        {
+          "period": "1997-Q1",
+          "value": 94.9333
+        },
+        {
+          "period": "1997-Q2",
+          "value": 91.9
+        },
+        {
+          "period": "1997-Q3",
+          "value": 89.2333
+        },
+        {
+          "period": "1997-Q4",
+          "value": 89.5667
+        },
+        {
+          "period": "1998-Q1",
+          "value": 91.2333
+        },
+        {
+          "period": "1998-Q2",
+          "value": 89
+        },
+        {
+          "period": "1998-Q3",
+          "value": 90.3333
+        },
+        {
+          "period": "1998-Q4",
+          "value": 91.0333
+        },
+        {
+          "period": "1999-Q1",
+          "value": 93.8667
+        },
+        {
+          "period": "1999-Q2",
+          "value": 94.1333
+        },
+        {
+          "period": "1999-Q3",
+          "value": 93.4667
+        },
+        {
+          "period": "1999-Q4",
+          "value": 92.8
+        },
+        {
+          "period": "2000-Q1",
+          "value": 92.4
+        },
+        {
+          "period": "2000-Q2",
+          "value": 91.9
+        },
+        {
+          "period": "2000-Q3",
+          "value": 91
+        },
+        {
+          "period": "2000-Q4",
+          "value": 88.9333
+        },
+        {
+          "period": "2001-Q1",
+          "value": 84.2
+        },
+        {
+          "period": "2001-Q2",
+          "value": 82.7333
+        },
+        {
+          "period": "2001-Q3",
+          "value": 83.8
+        },
+        {
+          "period": "2001-Q4",
+          "value": 79.4333
+        }
+      ]
+    },
+    {
+      "label": "Medical and Personal Care",
+      "observations": [
+        {
+          "period": "1994-Q1",
+          "value": 99.9611
+        },
+        {
+          "period": "1994-Q2",
+          "value": 100.2
+        },
+        {
+          "period": "1994-Q3",
+          "value": 98.4
+        },
+        {
+          "period": "1994-Q4",
+          "value": 99.1
+        },
+        {
+          "period": "1995-Q1",
+          "value": 99.5333
+        },
+        {
+          "period": "1995-Q2",
+          "value": 99.0667
+        },
+        {
+          "period": "1995-Q3",
+          "value": 101.7667
+        },
+        {
+          "period": "1995-Q4",
+          "value": 103.7333
+        },
+        {
+          "period": "1996-Q1",
+          "value": 103.0667
+        },
+        {
+          "period": "1996-Q2",
+          "value": 102.8333
+        },
+        {
+          "period": "1996-Q3",
+          "value": 103.9333
+        },
+        {
+          "period": "1996-Q4",
+          "value": 104.4667
+        },
+        {
+          "period": "1997-Q1",
+          "value": 110.0667
+        },
+        {
+          "period": "1997-Q2",
+          "value": 108.5667
+        },
+        {
+          "period": "1997-Q3",
+          "value": 107.6333
+        },
+        {
+          "period": "1997-Q4",
+          "value": 107.9667
+        },
+        {
+          "period": "1998-Q1",
+          "value": 108.4333
+        },
+        {
+          "period": "1998-Q2",
+          "value": 108.4333
+        },
+        {
+          "period": "1998-Q3",
+          "value": 109.1667
+        },
+        {
+          "period": "1998-Q4",
+          "value": 109.6667
+        },
+        {
+          "period": "1999-Q1",
+          "value": 109.7
+        },
+        {
+          "period": "1999-Q2",
+          "value": 110.3
+        },
+        {
+          "period": "1999-Q3",
+          "value": 110
+        },
+        {
+          "period": "1999-Q4",
+          "value": 109.4333
+        },
+        {
+          "period": "2000-Q1",
+          "value": 110.4667
+        },
+        {
+          "period": "2000-Q2",
+          "value": 111.7
+        },
+        {
+          "period": "2000-Q3",
+          "value": 112.6667
+        },
+        {
+          "period": "2000-Q4",
+          "value": 113.3333
+        },
+        {
+          "period": "2001-Q1",
+          "value": 114.6333
+        },
+        {
+          "period": "2001-Q2",
+          "value": 115.1667
+        },
+        {
+          "period": "2001-Q3",
+          "value": 114.5333
+        },
+        {
+          "period": "2001-Q4",
+          "value": 115.4333
+        }
+      ]
+    },
+    {
+      "label": "Transportation",
+      "observations": [
+        {
+          "period": "1994-Q1",
+          "value": 102.3363
+        },
+        {
+          "period": "1994-Q2",
+          "value": 100.15
+        },
+        {
+          "period": "1994-Q3",
+          "value": 100.7667
+        },
+        {
+          "period": "1994-Q4",
+          "value": 100.7667
+        },
+        {
+          "period": "1995-Q1",
+          "value": 101.1667
+        },
+        {
+          "period": "1995-Q2",
+          "value": 98.6667
+        },
+        {
+          "period": "1995-Q3",
+          "value": 97.4
+        },
+        {
+          "period": "1995-Q4",
+          "value": 99.9667
+        },
+        {
+          "period": "1996-Q1",
+          "value": 100.1
+        },
+        {
+          "period": "1996-Q2",
+          "value": 100.6
+        },
+        {
+          "period": "1996-Q3",
+          "value": 100.5
+        },
+        {
+          "period": "1996-Q4",
+          "value": 100.6333
+        },
+        {
+          "period": "1997-Q1",
+          "value": 101.2667
+        },
+        {
+          "period": "1997-Q2",
+          "value": 101.5
+        },
+        {
+          "period": "1997-Q3",
+          "value": 101.7
+        },
+        {
+          "period": "1997-Q4",
+          "value": 102.2667
+        },
+        {
+          "period": "1998-Q1",
+          "value": 101.7667
+        },
+        {
+          "period": "1998-Q2",
+          "value": 102.2667
+        },
+        {
+          "period": "1998-Q3",
+          "value": 103.6333
+        },
+        {
+          "period": "1998-Q4",
+          "value": 102.8667
+        },
+        {
+          "period": "1999-Q1",
+          "value": 101.5333
+        },
+        {
+          "period": "1999-Q2",
+          "value": 101.5333
+        },
+        {
+          "period": "1999-Q3",
+          "value": 101.8333
+        },
+        {
+          "period": "1999-Q4",
+          "value": 102.8333
+        },
+        {
+          "period": "2000-Q1",
+          "value": 106.5333
+        },
+        {
+          "period": "2000-Q2",
+          "value": 106.3
+        },
+        {
+          "period": "2000-Q3",
+          "value": 105.8667
+        },
+        {
+          "period": "2000-Q4",
+          "value": 107.6
+        },
+        {
+          "period": "2001-Q1",
+          "value": 108.9
+        },
+        {
+          "period": "2001-Q2",
+          "value": 110.4667
+        },
+        {
+          "period": "2001-Q3",
+          "value": 107.4667
+        },
+        {
+          "period": "2001-Q4",
+          "value": 106.0667
+        }
+      ]
+    },
+    {
+      "label": "Education, Recreation and Miscellaneous",
+      "observations": [
+        {
+          "period": "1994-Q1",
+          "value": 100
+        },
+        {
+          "period": "1994-Q2",
+          "value": 100.05
+        },
+        {
+          "period": "1994-Q3",
+          "value": 99.3667
+        },
+        {
+          "period": "1994-Q4",
+          "value": 99.2333
+        },
+        {
+          "period": "1995-Q1",
+          "value": 99.8333
+        },
+        {
+          "period": "1995-Q2",
+          "value": 99.5333
+        },
+        {
+          "period": "1995-Q3",
+          "value": 100.4333
+        },
+        {
+          "period": "1995-Q4",
+          "value": 101.3333
+        },
+        {
+          "period": "1996-Q1",
+          "value": 101.7333
+        },
+        {
+          "period": "1996-Q2",
+          "value": 101.9333
+        },
+        {
+          "period": "1996-Q3",
+          "value": 103.6333
+        },
+        {
+          "period": "1996-Q4",
+          "value": 103.3333
+        },
+        {
+          "period": "1997-Q1",
+          "value": 115.2333
+        },
+        {
+          "period": "1997-Q2",
+          "value": 115.5
+        },
+        {
+          "period": "1997-Q3",
+          "value": 112.8333
+        },
+        {
+          "period": "1997-Q4",
+          "value": 114.0667
+        },
+        {
+          "period": "1998-Q1",
+          "value": 117.9667
+        },
+        {
+          "period": "1998-Q2",
+          "value": 118.9667
+        },
+        {
+          "period": "1998-Q3",
+          "value": 120.3333
+        },
+        {
+          "period": "1998-Q4",
+          "value": 121
+        },
+        {
+          "period": "1999-Q1",
+          "value": 121.6
+        },
+        {
+          "period": "1999-Q2",
+          "value": 121.2
+        },
+        {
+          "period": "1999-Q3",
+          "value": 121.5
+        },
+        {
+          "period": "1999-Q4",
+          "value": 124.7
+        },
+        {
+          "period": "2000-Q1",
+          "value": 127.5
+        },
+        {
+          "period": "2000-Q2",
+          "value": 125.3333
+        },
+        {
+          "period": "2000-Q3",
+          "value": 125.4333
+        },
+        {
+          "period": "2000-Q4",
+          "value": 128.3
+        },
+        {
+          "period": "2001-Q1",
+          "value": 129.3667
+        },
+        {
+          "period": "2001-Q2",
+          "value": 128.3333
+        },
+        {
+          "period": "2001-Q3",
+          "value": 129.6667
+        },
+        {
+          "period": "2001-Q4",
+          "value": 130.8
+        }
+      ]
+    },
+    {
+      "label": "All Items",
+      "observations": [
+        {
+          "period": "1994-Q1",
+          "value": 99.5429
+        },
+        {
+          "period": "1994-Q2",
+          "value": 100.6
+        },
+        {
+          "period": "1994-Q3",
+          "value": 102.3
+        },
+        {
+          "period": "1994-Q4",
+          "value": 102.3667
+        },
+        {
+          "period": "1995-Q1",
+          "value": 101.6
+        },
+        {
+          "period": "1995-Q2",
+          "value": 101.4667
+        },
+        {
+          "period": "1995-Q3",
+          "value": 104.0667
+        },
+        {
+          "period": "1995-Q4",
+          "value": 104.9667
+        },
+        {
+          "period": "1996-Q1",
+          "value": 104.4
+        },
+        {
+          "period": "1996-Q2",
+          "value": 105.1333
+        },
+        {
+          "period": "1996-Q3",
+          "value": 105.6
+        },
+        {
+          "period": "1996-Q4",
+          "value": 106.8
+        },
+        {
+          "period": "1997-Q1",
+          "value": 113.8
+        },
+        {
+          "period": "1997-Q2",
+          "value": 114.1333
+        },
+        {
+          "period": "1997-Q3",
+          "value": 115.5
+        },
+        {
+          "period": "1997-Q4",
+          "value": 111.0333
+        },
+        {
+          "period": "1998-Q1",
+          "value": 111.1
+        },
+        {
+          "period": "1998-Q2",
+          "value": 112.4667
+        },
+        {
+          "period": "1998-Q3",
+          "value": 112.2667
+        },
+        {
+          "period": "1998-Q4",
+          "value": 112.8667
+        },
+        {
+          "period": "1999-Q1",
+          "value": 112.1
+        },
+        {
+          "period": "1999-Q2",
+          "value": 111.9
+        },
+        {
+          "period": "1999-Q3",
+          "value": 115.3
+        },
+        {
+          "period": "1999-Q4",
+          "value": 116.4
+        },
+        {
+          "period": "2000-Q1",
+          "value": 114.8333
+        },
+        {
+          "period": "2000-Q2",
+          "value": 114.4
+        },
+        {
+          "period": "2000-Q3",
+          "value": 117.2
+        },
+        {
+          "period": "2000-Q4",
+          "value": 120.3667
+        },
+        {
+          "period": "2001-Q1",
+          "value": 118.2667
+        },
+        {
+          "period": "2001-Q2",
+          "value": 119.8667
+        },
+        {
+          "period": "2001-Q3",
+          "value": 120.9667
+        },
+        {
+          "period": "2001-Q4",
+          "value": 119.7333
+        }
+      ]
+    }
+  ]
+}

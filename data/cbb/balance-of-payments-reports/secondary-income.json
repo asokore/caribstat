@@ -1,0 +1,8276 @@
+{
+  "source": "Central Bank of Barbados",
+  "source_id": "cbb",
+  "source_url": "https://www.centralbank.org.bb/news/balance-of-payments-reports/balance-of-payments-bop-1967-2017",
+  "attachment_url": "https://cdn.centralbank.org.bb/documents/2022-07-28-13-47-28-Balance-of-Payments1967---2017.xlsx",
+  "category": "balance-of-payments-reports",
+  "publication_title": "Balance of Payments (BOP) 1967 - 2017 - Central Bank of Barbados",
+  "sheet": "Secondary Income",
+  "country": {
+    "iso3": "BRB",
+    "name": "Barbados"
+  },
+  "published_at": "2022-07-28",
+  "retrieved_at": "2026-08-13T21:56:30.104Z",
+  "periods": [
+    "1967",
+    "1968",
+    "1969",
+    "1970",
+    "1971",
+    "1972",
+    "1973",
+    "1974",
+    "1975",
+    "1976",
+    "1977",
+    "1978",
+    "1979",
+    "1980",
+    "1981",
+    "1982",
+    "1983",
+    "1984",
+    "1985",
+    "1986",
+    "1987",
+    "1988",
+    "1989",
+    "1990",
+    "1991",
+    "1992",
+    "1993",
+    "1994",
+    "1995",
+    "1996",
+    "1997",
+    "1998",
+    "1999",
+    "2000",
+    "2001",
+    "2002",
+    "2003",
+    "2004",
+    "2005",
+    "2006",
+    "2007",
+    "2008",
+    "2009",
+    "2010",
+    "2011",
+    "2012",
+    "2013",
+    "2014",
+    "2015",
+    "2016",
+    "2017"
+  ],
+  "periods_raw": [
+    1967,
+    1968,
+    1969,
+    1970,
+    1971,
+    1972,
+    1973,
+    1974,
+    1975,
+    1976,
+    1977,
+    1978,
+    1979,
+    1980,
+    1981,
+    1982,
+    1983,
+    1984,
+    1985,
+    1986,
+    1987,
+    1988,
+    1989,
+    1990,
+    1991,
+    1992,
+    1993,
+    1994,
+    1995,
+    1996,
+    1997,
+    1998,
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017
+  ],
+  "revised_periods": [],
+  "unparsed_labels": [],
+  "series": [
+    {
+      "label": "Secondary Income Account Balance",
+      "observations": [
+        {
+          "period": "1967",
+          "value": 5.6949607744
+        },
+        {
+          "period": "1968",
+          "value": 5.362257184
+        },
+        {
+          "period": "1969",
+          "value": 8.545585100799999
+        },
+        {
+          "period": "1970",
+          "value": 8.538404153600002
+        },
+        {
+          "period": "1971",
+          "value": 8.7416095104
+        },
+        {
+          "period": "1972",
+          "value": 10.451851968
+        },
+        {
+          "period": "1973",
+          "value": 11.7328053056
+        },
+        {
+          "period": "1974",
+          "value": 2.3920936532000034
+        },
+        {
+          "period": "1975",
+          "value": 1.3504461804000023
+        },
+        {
+          "period": "1976",
+          "value": -7.190325349999995
+        },
+        {
+          "period": "1977",
+          "value": 19.578883400000002
+        },
+        {
+          "period": "1978",
+          "value": 23.212446600000007
+        },
+        {
+          "period": "1979",
+          "value": 39.672520000000006
+        },
+        {
+          "period": "1980",
+          "value": 41.87891499999999
+        },
+        {
+          "period": "1981",
+          "value": 52.084109999999995
+        },
+        {
+          "period": "1982",
+          "value": 39.671690000000005
+        },
+        {
+          "period": "1983",
+          "value": 38.247835
+        },
+        {
+          "period": "1984",
+          "value": 6.274170000000012
+        },
+        {
+          "period": "1985",
+          "value": 5.271765000000016
+        },
+        {
+          "period": "1986",
+          "value": 47.18646
+        },
+        {
+          "period": "1987",
+          "value": -1.4600600000000128
+        },
+        {
+          "period": "1988",
+          "value": 21.912825000000012
+        },
+        {
+          "period": "1989",
+          "value": -3.72234499999999
+        },
+        {
+          "period": "1990",
+          "value": 54.86882999999999
+        },
+        {
+          "period": "1991",
+          "value": 41.005104999999986
+        },
+        {
+          "period": "1992",
+          "value": 53.244545
+        },
+        {
+          "period": "1993",
+          "value": -5.409494999999993
+        },
+        {
+          "period": "1994",
+          "value": -8.834800000000001
+        },
+        {
+          "period": "1995",
+          "value": -7.573734999999999
+        },
+        {
+          "period": "1996",
+          "value": 33.744549999999975
+        },
+        {
+          "period": "1997",
+          "value": 40.24146000000002
+        },
+        {
+          "period": "1998",
+          "value": 54.052475000000015
+        },
+        {
+          "period": "1999",
+          "value": 85.91148000000001
+        },
+        {
+          "period": "2000",
+          "value": 105.49262500000003
+        },
+        {
+          "period": "2001",
+          "value": 127.65439500000002
+        },
+        {
+          "period": "2002",
+          "value": 125.28574505
+        },
+        {
+          "period": "2003",
+          "value": 145.74603
+        },
+        {
+          "period": "2004",
+          "value": 63.026183578554196
+        },
+        {
+          "period": "2005",
+          "value": -103.75087697132682
+        },
+        {
+          "period": "2006",
+          "value": -43.276048590499954
+        },
+        {
+          "period": "2007",
+          "value": -21.455905396499986
+        },
+        {
+          "period": "2008",
+          "value": -165.566254787
+        },
+        {
+          "period": "2009",
+          "value": -108.33695665299996
+        },
+        {
+          "period": "2010",
+          "value": -73.26772942850005
+        },
+        {
+          "period": "2011",
+          "value": -120.73579456615096
+        },
+        {
+          "period": "2012",
+          "value": -25.5249085164254
+        },
+        {
+          "period": "2013",
+          "value": 20.85883831860275
+        },
+        {
+          "period": "2014",
+          "value": 39.13148586819341
+        },
+        {
+          "period": "2015",
+          "value": 17.593434943051193
+        },
+        {
+          "period": "2016",
+          "value": -84.7109731969989
+        },
+        {
+          "period": "2017",
+          "value": -116.79057186976488
+        }
+      ]
+    },
+    {
+      "label": "Secondary Income Credits",
+      "observations": [
+        {
+          "period": "1967",
+          "value": 8.679
+        },
+        {
+          "period": "1968",
+          "value": 10.135
+        },
+        {
+          "period": "1969",
+          "value": 13.357
+        },
+        {
+          "period": "1970",
+          "value": 15.385000000000002
+        },
+        {
+          "period": "1971",
+          "value": 16.072
+        },
+        {
+          "period": "1972",
+          "value": 18.063
+        },
+        {
+          "period": "1973",
+          "value": 22.023
+        },
+        {
+          "period": "1974",
+          "value": 29.76723
+        },
+        {
+          "period": "1975",
+          "value": 32.78634
+        },
+        {
+          "period": "1976",
+          "value": 44.8422195
+        },
+        {
+          "period": "1977",
+          "value": 52.7005265
+        },
+        {
+          "period": "1978",
+          "value": 60.5911065
+        },
+        {
+          "period": "1979",
+          "value": 74.74725000000001
+        },
+        {
+          "period": "1980",
+          "value": 88.63449999999999
+        },
+        {
+          "period": "1981",
+          "value": 115.7265
+        },
+        {
+          "period": "1982",
+          "value": 81.259
+        },
+        {
+          "period": "1983",
+          "value": 91.95375
+        },
+        {
+          "period": "1984",
+          "value": 81.32075
+        },
+        {
+          "period": "1985",
+          "value": 94.024
+        },
+        {
+          "period": "1986",
+          "value": 137.8355
+        },
+        {
+          "period": "1987",
+          "value": 105.37325
+        },
+        {
+          "period": "1988",
+          "value": 119.42875000000001
+        },
+        {
+          "period": "1989",
+          "value": 139.479
+        },
+        {
+          "period": "1990",
+          "value": 151.297
+        },
+        {
+          "period": "1991",
+          "value": 130.29375
+        },
+        {
+          "period": "1992",
+          "value": 144.80474999999998
+        },
+        {
+          "period": "1993",
+          "value": 119.48450000000001
+        },
+        {
+          "period": "1994",
+          "value": 144.22275
+        },
+        {
+          "period": "1995",
+          "value": 147.1625
+        },
+        {
+          "period": "1996",
+          "value": 201.48799999999997
+        },
+        {
+          "period": "1997",
+          "value": 207.2395
+        },
+        {
+          "period": "1998",
+          "value": 225.7115
+        },
+        {
+          "period": "1999",
+          "value": 265.181
+        },
+        {
+          "period": "2000",
+          "value": 303.0765
+        },
+        {
+          "period": "2001",
+          "value": 339.11025
+        },
+        {
+          "period": "2002",
+          "value": 342.68025
+        },
+        {
+          "period": "2003",
+          "value": 363.546
+        },
+        {
+          "period": "2004",
+          "value": 341.24885738609726
+        },
+        {
+          "period": "2005",
+          "value": 395.3858661684892
+        },
+        {
+          "period": "2006",
+          "value": 409.6318832295
+        },
+        {
+          "period": "2007",
+          "value": 382.9999766035
+        },
+        {
+          "period": "2008",
+          "value": 307.443838601
+        },
+        {
+          "period": "2009",
+          "value": 288.205044437
+        },
+        {
+          "period": "2010",
+          "value": 293.5388929935
+        },
+        {
+          "period": "2011",
+          "value": 257.18556563816924
+        },
+        {
+          "period": "2012",
+          "value": 264.2530728952268
+        },
+        {
+          "period": "2013",
+          "value": 339.1364260830874
+        },
+        {
+          "period": "2014",
+          "value": 331.3196651602
+        },
+        {
+          "period": "2015",
+          "value": 433.04252083400127
+        },
+        {
+          "period": "2016",
+          "value": 317.9707417764079
+        },
+        {
+          "period": "2017",
+          "value": 105.0013540409079
+        }
+      ]
+    },
+    {
+      "label": "General government",
+      "observations": [
+        {
+          "period": "1967",
+          "value": 1.154
+        },
+        {
+          "period": "1968",
+          "value": 1.733
+        },
+        {
+          "period": "1969",
+          "value": 3.658
+        },
+        {
+          "period": "1970",
+          "value": 4.838
+        },
+        {
+          "period": "1971",
+          "value": 5.689
+        },
+        {
+          "period": "1972",
+          "value": 6.254
+        },
+        {
+          "period": "1973",
+          "value": 6.7010000000000005
+        },
+        {
+          "period": "1974",
+          "value": 4.875
+        },
+        {
+          "period": "1975",
+          "value": 5.039
+        },
+        {
+          "period": "1976",
+          "value": 6.599
+        },
+        {
+          "period": "1977",
+          "value": 9.947000000000001
+        },
+        {
+          "period": "1978",
+          "value": 7.045
+        },
+        {
+          "period": "1979",
+          "value": 16.93
+        },
+        {
+          "period": "1980",
+          "value": 11.6
+        },
+        {
+          "period": "1981",
+          "value": 9.1
+        },
+        {
+          "period": "1982",
+          "value": 9.799999999999999
+        },
+        {
+          "period": "1983",
+          "value": 16.900000000000002
+        },
+        {
+          "period": "1984",
+          "value": 16
+        },
+        {
+          "period": "1985",
+          "value": 17.700000000000003
+        },
+        {
+          "period": "1986",
+          "value": 17.6
+        },
+        {
+          "period": "1987",
+          "value": 12.8
+        },
+        {
+          "period": "1988",
+          "value": 15.5
+        },
+        {
+          "period": "1989",
+          "value": 11.9
+        },
+        {
+          "period": "1990",
+          "value": 11.7
+        },
+        {
+          "period": "1991",
+          "value": 10.1
+        },
+        {
+          "period": "1992",
+          "value": 9.1
+        },
+        {
+          "period": "1993",
+          "value": 4.8
+        },
+        {
+          "period": "1994",
+          "value": 2.7
+        },
+        {
+          "period": "1995",
+          "value": 3.5
+        },
+        {
+          "period": "1996",
+          "value": 9.1
+        },
+        {
+          "period": "1997",
+          "value": 24.2
+        },
+        {
+          "period": "1998",
+          "value": 29.900000000000002
+        },
+        {
+          "period": "1999",
+          "value": 37.300000000000004
+        },
+        {
+          "period": "2000",
+          "value": 45.300000000000004
+        },
+        {
+          "period": "2001",
+          "value": 45
+        },
+        {
+          "period": "2002",
+          "value": 50.602
+        },
+        {
+          "period": "2003",
+          "value": 56.479
+        },
+        {
+          "period": "2004",
+          "value": 60.83282579
+        },
+        {
+          "period": "2005",
+          "value": 101.61729738999999
+        },
+        {
+          "period": "2006",
+          "value": 147.43350630999998
+        },
+        {
+          "period": "2007",
+          "value": 116.96431627
+        },
+        {
+          "period": "2008",
+          "value": 78.28495747000001
+        },
+        {
+          "period": "2009",
+          "value": 49.09952044
+        },
+        {
+          "period": "2010",
+          "value": 81.75283882
+        },
+        {
+          "period": "2011",
+          "value": 38.64418792000001
+        },
+        {
+          "period": "2012",
+          "value": 54.996793370000006
+        },
+        {
+          "period": "2013",
+          "value": 48.713040039999996
+        },
+        {
+          "period": "2014",
+          "value": 33.741255960000004
+        },
+        {
+          "period": "2015",
+          "value": 82.65572474066002
+        },
+        {
+          "period": "2016",
+          "value": 14.697696590000001
+        },
+        {
+          "period": "2017",
+          "value": 8.72290275
+        }
+      ]
+    },
+    {
+      "label": "Current taxes on income, wealth, etc.",
+      "observations": [
+        {
+          "period": "1967",
+          "value": 0
+        },
+        {
+          "period": "1968",
+          "value": 0
+        },
+        {
+          "period": "1969",
+          "value": 0
+        },
+        {
+          "period": "1970",
+          "value": 0
+        },
+        {
+          "period": "1971",
+          "value": 0
+        },
+        {
+          "period": "1972",
+          "value": 0
+        },
+        {
+          "period": "1973",
+          "value": 0
+        },
+        {
+          "period": "1974",
+          "value": 0
+        },
+        {
+          "period": "1975",
+          "value": 0
+        },
+        {
+          "period": "1976",
+          "value": 0
+        },
+        {
+          "period": "1977",
+          "value": 0
+        },
+        {
+          "period": "1978",
+          "value": 0
+        },
+        {
+          "period": "1979",
+          "value": 0
+        },
+        {
+          "period": "1980",
+          "value": 0
+        },
+        {
+          "period": "1981",
+          "value": 0
+        },
+        {
+          "period": "1982",
+          "value": 0
+        },
+        {
+          "period": "1983",
+          "value": 0
+        },
+        {
+          "period": "1984",
+          "value": 0
+        },
+        {
+          "period": "1985",
+          "value": 0
+        },
+        {
+          "period": "1986",
+          "value": 1.5
+        },
+        {
+          "period": "1987",
+          "value": 2.8
+        },
+        {
+          "period": "1988",
+          "value": 1.1
+        },
+        {
+          "period": "1989",
+          "value": 1.1
+        },
+        {
+          "period": "1990",
+          "value": 1.6
+        },
+        {
+          "period": "1991",
+          "value": 1.1
+        },
+        {
+          "period": "1992",
+          "value": 2.7
+        },
+        {
+          "period": "1993",
+          "value": 4.6
+        },
+        {
+          "period": "1994",
+          "value": 5
+        },
+        {
+          "period": "1995",
+          "value": 4
+        },
+        {
+          "period": "1996",
+          "value": 4
+        },
+        {
+          "period": "1997",
+          "value": 3.1
+        },
+        {
+          "period": "1998",
+          "value": 2.3
+        },
+        {
+          "period": "1999",
+          "value": 1.8
+        },
+        {
+          "period": "2000",
+          "value": 0.8
+        },
+        {
+          "period": "2001",
+          "value": 0.8
+        },
+        {
+          "period": "2002",
+          "value": 0.6
+        },
+        {
+          "period": "2003",
+          "value": 1
+        },
+        {
+          "period": "2004",
+          "value": 1.2
+        },
+        {
+          "period": "2005",
+          "value": 3.2
+        },
+        {
+          "period": "2006",
+          "value": 5.7
+        },
+        {
+          "period": "2007",
+          "value": 5.9
+        },
+        {
+          "period": "2008",
+          "value": 5.332
+        },
+        {
+          "period": "2009",
+          "value": 5.4
+        },
+        {
+          "period": "2010",
+          "value": 0.3
+        },
+        {
+          "period": "2011",
+          "value": 18.37957292
+        },
+        {
+          "period": "2012",
+          "value": 22.31360425
+        },
+        {
+          "period": "2013",
+          "value": 21.0023023
+        },
+        {
+          "period": "2014",
+          "value": 8.06641135
+        },
+        {
+          "period": "2015",
+          "value": 4.2794579299999995
+        },
+        {
+          "period": "2016",
+          "value": 2.33262453
+        },
+        {
+          "period": "2017",
+          "value": 4.3326579899999995
+        }
+      ]
+    },
+    {
+      "label": "Social contributions",
+      "observations": [
+        {
+          "period": "1967",
+          "value": 0
+        },
+        {
+          "period": "1968",
+          "value": 0
+        },
+        {
+          "period": "1969",
+          "value": 0
+        },
+        {
+          "period": "1970",
+          "value": 0
+        },
+        {
+          "period": "1971",
+          "value": 0
+        },
+        {
+          "period": "1972",
+          "value": 0
+        },
+        {
+          "period": "1973",
+          "value": 0
+        },
+        {
+          "period": "1974",
+          "value": 0
+        },
+        {
+          "period": "1975",
+          "value": 0
+        },
+        {
+          "period": "1976",
+          "value": 0
+        },
+        {
+          "period": "1977",
+          "value": 0
+        },
+        {
+          "period": "1978",
+          "value": 0
+        },
+        {
+          "period": "1979",
+          "value": 0
+        },
+        {
+          "period": "1980",
+          "value": 0
+        },
+        {
+          "period": "1981",
+          "value": 0
+        },
+        {
+          "period": "1982",
+          "value": 0
+        },
+        {
+          "period": "1983",
+          "value": 0
+        },
+        {
+          "period": "1984",
+          "value": 0
+        },
+        {
+          "period": "1985",
+          "value": 0
+        },
+        {
+          "period": "1986",
+          "value": 0
+        },
+        {
+          "period": "1987",
+          "value": 0
+        },
+        {
+          "period": "1988",
+          "value": 0
+        },
+        {
+          "period": "1989",
+          "value": 0
+        },
+        {
+          "period": "1990",
+          "value": 0
+        },
+        {
+          "period": "1991",
+          "value": 0
+        },
+        {
+          "period": "1992",
+          "value": 0
+        },
+        {
+          "period": "1993",
+          "value": 0
+        },
+        {
+          "period": "1994",
+          "value": 0
+        },
+        {
+          "period": "1995",
+          "value": 0
+        },
+        {
+          "period": "1996",
+          "value": 0
+        },
+        {
+          "period": "1997",
+          "value": 0
+        },
+        {
+          "period": "1998",
+          "value": 0
+        },
+        {
+          "period": "1999",
+          "value": 0
+        },
+        {
+          "period": "2000",
+          "value": 0
+        },
+        {
+          "period": "2001",
+          "value": 0
+        },
+        {
+          "period": "2002",
+          "value": 0
+        },
+        {
+          "period": "2003",
+          "value": 0
+        },
+        {
+          "period": "2004",
+          "value": 0
+        },
+        {
+          "period": "2005",
+          "value": 0
+        },
+        {
+          "period": "2006",
+          "value": 0
+        },
+        {
+          "period": "2007",
+          "value": 0
+        },
+        {
+          "period": "2008",
+          "value": 0
+        },
+        {
+          "period": "2009",
+          "value": 0
+        },
+        {
+          "period": "2010",
+          "value": 0
+        },
+        {
+          "period": "2011",
+          "value": 0
+        },
+        {
+          "period": "2012",
+          "value": 0
+        },
+        {
+          "period": "2013",
+          "value": 0
+        },
+        {
+          "period": "2014",
+          "value": 0
+        },
+        {
+          "period": "2015",
+          "value": 0
+        },
+        {
+          "period": "2016",
+          "value": 0
+        },
+        {
+          "period": "2017",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "label": "Current international cooperation",
+      "observations": [
+        {
+          "period": "1967",
+          "value": 0
+        },
+        {
+          "period": "1968",
+          "value": 0
+        },
+        {
+          "period": "1969",
+          "value": 0
+        },
+        {
+          "period": "1970",
+          "value": 0
+        },
+        {
+          "period": "1971",
+          "value": 0
+        },
+        {
+          "period": "1972",
+          "value": 0
+        },
+        {
+          "period": "1973",
+          "value": 0
+        },
+        {
+          "period": "1974",
+          "value": 0
+        },
+        {
+          "period": "1975",
+          "value": 0
+        },
+        {
+          "period": "1976",
+          "value": 0
+        },
+        {
+          "period": "1977",
+          "value": 0
+        },
+        {
+          "period": "1978",
+          "value": 0
+        },
+        {
+          "period": "1979",
+          "value": 0
+        },
+        {
+          "period": "1980",
+          "value": 0
+        },
+        {
+          "period": "1981",
+          "value": 0
+        },
+        {
+          "period": "1982",
+          "value": 0
+        },
+        {
+          "period": "1983",
+          "value": 0
+        },
+        {
+          "period": "1984",
+          "value": 0
+        },
+        {
+          "period": "1985",
+          "value": 0
+        },
+        {
+          "period": "1986",
+          "value": 9.9
+        },
+        {
+          "period": "1987",
+          "value": 6.3
+        },
+        {
+          "period": "1988",
+          "value": 8.7
+        },
+        {
+          "period": "1989",
+          "value": 15.8
+        },
+        {
+          "period": "1990",
+          "value": 14.4
+        },
+        {
+          "period": "1991",
+          "value": 16.6
+        },
+        {
+          "period": "1992",
+          "value": 11.9
+        },
+        {
+          "period": "1993",
+          "value": 5.2
+        },
+        {
+          "period": "1994",
+          "value": 9.2
+        },
+        {
+          "period": "1995",
+          "value": 6.4
+        },
+        {
+          "period": "1996",
+          "value": 5.5
+        },
+        {
+          "period": "1997",
+          "value": 7
+        },
+        {
+          "period": "1998",
+          "value": 6.8
+        },
+        {
+          "period": "1999",
+          "value": 3
+        },
+        {
+          "period": "2000",
+          "value": 1.9
+        },
+        {
+          "period": "2001",
+          "value": 2
+        },
+        {
+          "period": "2002",
+          "value": 3
+        },
+        {
+          "period": "2003",
+          "value": 1.3
+        },
+        {
+          "period": "2004",
+          "value": 1.1
+        },
+        {
+          "period": "2005",
+          "value": 1.5
+        },
+        {
+          "period": "2006",
+          "value": 1
+        },
+        {
+          "period": "2007",
+          "value": 1.1
+        },
+        {
+          "period": "2008",
+          "value": 0.97
+        },
+        {
+          "period": "2009",
+          "value": 1.179
+        },
+        {
+          "period": "2010",
+          "value": 1.095205
+        },
+        {
+          "period": "2011",
+          "value": 20.264615000000003
+        },
+        {
+          "period": "2012",
+          "value": 32.68318912
+        },
+        {
+          "period": "2013",
+          "value": 27.71073774
+        },
+        {
+          "period": "2014",
+          "value": 25.67484461
+        },
+        {
+          "period": "2015",
+          "value": 78.37626681066001
+        },
+        {
+          "period": "2016",
+          "value": 12.365072060000001
+        },
+        {
+          "period": "2017",
+          "value": 4.39024476
+        }
+      ]
+    },
+    {
+      "label": "Miscellaneous current transfers of general government",
+      "observations": [
+        {
+          "period": "1967",
+          "value": 0
+        },
+        {
+          "period": "1968",
+          "value": 0
+        },
+        {
+          "period": "1969",
+          "value": 0
+        },
+        {
+          "period": "1970",
+          "value": 0
+        },
+        {
+          "period": "1971",
+          "value": 0
+        },
+        {
+          "period": "1972",
+          "value": 0
+        },
+        {
+          "period": "1973",
+          "value": 0
+        },
+        {
+          "period": "1974",
+          "value": 0
+        },
+        {
+          "period": "1975",
+          "value": 0
+        },
+        {
+          "period": "1976",
+          "value": 0
+        },
+        {
+          "period": "1977",
+          "value": 0
+        },
+        {
+          "period": "1978",
+          "value": 0
+        },
+        {
+          "period": "1979",
+          "value": 0
+        },
+        {
+          "period": "1980",
+          "value": 0
+        },
+        {
+          "period": "1981",
+          "value": 0
+        },
+        {
+          "period": "1982",
+          "value": 0
+        },
+        {
+          "period": "1983",
+          "value": 0
+        },
+        {
+          "period": "1984",
+          "value": 0
+        },
+        {
+          "period": "1985",
+          "value": 0
+        },
+        {
+          "period": "1986",
+          "value": 0.2
+        },
+        {
+          "period": "1987",
+          "value": 0
+        },
+        {
+          "period": "1988",
+          "value": 0
+        },
+        {
+          "period": "1989",
+          "value": 0
+        },
+        {
+          "period": "1990",
+          "value": 0
+        },
+        {
+          "period": "1991",
+          "value": 0
+        },
+        {
+          "period": "1992",
+          "value": 3
+        },
+        {
+          "period": "1993",
+          "value": 3
+        },
+        {
+          "period": "1994",
+          "value": 1.3
+        },
+        {
+          "period": "1995",
+          "value": 1.5
+        },
+        {
+          "period": "1996",
+          "value": 2.2
+        },
+        {
+          "period": "1997",
+          "value": 0
+        },
+        {
+          "period": "1998",
+          "value": 0
+        },
+        {
+          "period": "1999",
+          "value": 0
+        },
+        {
+          "period": "2000",
+          "value": 0
+        },
+        {
+          "period": "2001",
+          "value": 0.7
+        },
+        {
+          "period": "2002",
+          "value": 5.5
+        },
+        {
+          "period": "2003",
+          "value": 21.9
+        },
+        {
+          "period": "2004",
+          "value": 27.6
+        },
+        {
+          "period": "2005",
+          "value": 32.6
+        },
+        {
+          "period": "2006",
+          "value": 38.6
+        },
+        {
+          "period": "2007",
+          "value": 38
+        },
+        {
+          "period": "2008",
+          "value": 44.3
+        },
+        {
+          "period": "2009",
+          "value": 49.9
+        },
+        {
+          "period": "2010",
+          "value": 59.437620790000004
+        },
+        {
+          "period": "2011",
+          "value": 0
+        },
+        {
+          "period": "2012",
+          "value": 0
+        },
+        {
+          "period": "2013",
+          "value": 0
+        },
+        {
+          "period": "2014",
+          "value": 0
+        },
+        {
+          "period": "2015",
+          "value": 0
+        },
+        {
+          "period": "2016",
+          "value": 0
+        },
+        {
+          "period": "2017",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "label": "Of which: Current transfers to NPISHs",
+      "observations": [
+        {
+          "period": "1967",
+          "value": 0
+        },
+        {
+          "period": "1968",
+          "value": 0
+        },
+        {
+          "period": "1969",
+          "value": 0
+        },
+        {
+          "period": "1970",
+          "value": 0
+        },
+        {
+          "period": "1971",
+          "value": 0
+        },
+        {
+          "period": "1972",
+          "value": 0
+        },
+        {
+          "period": "1973",
+          "value": 0
+        },
+        {
+          "period": "1974",
+          "value": 0
+        },
+        {
+          "period": "1975",
+          "value": 0
+        },
+        {
+          "period": "1976",
+          "value": 0
+        },
+        {
+          "period": "1977",
+          "value": 0
+        },
+        {
+          "period": "1978",
+          "value": 0
+        },
+        {
+          "period": "1979",
+          "value": 0
+        },
+        {
+          "period": "1980",
+          "value": 0
+        },
+        {
+          "period": "1981",
+          "value": 0
+        },
+        {
+          "period": "1982",
+          "value": 0
+        },
+        {
+          "period": "1983",
+          "value": 0
+        },
+        {
+          "period": "1984",
+          "value": 0
+        },
+        {
+          "period": "1985",
+          "value": 0
+        },
+        {
+          "period": "1986",
+          "value": 0
+        },
+        {
+          "period": "1987",
+          "value": 0
+        },
+        {
+          "period": "1988",
+          "value": 0
+        },
+        {
+          "period": "1989",
+          "value": 0
+        },
+        {
+          "period": "1990",
+          "value": 0
+        },
+        {
+          "period": "1991",
+          "value": 0
+        },
+        {
+          "period": "1992",
+          "value": 0
+        },
+        {
+          "period": "1993",
+          "value": 0
+        },
+        {
+          "period": "1994",
+          "value": 0
+        },
+        {
+          "period": "1995",
+          "value": 0
+        },
+        {
+          "period": "1996",
+          "value": 0
+        },
+        {
+          "period": "1997",
+          "value": 0
+        },
+        {
+          "period": "1998",
+          "value": 0
+        },
+        {
+          "period": "1999",
+          "value": 0
+        },
+        {
+          "period": "2000",
+          "value": 0
+        },
+        {
+          "period": "2001",
+          "value": 0
+        },
+        {
+          "period": "2002",
+          "value": 0
+        },
+        {
+          "period": "2003",
+          "value": 0
+        },
+        {
+          "period": "2004",
+          "value": 0
+        },
+        {
+          "period": "2005",
+          "value": 0
+        },
+        {
+          "period": "2006",
+          "value": 0
+        },
+        {
+          "period": "2007",
+          "value": 0
+        },
+        {
+          "period": "2008",
+          "value": 0
+        },
+        {
+          "period": "2009",
+          "value": 0
+        },
+        {
+          "period": "2010",
+          "value": 0
+        },
+        {
+          "period": "2011",
+          "value": 0
+        },
+        {
+          "period": "2012",
+          "value": 0
+        },
+        {
+          "period": "2013",
+          "value": 0
+        },
+        {
+          "period": "2014",
+          "value": 0
+        },
+        {
+          "period": "2015",
+          "value": 0
+        },
+        {
+          "period": "2016",
+          "value": 0
+        },
+        {
+          "period": "2017",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "label": "Financial corporations, nonfinancial corporations, households, and NPISHs",
+      "observations": [
+        {
+          "period": "1967",
+          "value": 7.525
+        },
+        {
+          "period": "1968",
+          "value": 8.402
+        },
+        {
+          "period": "1969",
+          "value": 9.699
+        },
+        {
+          "period": "1970",
+          "value": 10.547
+        },
+        {
+          "period": "1971",
+          "value": 10.383
+        },
+        {
+          "period": "1972",
+          "value": 11.809
+        },
+        {
+          "period": "1973",
+          "value": 15.322
+        },
+        {
+          "period": "1974",
+          "value": 24.89223
+        },
+        {
+          "period": "1975",
+          "value": 27.74734
+        },
+        {
+          "period": "1976",
+          "value": 38.2432195
+        },
+        {
+          "period": "1977",
+          "value": 42.7535265
+        },
+        {
+          "period": "1978",
+          "value": 53.5461065
+        },
+        {
+          "period": "1979",
+          "value": 57.81725
+        },
+        {
+          "period": "1980",
+          "value": 77.0345
+        },
+        {
+          "period": "1981",
+          "value": 106.62650000000001
+        },
+        {
+          "period": "1982",
+          "value": 71.459
+        },
+        {
+          "period": "1983",
+          "value": 75.05375
+        },
+        {
+          "period": "1984",
+          "value": 65.32075
+        },
+        {
+          "period": "1985",
+          "value": 76.324
+        },
+        {
+          "period": "1986",
+          "value": 120.2355
+        },
+        {
+          "period": "1987",
+          "value": 92.57325
+        },
+        {
+          "period": "1988",
+          "value": 103.92875000000001
+        },
+        {
+          "period": "1989",
+          "value": 127.57900000000001
+        },
+        {
+          "period": "1990",
+          "value": 139.597
+        },
+        {
+          "period": "1991",
+          "value": 120.19375
+        },
+        {
+          "period": "1992",
+          "value": 135.70475
+        },
+        {
+          "period": "1993",
+          "value": 114.68450000000001
+        },
+        {
+          "period": "1994",
+          "value": 141.52275
+        },
+        {
+          "period": "1995",
+          "value": 143.6625
+        },
+        {
+          "period": "1996",
+          "value": 192.38799999999998
+        },
+        {
+          "period": "1997",
+          "value": 183.0395
+        },
+        {
+          "period": "1998",
+          "value": 195.8115
+        },
+        {
+          "period": "1999",
+          "value": 227.88099999999997
+        },
+        {
+          "period": "2000",
+          "value": 257.7765
+        },
+        {
+          "period": "2001",
+          "value": 294.11025
+        },
+        {
+          "period": "2002",
+          "value": 292.07825
+        },
+        {
+          "period": "2003",
+          "value": 307.067
+        },
+        {
+          "period": "2004",
+          "value": 280.41603159609724
+        },
+        {
+          "period": "2005",
+          "value": 293.7685687784892
+        },
+        {
+          "period": "2006",
+          "value": 262.1983769195
+        },
+        {
+          "period": "2007",
+          "value": 266.0356603335
+        },
+        {
+          "period": "2008",
+          "value": 229.158881131
+        },
+        {
+          "period": "2009",
+          "value": 239.105523997
+        },
+        {
+          "period": "2010",
+          "value": 211.7860541735
+        },
+        {
+          "period": "2011",
+          "value": 218.5413777181692
+        },
+        {
+          "period": "2012",
+          "value": 209.2562795252268
+        },
+        {
+          "period": "2013",
+          "value": 290.42338604308736
+        },
+        {
+          "period": "2014",
+          "value": 297.5784092002
+        },
+        {
+          "period": "2015",
+          "value": 350.3867960933413
+        },
+        {
+          "period": "2016",
+          "value": 303.2730451864079
+        },
+        {
+          "period": "2017",
+          "value": 96.2784512909079
+        }
+      ]
+    },
+    {
+      "label": "Personal transfers (Current transfers between resident and nonresident households)",
+      "observations": [
+        {
+          "period": "1967",
+          "value": 0
+        },
+        {
+          "period": "1968",
+          "value": 0
+        },
+        {
+          "period": "1969",
+          "value": 0
+        },
+        {
+          "period": "1970",
+          "value": 0
+        },
+        {
+          "period": "1971",
+          "value": 0
+        },
+        {
+          "period": "1972",
+          "value": 0
+        },
+        {
+          "period": "1973",
+          "value": 0
+        },
+        {
+          "period": "1974",
+          "value": 0
+        },
+        {
+          "period": "1975",
+          "value": 0
+        },
+        {
+          "period": "1976",
+          "value": 0
+        },
+        {
+          "period": "1977",
+          "value": 0
+        },
+        {
+          "period": "1978",
+          "value": 0
+        },
+        {
+          "period": "1979",
+          "value": 0
+        },
+        {
+          "period": "1980",
+          "value": 0
+        },
+        {
+          "period": "1981",
+          "value": 21.3
+        },
+        {
+          "period": "1982",
+          "value": 0
+        },
+        {
+          "period": "1983",
+          "value": 0
+        },
+        {
+          "period": "1984",
+          "value": 0
+        },
+        {
+          "period": "1985",
+          "value": 0
+        },
+        {
+          "period": "1986",
+          "value": 45
+        },
+        {
+          "period": "1987",
+          "value": 35.3
+        },
+        {
+          "period": "1988",
+          "value": 47.5
+        },
+        {
+          "period": "1989",
+          "value": 43.7
+        },
+        {
+          "period": "1990",
+          "value": 52
+        },
+        {
+          "period": "1991",
+          "value": 54.4
+        },
+        {
+          "period": "1992",
+          "value": 64
+        },
+        {
+          "period": "1993",
+          "value": 62.9
+        },
+        {
+          "period": "1994",
+          "value": 74.7
+        },
+        {
+          "period": "1995",
+          "value": 84.7
+        },
+        {
+          "period": "1996",
+          "value": 96.5
+        },
+        {
+          "period": "1997",
+          "value": 109.9
+        },
+        {
+          "period": "1998",
+          "value": 122.4
+        },
+        {
+          "period": "1999",
+          "value": 142.1
+        },
+        {
+          "period": "2000",
+          "value": 168.3
+        },
+        {
+          "period": "2001",
+          "value": 200.4
+        },
+        {
+          "period": "2002",
+          "value": 186.5
+        },
+        {
+          "period": "2003",
+          "value": 193.8
+        },
+        {
+          "period": "2004",
+          "value": 197.2
+        },
+        {
+          "period": "2005",
+          "value": 124.4
+        },
+        {
+          "period": "2006",
+          "value": 110
+        },
+        {
+          "period": "2007",
+          "value": 179.8
+        },
+        {
+          "period": "2008",
+          "value": 110.47769169
+        },
+        {
+          "period": "2009",
+          "value": 105.68374693999999
+        },
+        {
+          "period": "2010",
+          "value": 101.71350333
+        },
+        {
+          "period": "2011",
+          "value": 146.31623865319997
+        },
+        {
+          "period": "2012",
+          "value": 164.03830937599997
+        },
+        {
+          "period": "2013",
+          "value": 254.104548308
+        },
+        {
+          "period": "2014",
+          "value": 243.935674651
+        },
+        {
+          "period": "2015",
+          "value": 294.93023014230005
+        },
+        {
+          "period": "2016",
+          "value": 252.25956319700003
+        },
+        {
+          "period": "2017",
+          "value": 76.63810865
+        }
+      ]
+    },
+    {
+      "label": "Of which: Workers' remittances",
+      "observations": [
+        {
+          "period": "1967",
+          "value": 0
+        },
+        {
+          "period": "1968",
+          "value": 0
+        },
+        {
+          "period": "1969",
+          "value": 0
+        },
+        {
+          "period": "1970",
+          "value": 0
+        },
+        {
+          "period": "1971",
+          "value": 0
+        },
+        {
+          "period": "1972",
+          "value": 0
+        },
+        {
+          "period": "1973",
+          "value": 0
+        },
+        {
+          "period": "1974",
+          "value": 0
+        },
+        {
+          "period": "1975",
+          "value": 0
+        },
+        {
+          "period": "1976",
+          "value": 0
+        },
+        {
+          "period": "1977",
+          "value": 0
+        },
+        {
+          "period": "1978",
+          "value": 0
+        },
+        {
+          "period": "1979",
+          "value": 0
+        },
+        {
+          "period": "1980",
+          "value": 0
+        },
+        {
+          "period": "1981",
+          "value": 21.3
+        },
+        {
+          "period": "1982",
+          "value": 0
+        },
+        {
+          "period": "1983",
+          "value": 0
+        },
+        {
+          "period": "1984",
+          "value": 0
+        },
+        {
+          "period": "1985",
+          "value": 0
+        },
+        {
+          "period": "1986",
+          "value": 45
+        },
+        {
+          "period": "1987",
+          "value": 35.3
+        },
+        {
+          "period": "1988",
+          "value": 47.5
+        },
+        {
+          "period": "1989",
+          "value": 43.7
+        },
+        {
+          "period": "1990",
+          "value": 52
+        },
+        {
+          "period": "1991",
+          "value": 54.4
+        },
+        {
+          "period": "1992",
+          "value": 64
+        },
+        {
+          "period": "1993",
+          "value": 62.9
+        },
+        {
+          "period": "1994",
+          "value": 74.7
+        },
+        {
+          "period": "1995",
+          "value": 84.7
+        },
+        {
+          "period": "1996",
+          "value": 96.5
+        },
+        {
+          "period": "1997",
+          "value": 109.9
+        },
+        {
+          "period": "1998",
+          "value": 122.4
+        },
+        {
+          "period": "1999",
+          "value": 142.1
+        },
+        {
+          "period": "2000",
+          "value": 168.3
+        },
+        {
+          "period": "2001",
+          "value": 200.4
+        },
+        {
+          "period": "2002",
+          "value": 186.5
+        },
+        {
+          "period": "2003",
+          "value": 193.8
+        },
+        {
+          "period": "2004",
+          "value": 197.2
+        },
+        {
+          "period": "2005",
+          "value": 124.4
+        },
+        {
+          "period": "2006",
+          "value": 110
+        },
+        {
+          "period": "2007",
+          "value": 179.8
+        },
+        {
+          "period": "2008",
+          "value": 110.47769169
+        },
+        {
+          "period": "2009",
+          "value": 105.68374693999999
+        },
+        {
+          "period": "2010",
+          "value": 101.71350333
+        },
+        {
+          "period": "2011",
+          "value": 146.31623865319997
+        },
+        {
+          "period": "2012",
+          "value": 164.03830937599997
+        },
+        {
+          "period": "2013",
+          "value": 254.104548308
+        },
+        {
+          "period": "2014",
+          "value": 243.935674651
+        },
+        {
+          "period": "2015",
+          "value": 294.93023014230005
+        },
+        {
+          "period": "2016",
+          "value": 252.25956319700003
+        },
+        {
+          "period": "2017",
+          "value": 76.63810865
+        }
+      ]
+    },
+    {
+      "label": "Other current transfers",
+      "observations": [
+        {
+          "period": "1967",
+          "value": 7.525
+        },
+        {
+          "period": "1968",
+          "value": 8.402
+        },
+        {
+          "period": "1969",
+          "value": 9.699
+        },
+        {
+          "period": "1970",
+          "value": 10.547
+        },
+        {
+          "period": "1971",
+          "value": 10.383
+        },
+        {
+          "period": "1972",
+          "value": 11.809
+        },
+        {
+          "period": "1973",
+          "value": 15.322
+        },
+        {
+          "period": "1974",
+          "value": 24.89223
+        },
+        {
+          "period": "1975",
+          "value": 27.74734
+        },
+        {
+          "period": "1976",
+          "value": 38.2432195
+        },
+        {
+          "period": "1977",
+          "value": 42.7535265
+        },
+        {
+          "period": "1978",
+          "value": 53.5461065
+        },
+        {
+          "period": "1979",
+          "value": 57.81725
+        },
+        {
+          "period": "1980",
+          "value": 77.0345
+        },
+        {
+          "period": "1981",
+          "value": 85.32650000000001
+        },
+        {
+          "period": "1982",
+          "value": 71.459
+        },
+        {
+          "period": "1983",
+          "value": 75.05375
+        },
+        {
+          "period": "1984",
+          "value": 65.32075
+        },
+        {
+          "period": "1985",
+          "value": 76.324
+        },
+        {
+          "period": "1986",
+          "value": 75.2355
+        },
+        {
+          "period": "1987",
+          "value": 57.273250000000004
+        },
+        {
+          "period": "1988",
+          "value": 56.42875
+        },
+        {
+          "period": "1989",
+          "value": 83.879
+        },
+        {
+          "period": "1990",
+          "value": 87.59700000000001
+        },
+        {
+          "period": "1991",
+          "value": 65.79375
+        },
+        {
+          "period": "1992",
+          "value": 71.70474999999999
+        },
+        {
+          "period": "1993",
+          "value": 51.78450000000001
+        },
+        {
+          "period": "1994",
+          "value": 66.82275
+        },
+        {
+          "period": "1995",
+          "value": 58.9625
+        },
+        {
+          "period": "1996",
+          "value": 95.88799999999999
+        },
+        {
+          "period": "1997",
+          "value": 73.1395
+        },
+        {
+          "period": "1998",
+          "value": 73.41149999999999
+        },
+        {
+          "period": "1999",
+          "value": 85.78099999999999
+        },
+        {
+          "period": "2000",
+          "value": 89.4765
+        },
+        {
+          "period": "2001",
+          "value": 93.71025
+        },
+        {
+          "period": "2002",
+          "value": 105.57825000000001
+        },
+        {
+          "period": "2003",
+          "value": 113.26700000000001
+        },
+        {
+          "period": "2004",
+          "value": 83.21603159609728
+        },
+        {
+          "period": "2005",
+          "value": 169.3685687784892
+        },
+        {
+          "period": "2006",
+          "value": 152.1983769195
+        },
+        {
+          "period": "2007",
+          "value": 86.2356603335
+        },
+        {
+          "period": "2008",
+          "value": 118.681189441
+        },
+        {
+          "period": "2009",
+          "value": 133.421777057
+        },
+        {
+          "period": "2010",
+          "value": 110.0725508435
+        },
+        {
+          "period": "2011",
+          "value": 72.22513906496924
+        },
+        {
+          "period": "2012",
+          "value": 45.21797014922682
+        },
+        {
+          "period": "2013",
+          "value": 36.31883773508736
+        },
+        {
+          "period": "2014",
+          "value": 53.6427345492
+        },
+        {
+          "period": "2015",
+          "value": 55.45656595104123
+        },
+        {
+          "period": "2016",
+          "value": 51.01348198940789
+        },
+        {
+          "period": "2017",
+          "value": 19.640342640907896
+        }
+      ]
+    },
+    {
+      "label": "Social contributions",
+      "observations": [
+        {
+          "period": "1967",
+          "value": 0
+        },
+        {
+          "period": "1968",
+          "value": 0
+        },
+        {
+          "period": "1969",
+          "value": 0
+        },
+        {
+          "period": "1970",
+          "value": 0
+        },
+        {
+          "period": "1971",
+          "value": 0
+        },
+        {
+          "period": "1972",
+          "value": 0
+        },
+        {
+          "period": "1973",
+          "value": 0
+        },
+        {
+          "period": "1974",
+          "value": 0
+        },
+        {
+          "period": "1975",
+          "value": 0
+        },
+        {
+          "period": "1976",
+          "value": 0
+        },
+        {
+          "period": "1977",
+          "value": 0
+        },
+        {
+          "period": "1978",
+          "value": 0
+        },
+        {
+          "period": "1979",
+          "value": 0
+        },
+        {
+          "period": "1980",
+          "value": 0
+        },
+        {
+          "period": "1981",
+          "value": 0
+        },
+        {
+          "period": "1982",
+          "value": 0
+        },
+        {
+          "period": "1983",
+          "value": 0
+        },
+        {
+          "period": "1984",
+          "value": 0
+        },
+        {
+          "period": "1985",
+          "value": 0
+        },
+        {
+          "period": "1986",
+          "value": 0
+        },
+        {
+          "period": "1987",
+          "value": 0
+        },
+        {
+          "period": "1988",
+          "value": 0
+        },
+        {
+          "period": "1989",
+          "value": 0
+        },
+        {
+          "period": "1990",
+          "value": 0
+        },
+        {
+          "period": "1991",
+          "value": 0
+        },
+        {
+          "period": "1992",
+          "value": 0
+        },
+        {
+          "period": "1993",
+          "value": 0
+        },
+        {
+          "period": "1994",
+          "value": 0
+        },
+        {
+          "period": "1995",
+          "value": 0
+        },
+        {
+          "period": "1996",
+          "value": 0
+        },
+        {
+          "period": "1997",
+          "value": 0
+        },
+        {
+          "period": "1998",
+          "value": 0
+        },
+        {
+          "period": "1999",
+          "value": 0
+        },
+        {
+          "period": "2000",
+          "value": 0
+        },
+        {
+          "period": "2001",
+          "value": 0
+        },
+        {
+          "period": "2002",
+          "value": 0
+        },
+        {
+          "period": "2003",
+          "value": 0
+        },
+        {
+          "period": "2004",
+          "value": 0
+        },
+        {
+          "period": "2005",
+          "value": 0
+        },
+        {
+          "period": "2006",
+          "value": 0
+        },
+        {
+          "period": "2007",
+          "value": 0
+        },
+        {
+          "period": "2008",
+          "value": 0
+        },
+        {
+          "period": "2009",
+          "value": 0
+        },
+        {
+          "period": "2010",
+          "value": 0
+        },
+        {
+          "period": "2011",
+          "value": 0
+        },
+        {
+          "period": "2012",
+          "value": 0
+        },
+        {
+          "period": "2013",
+          "value": 0
+        },
+        {
+          "period": "2014",
+          "value": 0
+        },
+        {
+          "period": "2015",
+          "value": 0
+        },
+        {
+          "period": "2016",
+          "value": 0
+        },
+        {
+          "period": "2017",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "label": "Social benefits",
+      "observations": [
+        {
+          "period": "1967",
+          "value": 0
+        },
+        {
+          "period": "1968",
+          "value": 0
+        },
+        {
+          "period": "1969",
+          "value": 0
+        },
+        {
+          "period": "1970",
+          "value": 0
+        },
+        {
+          "period": "1971",
+          "value": 0
+        },
+        {
+          "period": "1972",
+          "value": 0
+        },
+        {
+          "period": "1973",
+          "value": 0
+        },
+        {
+          "period": "1974",
+          "value": 0
+        },
+        {
+          "period": "1975",
+          "value": 0
+        },
+        {
+          "period": "1976",
+          "value": 0
+        },
+        {
+          "period": "1977",
+          "value": 0
+        },
+        {
+          "period": "1978",
+          "value": 0
+        },
+        {
+          "period": "1979",
+          "value": 0
+        },
+        {
+          "period": "1980",
+          "value": 0
+        },
+        {
+          "period": "1981",
+          "value": 0
+        },
+        {
+          "period": "1982",
+          "value": 0
+        },
+        {
+          "period": "1983",
+          "value": 0
+        },
+        {
+          "period": "1984",
+          "value": 0
+        },
+        {
+          "period": "1985",
+          "value": 0
+        },
+        {
+          "period": "1986",
+          "value": 10.8
+        },
+        {
+          "period": "1987",
+          "value": 15.1
+        },
+        {
+          "period": "1988",
+          "value": 9
+        },
+        {
+          "period": "1989",
+          "value": 9.8
+        },
+        {
+          "period": "1990",
+          "value": 9.3
+        },
+        {
+          "period": "1991",
+          "value": 4.3999999999999995
+        },
+        {
+          "period": "1992",
+          "value": 4.2
+        },
+        {
+          "period": "1993",
+          "value": 1.3
+        },
+        {
+          "period": "1994",
+          "value": 2.2
+        },
+        {
+          "period": "1995",
+          "value": 1.3
+        },
+        {
+          "period": "1996",
+          "value": 2
+        },
+        {
+          "period": "1997",
+          "value": 0.7
+        },
+        {
+          "period": "1998",
+          "value": 1.1
+        },
+        {
+          "period": "1999",
+          "value": 2.9000000000000004
+        },
+        {
+          "period": "2000",
+          "value": 3
+        },
+        {
+          "period": "2001",
+          "value": 3.2
+        },
+        {
+          "period": "2002",
+          "value": 4.01
+        },
+        {
+          "period": "2003",
+          "value": 6.257
+        },
+        {
+          "period": "2004",
+          "value": 3.27445813
+        },
+        {
+          "period": "2005",
+          "value": 1.28034633
+        },
+        {
+          "period": "2006",
+          "value": 1.65975342
+        },
+        {
+          "period": "2007",
+          "value": 3.0681834400000003
+        },
+        {
+          "period": "2008",
+          "value": 3.136654
+        },
+        {
+          "period": "2009",
+          "value": 2.2005600000000003
+        },
+        {
+          "period": "2010",
+          "value": 3.23919466
+        },
+        {
+          "period": "2011",
+          "value": 4.3221653
+        },
+        {
+          "period": "2012",
+          "value": 5.79147157
+        },
+        {
+          "period": "2013",
+          "value": 6.946433608333334
+        },
+        {
+          "period": "2014",
+          "value": 6.409252540000001
+        },
+        {
+          "period": "2015",
+          "value": 6.435295963333334
+        },
+        {
+          "period": "2016",
+          "value": 4.53939286
+        },
+        {
+          "period": "2017",
+          "value": 4.997741629999999
+        }
+      ]
+    },
+    {
+      "label": "Net nonlife insurance premiums",
+      "observations": [
+        {
+          "period": "1967",
+          "value": 0
+        },
+        {
+          "period": "1968",
+          "value": 0
+        },
+        {
+          "period": "1969",
+          "value": 0
+        },
+        {
+          "period": "1970",
+          "value": 0
+        },
+        {
+          "period": "1971",
+          "value": 0
+        },
+        {
+          "period": "1972",
+          "value": 0
+        },
+        {
+          "period": "1973",
+          "value": 0
+        },
+        {
+          "period": "1974",
+          "value": 0.75123
+        },
+        {
+          "period": "1975",
+          "value": 0.88434
+        },
+        {
+          "period": "1976",
+          "value": 1.2832195
+        },
+        {
+          "period": "1977",
+          "value": 1.9015265000000001
+        },
+        {
+          "period": "1978",
+          "value": 2.1011065
+        },
+        {
+          "period": "1979",
+          "value": 2.74125
+        },
+        {
+          "period": "1980",
+          "value": 8.1345
+        },
+        {
+          "period": "1981",
+          "value": 7.7265
+        },
+        {
+          "period": "1982",
+          "value": 7.2589999999999995
+        },
+        {
+          "period": "1983",
+          "value": 11.45375
+        },
+        {
+          "period": "1984",
+          "value": 14.28425
+        },
+        {
+          "period": "1985",
+          "value": 16.524
+        },
+        {
+          "period": "1986",
+          "value": 16.6345
+        },
+        {
+          "period": "1987",
+          "value": 16.27325
+        },
+        {
+          "period": "1988",
+          "value": 11.028749999999999
+        },
+        {
+          "period": "1989",
+          "value": 23.579
+        },
+        {
+          "period": "1990",
+          "value": 27.897
+        },
+        {
+          "period": "1991",
+          "value": 18.59375
+        },
+        {
+          "period": "1992",
+          "value": 21.70475
+        },
+        {
+          "period": "1993",
+          "value": 20.884500000000003
+        },
+        {
+          "period": "1994",
+          "value": 20.92275
+        },
+        {
+          "period": "1995",
+          "value": 19.167499999999997
+        },
+        {
+          "period": "1996",
+          "value": 74.528
+        },
+        {
+          "period": "1997",
+          "value": 27.939499999999995
+        },
+        {
+          "period": "1998",
+          "value": 28.211500000000004
+        },
+        {
+          "period": "1999",
+          "value": 30.480999999999998
+        },
+        {
+          "period": "2000",
+          "value": 32.3765
+        },
+        {
+          "period": "2001",
+          "value": 36.01024999999999
+        },
+        {
+          "period": "2002",
+          "value": 37.61675
+        },
+        {
+          "period": "2003",
+          "value": 39.779999999999994
+        },
+        {
+          "period": "2004",
+          "value": 55.45921645
+        },
+        {
+          "period": "2005",
+          "value": 70.95875599
+        },
+        {
+          "period": "2006",
+          "value": 114.09873927000001
+        },
+        {
+          "period": "2007",
+          "value": 50.759138313499996
+        },
+        {
+          "period": "2008",
+          "value": 51.147374071
+        },
+        {
+          "period": "2009",
+          "value": 51.514893127
+        },
+        {
+          "period": "2010",
+          "value": 45.8968166735
+        },
+        {
+          "period": "2011",
+          "value": 41.35610036496924
+        },
+        {
+          "period": "2012",
+          "value": 7.479155529226826
+        },
+        {
+          "period": "2013",
+          "value": 11.370336416754029
+        },
+        {
+          "period": "2014",
+          "value": 14.0469420292
+        },
+        {
+          "period": "2015",
+          "value": 16.8955337377079
+        },
+        {
+          "period": "2016",
+          "value": 10.709159109407896
+        },
+        {
+          "period": "2017",
+          "value": 6.484002390907896
+        }
+      ]
+    },
+    {
+      "label": "Nonlife insurance claims",
+      "observations": [
+        {
+          "period": "1967",
+          "value": 0
+        },
+        {
+          "period": "1968",
+          "value": 0
+        },
+        {
+          "period": "1969",
+          "value": 0
+        },
+        {
+          "period": "1970",
+          "value": 0
+        },
+        {
+          "period": "1971",
+          "value": 0
+        },
+        {
+          "period": "1972",
+          "value": 0
+        },
+        {
+          "period": "1973",
+          "value": 0
+        },
+        {
+          "period": "1974",
+          "value": 6.614
+        },
+        {
+          "period": "1975",
+          "value": 8.043
+        },
+        {
+          "period": "1976",
+          "value": 6.731
+        },
+        {
+          "period": "1977",
+          "value": 7.946
+        },
+        {
+          "period": "1978",
+          "value": 14.216
+        },
+        {
+          "period": "1979",
+          "value": 11.081
+        },
+        {
+          "period": "1980",
+          "value": 12.648499999999999
+        },
+        {
+          "period": "1981",
+          "value": 11.864749999999999
+        },
+        {
+          "period": "1982",
+          "value": 12.256625
+        },
+        {
+          "period": "1983",
+          "value": 12.0606875
+        },
+        {
+          "period": "1984",
+          "value": 12.15865625
+        },
+        {
+          "period": "1985",
+          "value": 12.5
+        },
+        {
+          "period": "1986",
+          "value": 12.6
+        },
+        {
+          "period": "1987",
+          "value": 13
+        },
+        {
+          "period": "1988",
+          "value": 13.1
+        },
+        {
+          "period": "1989",
+          "value": 13.4
+        },
+        {
+          "period": "1990",
+          "value": 14
+        },
+        {
+          "period": "1991",
+          "value": 13.6
+        },
+        {
+          "period": "1992",
+          "value": 12.8
+        },
+        {
+          "period": "1993",
+          "value": 11.9
+        },
+        {
+          "period": "1994",
+          "value": 12.4
+        },
+        {
+          "period": "1995",
+          "value": 12.5
+        },
+        {
+          "period": "1996",
+          "value": 12.6
+        },
+        {
+          "period": "1997",
+          "value": 12.7
+        },
+        {
+          "period": "1998",
+          "value": 12.1
+        },
+        {
+          "period": "1999",
+          "value": 12.6
+        },
+        {
+          "period": "2000",
+          "value": 13.4
+        },
+        {
+          "period": "2001",
+          "value": 13
+        },
+        {
+          "period": "2002",
+          "value": 13.2
+        },
+        {
+          "period": "2003",
+          "value": 13.1
+        },
+        {
+          "period": "2004",
+          "value": 13.70308971
+        },
+        {
+          "period": "2005",
+          "value": 59.222083520000005
+        },
+        {
+          "period": "2006",
+          "value": 28.885586
+        },
+        {
+          "period": "2007",
+          "value": 0.6093299999999999
+        },
+        {
+          "period": "2008",
+          "value": 15.175101999999999
+        },
+        {
+          "period": "2009",
+          "value": 0.0364016
+        },
+        {
+          "period": "2010",
+          "value": 24.262032429999998
+        },
+        {
+          "period": "2011",
+          "value": 24.046305380000003
+        },
+        {
+          "period": "2012",
+          "value": 28.00984729
+        },
+        {
+          "period": "2013",
+          "value": 12.271256769999999
+        },
+        {
+          "period": "2014",
+          "value": 29.4234305
+        },
+        {
+          "period": "2015",
+          "value": 29.555224299999995
+        },
+        {
+          "period": "2016",
+          "value": 34.46917156
+        },
+        {
+          "period": "2017",
+          "value": 8.08540814
+        }
+      ]
+    },
+    {
+      "label": "Current international cooperation",
+      "observations": [
+        {
+          "period": "1967",
+          "value": 0
+        },
+        {
+          "period": "1968",
+          "value": 0
+        },
+        {
+          "period": "1969",
+          "value": 0
+        },
+        {
+          "period": "1970",
+          "value": 0
+        },
+        {
+          "period": "1971",
+          "value": 0
+        },
+        {
+          "period": "1972",
+          "value": 0
+        },
+        {
+          "period": "1973",
+          "value": 0
+        },
+        {
+          "period": "1974",
+          "value": 0
+        },
+        {
+          "period": "1975",
+          "value": 0
+        },
+        {
+          "period": "1976",
+          "value": 0
+        },
+        {
+          "period": "1977",
+          "value": 0
+        },
+        {
+          "period": "1978",
+          "value": 0
+        },
+        {
+          "period": "1979",
+          "value": 0
+        },
+        {
+          "period": "1980",
+          "value": 0
+        },
+        {
+          "period": "1981",
+          "value": 0
+        },
+        {
+          "period": "1982",
+          "value": 0
+        },
+        {
+          "period": "1983",
+          "value": 0
+        },
+        {
+          "period": "1984",
+          "value": 0
+        },
+        {
+          "period": "1985",
+          "value": 0
+        },
+        {
+          "period": "1986",
+          "value": 0
+        },
+        {
+          "period": "1987",
+          "value": 0
+        },
+        {
+          "period": "1988",
+          "value": 0
+        },
+        {
+          "period": "1989",
+          "value": 0
+        },
+        {
+          "period": "1990",
+          "value": 0
+        },
+        {
+          "period": "1991",
+          "value": 0
+        },
+        {
+          "period": "1992",
+          "value": 0
+        },
+        {
+          "period": "1993",
+          "value": 0
+        },
+        {
+          "period": "1994",
+          "value": 0
+        },
+        {
+          "period": "1995",
+          "value": 0
+        },
+        {
+          "period": "1996",
+          "value": 0
+        },
+        {
+          "period": "1997",
+          "value": 0
+        },
+        {
+          "period": "1998",
+          "value": 0
+        },
+        {
+          "period": "1999",
+          "value": 0
+        },
+        {
+          "period": "2000",
+          "value": 0
+        },
+        {
+          "period": "2001",
+          "value": 0
+        },
+        {
+          "period": "2002",
+          "value": 0
+        },
+        {
+          "period": "2003",
+          "value": 0
+        },
+        {
+          "period": "2004",
+          "value": 0
+        },
+        {
+          "period": "2005",
+          "value": 0
+        },
+        {
+          "period": "2006",
+          "value": 0
+        },
+        {
+          "period": "2007",
+          "value": 0
+        },
+        {
+          "period": "2008",
+          "value": 0
+        },
+        {
+          "period": "2009",
+          "value": 0
+        },
+        {
+          "period": "2010",
+          "value": 0
+        },
+        {
+          "period": "2011",
+          "value": 0
+        },
+        {
+          "period": "2012",
+          "value": 0
+        },
+        {
+          "period": "2013",
+          "value": 0
+        },
+        {
+          "period": "2014",
+          "value": 0
+        },
+        {
+          "period": "2015",
+          "value": 0
+        },
+        {
+          "period": "2016",
+          "value": 0
+        },
+        {
+          "period": "2017",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "label": "Miscellaneous current transfers",
+      "observations": [
+        {
+          "period": "1967",
+          "value": 0
+        },
+        {
+          "period": "1968",
+          "value": 0
+        },
+        {
+          "period": "1969",
+          "value": 0
+        },
+        {
+          "period": "1970",
+          "value": 0
+        },
+        {
+          "period": "1971",
+          "value": 0
+        },
+        {
+          "period": "1972",
+          "value": 0
+        },
+        {
+          "period": "1973",
+          "value": 0
+        },
+        {
+          "period": "1974",
+          "value": 0
+        },
+        {
+          "period": "1975",
+          "value": 0
+        },
+        {
+          "period": "1976",
+          "value": 0
+        },
+        {
+          "period": "1977",
+          "value": 0
+        },
+        {
+          "period": "1978",
+          "value": 0
+        },
+        {
+          "period": "1979",
+          "value": 0
+        },
+        {
+          "period": "1980",
+          "value": 0
+        },
+        {
+          "period": "1981",
+          "value": 0
+        },
+        {
+          "period": "1982",
+          "value": 0
+        },
+        {
+          "period": "1983",
+          "value": 0
+        },
+        {
+          "period": "1984",
+          "value": 0
+        },
+        {
+          "period": "1985",
+          "value": 0
+        },
+        {
+          "period": "1986",
+          "value": 35.201
+        },
+        {
+          "period": "1987",
+          "value": 12.900000000000002
+        },
+        {
+          "period": "1988",
+          "value": 23.300000000000004
+        },
+        {
+          "period": "1989",
+          "value": 37.10000000000001
+        },
+        {
+          "period": "1990",
+          "value": 36.4
+        },
+        {
+          "period": "1991",
+          "value": 29.200000000000003
+        },
+        {
+          "period": "1992",
+          "value": 33
+        },
+        {
+          "period": "1993",
+          "value": 17.700000000000003
+        },
+        {
+          "period": "1994",
+          "value": 31.299999999999997
+        },
+        {
+          "period": "1995",
+          "value": 25.995000000000005
+        },
+        {
+          "period": "1996",
+          "value": 6.759999999999986
+        },
+        {
+          "period": "1997",
+          "value": 31.8
+        },
+        {
+          "period": "1998",
+          "value": 31.999999999999993
+        },
+        {
+          "period": "1999",
+          "value": 39.79999999999999
+        },
+        {
+          "period": "2000",
+          "value": 40.7
+        },
+        {
+          "period": "2001",
+          "value": 41.50000000000001
+        },
+        {
+          "period": "2002",
+          "value": 50.75150000000001
+        },
+        {
+          "period": "2003",
+          "value": 54.13000000000002
+        },
+        {
+          "period": "2004",
+          "value": 10.779267306097282
+        },
+        {
+          "period": "2005",
+          "value": 37.90738293848917
+        },
+        {
+          "period": "2006",
+          "value": 7.554298229499995
+        },
+        {
+          "period": "2007",
+          "value": 31.79900858
+        },
+        {
+          "period": "2008",
+          "value": 49.22205937
+        },
+        {
+          "period": "2009",
+          "value": 79.66992233000002
+        },
+        {
+          "period": "2010",
+          "value": 36.674507080000005
+        },
+        {
+          "period": "2011",
+          "value": 2.5005680200000002
+        },
+        {
+          "period": "2012",
+          "value": 3.9374957600000005
+        },
+        {
+          "period": "2013",
+          "value": 5.73081094
+        },
+        {
+          "period": "2014",
+          "value": 3.76310948
+        },
+        {
+          "period": "2015",
+          "value": 2.57051195
+        },
+        {
+          "period": "2016",
+          "value": 1.29575846
+        },
+        {
+          "period": "2017",
+          "value": 0.07319048000000002
+        }
+      ]
+    },
+    {
+      "label": "Of which: Current transfers to NPISHs",
+      "observations": [
+        {
+          "period": "1967",
+          "value": 0
+        },
+        {
+          "period": "1968",
+          "value": 0
+        },
+        {
+          "period": "1969",
+          "value": 0
+        },
+        {
+          "period": "1970",
+          "value": 0
+        },
+        {
+          "period": "1971",
+          "value": 0
+        },
+        {
+          "period": "1972",
+          "value": 0
+        },
+        {
+          "period": "1973",
+          "value": 0
+        },
+        {
+          "period": "1974",
+          "value": 0
+        },
+        {
+          "period": "1975",
+          "value": 0
+        },
+        {
+          "period": "1976",
+          "value": 0
+        },
+        {
+          "period": "1977",
+          "value": 0
+        },
+        {
+          "period": "1978",
+          "value": 0
+        },
+        {
+          "period": "1979",
+          "value": 0
+        },
+        {
+          "period": "1980",
+          "value": 0
+        },
+        {
+          "period": "1981",
+          "value": 0
+        },
+        {
+          "period": "1982",
+          "value": 0
+        },
+        {
+          "period": "1983",
+          "value": 0
+        },
+        {
+          "period": "1984",
+          "value": 0
+        },
+        {
+          "period": "1985",
+          "value": 0
+        },
+        {
+          "period": "1986",
+          "value": 0
+        },
+        {
+          "period": "1987",
+          "value": 0
+        },
+        {
+          "period": "1988",
+          "value": 0
+        },
+        {
+          "period": "1989",
+          "value": 0
+        },
+        {
+          "period": "1990",
+          "value": 0
+        },
+        {
+          "period": "1991",
+          "value": 0
+        },
+        {
+          "period": "1992",
+          "value": 0
+        },
+        {
+          "period": "1993",
+          "value": 0
+        },
+        {
+          "period": "1994",
+          "value": 0
+        },
+        {
+          "period": "1995",
+          "value": 0
+        },
+        {
+          "period": "1996",
+          "value": 0
+        },
+        {
+          "period": "1997",
+          "value": 0
+        },
+        {
+          "period": "1998",
+          "value": 0
+        },
+        {
+          "period": "1999",
+          "value": 0
+        },
+        {
+          "period": "2000",
+          "value": 0
+        },
+        {
+          "period": "2001",
+          "value": 0
+        },
+        {
+          "period": "2002",
+          "value": 0
+        },
+        {
+          "period": "2003",
+          "value": 0
+        },
+        {
+          "period": "2004",
+          "value": 0
+        },
+        {
+          "period": "2005",
+          "value": 0
+        },
+        {
+          "period": "2006",
+          "value": 0
+        },
+        {
+          "period": "2007",
+          "value": 0
+        },
+        {
+          "period": "2008",
+          "value": 0
+        },
+        {
+          "period": "2009",
+          "value": 0
+        },
+        {
+          "period": "2010",
+          "value": 0
+        },
+        {
+          "period": "2011",
+          "value": 2.2010661700000003
+        },
+        {
+          "period": "2012",
+          "value": 3.9374957600000005
+        },
+        {
+          "period": "2013",
+          "value": 3.78524482
+        },
+        {
+          "period": "2014",
+          "value": 3.76310948
+        },
+        {
+          "period": "2015",
+          "value": 2.01186481
+        },
+        {
+          "period": "2016",
+          "value": 1.29575846
+        },
+        {
+          "period": "2017",
+          "value": 0.07319048000000002
+        }
+      ]
+    },
+    {
+      "label": "Adjustment for change in pension entitlements",
+      "observations": [
+        {
+          "period": "1967",
+          "value": 0
+        },
+        {
+          "period": "1968",
+          "value": 0
+        },
+        {
+          "period": "1969",
+          "value": 0
+        },
+        {
+          "period": "1970",
+          "value": 0
+        },
+        {
+          "period": "1971",
+          "value": 0
+        },
+        {
+          "period": "1972",
+          "value": 0
+        },
+        {
+          "period": "1973",
+          "value": 0
+        },
+        {
+          "period": "1974",
+          "value": 0
+        },
+        {
+          "period": "1975",
+          "value": 0
+        },
+        {
+          "period": "1976",
+          "value": 0
+        },
+        {
+          "period": "1977",
+          "value": 0
+        },
+        {
+          "period": "1978",
+          "value": 0
+        },
+        {
+          "period": "1979",
+          "value": 0
+        },
+        {
+          "period": "1980",
+          "value": 0
+        },
+        {
+          "period": "1981",
+          "value": 0
+        },
+        {
+          "period": "1982",
+          "value": 0
+        },
+        {
+          "period": "1983",
+          "value": 0
+        },
+        {
+          "period": "1984",
+          "value": 0
+        },
+        {
+          "period": "1985",
+          "value": 0
+        },
+        {
+          "period": "1986",
+          "value": 0
+        },
+        {
+          "period": "1987",
+          "value": 0
+        },
+        {
+          "period": "1988",
+          "value": 0
+        },
+        {
+          "period": "1989",
+          "value": 0
+        },
+        {
+          "period": "1990",
+          "value": 0
+        },
+        {
+          "period": "1991",
+          "value": 0
+        },
+        {
+          "period": "1992",
+          "value": 0
+        },
+        {
+          "period": "1993",
+          "value": 0
+        },
+        {
+          "period": "1994",
+          "value": 0
+        },
+        {
+          "period": "1995",
+          "value": 0
+        },
+        {
+          "period": "1996",
+          "value": 0
+        },
+        {
+          "period": "1997",
+          "value": 0
+        },
+        {
+          "period": "1998",
+          "value": 0
+        },
+        {
+          "period": "1999",
+          "value": 0
+        },
+        {
+          "period": "2000",
+          "value": 0
+        },
+        {
+          "period": "2001",
+          "value": 0
+        },
+        {
+          "period": "2002",
+          "value": 0
+        },
+        {
+          "period": "2003",
+          "value": 0
+        },
+        {
+          "period": "2004",
+          "value": 0
+        },
+        {
+          "period": "2005",
+          "value": 0
+        },
+        {
+          "period": "2006",
+          "value": 0
+        },
+        {
+          "period": "2007",
+          "value": 0
+        },
+        {
+          "period": "2008",
+          "value": 0
+        },
+        {
+          "period": "2009",
+          "value": 0
+        },
+        {
+          "period": "2010",
+          "value": 0
+        },
+        {
+          "period": "2011",
+          "value": 0
+        },
+        {
+          "period": "2012",
+          "value": 0
+        },
+        {
+          "period": "2013",
+          "value": 0
+        },
+        {
+          "period": "2014",
+          "value": 0
+        },
+        {
+          "period": "2015",
+          "value": 0
+        },
+        {
+          "period": "2016",
+          "value": 0
+        },
+        {
+          "period": "2017",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "label": "Secondary Income Debits",
+      "observations": [
+        {
+          "period": "1967",
+          "value": 2.9840392256
+        },
+        {
+          "period": "1968",
+          "value": 4.772742816
+        },
+        {
+          "period": "1969",
+          "value": 4.811414899200001
+        },
+        {
+          "period": "1970",
+          "value": 6.8465958464
+        },
+        {
+          "period": "1971",
+          "value": 7.3303904896
+        },
+        {
+          "period": "1972",
+          "value": 7.611148032
+        },
+        {
+          "period": "1973",
+          "value": 10.2901946944
+        },
+        {
+          "period": "1974",
+          "value": 27.375136346799998
+        },
+        {
+          "period": "1975",
+          "value": 31.4358938196
+        },
+        {
+          "period": "1976",
+          "value": 52.032544849999994
+        },
+        {
+          "period": "1977",
+          "value": 33.1216431
+        },
+        {
+          "period": "1978",
+          "value": 37.378659899999995
+        },
+        {
+          "period": "1979",
+          "value": 35.07473
+        },
+        {
+          "period": "1980",
+          "value": 46.755584999999996
+        },
+        {
+          "period": "1981",
+          "value": 63.642390000000006
+        },
+        {
+          "period": "1982",
+          "value": 41.587309999999995
+        },
+        {
+          "period": "1983",
+          "value": 53.705915
+        },
+        {
+          "period": "1984",
+          "value": 75.04657999999999
+        },
+        {
+          "period": "1985",
+          "value": 88.75223499999998
+        },
+        {
+          "period": "1986",
+          "value": 90.64904
+        },
+        {
+          "period": "1987",
+          "value": 106.83331000000001
+        },
+        {
+          "period": "1988",
+          "value": 97.515925
+        },
+        {
+          "period": "1989",
+          "value": 143.201345
+        },
+        {
+          "period": "1990",
+          "value": 96.42817000000001
+        },
+        {
+          "period": "1991",
+          "value": 89.288645
+        },
+        {
+          "period": "1992",
+          "value": 91.56020499999998
+        },
+        {
+          "period": "1993",
+          "value": 124.893995
+        },
+        {
+          "period": "1994",
+          "value": 153.05755
+        },
+        {
+          "period": "1995",
+          "value": 154.736235
+        },
+        {
+          "period": "1996",
+          "value": 167.74345
+        },
+        {
+          "period": "1997",
+          "value": 166.99803999999997
+        },
+        {
+          "period": "1998",
+          "value": 171.65902499999999
+        },
+        {
+          "period": "1999",
+          "value": 179.26951999999997
+        },
+        {
+          "period": "2000",
+          "value": 197.58387499999998
+        },
+        {
+          "period": "2001",
+          "value": 211.45585499999999
+        },
+        {
+          "period": "2002",
+          "value": 217.39450495
+        },
+        {
+          "period": "2003",
+          "value": 217.79997
+        },
+        {
+          "period": "2004",
+          "value": 278.22267380754306
+        },
+        {
+          "period": "2005",
+          "value": 499.136743139816
+        },
+        {
+          "period": "2006",
+          "value": 452.90793181999993
+        },
+        {
+          "period": "2007",
+          "value": 404.455882
+        },
+        {
+          "period": "2008",
+          "value": 473.010093388
+        },
+        {
+          "period": "2009",
+          "value": 396.54200109
+        },
+        {
+          "period": "2010",
+          "value": 366.80662242200003
+        },
+        {
+          "period": "2011",
+          "value": 377.9213602043202
+        },
+        {
+          "period": "2012",
+          "value": 289.7779814116522
+        },
+        {
+          "period": "2013",
+          "value": 318.2775877644846
+        },
+        {
+          "period": "2014",
+          "value": 292.18817929200657
+        },
+        {
+          "period": "2015",
+          "value": 415.4490858909501
+        },
+        {
+          "period": "2016",
+          "value": 402.6817149734068
+        },
+        {
+          "period": "2017",
+          "value": 221.79192591067277
+        }
+      ]
+    },
+    {
+      "label": "General government",
+      "observations": [
+        {
+          "period": "1967",
+          "value": 1.568
+        },
+        {
+          "period": "1968",
+          "value": 2.265
+        },
+        {
+          "period": "1969",
+          "value": 1.868
+        },
+        {
+          "period": "1970",
+          "value": 3.28
+        },
+        {
+          "period": "1971",
+          "value": 3.617
+        },
+        {
+          "period": "1972",
+          "value": 3.564
+        },
+        {
+          "period": "1973",
+          "value": 5.461
+        },
+        {
+          "period": "1974",
+          "value": 5.588
+        },
+        {
+          "period": "1975",
+          "value": 6.933
+        },
+        {
+          "period": "1976",
+          "value": 6.726999999999999
+        },
+        {
+          "period": "1977",
+          "value": 6.6000000000000005
+        },
+        {
+          "period": "1978",
+          "value": 6.205
+        },
+        {
+          "period": "1979",
+          "value": 11.534
+        },
+        {
+          "period": "1980",
+          "value": 16.5
+        },
+        {
+          "period": "1981",
+          "value": 27.7
+        },
+        {
+          "period": "1982",
+          "value": 5
+        },
+        {
+          "period": "1983",
+          "value": 17.9
+        },
+        {
+          "period": "1984",
+          "value": 30
+        },
+        {
+          "period": "1985",
+          "value": 45.3
+        },
+        {
+          "period": "1986",
+          "value": 42.9
+        },
+        {
+          "period": "1987",
+          "value": 53.6
+        },
+        {
+          "period": "1988",
+          "value": 50.7
+        },
+        {
+          "period": "1989",
+          "value": 72.69999999999999
+        },
+        {
+          "period": "1990",
+          "value": 4.7
+        },
+        {
+          "period": "1991",
+          "value": 12
+        },
+        {
+          "period": "1992",
+          "value": 10.6
+        },
+        {
+          "period": "1993",
+          "value": 15.299999999999999
+        },
+        {
+          "period": "1994",
+          "value": 12.6
+        },
+        {
+          "period": "1995",
+          "value": 5.4
+        },
+        {
+          "period": "1996",
+          "value": 7.1
+        },
+        {
+          "period": "1997",
+          "value": 8.1
+        },
+        {
+          "period": "1998",
+          "value": 10.4
+        },
+        {
+          "period": "1999",
+          "value": 9.2
+        },
+        {
+          "period": "2000",
+          "value": 12.100000000000001
+        },
+        {
+          "period": "2001",
+          "value": 12.2
+        },
+        {
+          "period": "2002",
+          "value": 17.408
+        },
+        {
+          "period": "2003",
+          "value": 15.709999999999999
+        },
+        {
+          "period": "2004",
+          "value": 21.808615
+        },
+        {
+          "period": "2005",
+          "value": 17.803224999999998
+        },
+        {
+          "period": "2006",
+          "value": 18.561063660000002
+        },
+        {
+          "period": "2007",
+          "value": 25.690472
+        },
+        {
+          "period": "2008",
+          "value": 36.280487
+        },
+        {
+          "period": "2009",
+          "value": 34.400138
+        },
+        {
+          "period": "2010",
+          "value": 21.894985639999998
+        },
+        {
+          "period": "2011",
+          "value": 36.377665
+        },
+        {
+          "period": "2012",
+          "value": 38.428133
+        },
+        {
+          "period": "2013",
+          "value": 31.40448937
+        },
+        {
+          "period": "2014",
+          "value": 33.34468417
+        },
+        {
+          "period": "2015",
+          "value": 42.16277602
+        },
+        {
+          "period": "2016",
+          "value": 41.250475970000004
+        },
+        {
+          "period": "2017",
+          "value": 46.85293308
+        }
+      ]
+    },
+    {
+      "label": "Social benefits",
+      "observations": [
+        {
+          "period": "1967",
+          "value": 0
+        },
+        {
+          "period": "1968",
+          "value": 0
+        },
+        {
+          "period": "1969",
+          "value": 0
+        },
+        {
+          "period": "1970",
+          "value": 0
+        },
+        {
+          "period": "1971",
+          "value": 0
+        },
+        {
+          "period": "1972",
+          "value": 0
+        },
+        {
+          "period": "1973",
+          "value": 0
+        },
+        {
+          "period": "1974",
+          "value": 0
+        },
+        {
+          "period": "1975",
+          "value": 0
+        },
+        {
+          "period": "1976",
+          "value": 0
+        },
+        {
+          "period": "1977",
+          "value": 0
+        },
+        {
+          "period": "1978",
+          "value": 0
+        },
+        {
+          "period": "1979",
+          "value": 0
+        },
+        {
+          "period": "1980",
+          "value": 0
+        },
+        {
+          "period": "1981",
+          "value": 0
+        },
+        {
+          "period": "1982",
+          "value": 0
+        },
+        {
+          "period": "1983",
+          "value": 0
+        },
+        {
+          "period": "1984",
+          "value": 0
+        },
+        {
+          "period": "1985",
+          "value": 0
+        },
+        {
+          "period": "1986",
+          "value": 1.8
+        },
+        {
+          "period": "1987",
+          "value": 1.7
+        },
+        {
+          "period": "1988",
+          "value": 1.5
+        },
+        {
+          "period": "1989",
+          "value": 2.2
+        },
+        {
+          "period": "1990",
+          "value": 2
+        },
+        {
+          "period": "1991",
+          "value": 2.3
+        },
+        {
+          "period": "1992",
+          "value": 2.2
+        },
+        {
+          "period": "1993",
+          "value": 1.9
+        },
+        {
+          "period": "1994",
+          "value": 2
+        },
+        {
+          "period": "1995",
+          "value": 0.1
+        },
+        {
+          "period": "1996",
+          "value": 1.3
+        },
+        {
+          "period": "1997",
+          "value": 1.5
+        },
+        {
+          "period": "1998",
+          "value": 2.5
+        },
+        {
+          "period": "1999",
+          "value": 2.6
+        },
+        {
+          "period": "2000",
+          "value": 2.5
+        },
+        {
+          "period": "2001",
+          "value": 2.5
+        },
+        {
+          "period": "2002",
+          "value": 2.6
+        },
+        {
+          "period": "2003",
+          "value": 3.6
+        },
+        {
+          "period": "2004",
+          "value": 4.4
+        },
+        {
+          "period": "2005",
+          "value": 4.2
+        },
+        {
+          "period": "2006",
+          "value": 5.7
+        },
+        {
+          "period": "2007",
+          "value": 5.8
+        },
+        {
+          "period": "2008",
+          "value": 7.571
+        },
+        {
+          "period": "2009",
+          "value": 7.731
+        },
+        {
+          "period": "2010",
+          "value": 6.983298
+        },
+        {
+          "period": "2011",
+          "value": 11.292356000000002
+        },
+        {
+          "period": "2012",
+          "value": 12.305879000000001
+        },
+        {
+          "period": "2013",
+          "value": 13.105468369999999
+        },
+        {
+          "period": "2014",
+          "value": 10.25418656
+        },
+        {
+          "period": "2015",
+          "value": 10.68175139
+        },
+        {
+          "period": "2016",
+          "value": 10.68175139
+        },
+        {
+          "period": "2017",
+          "value": 13.1588492
+        }
+      ]
+    },
+    {
+      "label": "Current international cooperation",
+      "observations": [
+        {
+          "period": "1967",
+          "value": 0
+        },
+        {
+          "period": "1968",
+          "value": 0
+        },
+        {
+          "period": "1969",
+          "value": 0
+        },
+        {
+          "period": "1970",
+          "value": 0
+        },
+        {
+          "period": "1971",
+          "value": 0
+        },
+        {
+          "period": "1972",
+          "value": 0
+        },
+        {
+          "period": "1973",
+          "value": 0
+        },
+        {
+          "period": "1974",
+          "value": 0
+        },
+        {
+          "period": "1975",
+          "value": 0
+        },
+        {
+          "period": "1976",
+          "value": 0
+        },
+        {
+          "period": "1977",
+          "value": 0
+        },
+        {
+          "period": "1978",
+          "value": 0
+        },
+        {
+          "period": "1979",
+          "value": 0
+        },
+        {
+          "period": "1980",
+          "value": 0
+        },
+        {
+          "period": "1981",
+          "value": 0
+        },
+        {
+          "period": "1982",
+          "value": 0
+        },
+        {
+          "period": "1983",
+          "value": 0
+        },
+        {
+          "period": "1984",
+          "value": 0
+        },
+        {
+          "period": "1985",
+          "value": 0
+        },
+        {
+          "period": "1986",
+          "value": 14.7
+        },
+        {
+          "period": "1987",
+          "value": 26
+        },
+        {
+          "period": "1988",
+          "value": 3.5
+        },
+        {
+          "period": "1989",
+          "value": 15.7
+        },
+        {
+          "period": "1990",
+          "value": 28
+        },
+        {
+          "period": "1991",
+          "value": 37.4
+        },
+        {
+          "period": "1992",
+          "value": 4.6
+        },
+        {
+          "period": "1993",
+          "value": 5
+        },
+        {
+          "period": "1994",
+          "value": 48.7
+        },
+        {
+          "period": "1995",
+          "value": 72.6
+        },
+        {
+          "period": "1996",
+          "value": 3.4
+        },
+        {
+          "period": "1997",
+          "value": 10.5
+        },
+        {
+          "period": "1998",
+          "value": 8.1
+        },
+        {
+          "period": "1999",
+          "value": 12.7
+        },
+        {
+          "period": "2000",
+          "value": 10.1
+        },
+        {
+          "period": "2001",
+          "value": 2.9
+        },
+        {
+          "period": "2002",
+          "value": 4.5
+        },
+        {
+          "period": "2003",
+          "value": 4.5
+        },
+        {
+          "period": "2004",
+          "value": 6
+        },
+        {
+          "period": "2005",
+          "value": 5
+        },
+        {
+          "period": "2006",
+          "value": 6.4
+        },
+        {
+          "period": "2007",
+          "value": 6.3
+        },
+        {
+          "period": "2008",
+          "value": 9.837
+        },
+        {
+          "period": "2009",
+          "value": 7.978999999999999
+        },
+        {
+          "period": "2010",
+          "value": 14.825317
+        },
+        {
+          "period": "2011",
+          "value": 25.085309
+        },
+        {
+          "period": "2012",
+          "value": 26.122253999999998
+        },
+        {
+          "period": "2013",
+          "value": 18.299021
+        },
+        {
+          "period": "2014",
+          "value": 23.09049761
+        },
+        {
+          "period": "2015",
+          "value": 31.481024630000004
+        },
+        {
+          "period": "2016",
+          "value": 30.56872458
+        },
+        {
+          "period": "2017",
+          "value": 33.69408388
+        }
+      ]
+    },
+    {
+      "label": "Miscellaneous current transfers of general government",
+      "observations": [
+        {
+          "period": "1967",
+          "value": 0
+        },
+        {
+          "period": "1968",
+          "value": 0
+        },
+        {
+          "period": "1969",
+          "value": 0
+        },
+        {
+          "period": "1970",
+          "value": 0
+        },
+        {
+          "period": "1971",
+          "value": 0
+        },
+        {
+          "period": "1972",
+          "value": 0
+        },
+        {
+          "period": "1973",
+          "value": 0
+        },
+        {
+          "period": "1974",
+          "value": 0
+        },
+        {
+          "period": "1975",
+          "value": 0
+        },
+        {
+          "period": "1976",
+          "value": 0
+        },
+        {
+          "period": "1977",
+          "value": 0
+        },
+        {
+          "period": "1978",
+          "value": 0
+        },
+        {
+          "period": "1979",
+          "value": 0
+        },
+        {
+          "period": "1980",
+          "value": 0
+        },
+        {
+          "period": "1981",
+          "value": 0
+        },
+        {
+          "period": "1982",
+          "value": 0
+        },
+        {
+          "period": "1983",
+          "value": 0
+        },
+        {
+          "period": "1984",
+          "value": 0
+        },
+        {
+          "period": "1985",
+          "value": 0
+        },
+        {
+          "period": "1986",
+          "value": 0
+        },
+        {
+          "period": "1987",
+          "value": 0
+        },
+        {
+          "period": "1988",
+          "value": 0
+        },
+        {
+          "period": "1989",
+          "value": 0
+        },
+        {
+          "period": "1990",
+          "value": 0
+        },
+        {
+          "period": "1991",
+          "value": 5.6
+        },
+        {
+          "period": "1992",
+          "value": 36.1
+        },
+        {
+          "period": "1993",
+          "value": 46.7
+        },
+        {
+          "period": "1994",
+          "value": 0
+        },
+        {
+          "period": "1995",
+          "value": 0
+        },
+        {
+          "period": "1996",
+          "value": 0
+        },
+        {
+          "period": "1997",
+          "value": 0
+        },
+        {
+          "period": "1998",
+          "value": 0
+        },
+        {
+          "period": "1999",
+          "value": 0
+        },
+        {
+          "period": "2000",
+          "value": 0
+        },
+        {
+          "period": "2001",
+          "value": 0
+        },
+        {
+          "period": "2002",
+          "value": 0
+        },
+        {
+          "period": "2003",
+          "value": 0
+        },
+        {
+          "period": "2004",
+          "value": 0
+        },
+        {
+          "period": "2005",
+          "value": 0
+        },
+        {
+          "period": "2006",
+          "value": 0
+        },
+        {
+          "period": "2007",
+          "value": 0.1
+        },
+        {
+          "period": "2008",
+          "value": 0
+        },
+        {
+          "period": "2009",
+          "value": 0
+        },
+        {
+          "period": "2010",
+          "value": 0
+        },
+        {
+          "period": "2011",
+          "value": 0
+        },
+        {
+          "period": "2012",
+          "value": 0
+        },
+        {
+          "period": "2013",
+          "value": 0
+        },
+        {
+          "period": "2014",
+          "value": 0
+        },
+        {
+          "period": "2015",
+          "value": 0
+        },
+        {
+          "period": "2016",
+          "value": 0
+        },
+        {
+          "period": "2017",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "label": "Of which: Current transfers to NPISHs",
+      "observations": [
+        {
+          "period": "1967",
+          "value": 0
+        },
+        {
+          "period": "1968",
+          "value": 0
+        },
+        {
+          "period": "1969",
+          "value": 0
+        },
+        {
+          "period": "1970",
+          "value": 0
+        },
+        {
+          "period": "1971",
+          "value": 0
+        },
+        {
+          "period": "1972",
+          "value": 0
+        },
+        {
+          "period": "1973",
+          "value": 0
+        },
+        {
+          "period": "1974",
+          "value": 0
+        },
+        {
+          "period": "1975",
+          "value": 0
+        },
+        {
+          "period": "1976",
+          "value": 0
+        },
+        {
+          "period": "1977",
+          "value": 0
+        },
+        {
+          "period": "1978",
+          "value": 0
+        },
+        {
+          "period": "1979",
+          "value": 0
+        },
+        {
+          "period": "1980",
+          "value": 0
+        },
+        {
+          "period": "1981",
+          "value": 0
+        },
+        {
+          "period": "1982",
+          "value": 0
+        },
+        {
+          "period": "1983",
+          "value": 0
+        },
+        {
+          "period": "1984",
+          "value": 0
+        },
+        {
+          "period": "1985",
+          "value": 0
+        },
+        {
+          "period": "1986",
+          "value": 0
+        },
+        {
+          "period": "1987",
+          "value": 0
+        },
+        {
+          "period": "1988",
+          "value": 0
+        },
+        {
+          "period": "1989",
+          "value": 0
+        },
+        {
+          "period": "1990",
+          "value": 0
+        },
+        {
+          "period": "1991",
+          "value": 0
+        },
+        {
+          "period": "1992",
+          "value": 0
+        },
+        {
+          "period": "1993",
+          "value": 0
+        },
+        {
+          "period": "1994",
+          "value": 0
+        },
+        {
+          "period": "1995",
+          "value": 0
+        },
+        {
+          "period": "1996",
+          "value": 0
+        },
+        {
+          "period": "1997",
+          "value": 0
+        },
+        {
+          "period": "1998",
+          "value": 0
+        },
+        {
+          "period": "1999",
+          "value": 0
+        },
+        {
+          "period": "2000",
+          "value": 0
+        },
+        {
+          "period": "2001",
+          "value": 0
+        },
+        {
+          "period": "2002",
+          "value": 0
+        },
+        {
+          "period": "2003",
+          "value": 0
+        },
+        {
+          "period": "2004",
+          "value": 0
+        },
+        {
+          "period": "2005",
+          "value": 0
+        },
+        {
+          "period": "2006",
+          "value": 0
+        },
+        {
+          "period": "2007",
+          "value": 0
+        },
+        {
+          "period": "2008",
+          "value": 0
+        },
+        {
+          "period": "2009",
+          "value": 0
+        },
+        {
+          "period": "2010",
+          "value": 0
+        },
+        {
+          "period": "2011",
+          "value": 0
+        },
+        {
+          "period": "2012",
+          "value": 0
+        },
+        {
+          "period": "2013",
+          "value": 0
+        },
+        {
+          "period": "2014",
+          "value": 0
+        },
+        {
+          "period": "2015",
+          "value": 0
+        },
+        {
+          "period": "2016",
+          "value": 0
+        },
+        {
+          "period": "2017",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "label": "Financial corporations, nonfinancial corporations, households, and NPISHs",
+      "observations": [
+        {
+          "period": "1967",
+          "value": 1.4160392255999998
+        },
+        {
+          "period": "1968",
+          "value": 2.507742816
+        },
+        {
+          "period": "1969",
+          "value": 2.9434148992000004
+        },
+        {
+          "period": "1970",
+          "value": 3.5665958463999994
+        },
+        {
+          "period": "1971",
+          "value": 3.7133904896
+        },
+        {
+          "period": "1972",
+          "value": 4.047148032
+        },
+        {
+          "period": "1973",
+          "value": 4.8291946944
+        },
+        {
+          "period": "1974",
+          "value": 21.787136346799997
+        },
+        {
+          "period": "1975",
+          "value": 24.5028938196
+        },
+        {
+          "period": "1976",
+          "value": 45.30554485
+        },
+        {
+          "period": "1977",
+          "value": 26.521643100000002
+        },
+        {
+          "period": "1978",
+          "value": 31.173659899999997
+        },
+        {
+          "period": "1979",
+          "value": 23.54073
+        },
+        {
+          "period": "1980",
+          "value": 30.255585
+        },
+        {
+          "period": "1981",
+          "value": 35.94239
+        },
+        {
+          "period": "1982",
+          "value": 36.587309999999995
+        },
+        {
+          "period": "1983",
+          "value": 35.805915
+        },
+        {
+          "period": "1984",
+          "value": 45.04657999999999
+        },
+        {
+          "period": "1985",
+          "value": 43.45223499999999
+        },
+        {
+          "period": "1986",
+          "value": 47.74904
+        },
+        {
+          "period": "1987",
+          "value": 53.23331
+        },
+        {
+          "period": "1988",
+          "value": 46.81592499999999
+        },
+        {
+          "period": "1989",
+          "value": 70.501345
+        },
+        {
+          "period": "1990",
+          "value": 91.72817
+        },
+        {
+          "period": "1991",
+          "value": 77.288645
+        },
+        {
+          "period": "1992",
+          "value": 80.96020499999999
+        },
+        {
+          "period": "1993",
+          "value": 109.593995
+        },
+        {
+          "period": "1994",
+          "value": 140.45755
+        },
+        {
+          "period": "1995",
+          "value": 149.336235
+        },
+        {
+          "period": "1996",
+          "value": 160.64345
+        },
+        {
+          "period": "1997",
+          "value": 158.89803999999998
+        },
+        {
+          "period": "1998",
+          "value": 161.25902499999998
+        },
+        {
+          "period": "1999",
+          "value": 170.06951999999998
+        },
+        {
+          "period": "2000",
+          "value": 185.48387499999998
+        },
+        {
+          "period": "2001",
+          "value": 199.255855
+        },
+        {
+          "period": "2002",
+          "value": 199.98650494999998
+        },
+        {
+          "period": "2003",
+          "value": 202.08997
+        },
+        {
+          "period": "2004",
+          "value": 256.4140588075431
+        },
+        {
+          "period": "2005",
+          "value": 481.333518139816
+        },
+        {
+          "period": "2006",
+          "value": 434.34686815999993
+        },
+        {
+          "period": "2007",
+          "value": 378.76541
+        },
+        {
+          "period": "2008",
+          "value": 436.729606388
+        },
+        {
+          "period": "2009",
+          "value": 362.14186309
+        },
+        {
+          "period": "2010",
+          "value": 344.911636782
+        },
+        {
+          "period": "2011",
+          "value": 341.5436952043202
+        },
+        {
+          "period": "2012",
+          "value": 251.3498484116522
+        },
+        {
+          "period": "2013",
+          "value": 286.8730983944846
+        },
+        {
+          "period": "2014",
+          "value": 258.8434951220066
+        },
+        {
+          "period": "2015",
+          "value": 373.28630987095005
+        },
+        {
+          "period": "2016",
+          "value": 361.4312390034068
+        },
+        {
+          "period": "2017",
+          "value": 174.93899283067276
+        }
+      ]
+    },
+    {
+      "label": "Personal transfers (Current transfers between resident and nonresident households)",
+      "observations": [
+        {
+          "period": "1967",
+          "value": 0
+        },
+        {
+          "period": "1968",
+          "value": 0
+        },
+        {
+          "period": "1969",
+          "value": 0
+        },
+        {
+          "period": "1970",
+          "value": 0
+        },
+        {
+          "period": "1971",
+          "value": 0
+        },
+        {
+          "period": "1972",
+          "value": 0
+        },
+        {
+          "period": "1973",
+          "value": 0
+        },
+        {
+          "period": "1974",
+          "value": 0
+        },
+        {
+          "period": "1975",
+          "value": 0
+        },
+        {
+          "period": "1976",
+          "value": 0
+        },
+        {
+          "period": "1977",
+          "value": 0
+        },
+        {
+          "period": "1978",
+          "value": 0
+        },
+        {
+          "period": "1979",
+          "value": 0
+        },
+        {
+          "period": "1980",
+          "value": 0
+        },
+        {
+          "period": "1981",
+          "value": 0
+        },
+        {
+          "period": "1982",
+          "value": 0
+        },
+        {
+          "period": "1983",
+          "value": 0
+        },
+        {
+          "period": "1984",
+          "value": 0
+        },
+        {
+          "period": "1985",
+          "value": 0
+        },
+        {
+          "period": "1986",
+          "value": 0
+        },
+        {
+          "period": "1987",
+          "value": 8.3
+        },
+        {
+          "period": "1988",
+          "value": 7.3
+        },
+        {
+          "period": "1989",
+          "value": 10.8
+        },
+        {
+          "period": "1990",
+          "value": 11
+        },
+        {
+          "period": "1991",
+          "value": 14
+        },
+        {
+          "period": "1992",
+          "value": 12.8
+        },
+        {
+          "period": "1993",
+          "value": 10.9
+        },
+        {
+          "period": "1994",
+          "value": 14.3
+        },
+        {
+          "period": "1995",
+          "value": 23.2
+        },
+        {
+          "period": "1996",
+          "value": 30.5
+        },
+        {
+          "period": "1997",
+          "value": 23.9
+        },
+        {
+          "period": "1998",
+          "value": 25.1
+        },
+        {
+          "period": "1999",
+          "value": 27.6
+        },
+        {
+          "period": "2000",
+          "value": 28.6
+        },
+        {
+          "period": "2001",
+          "value": 30.7
+        },
+        {
+          "period": "2002",
+          "value": 29.7
+        },
+        {
+          "period": "2003",
+          "value": 31.5
+        },
+        {
+          "period": "2004",
+          "value": 31.5
+        },
+        {
+          "period": "2005",
+          "value": 73.90543240834414
+        },
+        {
+          "period": "2006",
+          "value": 62.078652999999996
+        },
+        {
+          "period": "2007",
+          "value": 92.60541
+        },
+        {
+          "period": "2008",
+          "value": 58.55511434
+        },
+        {
+          "period": "2009",
+          "value": 53.384454
+        },
+        {
+          "period": "2010",
+          "value": 56.355112000000005
+        },
+        {
+          "period": "2011",
+          "value": 92.516012062
+        },
+        {
+          "period": "2012",
+          "value": 87.7412836971375
+        },
+        {
+          "period": "2013",
+          "value": 101.71169059084279
+        },
+        {
+          "period": "2014",
+          "value": 99.4055322328316
+        },
+        {
+          "period": "2015",
+          "value": 86.6736620175069
+        },
+        {
+          "period": "2016",
+          "value": 76.56296240073401
+        },
+        {
+          "period": "2017",
+          "value": 65.785425071
+        }
+      ]
+    },
+    {
+      "label": "Of which: Workers' remittances",
+      "observations": [
+        {
+          "period": "1967",
+          "value": 0
+        },
+        {
+          "period": "1968",
+          "value": 0
+        },
+        {
+          "period": "1969",
+          "value": 0
+        },
+        {
+          "period": "1970",
+          "value": 0
+        },
+        {
+          "period": "1971",
+          "value": 0
+        },
+        {
+          "period": "1972",
+          "value": 0
+        },
+        {
+          "period": "1973",
+          "value": 0
+        },
+        {
+          "period": "1974",
+          "value": 0
+        },
+        {
+          "period": "1975",
+          "value": 0
+        },
+        {
+          "period": "1976",
+          "value": 0
+        },
+        {
+          "period": "1977",
+          "value": 0
+        },
+        {
+          "period": "1978",
+          "value": 0
+        },
+        {
+          "period": "1979",
+          "value": 0
+        },
+        {
+          "period": "1980",
+          "value": 0
+        },
+        {
+          "period": "1981",
+          "value": 0
+        },
+        {
+          "period": "1982",
+          "value": 0
+        },
+        {
+          "period": "1983",
+          "value": 0
+        },
+        {
+          "period": "1984",
+          "value": 0
+        },
+        {
+          "period": "1985",
+          "value": 0
+        },
+        {
+          "period": "1986",
+          "value": 0
+        },
+        {
+          "period": "1987",
+          "value": 8.3
+        },
+        {
+          "period": "1988",
+          "value": 7.3
+        },
+        {
+          "period": "1989",
+          "value": 10.8
+        },
+        {
+          "period": "1990",
+          "value": 11
+        },
+        {
+          "period": "1991",
+          "value": 14
+        },
+        {
+          "period": "1992",
+          "value": 12.8
+        },
+        {
+          "period": "1993",
+          "value": 10.9
+        },
+        {
+          "period": "1994",
+          "value": 14.3
+        },
+        {
+          "period": "1995",
+          "value": 23.2
+        },
+        {
+          "period": "1996",
+          "value": 30.5
+        },
+        {
+          "period": "1997",
+          "value": 23.9
+        },
+        {
+          "period": "1998",
+          "value": 25.1
+        },
+        {
+          "period": "1999",
+          "value": 27.6
+        },
+        {
+          "period": "2000",
+          "value": 28.6
+        },
+        {
+          "period": "2001",
+          "value": 30.7
+        },
+        {
+          "period": "2002",
+          "value": 29.7
+        },
+        {
+          "period": "2003",
+          "value": 31.5
+        },
+        {
+          "period": "2004",
+          "value": 31.5
+        },
+        {
+          "period": "2005",
+          "value": 73.90543240834414
+        },
+        {
+          "period": "2006",
+          "value": 62.078652999999996
+        },
+        {
+          "period": "2007",
+          "value": 92.60541
+        },
+        {
+          "period": "2008",
+          "value": 58.55511434
+        },
+        {
+          "period": "2009",
+          "value": 53.384454
+        },
+        {
+          "period": "2010",
+          "value": 56.355112000000005
+        },
+        {
+          "period": "2011",
+          "value": 92.516012062
+        },
+        {
+          "period": "2012",
+          "value": 87.7412836971375
+        },
+        {
+          "period": "2013",
+          "value": 101.71169059084279
+        },
+        {
+          "period": "2014",
+          "value": 99.4055322328316
+        },
+        {
+          "period": "2015",
+          "value": 83.2375380475069
+        },
+        {
+          "period": "2016",
+          "value": 72.292364960734
+        },
+        {
+          "period": "2017",
+          "value": 64.440463571
+        }
+      ]
+    },
+    {
+      "label": "Other current transfers",
+      "observations": [
+        {
+          "period": "1967",
+          "value": 1.4160392255999998
+        },
+        {
+          "period": "1968",
+          "value": 2.507742816
+        },
+        {
+          "period": "1969",
+          "value": 2.9434148992000004
+        },
+        {
+          "period": "1970",
+          "value": 3.5665958463999994
+        },
+        {
+          "period": "1971",
+          "value": 3.7133904896
+        },
+        {
+          "period": "1972",
+          "value": 4.047148032
+        },
+        {
+          "period": "1973",
+          "value": 4.8291946944
+        },
+        {
+          "period": "1974",
+          "value": 21.787136346799997
+        },
+        {
+          "period": "1975",
+          "value": 24.5028938196
+        },
+        {
+          "period": "1976",
+          "value": 45.30554485
+        },
+        {
+          "period": "1977",
+          "value": 26.521643100000002
+        },
+        {
+          "period": "1978",
+          "value": 31.173659899999997
+        },
+        {
+          "period": "1979",
+          "value": 23.54073
+        },
+        {
+          "period": "1980",
+          "value": 30.255585
+        },
+        {
+          "period": "1981",
+          "value": 35.94239
+        },
+        {
+          "period": "1982",
+          "value": 36.587309999999995
+        },
+        {
+          "period": "1983",
+          "value": 35.805915
+        },
+        {
+          "period": "1984",
+          "value": 45.04657999999999
+        },
+        {
+          "period": "1985",
+          "value": 43.45223499999999
+        },
+        {
+          "period": "1986",
+          "value": 47.74904
+        },
+        {
+          "period": "1987",
+          "value": 44.93331
+        },
+        {
+          "period": "1988",
+          "value": 39.515924999999996
+        },
+        {
+          "period": "1989",
+          "value": 59.701344999999996
+        },
+        {
+          "period": "1990",
+          "value": 80.72817
+        },
+        {
+          "period": "1991",
+          "value": 63.288644999999995
+        },
+        {
+          "period": "1992",
+          "value": 68.16020499999999
+        },
+        {
+          "period": "1993",
+          "value": 98.693995
+        },
+        {
+          "period": "1994",
+          "value": 126.15755
+        },
+        {
+          "period": "1995",
+          "value": 126.136235
+        },
+        {
+          "period": "1996",
+          "value": 130.14345
+        },
+        {
+          "period": "1997",
+          "value": 134.99803999999997
+        },
+        {
+          "period": "1998",
+          "value": 136.15902499999999
+        },
+        {
+          "period": "1999",
+          "value": 142.46952
+        },
+        {
+          "period": "2000",
+          "value": 156.883875
+        },
+        {
+          "period": "2001",
+          "value": 168.555855
+        },
+        {
+          "period": "2002",
+          "value": 170.28650495
+        },
+        {
+          "period": "2003",
+          "value": 170.58997
+        },
+        {
+          "period": "2004",
+          "value": 224.91405880754309
+        },
+        {
+          "period": "2005",
+          "value": 407.42808573147187
+        },
+        {
+          "period": "2006",
+          "value": 372.26821515999995
+        },
+        {
+          "period": "2007",
+          "value": 286.15999999999997
+        },
+        {
+          "period": "2008",
+          "value": 378.174492048
+        },
+        {
+          "period": "2009",
+          "value": 308.75740909
+        },
+        {
+          "period": "2010",
+          "value": 288.556524782
+        },
+        {
+          "period": "2011",
+          "value": 249.02768314232023
+        },
+        {
+          "period": "2012",
+          "value": 163.6085647145147
+        },
+        {
+          "period": "2013",
+          "value": 185.16140780364182
+        },
+        {
+          "period": "2014",
+          "value": 159.43796288917497
+        },
+        {
+          "period": "2015",
+          "value": 286.61264785344315
+        },
+        {
+          "period": "2016",
+          "value": 284.8682766026728
+        },
+        {
+          "period": "2017",
+          "value": 109.15356775967275
+        }
+      ]
+    },
+    {
+      "label": "Current taxes on income, wealth, etc.",
+      "observations": [
+        {
+          "period": "1967",
+          "value": 0
+        },
+        {
+          "period": "1968",
+          "value": 0
+        },
+        {
+          "period": "1969",
+          "value": 0
+        },
+        {
+          "period": "1970",
+          "value": 0
+        },
+        {
+          "period": "1971",
+          "value": 0
+        },
+        {
+          "period": "1972",
+          "value": 0
+        },
+        {
+          "period": "1973",
+          "value": 0
+        },
+        {
+          "period": "1974",
+          "value": 0
+        },
+        {
+          "period": "1975",
+          "value": 0
+        },
+        {
+          "period": "1976",
+          "value": 0
+        },
+        {
+          "period": "1977",
+          "value": 0
+        },
+        {
+          "period": "1978",
+          "value": 0
+        },
+        {
+          "period": "1979",
+          "value": 0
+        },
+        {
+          "period": "1980",
+          "value": 0
+        },
+        {
+          "period": "1981",
+          "value": 0
+        },
+        {
+          "period": "1982",
+          "value": 0
+        },
+        {
+          "period": "1983",
+          "value": 0
+        },
+        {
+          "period": "1984",
+          "value": 0
+        },
+        {
+          "period": "1985",
+          "value": 0
+        },
+        {
+          "period": "1986",
+          "value": 0.5
+        },
+        {
+          "period": "1987",
+          "value": 0.7
+        },
+        {
+          "period": "1988",
+          "value": 0.4
+        },
+        {
+          "period": "1989",
+          "value": 3.6
+        },
+        {
+          "period": "1990",
+          "value": 0.7
+        },
+        {
+          "period": "1991",
+          "value": 0.4
+        },
+        {
+          "period": "1992",
+          "value": 1.3
+        },
+        {
+          "period": "1993",
+          "value": 1.3
+        },
+        {
+          "period": "1994",
+          "value": 2.4
+        },
+        {
+          "period": "1995",
+          "value": 1.4
+        },
+        {
+          "period": "1996",
+          "value": 1.2
+        },
+        {
+          "period": "1997",
+          "value": 1.2
+        },
+        {
+          "period": "1998",
+          "value": 1.1
+        },
+        {
+          "period": "1999",
+          "value": 1.2
+        },
+        {
+          "period": "2000",
+          "value": 1.2
+        },
+        {
+          "period": "2001",
+          "value": 1.3
+        },
+        {
+          "period": "2002",
+          "value": 1.057
+        },
+        {
+          "period": "2003",
+          "value": 0.018
+        },
+        {
+          "period": "2004",
+          "value": 0.015
+        },
+        {
+          "period": "2005",
+          "value": 0
+        },
+        {
+          "period": "2006",
+          "value": 1.88449
+        },
+        {
+          "period": "2007",
+          "value": 0
+        },
+        {
+          "period": "2008",
+          "value": 0.03030932
+        },
+        {
+          "period": "2009",
+          "value": 0
+        },
+        {
+          "period": "2010",
+          "value": 0.442874
+        },
+        {
+          "period": "2011",
+          "value": 0
+        },
+        {
+          "period": "2012",
+          "value": 0.9777377500000002
+        },
+        {
+          "period": "2013",
+          "value": 0.40115402
+        },
+        {
+          "period": "2014",
+          "value": 4.779863019999999
+        },
+        {
+          "period": "2015",
+          "value": 11.11708069
+        },
+        {
+          "period": "2016",
+          "value": 5.89093836
+        },
+        {
+          "period": "2017",
+          "value": 7.86337518
+        }
+      ]
+    },
+    {
+      "label": "Social contributions",
+      "observations": [
+        {
+          "period": "1967",
+          "value": 0
+        },
+        {
+          "period": "1968",
+          "value": 0
+        },
+        {
+          "period": "1969",
+          "value": 0
+        },
+        {
+          "period": "1970",
+          "value": 0
+        },
+        {
+          "period": "1971",
+          "value": 0
+        },
+        {
+          "period": "1972",
+          "value": 0
+        },
+        {
+          "period": "1973",
+          "value": 0
+        },
+        {
+          "period": "1974",
+          "value": 0
+        },
+        {
+          "period": "1975",
+          "value": 0
+        },
+        {
+          "period": "1976",
+          "value": 0
+        },
+        {
+          "period": "1977",
+          "value": 0
+        },
+        {
+          "period": "1978",
+          "value": 0
+        },
+        {
+          "period": "1979",
+          "value": 0
+        },
+        {
+          "period": "1980",
+          "value": 0
+        },
+        {
+          "period": "1981",
+          "value": 0
+        },
+        {
+          "period": "1982",
+          "value": 0
+        },
+        {
+          "period": "1983",
+          "value": 0
+        },
+        {
+          "period": "1984",
+          "value": 0
+        },
+        {
+          "period": "1985",
+          "value": 0
+        },
+        {
+          "period": "1986",
+          "value": 0
+        },
+        {
+          "period": "1987",
+          "value": 0
+        },
+        {
+          "period": "1988",
+          "value": 0
+        },
+        {
+          "period": "1989",
+          "value": 0
+        },
+        {
+          "period": "1990",
+          "value": 0
+        },
+        {
+          "period": "1991",
+          "value": 0
+        },
+        {
+          "period": "1992",
+          "value": 0
+        },
+        {
+          "period": "1993",
+          "value": 0
+        },
+        {
+          "period": "1994",
+          "value": 0
+        },
+        {
+          "period": "1995",
+          "value": 0
+        },
+        {
+          "period": "1996",
+          "value": 0
+        },
+        {
+          "period": "1997",
+          "value": 0
+        },
+        {
+          "period": "1998",
+          "value": 0
+        },
+        {
+          "period": "1999",
+          "value": 0
+        },
+        {
+          "period": "2000",
+          "value": 0
+        },
+        {
+          "period": "2001",
+          "value": 0
+        },
+        {
+          "period": "2002",
+          "value": 0
+        },
+        {
+          "period": "2003",
+          "value": 0
+        },
+        {
+          "period": "2004",
+          "value": 0
+        },
+        {
+          "period": "2005",
+          "value": 0
+        },
+        {
+          "period": "2006",
+          "value": 0
+        },
+        {
+          "period": "2007",
+          "value": 0
+        },
+        {
+          "period": "2008",
+          "value": 0
+        },
+        {
+          "period": "2009",
+          "value": 0
+        },
+        {
+          "period": "2010",
+          "value": 0
+        },
+        {
+          "period": "2011",
+          "value": 2.81976466
+        },
+        {
+          "period": "2012",
+          "value": 0
+        },
+        {
+          "period": "2013",
+          "value": 0
+        },
+        {
+          "period": "2014",
+          "value": 0
+        },
+        {
+          "period": "2015",
+          "value": 0
+        },
+        {
+          "period": "2016",
+          "value": 0
+        },
+        {
+          "period": "2017",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "label": "Social benefits",
+      "observations": [
+        {
+          "period": "1967",
+          "value": 0
+        },
+        {
+          "period": "1968",
+          "value": 0
+        },
+        {
+          "period": "1969",
+          "value": 0
+        },
+        {
+          "period": "1970",
+          "value": 0
+        },
+        {
+          "period": "1971",
+          "value": 0
+        },
+        {
+          "period": "1972",
+          "value": 0
+        },
+        {
+          "period": "1973",
+          "value": 0
+        },
+        {
+          "period": "1974",
+          "value": 0
+        },
+        {
+          "period": "1975",
+          "value": 0
+        },
+        {
+          "period": "1976",
+          "value": 0
+        },
+        {
+          "period": "1977",
+          "value": 0
+        },
+        {
+          "period": "1978",
+          "value": 0
+        },
+        {
+          "period": "1979",
+          "value": 0
+        },
+        {
+          "period": "1980",
+          "value": 0
+        },
+        {
+          "period": "1981",
+          "value": 0
+        },
+        {
+          "period": "1982",
+          "value": 0
+        },
+        {
+          "period": "1983",
+          "value": 0
+        },
+        {
+          "period": "1984",
+          "value": 0
+        },
+        {
+          "period": "1985",
+          "value": 0
+        },
+        {
+          "period": "1986",
+          "value": 0
+        },
+        {
+          "period": "1987",
+          "value": 0
+        },
+        {
+          "period": "1988",
+          "value": 0
+        },
+        {
+          "period": "1989",
+          "value": 0
+        },
+        {
+          "period": "1990",
+          "value": 0
+        },
+        {
+          "period": "1991",
+          "value": 0
+        },
+        {
+          "period": "1992",
+          "value": 0
+        },
+        {
+          "period": "1993",
+          "value": 0
+        },
+        {
+          "period": "1994",
+          "value": 0
+        },
+        {
+          "period": "1995",
+          "value": 0
+        },
+        {
+          "period": "1996",
+          "value": 0
+        },
+        {
+          "period": "1997",
+          "value": 0
+        },
+        {
+          "period": "1998",
+          "value": 0
+        },
+        {
+          "period": "1999",
+          "value": 0
+        },
+        {
+          "period": "2000",
+          "value": 0
+        },
+        {
+          "period": "2001",
+          "value": 0
+        },
+        {
+          "period": "2002",
+          "value": 0
+        },
+        {
+          "period": "2003",
+          "value": 0
+        },
+        {
+          "period": "2004",
+          "value": 0
+        },
+        {
+          "period": "2005",
+          "value": 0
+        },
+        {
+          "period": "2006",
+          "value": 0
+        },
+        {
+          "period": "2007",
+          "value": 0
+        },
+        {
+          "period": "2008",
+          "value": 0
+        },
+        {
+          "period": "2009",
+          "value": 0
+        },
+        {
+          "period": "2010",
+          "value": 0
+        },
+        {
+          "period": "2011",
+          "value": 0.49593296
+        },
+        {
+          "period": "2012",
+          "value": 0
+        },
+        {
+          "period": "2013",
+          "value": 0.11896156
+        },
+        {
+          "period": "2014",
+          "value": 0
+        },
+        {
+          "period": "2015",
+          "value": 0
+        },
+        {
+          "period": "2016",
+          "value": 0
+        },
+        {
+          "period": "2017",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "label": "Net nonlife insurance premiums",
+      "observations": [
+        {
+          "period": "1967",
+          "value": 0
+        },
+        {
+          "period": "1968",
+          "value": 0
+        },
+        {
+          "period": "1969",
+          "value": 0
+        },
+        {
+          "period": "1970",
+          "value": 0
+        },
+        {
+          "period": "1971",
+          "value": 0
+        },
+        {
+          "period": "1972",
+          "value": 0
+        },
+        {
+          "period": "1973",
+          "value": 0
+        },
+        {
+          "period": "1974",
+          "value": 17.8161363468
+        },
+        {
+          "period": "1975",
+          "value": 20.5258938196
+        },
+        {
+          "period": "1976",
+          "value": 22.01554485
+        },
+        {
+          "period": "1977",
+          "value": 20.8286431
+        },
+        {
+          "period": "1978",
+          "value": 25.2576599
+        },
+        {
+          "period": "1979",
+          "value": 15.99173
+        },
+        {
+          "period": "1980",
+          "value": 20.255585
+        },
+        {
+          "period": "1981",
+          "value": 22.842389999999998
+        },
+        {
+          "period": "1982",
+          "value": 24.487309999999997
+        },
+        {
+          "period": "1983",
+          "value": 24.105915
+        },
+        {
+          "period": "1984",
+          "value": 34.04658
+        },
+        {
+          "period": "1985",
+          "value": 32.452234999999995
+        },
+        {
+          "period": "1986",
+          "value": 33.84904
+        },
+        {
+          "period": "1987",
+          "value": 40.43331
+        },
+        {
+          "period": "1988",
+          "value": 33.515924999999996
+        },
+        {
+          "period": "1989",
+          "value": 45.301345
+        },
+        {
+          "period": "1990",
+          "value": 67.72816999999999
+        },
+        {
+          "period": "1991",
+          "value": 50.688644999999994
+        },
+        {
+          "period": "1992",
+          "value": 50.360205
+        },
+        {
+          "period": "1993",
+          "value": 70.893995
+        },
+        {
+          "period": "1994",
+          "value": 102.25755
+        },
+        {
+          "period": "1995",
+          "value": 97.93623500000001
+        },
+        {
+          "period": "1996",
+          "value": 104.34345
+        },
+        {
+          "period": "1997",
+          "value": 106.89803999999998
+        },
+        {
+          "period": "1998",
+          "value": 108.55902499999999
+        },
+        {
+          "period": "1999",
+          "value": 113.56952
+        },
+        {
+          "period": "2000",
+          "value": 125.08387499999999
+        },
+        {
+          "period": "2001",
+          "value": 136.455855
+        },
+        {
+          "period": "2002",
+          "value": 138.14450495
+        },
+        {
+          "period": "2003",
+          "value": 138.83067
+        },
+        {
+          "period": "2004",
+          "value": 130.39647486649997
+        },
+        {
+          "period": "2005",
+          "value": 210.14934548500003
+        },
+        {
+          "period": "2006",
+          "value": 275.46277875199996
+        },
+        {
+          "period": "2007",
+          "value": 275.01535632125
+        },
+        {
+          "period": "2008",
+          "value": 245.14672322800004
+        },
+        {
+          "period": "2009",
+          "value": 168.15708049850002
+        },
+        {
+          "period": "2010",
+          "value": 193.8353450825
+        },
+        {
+          "period": "2011",
+          "value": 213.32250942232022
+        },
+        {
+          "period": "2012",
+          "value": 146.7041107145147
+        },
+        {
+          "period": "2013",
+          "value": 175.0940671536418
+        },
+        {
+          "period": "2014",
+          "value": 147.06813795917498
+        },
+        {
+          "period": "2015",
+          "value": 270.87777814344315
+        },
+        {
+          "period": "2016",
+          "value": 277.87733824267275
+        },
+        {
+          "period": "2017",
+          "value": 100.19019257967275
+        }
+      ]
+    },
+    {
+      "label": "Nonlife insurance claims",
+      "observations": [
+        {
+          "period": "1967",
+          "value": 0.25203922559999997
+        },
+        {
+          "period": "1968",
+          "value": 1.256742816
+        },
+        {
+          "period": "1969",
+          "value": 1.4544148992
+        },
+        {
+          "period": "1970",
+          "value": 1.7655958463999997
+        },
+        {
+          "period": "1971",
+          "value": 1.8303904896
+        },
+        {
+          "period": "1972",
+          "value": 2.031148032
+        },
+        {
+          "period": "1973",
+          "value": 2.4681946944
+        },
+        {
+          "period": "1974",
+          "value": 1.404
+        },
+        {
+          "period": "1975",
+          "value": 1.532
+        },
+        {
+          "period": "1976",
+          "value": 18.615
+        },
+        {
+          "period": "1977",
+          "value": 1.324
+        },
+        {
+          "period": "1978",
+          "value": 1.447
+        },
+        {
+          "period": "1979",
+          "value": 1.3855
+        },
+        {
+          "period": "1980",
+          "value": 1.45
+        },
+        {
+          "period": "1981",
+          "value": 1.6
+        },
+        {
+          "period": "1982",
+          "value": 1.3
+        },
+        {
+          "period": "1983",
+          "value": 1.7
+        },
+        {
+          "period": "1984",
+          "value": 1.8
+        },
+        {
+          "period": "1985",
+          "value": 1.4
+        },
+        {
+          "period": "1986",
+          "value": 2.1
+        },
+        {
+          "period": "1987",
+          "value": 1.6
+        },
+        {
+          "period": "1988",
+          "value": 1.7
+        },
+        {
+          "period": "1989",
+          "value": 5
+        },
+        {
+          "period": "1990",
+          "value": 4.7
+        },
+        {
+          "period": "1991",
+          "value": 7
+        },
+        {
+          "period": "1992",
+          "value": 12
+        },
+        {
+          "period": "1993",
+          "value": 9.1
+        },
+        {
+          "period": "1994",
+          "value": 10.55
+        },
+        {
+          "period": "1995",
+          "value": 9.825
+        },
+        {
+          "period": "1996",
+          "value": 10.1875
+        },
+        {
+          "period": "1997",
+          "value": 10.00625
+        },
+        {
+          "period": "1998",
+          "value": 10.8
+        },
+        {
+          "period": "1999",
+          "value": 10.403125
+        },
+        {
+          "period": "2000",
+          "value": 10.6015625
+        },
+        {
+          "period": "2001",
+          "value": 10.50234375
+        },
+        {
+          "period": "2002",
+          "value": 10.551953125
+        },
+        {
+          "period": "2003",
+          "value": 10.5271484375
+        },
+        {
+          "period": "2004",
+          "value": 16.724734480000002
+        },
+        {
+          "period": "2005",
+          "value": 84.40322262000001
+        },
+        {
+          "period": "2006",
+          "value": 24.809693170000003
+        },
+        {
+          "period": "2007",
+          "value": 8.3399533
+        },
+        {
+          "period": "2008",
+          "value": 19.061234130000003
+        },
+        {
+          "period": "2009",
+          "value": 8.642415
+        },
+        {
+          "period": "2010",
+          "value": 7.72749591
+        },
+        {
+          "period": "2011",
+          "value": 6.429201999999999
+        },
+        {
+          "period": "2012",
+          "value": 0.020708240000000003
+        },
+        {
+          "period": "2013",
+          "value": 1.65361315
+        },
+        {
+          "period": "2014",
+          "value": 0
+        },
+        {
+          "period": "2015",
+          "value": 0
+        },
+        {
+          "period": "2016",
+          "value": 0
+        },
+        {
+          "period": "2017",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "label": "Current international cooperation",
+      "observations": [
+        {
+          "period": "1967",
+          "value": 0
+        },
+        {
+          "period": "1968",
+          "value": 0
+        },
+        {
+          "period": "1969",
+          "value": 0
+        },
+        {
+          "period": "1970",
+          "value": 0
+        },
+        {
+          "period": "1971",
+          "value": 0
+        },
+        {
+          "period": "1972",
+          "value": 0
+        },
+        {
+          "period": "1973",
+          "value": 0
+        },
+        {
+          "period": "1974",
+          "value": 0
+        },
+        {
+          "period": "1975",
+          "value": 0
+        },
+        {
+          "period": "1976",
+          "value": 0
+        },
+        {
+          "period": "1977",
+          "value": 0
+        },
+        {
+          "period": "1978",
+          "value": 0
+        },
+        {
+          "period": "1979",
+          "value": 0
+        },
+        {
+          "period": "1980",
+          "value": 0
+        },
+        {
+          "period": "1981",
+          "value": 0
+        },
+        {
+          "period": "1982",
+          "value": 0
+        },
+        {
+          "period": "1983",
+          "value": 0
+        },
+        {
+          "period": "1984",
+          "value": 0
+        },
+        {
+          "period": "1985",
+          "value": 0
+        },
+        {
+          "period": "1986",
+          "value": 0
+        },
+        {
+          "period": "1987",
+          "value": 0
+        },
+        {
+          "period": "1988",
+          "value": 0
+        },
+        {
+          "period": "1989",
+          "value": 0
+        },
+        {
+          "period": "1990",
+          "value": 0
+        },
+        {
+          "period": "1991",
+          "value": 0
+        },
+        {
+          "period": "1992",
+          "value": 0
+        },
+        {
+          "period": "1993",
+          "value": 0
+        },
+        {
+          "period": "1994",
+          "value": 0
+        },
+        {
+          "period": "1995",
+          "value": 0
+        },
+        {
+          "period": "1996",
+          "value": 0
+        },
+        {
+          "period": "1997",
+          "value": 0
+        },
+        {
+          "period": "1998",
+          "value": 0
+        },
+        {
+          "period": "1999",
+          "value": 0
+        },
+        {
+          "period": "2000",
+          "value": 0
+        },
+        {
+          "period": "2001",
+          "value": 0
+        },
+        {
+          "period": "2002",
+          "value": 0
+        },
+        {
+          "period": "2003",
+          "value": 0
+        },
+        {
+          "period": "2004",
+          "value": 0
+        },
+        {
+          "period": "2005",
+          "value": 0
+        },
+        {
+          "period": "2006",
+          "value": 0
+        },
+        {
+          "period": "2007",
+          "value": 0
+        },
+        {
+          "period": "2008",
+          "value": 0
+        },
+        {
+          "period": "2009",
+          "value": 0
+        },
+        {
+          "period": "2010",
+          "value": 0
+        },
+        {
+          "period": "2011",
+          "value": 0
+        },
+        {
+          "period": "2012",
+          "value": 0
+        },
+        {
+          "period": "2013",
+          "value": 0
+        },
+        {
+          "period": "2014",
+          "value": 0
+        },
+        {
+          "period": "2015",
+          "value": 0
+        },
+        {
+          "period": "2016",
+          "value": 0
+        },
+        {
+          "period": "2017",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "label": "Miscellaneous current transfers",
+      "observations": [
+        {
+          "period": "1967",
+          "value": 0
+        },
+        {
+          "period": "1968",
+          "value": 0
+        },
+        {
+          "period": "1969",
+          "value": 0
+        },
+        {
+          "period": "1970",
+          "value": 0
+        },
+        {
+          "period": "1971",
+          "value": 0
+        },
+        {
+          "period": "1972",
+          "value": 0
+        },
+        {
+          "period": "1973",
+          "value": 0
+        },
+        {
+          "period": "1974",
+          "value": 0
+        },
+        {
+          "period": "1975",
+          "value": 0
+        },
+        {
+          "period": "1976",
+          "value": 0
+        },
+        {
+          "period": "1977",
+          "value": 0
+        },
+        {
+          "period": "1978",
+          "value": 0
+        },
+        {
+          "period": "1979",
+          "value": 0
+        },
+        {
+          "period": "1980",
+          "value": 0
+        },
+        {
+          "period": "1981",
+          "value": 0
+        },
+        {
+          "period": "1982",
+          "value": 0
+        },
+        {
+          "period": "1983",
+          "value": 0
+        },
+        {
+          "period": "1984",
+          "value": 0
+        },
+        {
+          "period": "1985",
+          "value": 0
+        },
+        {
+          "period": "1986",
+          "value": 11.299999999999999
+        },
+        {
+          "period": "1987",
+          "value": 2.200000000000004
+        },
+        {
+          "period": "1988",
+          "value": 3.9000000000000012
+        },
+        {
+          "period": "1989",
+          "value": 5.799999999999997
+        },
+        {
+          "period": "1990",
+          "value": 7.600000000000011
+        },
+        {
+          "period": "1991",
+          "value": 5.200000000000003
+        },
+        {
+          "period": "1992",
+          "value": 4.499999999999993
+        },
+        {
+          "period": "1993",
+          "value": 17.4
+        },
+        {
+          "period": "1994",
+          "value": 10.95
+        },
+        {
+          "period": "1995",
+          "value": 16.974999999999998
+        },
+        {
+          "period": "1996",
+          "value": 14.41249999999998
+        },
+        {
+          "period": "1997",
+          "value": 16.893750000000004
+        },
+        {
+          "period": "1998",
+          "value": 15.7
+        },
+        {
+          "period": "1999",
+          "value": 17.296874999999975
+        },
+        {
+          "period": "2000",
+          "value": 19.99843749999998
+        },
+        {
+          "period": "2001",
+          "value": 20.29765625000001
+        },
+        {
+          "period": "2002",
+          "value": 20.533046875000007
+        },
+        {
+          "period": "2003",
+          "value": 21.214151562499996
+        },
+        {
+          "period": "2004",
+          "value": 77.7778494610431
+        },
+        {
+          "period": "2005",
+          "value": 112.87551762647183
+        },
+        {
+          "period": "2006",
+          "value": 70.11125323799996
+        },
+        {
+          "period": "2007",
+          "value": 2.8046903787499584
+        },
+        {
+          "period": "2008",
+          "value": 113.93622536999993
+        },
+        {
+          "period": "2009",
+          "value": 131.9579135915
+        },
+        {
+          "period": "2010",
+          "value": 86.55080978949998
+        },
+        {
+          "period": "2011",
+          "value": 25.9602741
+        },
+        {
+          "period": "2012",
+          "value": 15.90600801
+        },
+        {
+          "period": "2013",
+          "value": 7.893611920000001
+        },
+        {
+          "period": "2014",
+          "value": 7.5899619099999995
+        },
+        {
+          "period": "2015",
+          "value": 4.61778902
+        },
+        {
+          "period": "2016",
+          "value": 1.1
+        },
+        {
+          "period": "2017",
+          "value": 1.1
+        }
+      ]
+    },
+    {
+      "label": "Of which: Current transfers to NPISHs",
+      "observations": [
+        {
+          "period": "1967",
+          "value": 0
+        },
+        {
+          "period": "1968",
+          "value": 0
+        },
+        {
+          "period": "1969",
+          "value": 0
+        },
+        {
+          "period": "1970",
+          "value": 0
+        },
+        {
+          "period": "1971",
+          "value": 0
+        },
+        {
+          "period": "1972",
+          "value": 0
+        },
+        {
+          "period": "1973",
+          "value": 0
+        },
+        {
+          "period": "1974",
+          "value": 0
+        },
+        {
+          "period": "1975",
+          "value": 0
+        },
+        {
+          "period": "1976",
+          "value": 0
+        },
+        {
+          "period": "1977",
+          "value": 0
+        },
+        {
+          "period": "1978",
+          "value": 0
+        },
+        {
+          "period": "1979",
+          "value": 0
+        },
+        {
+          "period": "1980",
+          "value": 0
+        },
+        {
+          "period": "1981",
+          "value": 0
+        },
+        {
+          "period": "1982",
+          "value": 0
+        },
+        {
+          "period": "1983",
+          "value": 0
+        },
+        {
+          "period": "1984",
+          "value": 0
+        },
+        {
+          "period": "1985",
+          "value": 0
+        },
+        {
+          "period": "1986",
+          "value": 0
+        },
+        {
+          "period": "1987",
+          "value": 0
+        },
+        {
+          "period": "1988",
+          "value": 0
+        },
+        {
+          "period": "1989",
+          "value": 0
+        },
+        {
+          "period": "1990",
+          "value": 0
+        },
+        {
+          "period": "1991",
+          "value": 0
+        },
+        {
+          "period": "1992",
+          "value": 0
+        },
+        {
+          "period": "1993",
+          "value": 0
+        },
+        {
+          "period": "1994",
+          "value": 0
+        },
+        {
+          "period": "1995",
+          "value": 0
+        },
+        {
+          "period": "1996",
+          "value": 0
+        },
+        {
+          "period": "1997",
+          "value": 0
+        },
+        {
+          "period": "1998",
+          "value": 0
+        },
+        {
+          "period": "1999",
+          "value": 0
+        },
+        {
+          "period": "2000",
+          "value": 0
+        },
+        {
+          "period": "2001",
+          "value": 0
+        },
+        {
+          "period": "2002",
+          "value": 0
+        },
+        {
+          "period": "2003",
+          "value": 0
+        },
+        {
+          "period": "2004",
+          "value": 0
+        },
+        {
+          "period": "2005",
+          "value": 0
+        },
+        {
+          "period": "2006",
+          "value": 0
+        },
+        {
+          "period": "2007",
+          "value": 0
+        },
+        {
+          "period": "2008",
+          "value": 0
+        },
+        {
+          "period": "2009",
+          "value": 0
+        },
+        {
+          "period": "2010",
+          "value": 0
+        },
+        {
+          "period": "2011",
+          "value": 1.55992208
+        },
+        {
+          "period": "2012",
+          "value": 1.40926019
+        },
+        {
+          "period": "2013",
+          "value": 6.709280440000001
+        },
+        {
+          "period": "2014",
+          "value": 2.39489275
+        },
+        {
+          "period": "2015",
+          "value": 0
+        },
+        {
+          "period": "2016",
+          "value": 0
+        },
+        {
+          "period": "2017",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "label": "Adjustment for change in pension entitlements",
+      "observations": [
+        {
+          "period": "1967",
+          "value": 0
+        },
+        {
+          "period": "1968",
+          "value": 0
+        },
+        {
+          "period": "1969",
+          "value": 0
+        },
+        {
+          "period": "1970",
+          "value": 0
+        },
+        {
+          "period": "1971",
+          "value": 0
+        },
+        {
+          "period": "1972",
+          "value": 0
+        },
+        {
+          "period": "1973",
+          "value": 0
+        },
+        {
+          "period": "1974",
+          "value": 0
+        },
+        {
+          "period": "1975",
+          "value": 0
+        },
+        {
+          "period": "1976",
+          "value": 0
+        },
+        {
+          "period": "1977",
+          "value": 0
+        },
+        {
+          "period": "1978",
+          "value": 0
+        },
+        {
+          "period": "1979",
+          "value": 0
+        },
+        {
+          "period": "1980",
+          "value": 0
+        },
+        {
+          "period": "1981",
+          "value": 0
+        },
+        {
+          "period": "1982",
+          "value": 0
+        },
+        {
+          "period": "1983",
+          "value": 0
+        },
+        {
+          "period": "1984",
+          "value": 0
+        },
+        {
+          "period": "1985",
+          "value": 0
+        },
+        {
+          "period": "1986",
+          "value": 0
+        },
+        {
+          "period": "1987",
+          "value": 0
+        },
+        {
+          "period": "1988",
+          "value": 0
+        },
+        {
+          "period": "1989",
+          "value": 0
+        },
+        {
+          "period": "1990",
+          "value": 0
+        },
+        {
+          "period": "1991",
+          "value": 0
+        },
+        {
+          "period": "1992",
+          "value": 0
+        },
+        {
+          "period": "1993",
+          "value": 0
+        },
+        {
+          "period": "1994",
+          "value": 0
+        },
+        {
+          "period": "1995",
+          "value": 0
+        },
+        {
+          "period": "1996",
+          "value": 0
+        },
+        {
+          "period": "1997",
+          "value": 0
+        },
+        {
+          "period": "1998",
+          "value": 0
+        },
+        {
+          "period": "1999",
+          "value": 0
+        },
+        {
+          "period": "2000",
+          "value": 0
+        },
+        {
+          "period": "2001",
+          "value": 0
+        },
+        {
+          "period": "2002",
+          "value": 0
+        },
+        {
+          "period": "2003",
+          "value": 0
+        },
+        {
+          "period": "2004",
+          "value": 0
+        },
+        {
+          "period": "2005",
+          "value": 0
+        },
+        {
+          "period": "2006",
+          "value": 0
+        },
+        {
+          "period": "2007",
+          "value": 0
+        },
+        {
+          "period": "2008",
+          "value": 0
+        },
+        {
+          "period": "2009",
+          "value": 0
+        },
+        {
+          "period": "2010",
+          "value": 0
+        },
+        {
+          "period": "2011",
+          "value": 0
+        },
+        {
+          "period": "2012",
+          "value": 0
+        },
+        {
+          "period": "2013",
+          "value": 0
+        },
+        {
+          "period": "2014",
+          "value": 0
+        },
+        {
+          "period": "2015",
+          "value": 0
+        },
+        {
+          "period": "2016",
+          "value": 0
+        },
+        {
+          "period": "2017",
+          "value": 0
+        }
+      ]
+    }
+  ]
+}

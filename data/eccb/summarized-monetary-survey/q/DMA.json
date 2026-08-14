@@ -1,0 +1,3617 @@
+{
+  "source": "Eastern Caribbean Central Bank",
+  "source_id": "eccb",
+  "source_url": "https://www.eccb-centralbank.org/statistics-category/monetary-and-financial-statistics/summarized-monetary-survey",
+  "table_id": "summarized-monetary-survey",
+  "table_title": "Summarized Monetary Survey",
+  "country": {
+    "iso3": "DMA",
+    "name": "Dominica"
+  },
+  "frequency": "q",
+  "data_as_at": "2026-07-09",
+  "data_as_at_raw": "09 July 2026",
+  "retrieved_at": "2026-08-13T21:51:29.524Z",
+  "periods": [
+    "2020-Q1",
+    "2020-Q2",
+    "2020-Q3",
+    "2020-Q4",
+    "2021-Q1",
+    "2021-Q2",
+    "2021-Q3",
+    "2021-Q4",
+    "2022-Q1",
+    "2022-Q2",
+    "2022-Q3",
+    "2022-Q4",
+    "2023-Q1",
+    "2023-Q2",
+    "2023-Q3",
+    "2023-Q4",
+    "2024-Q1",
+    "2024-Q2",
+    "2024-Q3",
+    "2024-Q4",
+    "2025-Q1",
+    "2025-Q2",
+    "2025-Q3",
+    "2025-Q4",
+    "2026-Q1",
+    "2026-Q2",
+    "2026-Q3",
+    "2026-Q4"
+  ],
+  "periods_raw": [
+    "Mar 2020",
+    "Jun 2020",
+    "Sep 2020",
+    "Dec 2020",
+    "Mar 2021",
+    "Jun 2021",
+    "Sep 2021",
+    "Dec 2021",
+    "Mar 2022",
+    "Jun 2022",
+    "Sep 2022",
+    "Dec 2022",
+    "Mar 2023",
+    "Jun 2023",
+    "Sep 2023",
+    "Dec 2023",
+    "Mar 2024",
+    "Jun 2024",
+    "Sep 2024",
+    "Dec 2024",
+    "Mar 2025",
+    "Jun 2025",
+    "Sep 2025",
+    "Dec 2025",
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026",
+    "Dec 2026"
+  ],
+  "series": [
+    {
+      "label": "Net Foreign Assets",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2020-Q1",
+          "value": 872.79
+        },
+        {
+          "period": "2020-Q2",
+          "value": 943.85
+        },
+        {
+          "period": "2020-Q3",
+          "value": 916.98
+        },
+        {
+          "period": "2020-Q4",
+          "value": 962.65
+        },
+        {
+          "period": "2021-Q1",
+          "value": 988.33
+        },
+        {
+          "period": "2021-Q2",
+          "value": 1009.11
+        },
+        {
+          "period": "2021-Q3",
+          "value": 977.96
+        },
+        {
+          "period": "2021-Q4",
+          "value": 970.45
+        },
+        {
+          "period": "2022-Q1",
+          "value": 915.72
+        },
+        {
+          "period": "2022-Q2",
+          "value": 982.18
+        },
+        {
+          "period": "2022-Q3",
+          "value": 902.16
+        },
+        {
+          "period": "2022-Q4",
+          "value": 925.48
+        },
+        {
+          "period": "2023-Q1",
+          "value": 974.64
+        },
+        {
+          "period": "2023-Q2",
+          "value": 1017.88
+        },
+        {
+          "period": "2023-Q3",
+          "value": 939.54
+        },
+        {
+          "period": "2023-Q4",
+          "value": 948.64
+        },
+        {
+          "period": "2024-Q1",
+          "value": 948.74
+        },
+        {
+          "period": "2024-Q2",
+          "value": 946.1
+        },
+        {
+          "period": "2024-Q3",
+          "value": 926.76
+        },
+        {
+          "period": "2024-Q4",
+          "value": 962.4
+        },
+        {
+          "period": "2025-Q1",
+          "value": 1120.72
+        },
+        {
+          "period": "2025-Q2",
+          "value": 1213.01
+        },
+        {
+          "period": "2025-Q3",
+          "value": 1168.64
+        },
+        {
+          "period": "2025-Q4",
+          "value": 1140.25
+        },
+        {
+          "period": "2026-Q1",
+          "value": 1244.15
+        },
+        {
+          "period": "2026-Q2",
+          "value": null
+        },
+        {
+          "period": "2026-Q3",
+          "value": null
+        },
+        {
+          "period": "2026-Q4",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Claims On Non-Residents",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2020-Q1",
+          "value": 1162.5
+        },
+        {
+          "period": "2020-Q2",
+          "value": 1241.64
+        },
+        {
+          "period": "2020-Q3",
+          "value": 1210.48
+        },
+        {
+          "period": "2020-Q4",
+          "value": 1228.93
+        },
+        {
+          "period": "2021-Q1",
+          "value": 1216.44
+        },
+        {
+          "period": "2021-Q2",
+          "value": 1232.62
+        },
+        {
+          "period": "2021-Q3",
+          "value": 1202.98
+        },
+        {
+          "period": "2021-Q4",
+          "value": 1204.4
+        },
+        {
+          "period": "2022-Q1",
+          "value": 1168.66
+        },
+        {
+          "period": "2022-Q2",
+          "value": 1264.51
+        },
+        {
+          "period": "2022-Q3",
+          "value": 1172.22
+        },
+        {
+          "period": "2022-Q4",
+          "value": 1311.41
+        },
+        {
+          "period": "2023-Q1",
+          "value": 1267.45
+        },
+        {
+          "period": "2023-Q2",
+          "value": 1333.83
+        },
+        {
+          "period": "2023-Q3",
+          "value": 1294.28
+        },
+        {
+          "period": "2023-Q4",
+          "value": 1288.87
+        },
+        {
+          "period": "2024-Q1",
+          "value": 1298.96
+        },
+        {
+          "period": "2024-Q2",
+          "value": 1281.58
+        },
+        {
+          "period": "2024-Q3",
+          "value": 1262.34
+        },
+        {
+          "period": "2024-Q4",
+          "value": 1314.08
+        },
+        {
+          "period": "2025-Q1",
+          "value": 1481.65
+        },
+        {
+          "period": "2025-Q2",
+          "value": 1569.82
+        },
+        {
+          "period": "2025-Q3",
+          "value": 1536.27
+        },
+        {
+          "period": "2025-Q4",
+          "value": 1512.15
+        },
+        {
+          "period": "2026-Q1",
+          "value": 1631.26
+        },
+        {
+          "period": "2026-Q2",
+          "value": null
+        },
+        {
+          "period": "2026-Q3",
+          "value": null
+        },
+        {
+          "period": "2026-Q4",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Central Bank Claims On Non-Residents",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2020-Q1",
+          "value": 458.16
+        },
+        {
+          "period": "2020-Q2",
+          "value": 492.04
+        },
+        {
+          "period": "2020-Q3",
+          "value": 450.99
+        },
+        {
+          "period": "2020-Q4",
+          "value": 476.29
+        },
+        {
+          "period": "2021-Q1",
+          "value": 521.43
+        },
+        {
+          "period": "2021-Q2",
+          "value": 520.35
+        },
+        {
+          "period": "2021-Q3",
+          "value": 484.47
+        },
+        {
+          "period": "2021-Q4",
+          "value": 473.47
+        },
+        {
+          "period": "2022-Q1",
+          "value": 477.16
+        },
+        {
+          "period": "2022-Q2",
+          "value": 562.88
+        },
+        {
+          "period": "2022-Q3",
+          "value": 489.39
+        },
+        {
+          "period": "2022-Q4",
+          "value": 517.37
+        },
+        {
+          "period": "2023-Q1",
+          "value": 450.5
+        },
+        {
+          "period": "2023-Q2",
+          "value": 391.78
+        },
+        {
+          "period": "2023-Q3",
+          "value": 388.93
+        },
+        {
+          "period": "2023-Q4",
+          "value": 466.62
+        },
+        {
+          "period": "2024-Q1",
+          "value": 427.2
+        },
+        {
+          "period": "2024-Q2",
+          "value": 360.8
+        },
+        {
+          "period": "2024-Q3",
+          "value": 359.44
+        },
+        {
+          "period": "2024-Q4",
+          "value": 398.95
+        },
+        {
+          "period": "2025-Q1",
+          "value": 351.56
+        },
+        {
+          "period": "2025-Q2",
+          "value": 448.79
+        },
+        {
+          "period": "2025-Q3",
+          "value": 405.3
+        },
+        {
+          "period": "2025-Q4",
+          "value": 431.19
+        },
+        {
+          "period": "2026-Q1",
+          "value": 456.57
+        },
+        {
+          "period": "2026-Q2",
+          "value": null
+        },
+        {
+          "period": "2026-Q3",
+          "value": null
+        },
+        {
+          "period": "2026-Q4",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Other Depository Corporations (Commercial Banks) Claims On Non-Residents",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2020-Q1",
+          "value": 704.34
+        },
+        {
+          "period": "2020-Q2",
+          "value": 749.6
+        },
+        {
+          "period": "2020-Q3",
+          "value": 759.48
+        },
+        {
+          "period": "2020-Q4",
+          "value": 752.64
+        },
+        {
+          "period": "2021-Q1",
+          "value": 695.01
+        },
+        {
+          "period": "2021-Q2",
+          "value": 712.27
+        },
+        {
+          "period": "2021-Q3",
+          "value": 718.51
+        },
+        {
+          "period": "2021-Q4",
+          "value": 730.93
+        },
+        {
+          "period": "2022-Q1",
+          "value": 691.5
+        },
+        {
+          "period": "2022-Q2",
+          "value": 701.63
+        },
+        {
+          "period": "2022-Q3",
+          "value": 682.83
+        },
+        {
+          "period": "2022-Q4",
+          "value": 794.04
+        },
+        {
+          "period": "2023-Q1",
+          "value": 816.95
+        },
+        {
+          "period": "2023-Q2",
+          "value": 942.06
+        },
+        {
+          "period": "2023-Q3",
+          "value": 905.35
+        },
+        {
+          "period": "2023-Q4",
+          "value": 822.25
+        },
+        {
+          "period": "2024-Q1",
+          "value": 871.76
+        },
+        {
+          "period": "2024-Q2",
+          "value": 920.78
+        },
+        {
+          "period": "2024-Q3",
+          "value": 902.89
+        },
+        {
+          "period": "2024-Q4",
+          "value": 915.13
+        },
+        {
+          "period": "2025-Q1",
+          "value": 1130.09
+        },
+        {
+          "period": "2025-Q2",
+          "value": 1121.03
+        },
+        {
+          "period": "2025-Q3",
+          "value": 1130.97
+        },
+        {
+          "period": "2025-Q4",
+          "value": 1080.96
+        },
+        {
+          "period": "2026-Q1",
+          "value": 1174.69
+        },
+        {
+          "period": "2026-Q2",
+          "value": null
+        },
+        {
+          "period": "2026-Q3",
+          "value": null
+        },
+        {
+          "period": "2026-Q4",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Liabilities To Non-Residents",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2020-Q1",
+          "value": 289.71
+        },
+        {
+          "period": "2020-Q2",
+          "value": 297.79
+        },
+        {
+          "period": "2020-Q3",
+          "value": 293.49
+        },
+        {
+          "period": "2020-Q4",
+          "value": 266.29
+        },
+        {
+          "period": "2021-Q1",
+          "value": 228.11
+        },
+        {
+          "period": "2021-Q2",
+          "value": 223.51
+        },
+        {
+          "period": "2021-Q3",
+          "value": 225.02
+        },
+        {
+          "period": "2021-Q4",
+          "value": 233.95
+        },
+        {
+          "period": "2022-Q1",
+          "value": 252.94
+        },
+        {
+          "period": "2022-Q2",
+          "value": 282.33
+        },
+        {
+          "period": "2022-Q3",
+          "value": 270.06
+        },
+        {
+          "period": "2022-Q4",
+          "value": 385.93
+        },
+        {
+          "period": "2023-Q1",
+          "value": 292.81
+        },
+        {
+          "period": "2023-Q2",
+          "value": 315.96
+        },
+        {
+          "period": "2023-Q3",
+          "value": 354.74
+        },
+        {
+          "period": "2023-Q4",
+          "value": 340.23
+        },
+        {
+          "period": "2024-Q1",
+          "value": 350.22
+        },
+        {
+          "period": "2024-Q2",
+          "value": 335.48
+        },
+        {
+          "period": "2024-Q3",
+          "value": 335.58
+        },
+        {
+          "period": "2024-Q4",
+          "value": 351.68
+        },
+        {
+          "period": "2025-Q1",
+          "value": 360.93
+        },
+        {
+          "period": "2025-Q2",
+          "value": 356.81
+        },
+        {
+          "period": "2025-Q3",
+          "value": 367.62
+        },
+        {
+          "period": "2025-Q4",
+          "value": 371.9
+        },
+        {
+          "period": "2026-Q1",
+          "value": 387.1
+        },
+        {
+          "period": "2026-Q2",
+          "value": null
+        },
+        {
+          "period": "2026-Q3",
+          "value": null
+        },
+        {
+          "period": "2026-Q4",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Central Bank Liabilities To Non-Residents",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2020-Q1",
+          "value": 31.96
+        },
+        {
+          "period": "2020-Q2",
+          "value": 29.96
+        },
+        {
+          "period": "2020-Q3",
+          "value": 29.63
+        },
+        {
+          "period": "2020-Q4",
+          "value": 29.29
+        },
+        {
+          "period": "2021-Q1",
+          "value": 29.57
+        },
+        {
+          "period": "2021-Q2",
+          "value": 28.44
+        },
+        {
+          "period": "2021-Q3",
+          "value": 28
+        },
+        {
+          "period": "2021-Q4",
+          "value": 27.57
+        },
+        {
+          "period": "2022-Q1",
+          "value": 26.51
+        },
+        {
+          "period": "2022-Q2",
+          "value": 26.05
+        },
+        {
+          "period": "2022-Q3",
+          "value": 25.91
+        },
+        {
+          "period": "2022-Q4",
+          "value": 25.05
+        },
+        {
+          "period": "2023-Q1",
+          "value": 24.62
+        },
+        {
+          "period": "2023-Q2",
+          "value": 24.12
+        },
+        {
+          "period": "2023-Q3",
+          "value": 23.66
+        },
+        {
+          "period": "2023-Q4",
+          "value": 23.2
+        },
+        {
+          "period": "2024-Q1",
+          "value": 22.77
+        },
+        {
+          "period": "2024-Q2",
+          "value": 22.29
+        },
+        {
+          "period": "2024-Q3",
+          "value": 21.83
+        },
+        {
+          "period": "2024-Q4",
+          "value": 21.38
+        },
+        {
+          "period": "2025-Q1",
+          "value": 21.6
+        },
+        {
+          "period": "2025-Q2",
+          "value": 21.13
+        },
+        {
+          "period": "2025-Q3",
+          "value": 20.65
+        },
+        {
+          "period": "2025-Q4",
+          "value": 20.17
+        },
+        {
+          "period": "2026-Q1",
+          "value": 24.87
+        },
+        {
+          "period": "2026-Q2",
+          "value": null
+        },
+        {
+          "period": "2026-Q3",
+          "value": null
+        },
+        {
+          "period": "2026-Q4",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Other Depository Corporations (Commercial Banks) Liabilities To Non-Residents",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2020-Q1",
+          "value": 257.74
+        },
+        {
+          "period": "2020-Q2",
+          "value": 267.83
+        },
+        {
+          "period": "2020-Q3",
+          "value": 263.87
+        },
+        {
+          "period": "2020-Q4",
+          "value": 237
+        },
+        {
+          "period": "2021-Q1",
+          "value": 198.55
+        },
+        {
+          "period": "2021-Q2",
+          "value": 195.07
+        },
+        {
+          "period": "2021-Q3",
+          "value": 197.02
+        },
+        {
+          "period": "2021-Q4",
+          "value": 206.38
+        },
+        {
+          "period": "2022-Q1",
+          "value": 226.43
+        },
+        {
+          "period": "2022-Q2",
+          "value": 256.29
+        },
+        {
+          "period": "2022-Q3",
+          "value": 244.14
+        },
+        {
+          "period": "2022-Q4",
+          "value": 360.89
+        },
+        {
+          "period": "2023-Q1",
+          "value": 268.19
+        },
+        {
+          "period": "2023-Q2",
+          "value": 291.84
+        },
+        {
+          "period": "2023-Q3",
+          "value": 331.08
+        },
+        {
+          "period": "2023-Q4",
+          "value": 317.03
+        },
+        {
+          "period": "2024-Q1",
+          "value": 327.45
+        },
+        {
+          "period": "2024-Q2",
+          "value": 313.19
+        },
+        {
+          "period": "2024-Q3",
+          "value": 313.75
+        },
+        {
+          "period": "2024-Q4",
+          "value": 330.3
+        },
+        {
+          "period": "2025-Q1",
+          "value": 339.33
+        },
+        {
+          "period": "2025-Q2",
+          "value": 335.67
+        },
+        {
+          "period": "2025-Q3",
+          "value": 346.97
+        },
+        {
+          "period": "2025-Q4",
+          "value": 351.73
+        },
+        {
+          "period": "2026-Q1",
+          "value": 362.24
+        },
+        {
+          "period": "2026-Q2",
+          "value": null
+        },
+        {
+          "period": "2026-Q3",
+          "value": null
+        },
+        {
+          "period": "2026-Q4",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Net Domestic Assets",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2020-Q1",
+          "value": 459.47
+        },
+        {
+          "period": "2020-Q2",
+          "value": 417.18
+        },
+        {
+          "period": "2020-Q3",
+          "value": 455.58
+        },
+        {
+          "period": "2020-Q4",
+          "value": 426.47
+        },
+        {
+          "period": "2021-Q1",
+          "value": 399.28
+        },
+        {
+          "period": "2021-Q2",
+          "value": 385.12
+        },
+        {
+          "period": "2021-Q3",
+          "value": 401.85
+        },
+        {
+          "period": "2021-Q4",
+          "value": 444.09
+        },
+        {
+          "period": "2022-Q1",
+          "value": 494.51
+        },
+        {
+          "period": "2022-Q2",
+          "value": 447.59
+        },
+        {
+          "period": "2022-Q3",
+          "value": 485.79
+        },
+        {
+          "period": "2022-Q4",
+          "value": 471.29
+        },
+        {
+          "period": "2023-Q1",
+          "value": 399.66
+        },
+        {
+          "period": "2023-Q2",
+          "value": 371.99
+        },
+        {
+          "period": "2023-Q3",
+          "value": 427.16
+        },
+        {
+          "period": "2023-Q4",
+          "value": 441.85
+        },
+        {
+          "period": "2024-Q1",
+          "value": 450.64
+        },
+        {
+          "period": "2024-Q2",
+          "value": 452.8
+        },
+        {
+          "period": "2024-Q3",
+          "value": 477.01
+        },
+        {
+          "period": "2024-Q4",
+          "value": 474.17
+        },
+        {
+          "period": "2025-Q1",
+          "value": 357.08
+        },
+        {
+          "period": "2025-Q2",
+          "value": 299.68
+        },
+        {
+          "period": "2025-Q3",
+          "value": 352.33
+        },
+        {
+          "period": "2025-Q4",
+          "value": 439.48
+        },
+        {
+          "period": "2026-Q1",
+          "value": 386.3
+        },
+        {
+          "period": "2026-Q2",
+          "value": null
+        },
+        {
+          "period": "2026-Q3",
+          "value": null
+        },
+        {
+          "period": "2026-Q4",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Domestic Claims",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2020-Q1",
+          "value": 826.76
+        },
+        {
+          "period": "2020-Q2",
+          "value": 813.38
+        },
+        {
+          "period": "2020-Q3",
+          "value": 855.36
+        },
+        {
+          "period": "2020-Q4",
+          "value": 842.41
+        },
+        {
+          "period": "2021-Q1",
+          "value": 869.26
+        },
+        {
+          "period": "2021-Q2",
+          "value": 853.11
+        },
+        {
+          "period": "2021-Q3",
+          "value": 895.81
+        },
+        {
+          "period": "2021-Q4",
+          "value": 951.16
+        },
+        {
+          "period": "2022-Q1",
+          "value": 971.77
+        },
+        {
+          "period": "2022-Q2",
+          "value": 893.47
+        },
+        {
+          "period": "2022-Q3",
+          "value": 970.64
+        },
+        {
+          "period": "2022-Q4",
+          "value": 968.61
+        },
+        {
+          "period": "2023-Q1",
+          "value": 866.1
+        },
+        {
+          "period": "2023-Q2",
+          "value": 852.21
+        },
+        {
+          "period": "2023-Q3",
+          "value": 882.39
+        },
+        {
+          "period": "2023-Q4",
+          "value": 914.26
+        },
+        {
+          "period": "2024-Q1",
+          "value": 925.26
+        },
+        {
+          "period": "2024-Q2",
+          "value": 918.62
+        },
+        {
+          "period": "2024-Q3",
+          "value": 949.01
+        },
+        {
+          "period": "2024-Q4",
+          "value": 972.16
+        },
+        {
+          "period": "2025-Q1",
+          "value": 851.62
+        },
+        {
+          "period": "2025-Q2",
+          "value": 809.71
+        },
+        {
+          "period": "2025-Q3",
+          "value": 904.03
+        },
+        {
+          "period": "2025-Q4",
+          "value": 985.4
+        },
+        {
+          "period": "2026-Q1",
+          "value": 967.8
+        },
+        {
+          "period": "2026-Q2",
+          "value": null
+        },
+        {
+          "period": "2026-Q3",
+          "value": null
+        },
+        {
+          "period": "2026-Q4",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Net Claims On General Government",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2020-Q1",
+          "value": 63.89
+        },
+        {
+          "period": "2020-Q2",
+          "value": 44.82
+        },
+        {
+          "period": "2020-Q3",
+          "value": 76.96
+        },
+        {
+          "period": "2020-Q4",
+          "value": 60.83
+        },
+        {
+          "period": "2021-Q1",
+          "value": 72.03
+        },
+        {
+          "period": "2021-Q2",
+          "value": 50.26
+        },
+        {
+          "period": "2021-Q3",
+          "value": 97.09
+        },
+        {
+          "period": "2021-Q4",
+          "value": 146.28
+        },
+        {
+          "period": "2022-Q1",
+          "value": 171.67
+        },
+        {
+          "period": "2022-Q2",
+          "value": 87.86
+        },
+        {
+          "period": "2022-Q3",
+          "value": 145.72
+        },
+        {
+          "period": "2022-Q4",
+          "value": 144.56
+        },
+        {
+          "period": "2023-Q1",
+          "value": 126.38
+        },
+        {
+          "period": "2023-Q2",
+          "value": 102.58
+        },
+        {
+          "period": "2023-Q3",
+          "value": 101.63
+        },
+        {
+          "period": "2023-Q4",
+          "value": 121.62
+        },
+        {
+          "period": "2024-Q1",
+          "value": 134.06
+        },
+        {
+          "period": "2024-Q2",
+          "value": 152.73
+        },
+        {
+          "period": "2024-Q3",
+          "value": 168.42
+        },
+        {
+          "period": "2024-Q4",
+          "value": 193.59
+        },
+        {
+          "period": "2025-Q1",
+          "value": 57.97
+        },
+        {
+          "period": "2025-Q2",
+          "value": 16.52
+        },
+        {
+          "period": "2025-Q3",
+          "value": 101.08
+        },
+        {
+          "period": "2025-Q4",
+          "value": 185.08
+        },
+        {
+          "period": "2026-Q1",
+          "value": 181.52
+        },
+        {
+          "period": "2026-Q2",
+          "value": null
+        },
+        {
+          "period": "2026-Q3",
+          "value": null
+        },
+        {
+          "period": "2026-Q4",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Claims On General Government",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2020-Q1",
+          "value": 372.04
+        },
+        {
+          "period": "2020-Q2",
+          "value": 372.01
+        },
+        {
+          "period": "2020-Q3",
+          "value": 391.61
+        },
+        {
+          "period": "2020-Q4",
+          "value": 408.42
+        },
+        {
+          "period": "2021-Q1",
+          "value": 406.23
+        },
+        {
+          "period": "2021-Q2",
+          "value": 369.73
+        },
+        {
+          "period": "2021-Q3",
+          "value": 440.66
+        },
+        {
+          "period": "2021-Q4",
+          "value": 465.14
+        },
+        {
+          "period": "2022-Q1",
+          "value": 497.02
+        },
+        {
+          "period": "2022-Q2",
+          "value": 365.83
+        },
+        {
+          "period": "2022-Q3",
+          "value": 426.43
+        },
+        {
+          "period": "2022-Q4",
+          "value": 424.49
+        },
+        {
+          "period": "2023-Q1",
+          "value": 418.05
+        },
+        {
+          "period": "2023-Q2",
+          "value": 378.95
+        },
+        {
+          "period": "2023-Q3",
+          "value": 419.48
+        },
+        {
+          "period": "2023-Q4",
+          "value": 404.04
+        },
+        {
+          "period": "2024-Q1",
+          "value": 404.96
+        },
+        {
+          "period": "2024-Q2",
+          "value": 402.78
+        },
+        {
+          "period": "2024-Q3",
+          "value": 410.66
+        },
+        {
+          "period": "2024-Q4",
+          "value": 431.97
+        },
+        {
+          "period": "2025-Q1",
+          "value": 417.27
+        },
+        {
+          "period": "2025-Q2",
+          "value": 400.86
+        },
+        {
+          "period": "2025-Q3",
+          "value": 416.23
+        },
+        {
+          "period": "2025-Q4",
+          "value": 433.43
+        },
+        {
+          "period": "2026-Q1",
+          "value": 426.73
+        },
+        {
+          "period": "2026-Q2",
+          "value": null
+        },
+        {
+          "period": "2026-Q3",
+          "value": null
+        },
+        {
+          "period": "2026-Q4",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "From Central Bank",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2020-Q1",
+          "value": 31.91
+        },
+        {
+          "period": "2020-Q2",
+          "value": 29.9
+        },
+        {
+          "period": "2020-Q3",
+          "value": 29.56
+        },
+        {
+          "period": "2020-Q4",
+          "value": 29.22
+        },
+        {
+          "period": "2021-Q1",
+          "value": 29.5
+        },
+        {
+          "period": "2021-Q2",
+          "value": 28.37
+        },
+        {
+          "period": "2021-Q3",
+          "value": 27.93
+        },
+        {
+          "period": "2021-Q4",
+          "value": 27.49
+        },
+        {
+          "period": "2022-Q1",
+          "value": 26.42
+        },
+        {
+          "period": "2022-Q2",
+          "value": 25.96
+        },
+        {
+          "period": "2022-Q3",
+          "value": 25.83
+        },
+        {
+          "period": "2022-Q4",
+          "value": 24.95
+        },
+        {
+          "period": "2023-Q1",
+          "value": 24.53
+        },
+        {
+          "period": "2023-Q2",
+          "value": 24.03
+        },
+        {
+          "period": "2023-Q3",
+          "value": 23.55
+        },
+        {
+          "period": "2023-Q4",
+          "value": 23.09
+        },
+        {
+          "period": "2024-Q1",
+          "value": 22.67
+        },
+        {
+          "period": "2024-Q2",
+          "value": 22.18
+        },
+        {
+          "period": "2024-Q3",
+          "value": 21.71
+        },
+        {
+          "period": "2024-Q4",
+          "value": 21.26
+        },
+        {
+          "period": "2025-Q1",
+          "value": 21.46
+        },
+        {
+          "period": "2025-Q2",
+          "value": 20.98
+        },
+        {
+          "period": "2025-Q3",
+          "value": 20.49
+        },
+        {
+          "period": "2025-Q4",
+          "value": 20
+        },
+        {
+          "period": "2026-Q1",
+          "value": 24.69
+        },
+        {
+          "period": "2026-Q2",
+          "value": null
+        },
+        {
+          "period": "2026-Q3",
+          "value": null
+        },
+        {
+          "period": "2026-Q4",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "From Other Depository Corporations",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2020-Q1",
+          "value": 340.13
+        },
+        {
+          "period": "2020-Q2",
+          "value": 342.11
+        },
+        {
+          "period": "2020-Q3",
+          "value": 362.05
+        },
+        {
+          "period": "2020-Q4",
+          "value": 379.2
+        },
+        {
+          "period": "2021-Q1",
+          "value": 376.73
+        },
+        {
+          "period": "2021-Q2",
+          "value": 341.36
+        },
+        {
+          "period": "2021-Q3",
+          "value": 412.73
+        },
+        {
+          "period": "2021-Q4",
+          "value": 437.65
+        },
+        {
+          "period": "2022-Q1",
+          "value": 470.6
+        },
+        {
+          "period": "2022-Q2",
+          "value": 339.87
+        },
+        {
+          "period": "2022-Q3",
+          "value": 400.6
+        },
+        {
+          "period": "2022-Q4",
+          "value": 399.54
+        },
+        {
+          "period": "2023-Q1",
+          "value": 393.53
+        },
+        {
+          "period": "2023-Q2",
+          "value": 354.93
+        },
+        {
+          "period": "2023-Q3",
+          "value": 395.93
+        },
+        {
+          "period": "2023-Q4",
+          "value": 380.95
+        },
+        {
+          "period": "2024-Q1",
+          "value": 382.3
+        },
+        {
+          "period": "2024-Q2",
+          "value": 380.61
+        },
+        {
+          "period": "2024-Q3",
+          "value": 388.95
+        },
+        {
+          "period": "2024-Q4",
+          "value": 410.71
+        },
+        {
+          "period": "2025-Q1",
+          "value": 395.82
+        },
+        {
+          "period": "2025-Q2",
+          "value": 379.88
+        },
+        {
+          "period": "2025-Q3",
+          "value": 395.74
+        },
+        {
+          "period": "2025-Q4",
+          "value": 413.43
+        },
+        {
+          "period": "2026-Q1",
+          "value": 402.05
+        },
+        {
+          "period": "2026-Q2",
+          "value": null
+        },
+        {
+          "period": "2026-Q3",
+          "value": null
+        },
+        {
+          "period": "2026-Q4",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Liabilities To General Government",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2020-Q1",
+          "value": 308.15
+        },
+        {
+          "period": "2020-Q2",
+          "value": 327.18
+        },
+        {
+          "period": "2020-Q3",
+          "value": 314.64
+        },
+        {
+          "period": "2020-Q4",
+          "value": 347.58
+        },
+        {
+          "period": "2021-Q1",
+          "value": 334.2
+        },
+        {
+          "period": "2021-Q2",
+          "value": 319.46
+        },
+        {
+          "period": "2021-Q3",
+          "value": 343.57
+        },
+        {
+          "period": "2021-Q4",
+          "value": 318.85
+        },
+        {
+          "period": "2022-Q1",
+          "value": 325.35
+        },
+        {
+          "period": "2022-Q2",
+          "value": 277.96
+        },
+        {
+          "period": "2022-Q3",
+          "value": 280.7
+        },
+        {
+          "period": "2022-Q4",
+          "value": 279.93
+        },
+        {
+          "period": "2023-Q1",
+          "value": 291.67
+        },
+        {
+          "period": "2023-Q2",
+          "value": 276.37
+        },
+        {
+          "period": "2023-Q3",
+          "value": 317.85
+        },
+        {
+          "period": "2023-Q4",
+          "value": 282.42
+        },
+        {
+          "period": "2024-Q1",
+          "value": 270.9
+        },
+        {
+          "period": "2024-Q2",
+          "value": 250.05
+        },
+        {
+          "period": "2024-Q3",
+          "value": 242.24
+        },
+        {
+          "period": "2024-Q4",
+          "value": 238.38
+        },
+        {
+          "period": "2025-Q1",
+          "value": 359.3
+        },
+        {
+          "period": "2025-Q2",
+          "value": 384.34
+        },
+        {
+          "period": "2025-Q3",
+          "value": 315.16
+        },
+        {
+          "period": "2025-Q4",
+          "value": 248.35
+        },
+        {
+          "period": "2026-Q1",
+          "value": 245.21
+        },
+        {
+          "period": "2026-Q2",
+          "value": null
+        },
+        {
+          "period": "2026-Q3",
+          "value": null
+        },
+        {
+          "period": "2026-Q4",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Claims On Other Sectors",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2020-Q1",
+          "value": 762.87
+        },
+        {
+          "period": "2020-Q2",
+          "value": 768.56
+        },
+        {
+          "period": "2020-Q3",
+          "value": 778.39
+        },
+        {
+          "period": "2020-Q4",
+          "value": 781.58
+        },
+        {
+          "period": "2021-Q1",
+          "value": 797.24
+        },
+        {
+          "period": "2021-Q2",
+          "value": 802.86
+        },
+        {
+          "period": "2021-Q3",
+          "value": 798.73
+        },
+        {
+          "period": "2021-Q4",
+          "value": 804.87
+        },
+        {
+          "period": "2022-Q1",
+          "value": 800.1
+        },
+        {
+          "period": "2022-Q2",
+          "value": 805.61
+        },
+        {
+          "period": "2022-Q3",
+          "value": 824.92
+        },
+        {
+          "period": "2022-Q4",
+          "value": 824.05
+        },
+        {
+          "period": "2023-Q1",
+          "value": 739.73
+        },
+        {
+          "period": "2023-Q2",
+          "value": 749.63
+        },
+        {
+          "period": "2023-Q3",
+          "value": 780.76
+        },
+        {
+          "period": "2023-Q4",
+          "value": 792.63
+        },
+        {
+          "period": "2024-Q1",
+          "value": 791.2
+        },
+        {
+          "period": "2024-Q2",
+          "value": 765.9
+        },
+        {
+          "period": "2024-Q3",
+          "value": 780.59
+        },
+        {
+          "period": "2024-Q4",
+          "value": 778.57
+        },
+        {
+          "period": "2025-Q1",
+          "value": 793.65
+        },
+        {
+          "period": "2025-Q2",
+          "value": 793.19
+        },
+        {
+          "period": "2025-Q3",
+          "value": 802.96
+        },
+        {
+          "period": "2025-Q4",
+          "value": 800.32
+        },
+        {
+          "period": "2026-Q1",
+          "value": 786.28
+        },
+        {
+          "period": "2026-Q2",
+          "value": null
+        },
+        {
+          "period": "2026-Q3",
+          "value": null
+        },
+        {
+          "period": "2026-Q4",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Claims On Other Financial Corporations (NBFI)",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2020-Q1",
+          "value": 57.59
+        },
+        {
+          "period": "2020-Q2",
+          "value": 58.27
+        },
+        {
+          "period": "2020-Q3",
+          "value": 57.24
+        },
+        {
+          "period": "2020-Q4",
+          "value": 56.73
+        },
+        {
+          "period": "2021-Q1",
+          "value": 56.27
+        },
+        {
+          "period": "2021-Q2",
+          "value": 56.51
+        },
+        {
+          "period": "2021-Q3",
+          "value": 56.09
+        },
+        {
+          "period": "2021-Q4",
+          "value": 54.36
+        },
+        {
+          "period": "2022-Q1",
+          "value": 54.77
+        },
+        {
+          "period": "2022-Q2",
+          "value": 53.44
+        },
+        {
+          "period": "2022-Q3",
+          "value": 53.21
+        },
+        {
+          "period": "2022-Q4",
+          "value": 52.75
+        },
+        {
+          "period": "2023-Q1",
+          "value": 50.31
+        },
+        {
+          "period": "2023-Q2",
+          "value": 49.88
+        },
+        {
+          "period": "2023-Q3",
+          "value": 50.72
+        },
+        {
+          "period": "2023-Q4",
+          "value": 49.02
+        },
+        {
+          "period": "2024-Q1",
+          "value": 43.76
+        },
+        {
+          "period": "2024-Q2",
+          "value": 41.35
+        },
+        {
+          "period": "2024-Q3",
+          "value": 46.22
+        },
+        {
+          "period": "2024-Q4",
+          "value": 45.99
+        },
+        {
+          "period": "2025-Q1",
+          "value": 50.61
+        },
+        {
+          "period": "2025-Q2",
+          "value": 50.35
+        },
+        {
+          "period": "2025-Q3",
+          "value": 56.23
+        },
+        {
+          "period": "2025-Q4",
+          "value": 55.79
+        },
+        {
+          "period": "2026-Q1",
+          "value": 55.5
+        },
+        {
+          "period": "2026-Q2",
+          "value": null
+        },
+        {
+          "period": "2026-Q3",
+          "value": null
+        },
+        {
+          "period": "2026-Q4",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Claims On Public Non-Financial Corporations",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2020-Q1",
+          "value": 2.01
+        },
+        {
+          "period": "2020-Q2",
+          "value": 0
+        },
+        {
+          "period": "2020-Q3",
+          "value": 0
+        },
+        {
+          "period": "2020-Q4",
+          "value": 0
+        },
+        {
+          "period": "2021-Q1",
+          "value": 0
+        },
+        {
+          "period": "2021-Q2",
+          "value": 0
+        },
+        {
+          "period": "2021-Q3",
+          "value": 0
+        },
+        {
+          "period": "2021-Q4",
+          "value": 0
+        },
+        {
+          "period": "2022-Q1",
+          "value": 0
+        },
+        {
+          "period": "2022-Q2",
+          "value": 0
+        },
+        {
+          "period": "2022-Q3",
+          "value": 0
+        },
+        {
+          "period": "2022-Q4",
+          "value": 0
+        },
+        {
+          "period": "2023-Q1",
+          "value": 0
+        },
+        {
+          "period": "2023-Q2",
+          "value": 0
+        },
+        {
+          "period": "2023-Q3",
+          "value": 0
+        },
+        {
+          "period": "2023-Q4",
+          "value": 0
+        },
+        {
+          "period": "2024-Q1",
+          "value": 0
+        },
+        {
+          "period": "2024-Q2",
+          "value": 0
+        },
+        {
+          "period": "2024-Q3",
+          "value": 0
+        },
+        {
+          "period": "2024-Q4",
+          "value": 0
+        },
+        {
+          "period": "2025-Q1",
+          "value": 0.03
+        },
+        {
+          "period": "2025-Q2",
+          "value": 0
+        },
+        {
+          "period": "2025-Q3",
+          "value": 0
+        },
+        {
+          "period": "2025-Q4",
+          "value": 0.03
+        },
+        {
+          "period": "2026-Q1",
+          "value": 0.01
+        },
+        {
+          "period": "2026-Q2",
+          "value": null
+        },
+        {
+          "period": "2026-Q3",
+          "value": null
+        },
+        {
+          "period": "2026-Q4",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Claims On Private Sector",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2020-Q1",
+          "value": 703.28
+        },
+        {
+          "period": "2020-Q2",
+          "value": 710.29
+        },
+        {
+          "period": "2020-Q3",
+          "value": 721.15
+        },
+        {
+          "period": "2020-Q4",
+          "value": 724.85
+        },
+        {
+          "period": "2021-Q1",
+          "value": 740.97
+        },
+        {
+          "period": "2021-Q2",
+          "value": 746.35
+        },
+        {
+          "period": "2021-Q3",
+          "value": 742.63
+        },
+        {
+          "period": "2021-Q4",
+          "value": 750.51
+        },
+        {
+          "period": "2022-Q1",
+          "value": 745.33
+        },
+        {
+          "period": "2022-Q2",
+          "value": 752.16
+        },
+        {
+          "period": "2022-Q3",
+          "value": 771.71
+        },
+        {
+          "period": "2022-Q4",
+          "value": 771.3
+        },
+        {
+          "period": "2023-Q1",
+          "value": 689.42
+        },
+        {
+          "period": "2023-Q2",
+          "value": 699.75
+        },
+        {
+          "period": "2023-Q3",
+          "value": 730.04
+        },
+        {
+          "period": "2023-Q4",
+          "value": 743.62
+        },
+        {
+          "period": "2024-Q1",
+          "value": 747.44
+        },
+        {
+          "period": "2024-Q2",
+          "value": 724.54
+        },
+        {
+          "period": "2024-Q3",
+          "value": 734.37
+        },
+        {
+          "period": "2024-Q4",
+          "value": 732.58
+        },
+        {
+          "period": "2025-Q1",
+          "value": 743.01
+        },
+        {
+          "period": "2025-Q2",
+          "value": 742.85
+        },
+        {
+          "period": "2025-Q3",
+          "value": 746.73
+        },
+        {
+          "period": "2025-Q4",
+          "value": 744.5
+        },
+        {
+          "period": "2026-Q1",
+          "value": 730.77
+        },
+        {
+          "period": "2026-Q2",
+          "value": null
+        },
+        {
+          "period": "2026-Q3",
+          "value": null
+        },
+        {
+          "period": "2026-Q4",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Claims On Other Non-Financial Corporations (Business Credit)",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2020-Q1",
+          "value": 277.53
+        },
+        {
+          "period": "2020-Q2",
+          "value": 282.53
+        },
+        {
+          "period": "2020-Q3",
+          "value": 283.99
+        },
+        {
+          "period": "2020-Q4",
+          "value": 286.15
+        },
+        {
+          "period": "2021-Q1",
+          "value": 291.44
+        },
+        {
+          "period": "2021-Q2",
+          "value": 299.33
+        },
+        {
+          "period": "2021-Q3",
+          "value": 291.35
+        },
+        {
+          "period": "2021-Q4",
+          "value": 297.35
+        },
+        {
+          "period": "2022-Q1",
+          "value": 295.62
+        },
+        {
+          "period": "2022-Q2",
+          "value": 301.16
+        },
+        {
+          "period": "2022-Q3",
+          "value": 314.19
+        },
+        {
+          "period": "2022-Q4",
+          "value": 313.47
+        },
+        {
+          "period": "2023-Q1",
+          "value": 257.5
+        },
+        {
+          "period": "2023-Q2",
+          "value": 268.4
+        },
+        {
+          "period": "2023-Q3",
+          "value": 294.63
+        },
+        {
+          "period": "2023-Q4",
+          "value": 301.7
+        },
+        {
+          "period": "2024-Q1",
+          "value": 301.75
+        },
+        {
+          "period": "2024-Q2",
+          "value": 277.29
+        },
+        {
+          "period": "2024-Q3",
+          "value": 277.06
+        },
+        {
+          "period": "2024-Q4",
+          "value": 276.97
+        },
+        {
+          "period": "2025-Q1",
+          "value": 287.86
+        },
+        {
+          "period": "2025-Q2",
+          "value": 290.75
+        },
+        {
+          "period": "2025-Q3",
+          "value": 293.6
+        },
+        {
+          "period": "2025-Q4",
+          "value": 289.16
+        },
+        {
+          "period": "2026-Q1",
+          "value": 276.49
+        },
+        {
+          "period": "2026-Q2",
+          "value": null
+        },
+        {
+          "period": "2026-Q3",
+          "value": null
+        },
+        {
+          "period": "2026-Q4",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Claims On Other Resident Sectors (Households and Non-Profit Institutions)",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2020-Q1",
+          "value": 425.75
+        },
+        {
+          "period": "2020-Q2",
+          "value": 427.75
+        },
+        {
+          "period": "2020-Q3",
+          "value": 437.16
+        },
+        {
+          "period": "2020-Q4",
+          "value": 438.69
+        },
+        {
+          "period": "2021-Q1",
+          "value": 449.52
+        },
+        {
+          "period": "2021-Q2",
+          "value": 447.01
+        },
+        {
+          "period": "2021-Q3",
+          "value": 451.29
+        },
+        {
+          "period": "2021-Q4",
+          "value": 453.16
+        },
+        {
+          "period": "2022-Q1",
+          "value": 449.72
+        },
+        {
+          "period": "2022-Q2",
+          "value": 451
+        },
+        {
+          "period": "2022-Q3",
+          "value": 457.52
+        },
+        {
+          "period": "2022-Q4",
+          "value": 457.83
+        },
+        {
+          "period": "2023-Q1",
+          "value": 431.92
+        },
+        {
+          "period": "2023-Q2",
+          "value": 431.35
+        },
+        {
+          "period": "2023-Q3",
+          "value": 435.41
+        },
+        {
+          "period": "2023-Q4",
+          "value": 441.92
+        },
+        {
+          "period": "2024-Q1",
+          "value": 445.69
+        },
+        {
+          "period": "2024-Q2",
+          "value": 447.25
+        },
+        {
+          "period": "2024-Q3",
+          "value": 457.31
+        },
+        {
+          "period": "2024-Q4",
+          "value": 455.6
+        },
+        {
+          "period": "2025-Q1",
+          "value": 455.15
+        },
+        {
+          "period": "2025-Q2",
+          "value": 452.1
+        },
+        {
+          "period": "2025-Q3",
+          "value": 453.13
+        },
+        {
+          "period": "2025-Q4",
+          "value": 455.34
+        },
+        {
+          "period": "2026-Q1",
+          "value": 454.28
+        },
+        {
+          "period": "2026-Q2",
+          "value": null
+        },
+        {
+          "period": "2026-Q3",
+          "value": null
+        },
+        {
+          "period": "2026-Q4",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Other Items (Net)",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2020-Q1",
+          "value": -367.3
+        },
+        {
+          "period": "2020-Q2",
+          "value": -396.2
+        },
+        {
+          "period": "2020-Q3",
+          "value": -399.78
+        },
+        {
+          "period": "2020-Q4",
+          "value": -415.95
+        },
+        {
+          "period": "2021-Q1",
+          "value": -469.98
+        },
+        {
+          "period": "2021-Q2",
+          "value": -467.99
+        },
+        {
+          "period": "2021-Q3",
+          "value": -493.96
+        },
+        {
+          "period": "2021-Q4",
+          "value": -507.06
+        },
+        {
+          "period": "2022-Q1",
+          "value": -477.26
+        },
+        {
+          "period": "2022-Q2",
+          "value": -445.88
+        },
+        {
+          "period": "2022-Q3",
+          "value": -484.85
+        },
+        {
+          "period": "2022-Q4",
+          "value": -497.32
+        },
+        {
+          "period": "2023-Q1",
+          "value": -466.45
+        },
+        {
+          "period": "2023-Q2",
+          "value": -480.22
+        },
+        {
+          "period": "2023-Q3",
+          "value": -455.23
+        },
+        {
+          "period": "2023-Q4",
+          "value": -472.41
+        },
+        {
+          "period": "2024-Q1",
+          "value": -474.62
+        },
+        {
+          "period": "2024-Q2",
+          "value": -465.82
+        },
+        {
+          "period": "2024-Q3",
+          "value": -472
+        },
+        {
+          "period": "2024-Q4",
+          "value": -497.99
+        },
+        {
+          "period": "2025-Q1",
+          "value": -494.54
+        },
+        {
+          "period": "2025-Q2",
+          "value": -510.04
+        },
+        {
+          "period": "2025-Q3",
+          "value": -551.71
+        },
+        {
+          "period": "2025-Q4",
+          "value": -545.91
+        },
+        {
+          "period": "2026-Q1",
+          "value": -581.5
+        },
+        {
+          "period": "2026-Q2",
+          "value": null
+        },
+        {
+          "period": "2026-Q3",
+          "value": null
+        },
+        {
+          "period": "2026-Q4",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Broad Money Liabilities (M2)",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2020-Q1",
+          "value": 1332.26
+        },
+        {
+          "period": "2020-Q2",
+          "value": 1361.03
+        },
+        {
+          "period": "2020-Q3",
+          "value": 1372.56
+        },
+        {
+          "period": "2020-Q4",
+          "value": 1389.11
+        },
+        {
+          "period": "2021-Q1",
+          "value": 1387.61
+        },
+        {
+          "period": "2021-Q2",
+          "value": 1394.23
+        },
+        {
+          "period": "2021-Q3",
+          "value": 1379.81
+        },
+        {
+          "period": "2021-Q4",
+          "value": 1414.54
+        },
+        {
+          "period": "2022-Q1",
+          "value": 1410.23
+        },
+        {
+          "period": "2022-Q2",
+          "value": 1429.77
+        },
+        {
+          "period": "2022-Q3",
+          "value": 1387.95
+        },
+        {
+          "period": "2022-Q4",
+          "value": 1396.77
+        },
+        {
+          "period": "2023-Q1",
+          "value": 1374.3
+        },
+        {
+          "period": "2023-Q2",
+          "value": 1389.87
+        },
+        {
+          "period": "2023-Q3",
+          "value": 1366.69
+        },
+        {
+          "period": "2023-Q4",
+          "value": 1390.49
+        },
+        {
+          "period": "2024-Q1",
+          "value": 1399.38
+        },
+        {
+          "period": "2024-Q2",
+          "value": 1398.9
+        },
+        {
+          "period": "2024-Q3",
+          "value": 1403.76
+        },
+        {
+          "period": "2024-Q4",
+          "value": 1436.57
+        },
+        {
+          "period": "2025-Q1",
+          "value": 1477.79
+        },
+        {
+          "period": "2025-Q2",
+          "value": 1512.69
+        },
+        {
+          "period": "2025-Q3",
+          "value": 1520.97
+        },
+        {
+          "period": "2025-Q4",
+          "value": 1579.74
+        },
+        {
+          "period": "2026-Q1",
+          "value": 1630.45
+        },
+        {
+          "period": "2026-Q2",
+          "value": null
+        },
+        {
+          "period": "2026-Q3",
+          "value": null
+        },
+        {
+          "period": "2026-Q4",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Narrow Money (M1)",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2020-Q1",
+          "value": 326.72
+        },
+        {
+          "period": "2020-Q2",
+          "value": 339.51
+        },
+        {
+          "period": "2020-Q3",
+          "value": 330.66
+        },
+        {
+          "period": "2020-Q4",
+          "value": 330.23
+        },
+        {
+          "period": "2021-Q1",
+          "value": 327.94
+        },
+        {
+          "period": "2021-Q2",
+          "value": 341.68
+        },
+        {
+          "period": "2021-Q3",
+          "value": 417.79
+        },
+        {
+          "period": "2021-Q4",
+          "value": 459.9
+        },
+        {
+          "period": "2022-Q1",
+          "value": 434.26
+        },
+        {
+          "period": "2022-Q2",
+          "value": 439.49
+        },
+        {
+          "period": "2022-Q3",
+          "value": 431.61
+        },
+        {
+          "period": "2022-Q4",
+          "value": 484.95
+        },
+        {
+          "period": "2023-Q1",
+          "value": 466.96
+        },
+        {
+          "period": "2023-Q2",
+          "value": 476.79
+        },
+        {
+          "period": "2023-Q3",
+          "value": 458.41
+        },
+        {
+          "period": "2023-Q4",
+          "value": 490
+        },
+        {
+          "period": "2024-Q1",
+          "value": 489.68
+        },
+        {
+          "period": "2024-Q2",
+          "value": 486.83
+        },
+        {
+          "period": "2024-Q3",
+          "value": 488.45
+        },
+        {
+          "period": "2024-Q4",
+          "value": 501.85
+        },
+        {
+          "period": "2025-Q1",
+          "value": 529.07
+        },
+        {
+          "period": "2025-Q2",
+          "value": 555.12
+        },
+        {
+          "period": "2025-Q3",
+          "value": 567.47
+        },
+        {
+          "period": "2025-Q4",
+          "value": 615.88
+        },
+        {
+          "period": "2026-Q1",
+          "value": 633.02
+        },
+        {
+          "period": "2026-Q2",
+          "value": null
+        },
+        {
+          "period": "2026-Q3",
+          "value": null
+        },
+        {
+          "period": "2026-Q4",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Currency Outside Depository Corporations",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2020-Q1",
+          "value": 83.04
+        },
+        {
+          "period": "2020-Q2",
+          "value": 80.41
+        },
+        {
+          "period": "2020-Q3",
+          "value": 79.65
+        },
+        {
+          "period": "2020-Q4",
+          "value": 86.02
+        },
+        {
+          "period": "2021-Q1",
+          "value": 78.66
+        },
+        {
+          "period": "2021-Q2",
+          "value": 74.86
+        },
+        {
+          "period": "2021-Q3",
+          "value": 75.89
+        },
+        {
+          "period": "2021-Q4",
+          "value": 86.68
+        },
+        {
+          "period": "2022-Q1",
+          "value": 83.07
+        },
+        {
+          "period": "2022-Q2",
+          "value": 83.89
+        },
+        {
+          "period": "2022-Q3",
+          "value": 85.89
+        },
+        {
+          "period": "2022-Q4",
+          "value": 97.99
+        },
+        {
+          "period": "2023-Q1",
+          "value": 93.58
+        },
+        {
+          "period": "2023-Q2",
+          "value": 91.76
+        },
+        {
+          "period": "2023-Q3",
+          "value": 89.56
+        },
+        {
+          "period": "2023-Q4",
+          "value": 96.64
+        },
+        {
+          "period": "2024-Q1",
+          "value": 98.26
+        },
+        {
+          "period": "2024-Q2",
+          "value": 95.53
+        },
+        {
+          "period": "2024-Q3",
+          "value": 89.11
+        },
+        {
+          "period": "2024-Q4",
+          "value": 98.17
+        },
+        {
+          "period": "2025-Q1",
+          "value": 94.71
+        },
+        {
+          "period": "2025-Q2",
+          "value": 94.48
+        },
+        {
+          "period": "2025-Q3",
+          "value": 93.43
+        },
+        {
+          "period": "2025-Q4",
+          "value": 105.94
+        },
+        {
+          "period": "2026-Q1",
+          "value": 101.14
+        },
+        {
+          "period": "2026-Q2",
+          "value": null
+        },
+        {
+          "period": "2026-Q3",
+          "value": null
+        },
+        {
+          "period": "2026-Q4",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Currency Issued By Central Bank (Currency In Circulation)",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2020-Q1",
+          "value": 106.48
+        },
+        {
+          "period": "2020-Q2",
+          "value": 102.52
+        },
+        {
+          "period": "2020-Q3",
+          "value": 101.77
+        },
+        {
+          "period": "2020-Q4",
+          "value": 108.31
+        },
+        {
+          "period": "2021-Q1",
+          "value": 98.5
+        },
+        {
+          "period": "2021-Q2",
+          "value": 100.16
+        },
+        {
+          "period": "2021-Q3",
+          "value": 102.18
+        },
+        {
+          "period": "2021-Q4",
+          "value": 115.71
+        },
+        {
+          "period": "2022-Q1",
+          "value": 113.84
+        },
+        {
+          "period": "2022-Q2",
+          "value": 111.85
+        },
+        {
+          "period": "2022-Q3",
+          "value": 112.28
+        },
+        {
+          "period": "2022-Q4",
+          "value": 126.83
+        },
+        {
+          "period": "2023-Q1",
+          "value": 118.62
+        },
+        {
+          "period": "2023-Q2",
+          "value": 118.21
+        },
+        {
+          "period": "2023-Q3",
+          "value": 115.26
+        },
+        {
+          "period": "2023-Q4",
+          "value": 118.77
+        },
+        {
+          "period": "2024-Q1",
+          "value": 119.12
+        },
+        {
+          "period": "2024-Q2",
+          "value": 117.82
+        },
+        {
+          "period": "2024-Q3",
+          "value": 113.76
+        },
+        {
+          "period": "2024-Q4",
+          "value": 126.54
+        },
+        {
+          "period": "2025-Q1",
+          "value": 121.15
+        },
+        {
+          "period": "2025-Q2",
+          "value": 119.72
+        },
+        {
+          "period": "2025-Q3",
+          "value": 121.68
+        },
+        {
+          "period": "2025-Q4",
+          "value": 134.2
+        },
+        {
+          "period": "2026-Q1",
+          "value": 132.53
+        },
+        {
+          "period": "2026-Q2",
+          "value": null
+        },
+        {
+          "period": "2026-Q3",
+          "value": null
+        },
+        {
+          "period": "2026-Q4",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Less Holdings Of National Currency By Odc (Commercial Banks)",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2020-Q1",
+          "value": 23.44
+        },
+        {
+          "period": "2020-Q2",
+          "value": 22.11
+        },
+        {
+          "period": "2020-Q3",
+          "value": 22.12
+        },
+        {
+          "period": "2020-Q4",
+          "value": 22.3
+        },
+        {
+          "period": "2021-Q1",
+          "value": 19.84
+        },
+        {
+          "period": "2021-Q2",
+          "value": 25.31
+        },
+        {
+          "period": "2021-Q3",
+          "value": 26.29
+        },
+        {
+          "period": "2021-Q4",
+          "value": 29.03
+        },
+        {
+          "period": "2022-Q1",
+          "value": 30.77
+        },
+        {
+          "period": "2022-Q2",
+          "value": 27.96
+        },
+        {
+          "period": "2022-Q3",
+          "value": 26.39
+        },
+        {
+          "period": "2022-Q4",
+          "value": 28.84
+        },
+        {
+          "period": "2023-Q1",
+          "value": 25.04
+        },
+        {
+          "period": "2023-Q2",
+          "value": 26.45
+        },
+        {
+          "period": "2023-Q3",
+          "value": 25.71
+        },
+        {
+          "period": "2023-Q4",
+          "value": 22.13
+        },
+        {
+          "period": "2024-Q1",
+          "value": 20.85
+        },
+        {
+          "period": "2024-Q2",
+          "value": 22.28
+        },
+        {
+          "period": "2024-Q3",
+          "value": 24.66
+        },
+        {
+          "period": "2024-Q4",
+          "value": 28.37
+        },
+        {
+          "period": "2025-Q1",
+          "value": 26.43
+        },
+        {
+          "period": "2025-Q2",
+          "value": 25.24
+        },
+        {
+          "period": "2025-Q3",
+          "value": 28.24
+        },
+        {
+          "period": "2025-Q4",
+          "value": 28.26
+        },
+        {
+          "period": "2026-Q1",
+          "value": 31.39
+        },
+        {
+          "period": "2026-Q2",
+          "value": null
+        },
+        {
+          "period": "2026-Q3",
+          "value": null
+        },
+        {
+          "period": "2026-Q4",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Transferable Deposits, In National Currency",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2020-Q1",
+          "value": 243.68
+        },
+        {
+          "period": "2020-Q2",
+          "value": 259.1
+        },
+        {
+          "period": "2020-Q3",
+          "value": 251.02
+        },
+        {
+          "period": "2020-Q4",
+          "value": 244.21
+        },
+        {
+          "period": "2021-Q1",
+          "value": 249.28
+        },
+        {
+          "period": "2021-Q2",
+          "value": 266.83
+        },
+        {
+          "period": "2021-Q3",
+          "value": 341.9
+        },
+        {
+          "period": "2021-Q4",
+          "value": 373.22
+        },
+        {
+          "period": "2022-Q1",
+          "value": 351.18
+        },
+        {
+          "period": "2022-Q2",
+          "value": 355.6
+        },
+        {
+          "period": "2022-Q3",
+          "value": 345.72
+        },
+        {
+          "period": "2022-Q4",
+          "value": 386.96
+        },
+        {
+          "period": "2023-Q1",
+          "value": 373.38
+        },
+        {
+          "period": "2023-Q2",
+          "value": 385.03
+        },
+        {
+          "period": "2023-Q3",
+          "value": 368.86
+        },
+        {
+          "period": "2023-Q4",
+          "value": 393.35
+        },
+        {
+          "period": "2024-Q1",
+          "value": 391.41
+        },
+        {
+          "period": "2024-Q2",
+          "value": 391.29
+        },
+        {
+          "period": "2024-Q3",
+          "value": 399.35
+        },
+        {
+          "period": "2024-Q4",
+          "value": 403.68
+        },
+        {
+          "period": "2025-Q1",
+          "value": 434.36
+        },
+        {
+          "period": "2025-Q2",
+          "value": 460.65
+        },
+        {
+          "period": "2025-Q3",
+          "value": 474.04
+        },
+        {
+          "period": "2025-Q4",
+          "value": 509.93
+        },
+        {
+          "period": "2026-Q1",
+          "value": 531.87
+        },
+        {
+          "period": "2026-Q2",
+          "value": null
+        },
+        {
+          "period": "2026-Q3",
+          "value": null
+        },
+        {
+          "period": "2026-Q4",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Quasi Money",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2020-Q1",
+          "value": 1005.54
+        },
+        {
+          "period": "2020-Q2",
+          "value": 1021.53
+        },
+        {
+          "period": "2020-Q3",
+          "value": 1041.9
+        },
+        {
+          "period": "2020-Q4",
+          "value": 1058.88
+        },
+        {
+          "period": "2021-Q1",
+          "value": 1059.67
+        },
+        {
+          "period": "2021-Q2",
+          "value": 1052.55
+        },
+        {
+          "period": "2021-Q3",
+          "value": 962.02
+        },
+        {
+          "period": "2021-Q4",
+          "value": 954.64
+        },
+        {
+          "period": "2022-Q1",
+          "value": 975.98
+        },
+        {
+          "period": "2022-Q2",
+          "value": 990.28
+        },
+        {
+          "period": "2022-Q3",
+          "value": 956.34
+        },
+        {
+          "period": "2022-Q4",
+          "value": 911.82
+        },
+        {
+          "period": "2023-Q1",
+          "value": 907.33
+        },
+        {
+          "period": "2023-Q2",
+          "value": 913.08
+        },
+        {
+          "period": "2023-Q3",
+          "value": 908.28
+        },
+        {
+          "period": "2023-Q4",
+          "value": 900.49
+        },
+        {
+          "period": "2024-Q1",
+          "value": 909.71
+        },
+        {
+          "period": "2024-Q2",
+          "value": 912.07
+        },
+        {
+          "period": "2024-Q3",
+          "value": 915.31
+        },
+        {
+          "period": "2024-Q4",
+          "value": 934.72
+        },
+        {
+          "period": "2025-Q1",
+          "value": 948.72
+        },
+        {
+          "period": "2025-Q2",
+          "value": 957.57
+        },
+        {
+          "period": "2025-Q3",
+          "value": 953.5
+        },
+        {
+          "period": "2025-Q4",
+          "value": 963.86
+        },
+        {
+          "period": "2026-Q1",
+          "value": 997.44
+        },
+        {
+          "period": "2026-Q2",
+          "value": null
+        },
+        {
+          "period": "2026-Q3",
+          "value": null
+        },
+        {
+          "period": "2026-Q4",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Other Deposits, In National Currency",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2020-Q1",
+          "value": 964.74
+        },
+        {
+          "period": "2020-Q2",
+          "value": 976.89
+        },
+        {
+          "period": "2020-Q3",
+          "value": 993.2
+        },
+        {
+          "period": "2020-Q4",
+          "value": 1012.35
+        },
+        {
+          "period": "2021-Q1",
+          "value": 1016.22
+        },
+        {
+          "period": "2021-Q2",
+          "value": 1009.56
+        },
+        {
+          "period": "2021-Q3",
+          "value": 920.35
+        },
+        {
+          "period": "2021-Q4",
+          "value": 917.51
+        },
+        {
+          "period": "2022-Q1",
+          "value": 936.38
+        },
+        {
+          "period": "2022-Q2",
+          "value": 944.97
+        },
+        {
+          "period": "2022-Q3",
+          "value": 920.97
+        },
+        {
+          "period": "2022-Q4",
+          "value": 874.95
+        },
+        {
+          "period": "2023-Q1",
+          "value": 869.92
+        },
+        {
+          "period": "2023-Q2",
+          "value": 876.52
+        },
+        {
+          "period": "2023-Q3",
+          "value": 877.22
+        },
+        {
+          "period": "2023-Q4",
+          "value": 870.8
+        },
+        {
+          "period": "2024-Q1",
+          "value": 875.21
+        },
+        {
+          "period": "2024-Q2",
+          "value": 875.06
+        },
+        {
+          "period": "2024-Q3",
+          "value": 874.84
+        },
+        {
+          "period": "2024-Q4",
+          "value": 885.22
+        },
+        {
+          "period": "2025-Q1",
+          "value": 894.82
+        },
+        {
+          "period": "2025-Q2",
+          "value": 912.34
+        },
+        {
+          "period": "2025-Q3",
+          "value": 916.29
+        },
+        {
+          "period": "2025-Q4",
+          "value": 920.32
+        },
+        {
+          "period": "2026-Q1",
+          "value": 938.32
+        },
+        {
+          "period": "2026-Q2",
+          "value": null
+        },
+        {
+          "period": "2026-Q3",
+          "value": null
+        },
+        {
+          "period": "2026-Q4",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Foreign Currency Deposits",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2020-Q1",
+          "value": 40.81
+        },
+        {
+          "period": "2020-Q2",
+          "value": 44.64
+        },
+        {
+          "period": "2020-Q3",
+          "value": 48.7
+        },
+        {
+          "period": "2020-Q4",
+          "value": 46.53
+        },
+        {
+          "period": "2021-Q1",
+          "value": 43.45
+        },
+        {
+          "period": "2021-Q2",
+          "value": 42.99
+        },
+        {
+          "period": "2021-Q3",
+          "value": 41.68
+        },
+        {
+          "period": "2021-Q4",
+          "value": 37.13
+        },
+        {
+          "period": "2022-Q1",
+          "value": 39.6
+        },
+        {
+          "period": "2022-Q2",
+          "value": 45.31
+        },
+        {
+          "period": "2022-Q3",
+          "value": 35.37
+        },
+        {
+          "period": "2022-Q4",
+          "value": 36.87
+        },
+        {
+          "period": "2023-Q1",
+          "value": 37.41
+        },
+        {
+          "period": "2023-Q2",
+          "value": 36.56
+        },
+        {
+          "period": "2023-Q3",
+          "value": 31.07
+        },
+        {
+          "period": "2023-Q4",
+          "value": 29.69
+        },
+        {
+          "period": "2024-Q1",
+          "value": 34.5
+        },
+        {
+          "period": "2024-Q2",
+          "value": 37.02
+        },
+        {
+          "period": "2024-Q3",
+          "value": 40.47
+        },
+        {
+          "period": "2024-Q4",
+          "value": 49.5
+        },
+        {
+          "period": "2025-Q1",
+          "value": 53.9
+        },
+        {
+          "period": "2025-Q2",
+          "value": 45.23
+        },
+        {
+          "period": "2025-Q3",
+          "value": 37.21
+        },
+        {
+          "period": "2025-Q4",
+          "value": 43.54
+        },
+        {
+          "period": "2026-Q1",
+          "value": 59.12
+        },
+        {
+          "period": "2026-Q2",
+          "value": null
+        },
+        {
+          "period": "2026-Q3",
+          "value": null
+        },
+        {
+          "period": "2026-Q4",
+          "value": null
+        }
+      ]
+    }
+  ]
+}

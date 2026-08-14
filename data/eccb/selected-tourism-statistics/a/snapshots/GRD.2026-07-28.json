@@ -1,0 +1,693 @@
+{
+  "source": "Eastern Caribbean Central Bank",
+  "source_id": "eccb",
+  "source_url": "https://www.eccb-centralbank.org/statistics-category/external-sector/selected-tourism-statistics",
+  "table_id": "selected-tourism-statistics",
+  "table_title": "Selected Tourism Statistics",
+  "country": {
+    "iso3": "GRD",
+    "name": "Grenada"
+  },
+  "frequency": "a",
+  "data_as_at": "2026-07-28",
+  "data_as_at_raw": "28 July 2026",
+  "retrieved_at": "2026-08-13T21:48:26.638Z",
+  "periods": [
+    "2015",
+    "2016",
+    "2017",
+    "2018",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024",
+    "2025",
+    "2026"
+  ],
+  "periods_raw": [
+    "2015",
+    "2016",
+    "2017",
+    "2018",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024",
+    "2025",
+    "2026"
+  ],
+  "series": [
+    {
+      "label": "Total Visitor Arrivals",
+      "unit": "No.",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 426869
+        },
+        {
+          "period": "2016",
+          "value": 474201
+        },
+        {
+          "period": "2017",
+          "value": 468877
+        },
+        {
+          "period": "2018",
+          "value": 528711
+        },
+        {
+          "period": "2019",
+          "value": 525985
+        },
+        {
+          "period": "2020",
+          "value": 216867
+        },
+        {
+          "period": "2021",
+          "value": 71861
+        },
+        {
+          "period": "2022",
+          "value": 334799
+        },
+        {
+          "period": "2023",
+          "value": 504398
+        },
+        {
+          "period": "2024",
+          "value": 524117
+        },
+        {
+          "period": "2025",
+          "value": 567654
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Stay-Over Arrivals",
+      "unit": "No.",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 132547
+        },
+        {
+          "period": "2016",
+          "value": 135369
+        },
+        {
+          "period": "2017",
+          "value": 146374
+        },
+        {
+          "period": "2018",
+          "value": 160975
+        },
+        {
+          "period": "2019",
+          "value": 162902
+        },
+        {
+          "period": "2020",
+          "value": 43815
+        },
+        {
+          "period": "2021",
+          "value": 42099
+        },
+        {
+          "period": "2022",
+          "value": 133134
+        },
+        {
+          "period": "2023",
+          "value": 178016
+        },
+        {
+          "period": "2024",
+          "value": 194914
+        },
+        {
+          "period": "2025",
+          "value": 186370
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "USA",
+      "unit": "No.",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 40914
+        },
+        {
+          "period": "2016",
+          "value": 45316
+        },
+        {
+          "period": "2017",
+          "value": 54801
+        },
+        {
+          "period": "2018",
+          "value": 61422
+        },
+        {
+          "period": "2019",
+          "value": 62232
+        },
+        {
+          "period": "2020",
+          "value": 17171
+        },
+        {
+          "period": "2021",
+          "value": 20754
+        },
+        {
+          "period": "2022",
+          "value": 69961
+        },
+        {
+          "period": "2023",
+          "value": 82233
+        },
+        {
+          "period": "2024",
+          "value": 86417
+        },
+        {
+          "period": "2025",
+          "value": 84513
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Canada",
+      "unit": "No.",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 10790
+        },
+        {
+          "period": "2016",
+          "value": 10723
+        },
+        {
+          "period": "2017",
+          "value": 11383
+        },
+        {
+          "period": "2018",
+          "value": 13784
+        },
+        {
+          "period": "2019",
+          "value": 14539
+        },
+        {
+          "period": "2020",
+          "value": 4059
+        },
+        {
+          "period": "2021",
+          "value": 2256
+        },
+        {
+          "period": "2022",
+          "value": 8259
+        },
+        {
+          "period": "2023",
+          "value": 15522
+        },
+        {
+          "period": "2024",
+          "value": 14963
+        },
+        {
+          "period": "2025",
+          "value": 14278
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "UK",
+      "unit": "No.",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 24681
+        },
+        {
+          "period": "2016",
+          "value": 24108
+        },
+        {
+          "period": "2017",
+          "value": 22501
+        },
+        {
+          "period": "2018",
+          "value": 22753
+        },
+        {
+          "period": "2019",
+          "value": 22520
+        },
+        {
+          "period": "2020",
+          "value": 6846
+        },
+        {
+          "period": "2021",
+          "value": 6094
+        },
+        {
+          "period": "2022",
+          "value": 22350
+        },
+        {
+          "period": "2023",
+          "value": 24735
+        },
+        {
+          "period": "2024",
+          "value": 25176
+        },
+        {
+          "period": "2025",
+          "value": 24262
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Caribbean",
+      "unit": "No.",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 22364
+        },
+        {
+          "period": "2016",
+          "value": 23121
+        },
+        {
+          "period": "2017",
+          "value": 25269
+        },
+        {
+          "period": "2018",
+          "value": 27000
+        },
+        {
+          "period": "2019",
+          "value": 27718
+        },
+        {
+          "period": "2020",
+          "value": 5305
+        },
+        {
+          "period": "2021",
+          "value": 2697
+        },
+        {
+          "period": "2022",
+          "value": 14333
+        },
+        {
+          "period": "2023",
+          "value": 25135
+        },
+        {
+          "period": "2024",
+          "value": 27403
+        },
+        {
+          "period": "2025",
+          "value": 27745
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Other Countries",
+      "unit": "No.",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 33798
+        },
+        {
+          "period": "2016",
+          "value": 32101
+        },
+        {
+          "period": "2017",
+          "value": 32420
+        },
+        {
+          "period": "2018",
+          "value": 36016
+        },
+        {
+          "period": "2019",
+          "value": 35893
+        },
+        {
+          "period": "2020",
+          "value": 10434
+        },
+        {
+          "period": "2021",
+          "value": 10298
+        },
+        {
+          "period": "2022",
+          "value": 18231
+        },
+        {
+          "period": "2023",
+          "value": 30391
+        },
+        {
+          "period": "2024",
+          "value": 40955
+        },
+        {
+          "period": "2025",
+          "value": 35572
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Excursionists",
+      "unit": "No.",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 1579
+        },
+        {
+          "period": "2016",
+          "value": 3566
+        },
+        {
+          "period": "2017",
+          "value": 1061
+        },
+        {
+          "period": "2018",
+          "value": 555
+        },
+        {
+          "period": "2019",
+          "value": 532
+        },
+        {
+          "period": "2020",
+          "value": 84
+        },
+        {
+          "period": "2021",
+          "value": 0
+        },
+        {
+          "period": "2022",
+          "value": 0
+        },
+        {
+          "period": "2023",
+          "value": 0
+        },
+        {
+          "period": "2024",
+          "value": 0
+        },
+        {
+          "period": "2025",
+          "value": 0
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Yacht Passengers",
+      "unit": "No.",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 22115
+        },
+        {
+          "period": "2016",
+          "value": 20353
+        },
+        {
+          "period": "2017",
+          "value": 21993
+        },
+        {
+          "period": "2018",
+          "value": 24281
+        },
+        {
+          "period": "2019",
+          "value": 24611
+        },
+        {
+          "period": "2020",
+          "value": 10451
+        },
+        {
+          "period": "2021",
+          "value": 4735
+        },
+        {
+          "period": "2022",
+          "value": 15835
+        },
+        {
+          "period": "2023",
+          "value": 20755
+        },
+        {
+          "period": "2024",
+          "value": 15076
+        },
+        {
+          "period": "2025",
+          "value": 10497
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Cruise Ship Passengers",
+      "unit": "No.",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 270628
+        },
+        {
+          "period": "2016",
+          "value": 314913
+        },
+        {
+          "period": "2017",
+          "value": 299449
+        },
+        {
+          "period": "2018",
+          "value": 342900
+        },
+        {
+          "period": "2019",
+          "value": 337940
+        },
+        {
+          "period": "2020",
+          "value": 162517
+        },
+        {
+          "period": "2021",
+          "value": 25027
+        },
+        {
+          "period": "2022",
+          "value": 185830
+        },
+        {
+          "period": "2023",
+          "value": 305627
+        },
+        {
+          "period": "2024",
+          "value": 314127
+        },
+        {
+          "period": "2025",
+          "value": 370787
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Number of Cruise Ship Calls",
+      "unit": "No.",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 193
+        },
+        {
+          "period": "2016",
+          "value": 257
+        },
+        {
+          "period": "2017",
+          "value": 291
+        },
+        {
+          "period": "2018",
+          "value": 246
+        },
+        {
+          "period": "2019",
+          "value": 261
+        },
+        {
+          "period": "2020",
+          "value": 99
+        },
+        {
+          "period": "2021",
+          "value": 37
+        },
+        {
+          "period": "2022",
+          "value": 181
+        },
+        {
+          "period": "2023",
+          "value": 200
+        },
+        {
+          "period": "2024",
+          "value": 178
+        },
+        {
+          "period": "2025",
+          "value": 205
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Total Visitor Expenditure (EC$M)",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 392.52
+        },
+        {
+          "period": "2016",
+          "value": 372.4
+        },
+        {
+          "period": "2017",
+          "value": 432.67
+        },
+        {
+          "period": "2018",
+          "value": 567.35
+        },
+        {
+          "period": "2019",
+          "value": 570.63
+        },
+        {
+          "period": "2020",
+          "value": 156.06
+        },
+        {
+          "period": "2021",
+          "value": 160.26
+        },
+        {
+          "period": "2022",
+          "value": 869.87
+        },
+        {
+          "period": "2023",
+          "value": 866.86
+        },
+        {
+          "period": "2024",
+          "value": 976.29
+        },
+        {
+          "period": "2025",
+          "value": 1025.39
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    }
+  ]
+}

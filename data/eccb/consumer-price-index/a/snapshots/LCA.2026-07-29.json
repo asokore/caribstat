@@ -1,0 +1,421 @@
+{
+  "source": "Eastern Caribbean Central Bank",
+  "source_id": "eccb",
+  "source_url": "https://www.eccb-centralbank.org/statistics-category/other-real-sector/consumer-price-index-saint-lucia",
+  "table_id": "consumer-price-index",
+  "table_title": "Consumer Price Index",
+  "country": {
+    "iso3": "LCA",
+    "name": "Saint Lucia"
+  },
+  "frequency": "a",
+  "data_as_at": "2026-07-29",
+  "data_as_at_raw": "29 July 2026",
+  "retrieved_at": "2026-08-13T16:30:04.705Z",
+  "periods": [
+    "2021",
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "periods_raw": [
+    "2021",
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "series": [
+    {
+      "label": "Inflation Rate - end of period",
+      "unit": "%",
+      "observations": [
+        {
+          "period": "2021",
+          "value": 4.15
+        },
+        {
+          "period": "2022",
+          "value": 12.8
+        },
+        {
+          "period": "2023",
+          "value": -2.79
+        },
+        {
+          "period": "2024",
+          "value": 2.01
+        },
+        {
+          "period": "2025",
+          "value": 0.33
+        }
+      ]
+    },
+    {
+      "label": "Inflation Rate - period average",
+      "unit": "%",
+      "observations": [
+        {
+          "period": "2021",
+          "value": 2.41
+        },
+        {
+          "period": "2022",
+          "value": 9.65
+        },
+        {
+          "period": "2023",
+          "value": 3.82
+        },
+        {
+          "period": "2024",
+          "value": -0.67
+        },
+        {
+          "period": "2025",
+          "value": 2.03
+        }
+      ]
+    },
+    {
+      "label": "All Items",
+      "unit": "Index",
+      "observations": [
+        {
+          "period": "2021",
+          "value": 104.99
+        },
+        {
+          "period": "2022",
+          "value": 118.43
+        },
+        {
+          "period": "2023",
+          "value": 115.13
+        },
+        {
+          "period": "2024",
+          "value": 117.44
+        },
+        {
+          "period": "2025",
+          "value": 117.83
+        }
+      ]
+    },
+    {
+      "label": "Food And Non-Alcoholic Beverages",
+      "unit": "Index",
+      "observations": [
+        {
+          "period": "2021",
+          "value": 105.09
+        },
+        {
+          "period": "2022",
+          "value": 124.61
+        },
+        {
+          "period": "2023",
+          "value": 126.59
+        },
+        {
+          "period": "2024",
+          "value": 125.28
+        },
+        {
+          "period": "2025",
+          "value": 127.09
+        }
+      ]
+    },
+    {
+      "label": "Alcohol Beverages, Tobacco And Narcotics",
+      "unit": "Index",
+      "observations": [
+        {
+          "period": "2021",
+          "value": 104.77
+        },
+        {
+          "period": "2022",
+          "value": 117.32
+        },
+        {
+          "period": "2023",
+          "value": 119.07
+        },
+        {
+          "period": "2024",
+          "value": 123.09
+        },
+        {
+          "period": "2025",
+          "value": 127
+        }
+      ]
+    },
+    {
+      "label": "Clothing And Footware",
+      "unit": "Index",
+      "observations": [
+        {
+          "period": "2021",
+          "value": 101.33
+        },
+        {
+          "period": "2022",
+          "value": 105.12
+        },
+        {
+          "period": "2023",
+          "value": 103.42
+        },
+        {
+          "period": "2024",
+          "value": 109.24
+        },
+        {
+          "period": "2025",
+          "value": 106.99
+        }
+      ]
+    },
+    {
+      "label": "Housing, Water, Electricity, Gas, And Other Fuels",
+      "unit": "Index",
+      "observations": [
+        {
+          "period": "2021",
+          "value": 110.69
+        },
+        {
+          "period": "2022",
+          "value": 136.55
+        },
+        {
+          "period": "2023",
+          "value": 115.61
+        },
+        {
+          "period": "2024",
+          "value": 119.71
+        },
+        {
+          "period": "2025",
+          "value": 123.75
+        }
+      ]
+    },
+    {
+      "label": "Furnishing, Household Equipment And Routine Household Maintenance",
+      "unit": "Index",
+      "observations": [
+        {
+          "period": "2021",
+          "value": 102.57
+        },
+        {
+          "period": "2022",
+          "value": 132.2
+        },
+        {
+          "period": "2023",
+          "value": 131.78
+        },
+        {
+          "period": "2024",
+          "value": 124.57
+        },
+        {
+          "period": "2025",
+          "value": 120.5
+        }
+      ]
+    },
+    {
+      "label": "Health",
+      "unit": "Index",
+      "observations": [
+        {
+          "period": "2021",
+          "value": 110.25
+        },
+        {
+          "period": "2022",
+          "value": 113.18
+        },
+        {
+          "period": "2023",
+          "value": 116.48
+        },
+        {
+          "period": "2024",
+          "value": 127.46
+        },
+        {
+          "period": "2025",
+          "value": 127.26
+        }
+      ]
+    },
+    {
+      "label": "Transport",
+      "unit": "Index",
+      "observations": [
+        {
+          "period": "2021",
+          "value": 107.66
+        },
+        {
+          "period": "2022",
+          "value": 113.15
+        },
+        {
+          "period": "2023",
+          "value": 115.76
+        },
+        {
+          "period": "2024",
+          "value": 115.13
+        },
+        {
+          "period": "2025",
+          "value": 116.81
+        }
+      ]
+    },
+    {
+      "label": "Communication",
+      "unit": "Index",
+      "observations": [
+        {
+          "period": "2021",
+          "value": 101.45
+        },
+        {
+          "period": "2022",
+          "value": 81.55
+        },
+        {
+          "period": "2023",
+          "value": 83.65
+        },
+        {
+          "period": "2024",
+          "value": 85.34
+        },
+        {
+          "period": "2025",
+          "value": 86.19
+        }
+      ]
+    },
+    {
+      "label": "Recreation And Culture",
+      "unit": "Index",
+      "observations": [
+        {
+          "period": "2021",
+          "value": 88.88
+        },
+        {
+          "period": "2022",
+          "value": 95.27
+        },
+        {
+          "period": "2023",
+          "value": 96.6
+        },
+        {
+          "period": "2024",
+          "value": 95.65
+        },
+        {
+          "period": "2025",
+          "value": 97.03
+        }
+      ]
+    },
+    {
+      "label": "Education",
+      "unit": "Index",
+      "observations": [
+        {
+          "period": "2021",
+          "value": 98.3
+        },
+        {
+          "period": "2022",
+          "value": 85.4
+        },
+        {
+          "period": "2023",
+          "value": 88.37
+        },
+        {
+          "period": "2024",
+          "value": 88.88
+        },
+        {
+          "period": "2025",
+          "value": 88.8
+        }
+      ]
+    },
+    {
+      "label": "Restaurants And Hotels",
+      "unit": "Index",
+      "observations": [
+        {
+          "period": "2021",
+          "value": 99.91
+        },
+        {
+          "period": "2022",
+          "value": 111.23
+        },
+        {
+          "period": "2023",
+          "value": 112.04
+        },
+        {
+          "period": "2024",
+          "value": 113.77
+        },
+        {
+          "period": "2025",
+          "value": 114.88
+        }
+      ]
+    },
+    {
+      "label": "Miscellaneous Goods And Services",
+      "unit": "Index",
+      "observations": [
+        {
+          "period": "2021",
+          "value": 99.42
+        },
+        {
+          "period": "2022",
+          "value": 107.49
+        },
+        {
+          "period": "2023",
+          "value": 112.61
+        },
+        {
+          "period": "2024",
+          "value": 133.48
+        },
+        {
+          "period": "2025",
+          "value": 110.23
+        }
+      ]
+    }
+  ]
+}

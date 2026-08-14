@@ -1,0 +1,1051 @@
+{
+  "source": "Central Bank of Barbados",
+  "source_id": "cbb",
+  "source_url": "https://www.centralbank.org.bb/news/inflation-and-retail-price-index/retail-price-index-rpi-and-rate-of-inflation-1965-october-2024",
+  "attachment_url": "https://cdn.centralbank.org.bb/documents/2025-03-31-08-59-43-I1I2INFLATIONRPI1965Oct2024.xlsx",
+  "category": "inflation-and-retail-price-index",
+  "publication_title": "Retail Price Index (RPI) and Rate of Inflation 1965- October 2024",
+  "sheet": "Oct1965_AVG",
+  "country": {
+    "iso3": "BRB",
+    "name": "Barbados"
+  },
+  "published_at": "2025-03-31",
+  "retrieved_at": "2026-08-13T21:55:54.199Z",
+  "periods": [
+    "1973-Q1",
+    "1973-Q2",
+    "1973-Q3",
+    "1973-Q4",
+    "1974-Q1",
+    "1974-Q2",
+    "1974-Q3",
+    "1974-Q4",
+    "1975-Q1",
+    "1975-Q2",
+    "1975-Q3",
+    "1975-Q4",
+    "1976-Q1",
+    "1976-Q2",
+    "1976-Q3",
+    "1976-Q4",
+    "1977-Q1",
+    "1977-Q2",
+    "1977-Q3",
+    "1977-Q4",
+    "1978-Q1",
+    "1978-Q2",
+    "1978-Q3",
+    "1978-Q4",
+    "1979-Q1",
+    "1979-Q2",
+    "1979-Q3",
+    "1979-Q4",
+    "1980-Q1"
+  ],
+  "periods_raw": [
+    "1Q 1973",
+    "2Q 1973",
+    "3Q 1973",
+    "4Q 1973",
+    "1Q 1974",
+    "2Q 1974",
+    "3Q 1974",
+    "4Q 1974",
+    "1Q 1975",
+    "2Q 1975",
+    "3Q 1975",
+    "4Q 1975",
+    "1Q 1976",
+    "2Q 1976",
+    "3Q 1976",
+    "4Q 1976",
+    "1Q 1977",
+    "2Q 1977",
+    "3Q 1977",
+    "4Q 1977",
+    "1Q 1978",
+    "2Q 1978",
+    "3Q 1978",
+    "4Q 1978",
+    "1Q 1979",
+    "2Q 1979",
+    "3Q 1979",
+    "4Q 1979",
+    "1Q 1980"
+  ],
+  "revised_periods": [],
+  "unparsed_labels": [
+    "Basket Weights"
+  ],
+  "series": [
+    {
+      "label": "Food and Beverages",
+      "observations": [
+        {
+          "period": "1973-Q1",
+          "value": 173.4
+        },
+        {
+          "period": "1973-Q2",
+          "value": 193.6
+        },
+        {
+          "period": "1973-Q3",
+          "value": 195.3
+        },
+        {
+          "period": "1973-Q4",
+          "value": 217.7
+        },
+        {
+          "period": "1974-Q1",
+          "value": 246.1
+        },
+        {
+          "period": "1974-Q2",
+          "value": 278.6
+        },
+        {
+          "period": "1974-Q3",
+          "value": 292.2
+        },
+        {
+          "period": "1974-Q4",
+          "value": 307.5
+        },
+        {
+          "period": "1975-Q1",
+          "value": 324.2
+        },
+        {
+          "period": "1975-Q2",
+          "value": 329.5
+        },
+        {
+          "period": "1975-Q3",
+          "value": 353
+        },
+        {
+          "period": "1975-Q4",
+          "value": 348.6
+        },
+        {
+          "period": "1976-Q1",
+          "value": 348.6
+        },
+        {
+          "period": "1976-Q2",
+          "value": 340
+        },
+        {
+          "period": "1976-Q3",
+          "value": 350.8
+        },
+        {
+          "period": "1976-Q4",
+          "value": 357.5
+        },
+        {
+          "period": "1977-Q1",
+          "value": 360.9
+        },
+        {
+          "period": "1977-Q2",
+          "value": 373.8
+        },
+        {
+          "period": "1977-Q3",
+          "value": 395.2
+        },
+        {
+          "period": "1977-Q4",
+          "value": 386.1
+        },
+        {
+          "period": "1978-Q1",
+          "value": 396.1
+        },
+        {
+          "period": "1978-Q2",
+          "value": 413.5
+        },
+        {
+          "period": "1978-Q3",
+          "value": 423.2
+        },
+        {
+          "period": "1978-Q4",
+          "value": 435.6
+        },
+        {
+          "period": "1979-Q1",
+          "value": 446.7
+        },
+        {
+          "period": "1979-Q2",
+          "value": 444.5
+        },
+        {
+          "period": "1979-Q3",
+          "value": 471.9
+        },
+        {
+          "period": "1979-Q4",
+          "value": 490.3
+        },
+        {
+          "period": "1980-Q1",
+          "value": 515.7
+        }
+      ]
+    },
+    {
+      "label": "Housing",
+      "observations": [
+        {
+          "period": "1973-Q1",
+          "value": 164.2
+        },
+        {
+          "period": "1973-Q2",
+          "value": 185
+        },
+        {
+          "period": "1973-Q3",
+          "value": 204
+        },
+        {
+          "period": "1973-Q4",
+          "value": 213
+        },
+        {
+          "period": "1974-Q1",
+          "value": 233.6
+        },
+        {
+          "period": "1974-Q2",
+          "value": 237.8
+        },
+        {
+          "period": "1974-Q3",
+          "value": 264
+        },
+        {
+          "period": "1974-Q4",
+          "value": 264.7
+        },
+        {
+          "period": "1975-Q1",
+          "value": 268.8
+        },
+        {
+          "period": "1975-Q2",
+          "value": 268.6
+        },
+        {
+          "period": "1975-Q3",
+          "value": 270.6
+        },
+        {
+          "period": "1975-Q4",
+          "value": 269.8
+        },
+        {
+          "period": "1976-Q1",
+          "value": 273.4
+        },
+        {
+          "period": "1976-Q2",
+          "value": 274.1
+        },
+        {
+          "period": "1976-Q3",
+          "value": 291.7
+        },
+        {
+          "period": "1976-Q4",
+          "value": 307.1
+        },
+        {
+          "period": "1977-Q1",
+          "value": 308.2
+        },
+        {
+          "period": "1977-Q2",
+          "value": 314.8
+        },
+        {
+          "period": "1977-Q3",
+          "value": 328.8
+        },
+        {
+          "period": "1977-Q4",
+          "value": 333.5
+        },
+        {
+          "period": "1978-Q1",
+          "value": 338.9
+        },
+        {
+          "period": "1978-Q2",
+          "value": 341.7
+        },
+        {
+          "period": "1978-Q3",
+          "value": 345.5
+        },
+        {
+          "period": "1978-Q4",
+          "value": 359.1
+        },
+        {
+          "period": "1979-Q1",
+          "value": 368.1
+        },
+        {
+          "period": "1979-Q2",
+          "value": 380.6
+        },
+        {
+          "period": "1979-Q3",
+          "value": 411.4
+        },
+        {
+          "period": "1979-Q4",
+          "value": 432.8
+        },
+        {
+          "period": "1980-Q1",
+          "value": 461
+        }
+      ]
+    },
+    {
+      "label": "Household Operations and Furnishings",
+      "observations": [
+        {
+          "period": "1973-Q1",
+          "value": 141.7
+        },
+        {
+          "period": "1973-Q2",
+          "value": 150.6
+        },
+        {
+          "period": "1973-Q3",
+          "value": 153.8
+        },
+        {
+          "period": "1973-Q4",
+          "value": 182.2
+        },
+        {
+          "period": "1974-Q1",
+          "value": 223.9
+        },
+        {
+          "period": "1974-Q2",
+          "value": 249
+        },
+        {
+          "period": "1974-Q3",
+          "value": 253.1
+        },
+        {
+          "period": "1974-Q4",
+          "value": 258.9
+        },
+        {
+          "period": "1975-Q1",
+          "value": 266.3
+        },
+        {
+          "period": "1975-Q2",
+          "value": 274.6
+        },
+        {
+          "period": "1975-Q3",
+          "value": 281.3
+        },
+        {
+          "period": "1975-Q4",
+          "value": 279.9
+        },
+        {
+          "period": "1976-Q1",
+          "value": 280.1
+        },
+        {
+          "period": "1976-Q2",
+          "value": 283.1
+        },
+        {
+          "period": "1976-Q3",
+          "value": 278.8
+        },
+        {
+          "period": "1976-Q4",
+          "value": 276
+        },
+        {
+          "period": "1977-Q1",
+          "value": 280.5
+        },
+        {
+          "period": "1977-Q2",
+          "value": 290.2
+        },
+        {
+          "period": "1977-Q3",
+          "value": 287.9
+        },
+        {
+          "period": "1977-Q4",
+          "value": 289.6
+        },
+        {
+          "period": "1978-Q1",
+          "value": 292.8
+        },
+        {
+          "period": "1978-Q2",
+          "value": 303.7
+        },
+        {
+          "period": "1978-Q3",
+          "value": 314.6
+        },
+        {
+          "period": "1978-Q4",
+          "value": 324.9
+        },
+        {
+          "period": "1979-Q1",
+          "value": 362.4
+        },
+        {
+          "period": "1979-Q2",
+          "value": 395.2
+        },
+        {
+          "period": "1979-Q3",
+          "value": 434.6
+        },
+        {
+          "period": "1979-Q4",
+          "value": 482.3
+        },
+        {
+          "period": "1980-Q1",
+          "value": 504.9
+        }
+      ]
+    },
+    {
+      "label": "Clothing",
+      "observations": [
+        {
+          "period": "1973-Q1",
+          "value": 149.8
+        },
+        {
+          "period": "1973-Q2",
+          "value": 151.6
+        },
+        {
+          "period": "1973-Q3",
+          "value": 163.3
+        },
+        {
+          "period": "1973-Q4",
+          "value": 170.6
+        },
+        {
+          "period": "1974-Q1",
+          "value": 184.5
+        },
+        {
+          "period": "1974-Q2",
+          "value": 197.4
+        },
+        {
+          "period": "1974-Q3",
+          "value": 204.1
+        },
+        {
+          "period": "1974-Q4",
+          "value": 220.9
+        },
+        {
+          "period": "1975-Q1",
+          "value": 244.5
+        },
+        {
+          "period": "1975-Q2",
+          "value": 248.1
+        },
+        {
+          "period": "1975-Q3",
+          "value": 263.8
+        },
+        {
+          "period": "1975-Q4",
+          "value": 263.5
+        },
+        {
+          "period": "1976-Q1",
+          "value": 263.5
+        },
+        {
+          "period": "1976-Q2",
+          "value": 268.6
+        },
+        {
+          "period": "1976-Q3",
+          "value": 291.7
+        },
+        {
+          "period": "1976-Q4",
+          "value": 280.1
+        },
+        {
+          "period": "1977-Q1",
+          "value": 287.7
+        },
+        {
+          "period": "1977-Q2",
+          "value": 291.7
+        },
+        {
+          "period": "1977-Q3",
+          "value": 292.4
+        },
+        {
+          "period": "1977-Q4",
+          "value": 296.4
+        },
+        {
+          "period": "1978-Q1",
+          "value": 303.8
+        },
+        {
+          "period": "1978-Q2",
+          "value": 301.1
+        },
+        {
+          "period": "1978-Q3",
+          "value": 300.9
+        },
+        {
+          "period": "1978-Q4",
+          "value": 299
+        },
+        {
+          "period": "1979-Q1",
+          "value": 300.6
+        },
+        {
+          "period": "1979-Q2",
+          "value": 310.6
+        },
+        {
+          "period": "1979-Q3",
+          "value": 336.7
+        },
+        {
+          "period": "1979-Q4",
+          "value": 395.8
+        },
+        {
+          "period": "1980-Q1",
+          "value": 420.4
+        }
+      ]
+    },
+    {
+      "label": "Medical and Personal Care",
+      "observations": [
+        {
+          "period": "1973-Q1",
+          "value": 166.7
+        },
+        {
+          "period": "1973-Q2",
+          "value": 170.8
+        },
+        {
+          "period": "1973-Q3",
+          "value": 175.4
+        },
+        {
+          "period": "1973-Q4",
+          "value": 177.8
+        },
+        {
+          "period": "1974-Q1",
+          "value": 184.4
+        },
+        {
+          "period": "1974-Q2",
+          "value": 205.8
+        },
+        {
+          "period": "1974-Q3",
+          "value": 211
+        },
+        {
+          "period": "1974-Q4",
+          "value": 216.6
+        },
+        {
+          "period": "1975-Q1",
+          "value": 228.9
+        },
+        {
+          "period": "1975-Q2",
+          "value": 238.1
+        },
+        {
+          "period": "1975-Q3",
+          "value": 243.5
+        },
+        {
+          "period": "1975-Q4",
+          "value": 245.7
+        },
+        {
+          "period": "1976-Q1",
+          "value": 247.5
+        },
+        {
+          "period": "1976-Q2",
+          "value": 247.8
+        },
+        {
+          "period": "1976-Q3",
+          "value": 252
+        },
+        {
+          "period": "1976-Q4",
+          "value": 243.7
+        },
+        {
+          "period": "1977-Q1",
+          "value": 244.5
+        },
+        {
+          "period": "1977-Q2",
+          "value": 284
+        },
+        {
+          "period": "1977-Q3",
+          "value": 304.6
+        },
+        {
+          "period": "1977-Q4",
+          "value": 307.1
+        },
+        {
+          "period": "1978-Q1",
+          "value": 310.5
+        },
+        {
+          "period": "1978-Q2",
+          "value": 317.6
+        },
+        {
+          "period": "1978-Q3",
+          "value": 322.5
+        },
+        {
+          "period": "1978-Q4",
+          "value": 338.3
+        },
+        {
+          "period": "1979-Q1",
+          "value": 346.9
+        },
+        {
+          "period": "1979-Q2",
+          "value": 358.4
+        },
+        {
+          "period": "1979-Q3",
+          "value": 369.9
+        },
+        {
+          "period": "1979-Q4",
+          "value": 383.3
+        },
+        {
+          "period": "1980-Q1",
+          "value": 395.7
+        }
+      ]
+    },
+    {
+      "label": "Transportation",
+      "observations": [
+        {
+          "period": "1973-Q1",
+          "value": 149.3
+        },
+        {
+          "period": "1973-Q2",
+          "value": 162.5
+        },
+        {
+          "period": "1973-Q3",
+          "value": 163.3
+        },
+        {
+          "period": "1973-Q4",
+          "value": 168.8
+        },
+        {
+          "period": "1974-Q1",
+          "value": 180.7
+        },
+        {
+          "period": "1974-Q2",
+          "value": 186.1
+        },
+        {
+          "period": "1974-Q3",
+          "value": 190.9
+        },
+        {
+          "period": "1974-Q4",
+          "value": 204
+        },
+        {
+          "period": "1975-Q1",
+          "value": 205.1
+        },
+        {
+          "period": "1975-Q2",
+          "value": 208.5
+        },
+        {
+          "period": "1975-Q3",
+          "value": 244.8
+        },
+        {
+          "period": "1975-Q4",
+          "value": 245.1
+        },
+        {
+          "period": "1976-Q1",
+          "value": 245.4
+        },
+        {
+          "period": "1976-Q2",
+          "value": 266.2
+        },
+        {
+          "period": "1976-Q3",
+          "value": 237.6
+        },
+        {
+          "period": "1976-Q4",
+          "value": 218.5
+        },
+        {
+          "period": "1977-Q1",
+          "value": 218.7
+        },
+        {
+          "period": "1977-Q2",
+          "value": 226.2
+        },
+        {
+          "period": "1977-Q3",
+          "value": 247.5
+        },
+        {
+          "period": "1977-Q4",
+          "value": 256.5
+        },
+        {
+          "period": "1978-Q1",
+          "value": 257.4
+        },
+        {
+          "period": "1978-Q2",
+          "value": 272.4
+        },
+        {
+          "period": "1978-Q3",
+          "value": 277.9
+        },
+        {
+          "period": "1978-Q4",
+          "value": 280.6
+        },
+        {
+          "period": "1979-Q1",
+          "value": 283.8
+        },
+        {
+          "period": "1979-Q2",
+          "value": 293.9
+        },
+        {
+          "period": "1979-Q3",
+          "value": 318.6
+        },
+        {
+          "period": "1979-Q4",
+          "value": 346.5
+        },
+        {
+          "period": "1980-Q1",
+          "value": 350.1
+        }
+      ]
+    },
+    {
+      "label": "Education, Recreation and Miscellaneous",
+      "observations": [
+        {
+          "period": "1973-Q1",
+          "value": 175.5
+        },
+        {
+          "period": "1973-Q2",
+          "value": 179.7
+        },
+        {
+          "period": "1973-Q3",
+          "value": 191
+        },
+        {
+          "period": "1973-Q4",
+          "value": 191.6
+        },
+        {
+          "period": "1974-Q1",
+          "value": 197.7
+        },
+        {
+          "period": "1974-Q2",
+          "value": 217.2
+        },
+        {
+          "period": "1974-Q3",
+          "value": 232.5
+        },
+        {
+          "period": "1974-Q4",
+          "value": 249.8
+        },
+        {
+          "period": "1975-Q1",
+          "value": 252.4
+        },
+        {
+          "period": "1975-Q2",
+          "value": 256.5
+        },
+        {
+          "period": "1975-Q3",
+          "value": 262.4
+        },
+        {
+          "period": "1975-Q4",
+          "value": 272
+        },
+        {
+          "period": "1976-Q1",
+          "value": 279.4
+        },
+        {
+          "period": "1976-Q2",
+          "value": 286.7
+        },
+        {
+          "period": "1976-Q3",
+          "value": 290.9
+        },
+        {
+          "period": "1976-Q4",
+          "value": 293.3
+        },
+        {
+          "period": "1977-Q1",
+          "value": 303
+        },
+        {
+          "period": "1977-Q2",
+          "value": 327.7
+        },
+        {
+          "period": "1977-Q3",
+          "value": 335
+        },
+        {
+          "period": "1977-Q4",
+          "value": 344.4
+        },
+        {
+          "period": "1978-Q1",
+          "value": 348.2
+        },
+        {
+          "period": "1978-Q2",
+          "value": 348.7
+        },
+        {
+          "period": "1978-Q3",
+          "value": 354.7
+        },
+        {
+          "period": "1978-Q4",
+          "value": 363
+        },
+        {
+          "period": "1979-Q1",
+          "value": 367.2
+        },
+        {
+          "period": "1979-Q2",
+          "value": 374.2
+        },
+        {
+          "period": "1979-Q3",
+          "value": 377.6
+        },
+        {
+          "period": "1979-Q4",
+          "value": 380.3
+        },
+        {
+          "period": "1980-Q1",
+          "value": 401.1
+        }
+      ]
+    },
+    {
+      "label": "All Items",
+      "observations": [
+        {
+          "period": "1973-Q1",
+          "value": 166.6
+        },
+        {
+          "period": "1973-Q2",
+          "value": 182.4
+        },
+        {
+          "period": "1973-Q3",
+          "value": 187.1
+        },
+        {
+          "period": "1973-Q4",
+          "value": 204.6
+        },
+        {
+          "period": "1974-Q1",
+          "value": 229.1
+        },
+        {
+          "period": "1974-Q2",
+          "value": 254.3
+        },
+        {
+          "period": "1974-Q3",
+          "value": 266.8
+        },
+        {
+          "period": "1974-Q4",
+          "value": 279.6
+        },
+        {
+          "period": "1975-Q1",
+          "value": 292.9
+        },
+        {
+          "period": "1975-Q2",
+          "value": 297.9
+        },
+        {
+          "period": "1975-Q3",
+          "value": 316.1
+        },
+        {
+          "period": "1975-Q4",
+          "value": 314
+        },
+        {
+          "period": "1976-Q1",
+          "value": 315
+        },
+        {
+          "period": "1976-Q2",
+          "value": 312.1
+        },
+        {
+          "period": "1976-Q3",
+          "value": 319.9
+        },
+        {
+          "period": "1976-Q4",
+          "value": 322.5
+        },
+        {
+          "period": "1977-Q1",
+          "value": 326.6
+        },
+        {
+          "period": "1977-Q2",
+          "value": 339.9
+        },
+        {
+          "period": "1977-Q3",
+          "value": 356
+        },
+        {
+          "period": "1977-Q4",
+          "value": 352.8
+        },
+        {
+          "period": "1978-Q1",
+          "value": 360.5
+        },
+        {
+          "period": "1978-Q2",
+          "value": 373
+        },
+        {
+          "period": "1978-Q3",
+          "value": 380.9
+        },
+        {
+          "period": "1978-Q4",
+          "value": 391.6
+        },
+        {
+          "period": "1979-Q1",
+          "value": 403.3
+        },
+        {
+          "period": "1979-Q2",
+          "value": 408.3
+        },
+        {
+          "period": "1979-Q3",
+          "value": 434.6
+        },
+        {
+          "period": "1979-Q4",
+          "value": 458.1
+        },
+        {
+          "period": "1980-Q1",
+          "value": 481.3
+        }
+      ]
+    }
+  ]
+}

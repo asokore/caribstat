@@ -1,0 +1,2493 @@
+{
+  "source": "Eastern Caribbean Central Bank",
+  "source_id": "eccb",
+  "source_url": "https://www.eccb-centralbank.org/statistics-category/external-sector/selected-tourism-statistics",
+  "table_id": "selected-tourism-statistics",
+  "table_title": "Selected Tourism Statistics",
+  "country": {
+    "iso3": "LCA",
+    "name": "Saint Lucia"
+  },
+  "frequency": "m",
+  "data_as_at": "2026-07-28",
+  "data_as_at_raw": "28 July 2026",
+  "retrieved_at": "2026-08-13T21:54:51.143Z",
+  "periods": [
+    "2023-01",
+    "2023-02",
+    "2023-03",
+    "2023-04",
+    "2023-05",
+    "2023-06",
+    "2023-07",
+    "2023-08",
+    "2023-09",
+    "2023-10",
+    "2023-11",
+    "2023-12",
+    "2024-01",
+    "2024-02",
+    "2024-03",
+    "2024-04",
+    "2024-05",
+    "2024-06",
+    "2024-07",
+    "2024-08",
+    "2024-09",
+    "2024-10",
+    "2024-11",
+    "2024-12",
+    "2025-01",
+    "2025-02",
+    "2025-03",
+    "2025-04",
+    "2025-05",
+    "2025-06",
+    "2025-07",
+    "2025-08",
+    "2025-09",
+    "2025-10",
+    "2025-11",
+    "2025-12",
+    "2026-01",
+    "2026-02",
+    "2026-03",
+    "2026-04",
+    "2026-05",
+    "2026-06",
+    "2026-07",
+    "2026-08",
+    "2026-09",
+    "2026-10",
+    "2026-11",
+    "2026-12"
+  ],
+  "periods_raw": [
+    "Jan 2023",
+    "Feb 2023",
+    "Mar 2023",
+    "Apr 2023",
+    "May 2023",
+    "Jun 2023",
+    "Jul 2023",
+    "Aug 2023",
+    "Sep 2023",
+    "Oct 2023",
+    "Nov 2023",
+    "Dec 2023",
+    "Jan 2024",
+    "Feb 2024",
+    "Mar 2024",
+    "Apr 2024",
+    "May 2024",
+    "Jun 2024",
+    "Jul 2024",
+    "Aug 2024",
+    "Sep 2024",
+    "Oct 2024",
+    "Nov 2024",
+    "Dec 2024",
+    "Jan 2025",
+    "Feb 2025",
+    "Mar 2025",
+    "Apr 2025",
+    "May 2025",
+    "Jun 2025",
+    "Jul 2025",
+    "Aug 2025",
+    "Sep 2025",
+    "Oct 2025",
+    "Nov 2025",
+    "Dec 2025",
+    "Jan 2026",
+    "Feb 2026",
+    "Mar 2026",
+    "Apr 2026",
+    "May 2026",
+    "Jun 2026",
+    "Jul 2026",
+    "Aug 2026",
+    "Sep 2026",
+    "Oct 2026",
+    "Nov 2026",
+    "Dec 2026"
+  ],
+  "series": [
+    {
+      "label": "Total Visitor Arrivals",
+      "unit": "No.",
+      "observations": [
+        {
+          "period": "2023-01",
+          "value": 155118
+        },
+        {
+          "period": "2023-02",
+          "value": 155348
+        },
+        {
+          "period": "2023-03",
+          "value": 174523
+        },
+        {
+          "period": "2023-04",
+          "value": 104732
+        },
+        {
+          "period": "2023-05",
+          "value": 47234
+        },
+        {
+          "period": "2023-06",
+          "value": 29542
+        },
+        {
+          "period": "2023-07",
+          "value": 35462
+        },
+        {
+          "period": "2023-08",
+          "value": 31008
+        },
+        {
+          "period": "2023-09",
+          "value": 23335
+        },
+        {
+          "period": "2023-10",
+          "value": 32910
+        },
+        {
+          "period": "2023-11",
+          "value": 103591
+        },
+        {
+          "period": "2023-12",
+          "value": 154490
+        },
+        {
+          "period": "2024-01",
+          "value": 166572
+        },
+        {
+          "period": "2024-02",
+          "value": 176995
+        },
+        {
+          "period": "2024-03",
+          "value": 184515
+        },
+        {
+          "period": "2024-04",
+          "value": 82361
+        },
+        {
+          "period": "2024-05",
+          "value": 56125
+        },
+        {
+          "period": "2024-06",
+          "value": 52051
+        },
+        {
+          "period": "2024-07",
+          "value": 54938
+        },
+        {
+          "period": "2024-08",
+          "value": 48982
+        },
+        {
+          "period": "2024-09",
+          "value": 28976
+        },
+        {
+          "period": "2024-10",
+          "value": 55914
+        },
+        {
+          "period": "2024-11",
+          "value": 124490
+        },
+        {
+          "period": "2024-12",
+          "value": 183154
+        },
+        {
+          "period": "2025-01",
+          "value": 178724
+        },
+        {
+          "period": "2025-02",
+          "value": 143533
+        },
+        {
+          "period": "2025-03",
+          "value": 152884
+        },
+        {
+          "period": "2025-04",
+          "value": 81360
+        },
+        {
+          "period": "2025-05",
+          "value": 44660
+        },
+        {
+          "period": "2025-06",
+          "value": 38654
+        },
+        {
+          "period": "2025-07",
+          "value": 46874
+        },
+        {
+          "period": "2025-08",
+          "value": 42602
+        },
+        {
+          "period": "2025-09",
+          "value": 38677
+        },
+        {
+          "period": "2025-10",
+          "value": 54533
+        },
+        {
+          "period": "2025-11",
+          "value": 137987
+        },
+        {
+          "period": "2025-12",
+          "value": 185982
+        },
+        {
+          "period": "2026-01",
+          "value": 193703
+        },
+        {
+          "period": "2026-02",
+          "value": 164474
+        },
+        {
+          "period": "2026-03",
+          "value": 141652
+        },
+        {
+          "period": "2026-04",
+          "value": null
+        },
+        {
+          "period": "2026-05",
+          "value": null
+        },
+        {
+          "period": "2026-06",
+          "value": null
+        },
+        {
+          "period": "2026-07",
+          "value": null
+        },
+        {
+          "period": "2026-08",
+          "value": null
+        },
+        {
+          "period": "2026-09",
+          "value": null
+        },
+        {
+          "period": "2026-10",
+          "value": null
+        },
+        {
+          "period": "2026-11",
+          "value": null
+        },
+        {
+          "period": "2026-12",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Stay-Over Arrivals",
+      "unit": "No.",
+      "observations": [
+        {
+          "period": "2023-01",
+          "value": 34066
+        },
+        {
+          "period": "2023-02",
+          "value": 34638
+        },
+        {
+          "period": "2023-03",
+          "value": 39318
+        },
+        {
+          "period": "2023-04",
+          "value": 34539
+        },
+        {
+          "period": "2023-05",
+          "value": 33339
+        },
+        {
+          "period": "2023-06",
+          "value": 27028
+        },
+        {
+          "period": "2023-07",
+          "value": 31496
+        },
+        {
+          "period": "2023-08",
+          "value": 27366
+        },
+        {
+          "period": "2023-09",
+          "value": 21142
+        },
+        {
+          "period": "2023-10",
+          "value": 26475
+        },
+        {
+          "period": "2023-11",
+          "value": 32887
+        },
+        {
+          "period": "2023-12",
+          "value": 38497
+        },
+        {
+          "period": "2024-01",
+          "value": 36863
+        },
+        {
+          "period": "2024-02",
+          "value": 38837
+        },
+        {
+          "period": "2024-03",
+          "value": 44561
+        },
+        {
+          "period": "2024-04",
+          "value": 37588
+        },
+        {
+          "period": "2024-05",
+          "value": 36375
+        },
+        {
+          "period": "2024-06",
+          "value": 38394
+        },
+        {
+          "period": "2024-07",
+          "value": 41476
+        },
+        {
+          "period": "2024-08",
+          "value": 34895
+        },
+        {
+          "period": "2024-09",
+          "value": 20273
+        },
+        {
+          "period": "2024-10",
+          "value": 30408
+        },
+        {
+          "period": "2024-11",
+          "value": 33883
+        },
+        {
+          "period": "2024-12",
+          "value": 42106
+        },
+        {
+          "period": "2025-01",
+          "value": 36196
+        },
+        {
+          "period": "2025-02",
+          "value": 38062
+        },
+        {
+          "period": "2025-03",
+          "value": 41601
+        },
+        {
+          "period": "2025-04",
+          "value": 37546
+        },
+        {
+          "period": "2025-05",
+          "value": 35413
+        },
+        {
+          "period": "2025-06",
+          "value": 33646
+        },
+        {
+          "period": "2025-07",
+          "value": 40930
+        },
+        {
+          "period": "2025-08",
+          "value": 35596
+        },
+        {
+          "period": "2025-09",
+          "value": 19698
+        },
+        {
+          "period": "2025-10",
+          "value": 30217
+        },
+        {
+          "period": "2025-11",
+          "value": 36255
+        },
+        {
+          "period": "2025-12",
+          "value": 41516
+        },
+        {
+          "period": "2026-01",
+          "value": 37651
+        },
+        {
+          "period": "2026-02",
+          "value": 38576
+        },
+        {
+          "period": "2026-03",
+          "value": 42105
+        },
+        {
+          "period": "2026-04",
+          "value": null
+        },
+        {
+          "period": "2026-05",
+          "value": null
+        },
+        {
+          "period": "2026-06",
+          "value": null
+        },
+        {
+          "period": "2026-07",
+          "value": null
+        },
+        {
+          "period": "2026-08",
+          "value": null
+        },
+        {
+          "period": "2026-09",
+          "value": null
+        },
+        {
+          "period": "2026-10",
+          "value": null
+        },
+        {
+          "period": "2026-11",
+          "value": null
+        },
+        {
+          "period": "2026-12",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "USA",
+      "unit": "No.",
+      "observations": [
+        {
+          "period": "2023-01",
+          "value": 18194
+        },
+        {
+          "period": "2023-02",
+          "value": 18944
+        },
+        {
+          "period": "2023-03",
+          "value": 21968
+        },
+        {
+          "period": "2023-04",
+          "value": 19173
+        },
+        {
+          "period": "2023-05",
+          "value": 18596
+        },
+        {
+          "period": "2023-06",
+          "value": 17190
+        },
+        {
+          "period": "2023-07",
+          "value": 16921
+        },
+        {
+          "period": "2023-08",
+          "value": 13130
+        },
+        {
+          "period": "2023-09",
+          "value": 11496
+        },
+        {
+          "period": "2023-10",
+          "value": 13378
+        },
+        {
+          "period": "2023-11",
+          "value": 17234
+        },
+        {
+          "period": "2023-12",
+          "value": 19479
+        },
+        {
+          "period": "2024-01",
+          "value": 19318
+        },
+        {
+          "period": "2024-02",
+          "value": 20707
+        },
+        {
+          "period": "2024-03",
+          "value": 25028
+        },
+        {
+          "period": "2024-04",
+          "value": 20028
+        },
+        {
+          "period": "2024-05",
+          "value": 21143
+        },
+        {
+          "period": "2024-06",
+          "value": 26698
+        },
+        {
+          "period": "2024-07",
+          "value": 25682
+        },
+        {
+          "period": "2024-08",
+          "value": 18888
+        },
+        {
+          "period": "2024-09",
+          "value": 11728
+        },
+        {
+          "period": "2024-10",
+          "value": 16743
+        },
+        {
+          "period": "2024-11",
+          "value": 18809
+        },
+        {
+          "period": "2024-12",
+          "value": 22419
+        },
+        {
+          "period": "2025-01",
+          "value": 20452
+        },
+        {
+          "period": "2025-02",
+          "value": 21197
+        },
+        {
+          "period": "2025-03",
+          "value": 25528
+        },
+        {
+          "period": "2025-04",
+          "value": 22193
+        },
+        {
+          "period": "2025-05",
+          "value": 21428
+        },
+        {
+          "period": "2025-06",
+          "value": 24277
+        },
+        {
+          "period": "2025-07",
+          "value": 25187
+        },
+        {
+          "period": "2025-08",
+          "value": 20988
+        },
+        {
+          "period": "2025-09",
+          "value": 12315
+        },
+        {
+          "period": "2025-10",
+          "value": 17894
+        },
+        {
+          "period": "2025-11",
+          "value": 22126
+        },
+        {
+          "period": "2025-12",
+          "value": 24571
+        },
+        {
+          "period": "2026-01",
+          "value": 22699
+        },
+        {
+          "period": "2026-02",
+          "value": 22681
+        },
+        {
+          "period": "2026-03",
+          "value": 26289
+        },
+        {
+          "period": "2026-04",
+          "value": null
+        },
+        {
+          "period": "2026-05",
+          "value": null
+        },
+        {
+          "period": "2026-06",
+          "value": null
+        },
+        {
+          "period": "2026-07",
+          "value": null
+        },
+        {
+          "period": "2026-08",
+          "value": null
+        },
+        {
+          "period": "2026-09",
+          "value": null
+        },
+        {
+          "period": "2026-10",
+          "value": null
+        },
+        {
+          "period": "2026-11",
+          "value": null
+        },
+        {
+          "period": "2026-12",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Canada",
+      "unit": "No.",
+      "observations": [
+        {
+          "period": "2023-01",
+          "value": 4691
+        },
+        {
+          "period": "2023-02",
+          "value": 4221
+        },
+        {
+          "period": "2023-03",
+          "value": 5015
+        },
+        {
+          "period": "2023-04",
+          "value": 3574
+        },
+        {
+          "period": "2023-05",
+          "value": 1653
+        },
+        {
+          "period": "2023-06",
+          "value": 1557
+        },
+        {
+          "period": "2023-07",
+          "value": 1652
+        },
+        {
+          "period": "2023-08",
+          "value": 1613
+        },
+        {
+          "period": "2023-09",
+          "value": 1401
+        },
+        {
+          "period": "2023-10",
+          "value": 2213
+        },
+        {
+          "period": "2023-11",
+          "value": 3751
+        },
+        {
+          "period": "2023-12",
+          "value": 4834
+        },
+        {
+          "period": "2024-01",
+          "value": 5101
+        },
+        {
+          "period": "2024-02",
+          "value": 4532
+        },
+        {
+          "period": "2024-03",
+          "value": 5360
+        },
+        {
+          "period": "2024-04",
+          "value": 3409
+        },
+        {
+          "period": "2024-05",
+          "value": 1829
+        },
+        {
+          "period": "2024-06",
+          "value": 1658
+        },
+        {
+          "period": "2024-07",
+          "value": 1896
+        },
+        {
+          "period": "2024-08",
+          "value": 1856
+        },
+        {
+          "period": "2024-09",
+          "value": 873
+        },
+        {
+          "period": "2024-10",
+          "value": 1640
+        },
+        {
+          "period": "2024-11",
+          "value": 3216
+        },
+        {
+          "period": "2024-12",
+          "value": 4339
+        },
+        {
+          "period": "2025-01",
+          "value": 4058
+        },
+        {
+          "period": "2025-02",
+          "value": 4184
+        },
+        {
+          "period": "2025-03",
+          "value": 4044
+        },
+        {
+          "period": "2025-04",
+          "value": 2628
+        },
+        {
+          "period": "2025-05",
+          "value": 1677
+        },
+        {
+          "period": "2025-06",
+          "value": 1297
+        },
+        {
+          "period": "2025-07",
+          "value": 1982
+        },
+        {
+          "period": "2025-08",
+          "value": 1735
+        },
+        {
+          "period": "2025-09",
+          "value": 1109
+        },
+        {
+          "period": "2025-10",
+          "value": 1768
+        },
+        {
+          "period": "2025-11",
+          "value": 3622
+        },
+        {
+          "period": "2025-12",
+          "value": 4251
+        },
+        {
+          "period": "2026-01",
+          "value": 4401
+        },
+        {
+          "period": "2026-02",
+          "value": 4983
+        },
+        {
+          "period": "2026-03",
+          "value": 4851
+        },
+        {
+          "period": "2026-04",
+          "value": null
+        },
+        {
+          "period": "2026-05",
+          "value": null
+        },
+        {
+          "period": "2026-06",
+          "value": null
+        },
+        {
+          "period": "2026-07",
+          "value": null
+        },
+        {
+          "period": "2026-08",
+          "value": null
+        },
+        {
+          "period": "2026-09",
+          "value": null
+        },
+        {
+          "period": "2026-10",
+          "value": null
+        },
+        {
+          "period": "2026-11",
+          "value": null
+        },
+        {
+          "period": "2026-12",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "UK",
+      "unit": "No.",
+      "observations": [
+        {
+          "period": "2023-01",
+          "value": 8075
+        },
+        {
+          "period": "2023-02",
+          "value": 7928
+        },
+        {
+          "period": "2023-03",
+          "value": 8402
+        },
+        {
+          "period": "2023-04",
+          "value": 5820
+        },
+        {
+          "period": "2023-05",
+          "value": 6799
+        },
+        {
+          "period": "2023-06",
+          "value": 4485
+        },
+        {
+          "period": "2023-07",
+          "value": 4806
+        },
+        {
+          "period": "2023-08",
+          "value": 5190
+        },
+        {
+          "period": "2023-09",
+          "value": 4284
+        },
+        {
+          "period": "2023-10",
+          "value": 6308
+        },
+        {
+          "period": "2023-11",
+          "value": 6452
+        },
+        {
+          "period": "2023-12",
+          "value": 7461
+        },
+        {
+          "period": "2024-01",
+          "value": 8000
+        },
+        {
+          "period": "2024-02",
+          "value": 8087
+        },
+        {
+          "period": "2024-03",
+          "value": 8745
+        },
+        {
+          "period": "2024-04",
+          "value": 8232
+        },
+        {
+          "period": "2024-05",
+          "value": 6123
+        },
+        {
+          "period": "2024-06",
+          "value": 4516
+        },
+        {
+          "period": "2024-07",
+          "value": 5615
+        },
+        {
+          "period": "2024-08",
+          "value": 4933
+        },
+        {
+          "period": "2024-09",
+          "value": 3456
+        },
+        {
+          "period": "2024-10",
+          "value": 6251
+        },
+        {
+          "period": "2024-11",
+          "value": 6965
+        },
+        {
+          "period": "2024-12",
+          "value": 8271
+        },
+        {
+          "period": "2025-01",
+          "value": 7230
+        },
+        {
+          "period": "2025-02",
+          "value": 7699
+        },
+        {
+          "period": "2025-03",
+          "value": 6999
+        },
+        {
+          "period": "2025-04",
+          "value": 6140
+        },
+        {
+          "period": "2025-05",
+          "value": 5336
+        },
+        {
+          "period": "2025-06",
+          "value": 3121
+        },
+        {
+          "period": "2025-07",
+          "value": 4398
+        },
+        {
+          "period": "2025-08",
+          "value": 3654
+        },
+        {
+          "period": "2025-09",
+          "value": 2648
+        },
+        {
+          "period": "2025-10",
+          "value": 5084
+        },
+        {
+          "period": "2025-11",
+          "value": 5568
+        },
+        {
+          "period": "2025-12",
+          "value": 5848
+        },
+        {
+          "period": "2026-01",
+          "value": 5803
+        },
+        {
+          "period": "2026-02",
+          "value": 5645
+        },
+        {
+          "period": "2026-03",
+          "value": 5923
+        },
+        {
+          "period": "2026-04",
+          "value": null
+        },
+        {
+          "period": "2026-05",
+          "value": null
+        },
+        {
+          "period": "2026-06",
+          "value": null
+        },
+        {
+          "period": "2026-07",
+          "value": null
+        },
+        {
+          "period": "2026-08",
+          "value": null
+        },
+        {
+          "period": "2026-09",
+          "value": null
+        },
+        {
+          "period": "2026-10",
+          "value": null
+        },
+        {
+          "period": "2026-11",
+          "value": null
+        },
+        {
+          "period": "2026-12",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Caribbean",
+      "unit": "No.",
+      "observations": [
+        {
+          "period": "2023-01",
+          "value": 1407
+        },
+        {
+          "period": "2023-02",
+          "value": 2110
+        },
+        {
+          "period": "2023-03",
+          "value": 2295
+        },
+        {
+          "period": "2023-04",
+          "value": 4467
+        },
+        {
+          "period": "2023-05",
+          "value": 5015
+        },
+        {
+          "period": "2023-06",
+          "value": 2892
+        },
+        {
+          "period": "2023-07",
+          "value": 6465
+        },
+        {
+          "period": "2023-08",
+          "value": 5996
+        },
+        {
+          "period": "2023-09",
+          "value": 3141
+        },
+        {
+          "period": "2023-10",
+          "value": 3554
+        },
+        {
+          "period": "2023-11",
+          "value": 3950
+        },
+        {
+          "period": "2023-12",
+          "value": 4770
+        },
+        {
+          "period": "2024-01",
+          "value": 2310
+        },
+        {
+          "period": "2024-02",
+          "value": 3628
+        },
+        {
+          "period": "2024-03",
+          "value": 3558
+        },
+        {
+          "period": "2024-04",
+          "value": 4207
+        },
+        {
+          "period": "2024-05",
+          "value": 5754
+        },
+        {
+          "period": "2024-06",
+          "value": 3582
+        },
+        {
+          "period": "2024-07",
+          "value": 6717
+        },
+        {
+          "period": "2024-08",
+          "value": 7752
+        },
+        {
+          "period": "2024-09",
+          "value": 3430
+        },
+        {
+          "period": "2024-10",
+          "value": 4613
+        },
+        {
+          "period": "2024-11",
+          "value": 3479
+        },
+        {
+          "period": "2024-12",
+          "value": 5065
+        },
+        {
+          "period": "2025-01",
+          "value": 2360
+        },
+        {
+          "period": "2025-02",
+          "value": 2911
+        },
+        {
+          "period": "2025-03",
+          "value": 3168
+        },
+        {
+          "period": "2025-04",
+          "value": 4940
+        },
+        {
+          "period": "2025-05",
+          "value": 5673
+        },
+        {
+          "period": "2025-06",
+          "value": 3831
+        },
+        {
+          "period": "2025-07",
+          "value": 7711
+        },
+        {
+          "period": "2025-08",
+          "value": 7792
+        },
+        {
+          "period": "2025-09",
+          "value": 2926
+        },
+        {
+          "period": "2025-10",
+          "value": 4433
+        },
+        {
+          "period": "2025-11",
+          "value": 3549
+        },
+        {
+          "period": "2025-12",
+          "value": 4757
+        },
+        {
+          "period": "2026-01",
+          "value": 2332
+        },
+        {
+          "period": "2026-02",
+          "value": 3384
+        },
+        {
+          "period": "2026-03",
+          "value": 3049
+        },
+        {
+          "period": "2026-04",
+          "value": null
+        },
+        {
+          "period": "2026-05",
+          "value": null
+        },
+        {
+          "period": "2026-06",
+          "value": null
+        },
+        {
+          "period": "2026-07",
+          "value": null
+        },
+        {
+          "period": "2026-08",
+          "value": null
+        },
+        {
+          "period": "2026-09",
+          "value": null
+        },
+        {
+          "period": "2026-10",
+          "value": null
+        },
+        {
+          "period": "2026-11",
+          "value": null
+        },
+        {
+          "period": "2026-12",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Other Countries",
+      "unit": "No.",
+      "observations": [
+        {
+          "period": "2023-01",
+          "value": 1699
+        },
+        {
+          "period": "2023-02",
+          "value": 1435
+        },
+        {
+          "period": "2023-03",
+          "value": 1638
+        },
+        {
+          "period": "2023-04",
+          "value": 1505
+        },
+        {
+          "period": "2023-05",
+          "value": 1276
+        },
+        {
+          "period": "2023-06",
+          "value": 904
+        },
+        {
+          "period": "2023-07",
+          "value": 1652
+        },
+        {
+          "period": "2023-08",
+          "value": 1437
+        },
+        {
+          "period": "2023-09",
+          "value": 820
+        },
+        {
+          "period": "2023-10",
+          "value": 1022
+        },
+        {
+          "period": "2023-11",
+          "value": 1500
+        },
+        {
+          "period": "2023-12",
+          "value": 1953
+        },
+        {
+          "period": "2024-01",
+          "value": 2134
+        },
+        {
+          "period": "2024-02",
+          "value": 1883
+        },
+        {
+          "period": "2024-03",
+          "value": 1870
+        },
+        {
+          "period": "2024-04",
+          "value": 1712
+        },
+        {
+          "period": "2024-05",
+          "value": 1526
+        },
+        {
+          "period": "2024-06",
+          "value": 1940
+        },
+        {
+          "period": "2024-07",
+          "value": 1566
+        },
+        {
+          "period": "2024-08",
+          "value": 1466
+        },
+        {
+          "period": "2024-09",
+          "value": 786
+        },
+        {
+          "period": "2024-10",
+          "value": 1161
+        },
+        {
+          "period": "2024-11",
+          "value": 1414
+        },
+        {
+          "period": "2024-12",
+          "value": 2012
+        },
+        {
+          "period": "2025-01",
+          "value": 2096
+        },
+        {
+          "period": "2025-02",
+          "value": 2071
+        },
+        {
+          "period": "2025-03",
+          "value": 1862
+        },
+        {
+          "period": "2025-04",
+          "value": 1645
+        },
+        {
+          "period": "2025-05",
+          "value": 1299
+        },
+        {
+          "period": "2025-06",
+          "value": 1120
+        },
+        {
+          "period": "2025-07",
+          "value": 1652
+        },
+        {
+          "period": "2025-08",
+          "value": 1427
+        },
+        {
+          "period": "2025-09",
+          "value": 700
+        },
+        {
+          "period": "2025-10",
+          "value": 1038
+        },
+        {
+          "period": "2025-11",
+          "value": 1390
+        },
+        {
+          "period": "2025-12",
+          "value": 2089
+        },
+        {
+          "period": "2026-01",
+          "value": 2416
+        },
+        {
+          "period": "2026-02",
+          "value": 1883
+        },
+        {
+          "period": "2026-03",
+          "value": 1993
+        },
+        {
+          "period": "2026-04",
+          "value": null
+        },
+        {
+          "period": "2026-05",
+          "value": null
+        },
+        {
+          "period": "2026-06",
+          "value": null
+        },
+        {
+          "period": "2026-07",
+          "value": null
+        },
+        {
+          "period": "2026-08",
+          "value": null
+        },
+        {
+          "period": "2026-09",
+          "value": null
+        },
+        {
+          "period": "2026-10",
+          "value": null
+        },
+        {
+          "period": "2026-11",
+          "value": null
+        },
+        {
+          "period": "2026-12",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Excursionists",
+      "unit": "No.",
+      "observations": [
+        {
+          "period": "2023-01",
+          "value": 546
+        },
+        {
+          "period": "2023-02",
+          "value": 558
+        },
+        {
+          "period": "2023-03",
+          "value": 979
+        },
+        {
+          "period": "2023-04",
+          "value": 1029
+        },
+        {
+          "period": "2023-05",
+          "value": 733
+        },
+        {
+          "period": "2023-06",
+          "value": 786
+        },
+        {
+          "period": "2023-07",
+          "value": 1284
+        },
+        {
+          "period": "2023-08",
+          "value": 1296
+        },
+        {
+          "period": "2023-09",
+          "value": 718
+        },
+        {
+          "period": "2023-10",
+          "value": 849
+        },
+        {
+          "period": "2023-11",
+          "value": 1088
+        },
+        {
+          "period": "2023-12",
+          "value": 1361
+        },
+        {
+          "period": "2024-01",
+          "value": 1003
+        },
+        {
+          "period": "2024-02",
+          "value": 1275
+        },
+        {
+          "period": "2024-03",
+          "value": 1611
+        },
+        {
+          "period": "2024-04",
+          "value": 1341
+        },
+        {
+          "period": "2024-05",
+          "value": 826
+        },
+        {
+          "period": "2024-06",
+          "value": 893
+        },
+        {
+          "period": "2024-07",
+          "value": 1045
+        },
+        {
+          "period": "2024-08",
+          "value": 1358
+        },
+        {
+          "period": "2024-09",
+          "value": 448
+        },
+        {
+          "period": "2024-10",
+          "value": 780
+        },
+        {
+          "period": "2024-11",
+          "value": 1037
+        },
+        {
+          "period": "2024-12",
+          "value": 1322
+        },
+        {
+          "period": "2025-01",
+          "value": 1153
+        },
+        {
+          "period": "2025-02",
+          "value": 979
+        },
+        {
+          "period": "2025-03",
+          "value": 1435
+        },
+        {
+          "period": "2025-04",
+          "value": 922
+        },
+        {
+          "period": "2025-05",
+          "value": 691
+        },
+        {
+          "period": "2025-06",
+          "value": 545
+        },
+        {
+          "period": "2025-07",
+          "value": 970
+        },
+        {
+          "period": "2025-08",
+          "value": 1004
+        },
+        {
+          "period": "2025-09",
+          "value": 360
+        },
+        {
+          "period": "2025-10",
+          "value": 779
+        },
+        {
+          "period": "2025-11",
+          "value": 968
+        },
+        {
+          "period": "2025-12",
+          "value": 853
+        },
+        {
+          "period": "2026-01",
+          "value": 891
+        },
+        {
+          "period": "2026-02",
+          "value": 676
+        },
+        {
+          "period": "2026-03",
+          "value": 762
+        },
+        {
+          "period": "2026-04",
+          "value": null
+        },
+        {
+          "period": "2026-05",
+          "value": null
+        },
+        {
+          "period": "2026-06",
+          "value": null
+        },
+        {
+          "period": "2026-07",
+          "value": null
+        },
+        {
+          "period": "2026-08",
+          "value": null
+        },
+        {
+          "period": "2026-09",
+          "value": null
+        },
+        {
+          "period": "2026-10",
+          "value": null
+        },
+        {
+          "period": "2026-11",
+          "value": null
+        },
+        {
+          "period": "2026-12",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Yacht Passengers",
+      "unit": "No.",
+      "observations": [
+        {
+          "period": "2023-01",
+          "value": 5323
+        },
+        {
+          "period": "2023-02",
+          "value": 4706
+        },
+        {
+          "period": "2023-03",
+          "value": 4476
+        },
+        {
+          "period": "2023-04",
+          "value": 3617
+        },
+        {
+          "period": "2023-05",
+          "value": 4745
+        },
+        {
+          "period": "2023-06",
+          "value": 1728
+        },
+        {
+          "period": "2023-07",
+          "value": 2682
+        },
+        {
+          "period": "2023-08",
+          "value": 2346
+        },
+        {
+          "period": "2023-09",
+          "value": 1475
+        },
+        {
+          "period": "2023-10",
+          "value": 1693
+        },
+        {
+          "period": "2023-11",
+          "value": 2935
+        },
+        {
+          "period": "2023-12",
+          "value": 4569
+        },
+        {
+          "period": "2024-01",
+          "value": 5313
+        },
+        {
+          "period": "2024-02",
+          "value": 4627
+        },
+        {
+          "period": "2024-03",
+          "value": 5132
+        },
+        {
+          "period": "2024-04",
+          "value": 3453
+        },
+        {
+          "period": "2024-05",
+          "value": 3901
+        },
+        {
+          "period": "2024-06",
+          "value": 2032
+        },
+        {
+          "period": "2024-07",
+          "value": 1732
+        },
+        {
+          "period": "2024-08",
+          "value": 3559
+        },
+        {
+          "period": "2024-09",
+          "value": 1685
+        },
+        {
+          "period": "2024-10",
+          "value": 1919
+        },
+        {
+          "period": "2024-11",
+          "value": 5089
+        },
+        {
+          "period": "2024-12",
+          "value": 4533
+        },
+        {
+          "period": "2025-01",
+          "value": 5798
+        },
+        {
+          "period": "2025-02",
+          "value": 3540
+        },
+        {
+          "period": "2025-03",
+          "value": 4085
+        },
+        {
+          "period": "2025-04",
+          "value": 3436
+        },
+        {
+          "period": "2025-05",
+          "value": 4355
+        },
+        {
+          "period": "2025-06",
+          "value": 1569
+        },
+        {
+          "period": "2025-07",
+          "value": 1931
+        },
+        {
+          "period": "2025-08",
+          "value": 3712
+        },
+        {
+          "period": "2025-09",
+          "value": 860
+        },
+        {
+          "period": "2025-10",
+          "value": 2288
+        },
+        {
+          "period": "2025-11",
+          "value": 3846
+        },
+        {
+          "period": "2025-12",
+          "value": 5929
+        },
+        {
+          "period": "2026-01",
+          "value": 4929
+        },
+        {
+          "period": "2026-02",
+          "value": 5002
+        },
+        {
+          "period": "2026-03",
+          "value": 4524
+        },
+        {
+          "period": "2026-04",
+          "value": null
+        },
+        {
+          "period": "2026-05",
+          "value": null
+        },
+        {
+          "period": "2026-06",
+          "value": null
+        },
+        {
+          "period": "2026-07",
+          "value": null
+        },
+        {
+          "period": "2026-08",
+          "value": null
+        },
+        {
+          "period": "2026-09",
+          "value": null
+        },
+        {
+          "period": "2026-10",
+          "value": null
+        },
+        {
+          "period": "2026-11",
+          "value": null
+        },
+        {
+          "period": "2026-12",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Cruise Ship Passengers",
+      "unit": "No.",
+      "observations": [
+        {
+          "period": "2023-01",
+          "value": 115183
+        },
+        {
+          "period": "2023-02",
+          "value": 115446
+        },
+        {
+          "period": "2023-03",
+          "value": 129750
+        },
+        {
+          "period": "2023-04",
+          "value": 65547
+        },
+        {
+          "period": "2023-05",
+          "value": 8417
+        },
+        {
+          "period": "2023-06",
+          "value": 0
+        },
+        {
+          "period": "2023-07",
+          "value": 0
+        },
+        {
+          "period": "2023-08",
+          "value": 0
+        },
+        {
+          "period": "2023-09",
+          "value": 0
+        },
+        {
+          "period": "2023-10",
+          "value": 3893
+        },
+        {
+          "period": "2023-11",
+          "value": 66681
+        },
+        {
+          "period": "2023-12",
+          "value": 110063
+        },
+        {
+          "period": "2024-01",
+          "value": 123393
+        },
+        {
+          "period": "2024-02",
+          "value": 132256
+        },
+        {
+          "period": "2024-03",
+          "value": 133211
+        },
+        {
+          "period": "2024-04",
+          "value": 39979
+        },
+        {
+          "period": "2024-05",
+          "value": 15023
+        },
+        {
+          "period": "2024-06",
+          "value": 10732
+        },
+        {
+          "period": "2024-07",
+          "value": 10685
+        },
+        {
+          "period": "2024-08",
+          "value": 9170
+        },
+        {
+          "period": "2024-09",
+          "value": 6570
+        },
+        {
+          "period": "2024-10",
+          "value": 22807
+        },
+        {
+          "period": "2024-11",
+          "value": 84481
+        },
+        {
+          "period": "2024-12",
+          "value": 135193
+        },
+        {
+          "period": "2025-01",
+          "value": 135577
+        },
+        {
+          "period": "2025-02",
+          "value": 100952
+        },
+        {
+          "period": "2025-03",
+          "value": 105763
+        },
+        {
+          "period": "2025-04",
+          "value": 39456
+        },
+        {
+          "period": "2025-05",
+          "value": 4201
+        },
+        {
+          "period": "2025-06",
+          "value": 2894
+        },
+        {
+          "period": "2025-07",
+          "value": 3043
+        },
+        {
+          "period": "2025-08",
+          "value": 2290
+        },
+        {
+          "period": "2025-09",
+          "value": 17759
+        },
+        {
+          "period": "2025-10",
+          "value": 21249
+        },
+        {
+          "period": "2025-11",
+          "value": 96918
+        },
+        {
+          "period": "2025-12",
+          "value": 137684
+        },
+        {
+          "period": "2026-01",
+          "value": 150232
+        },
+        {
+          "period": "2026-02",
+          "value": 120220
+        },
+        {
+          "period": "2026-03",
+          "value": 94261
+        },
+        {
+          "period": "2026-04",
+          "value": null
+        },
+        {
+          "period": "2026-05",
+          "value": null
+        },
+        {
+          "period": "2026-06",
+          "value": null
+        },
+        {
+          "period": "2026-07",
+          "value": null
+        },
+        {
+          "period": "2026-08",
+          "value": null
+        },
+        {
+          "period": "2026-09",
+          "value": null
+        },
+        {
+          "period": "2026-10",
+          "value": null
+        },
+        {
+          "period": "2026-11",
+          "value": null
+        },
+        {
+          "period": "2026-12",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Number of Cruise Ship Calls",
+      "unit": "No.",
+      "observations": [
+        {
+          "period": "2023-01",
+          "value": 44
+        },
+        {
+          "period": "2023-02",
+          "value": 51
+        },
+        {
+          "period": "2023-03",
+          "value": 54
+        },
+        {
+          "period": "2023-04",
+          "value": 29
+        },
+        {
+          "period": "2023-05",
+          "value": 3
+        },
+        {
+          "period": "2023-06",
+          "value": 1
+        },
+        {
+          "period": "2023-07",
+          "value": 0
+        },
+        {
+          "period": "2023-08",
+          "value": 0
+        },
+        {
+          "period": "2023-09",
+          "value": 0
+        },
+        {
+          "period": "2023-10",
+          "value": 1
+        },
+        {
+          "period": "2023-11",
+          "value": 32
+        },
+        {
+          "period": "2023-12",
+          "value": 49
+        },
+        {
+          "period": "2024-01",
+          "value": 51
+        },
+        {
+          "period": "2024-02",
+          "value": 57
+        },
+        {
+          "period": "2024-03",
+          "value": 61
+        },
+        {
+          "period": "2024-04",
+          "value": 21
+        },
+        {
+          "period": "2024-05",
+          "value": 11
+        },
+        {
+          "period": "2024-06",
+          "value": 42
+        },
+        {
+          "period": "2024-07",
+          "value": 42
+        },
+        {
+          "period": "2024-08",
+          "value": 4
+        },
+        {
+          "period": "2024-09",
+          "value": 3
+        },
+        {
+          "period": "2024-10",
+          "value": 10
+        },
+        {
+          "period": "2024-11",
+          "value": 42
+        },
+        {
+          "period": "2024-12",
+          "value": 62
+        },
+        {
+          "period": "2025-01",
+          "value": 58
+        },
+        {
+          "period": "2025-02",
+          "value": 78
+        },
+        {
+          "period": "2025-03",
+          "value": 42
+        },
+        {
+          "period": "2025-04",
+          "value": 16
+        },
+        {
+          "period": "2025-05",
+          "value": 2
+        },
+        {
+          "period": "2025-06",
+          "value": 6
+        },
+        {
+          "period": "2025-07",
+          "value": 2
+        },
+        {
+          "period": "2025-08",
+          "value": 2
+        },
+        {
+          "period": "2025-09",
+          "value": 6
+        },
+        {
+          "period": "2025-10",
+          "value": 8
+        },
+        {
+          "period": "2025-11",
+          "value": 42
+        },
+        {
+          "period": "2025-12",
+          "value": 58
+        },
+        {
+          "period": "2026-01",
+          "value": 61
+        },
+        {
+          "period": "2026-02",
+          "value": 85
+        },
+        {
+          "period": "2026-03",
+          "value": 40
+        },
+        {
+          "period": "2026-04",
+          "value": null
+        },
+        {
+          "period": "2026-05",
+          "value": null
+        },
+        {
+          "period": "2026-06",
+          "value": null
+        },
+        {
+          "period": "2026-07",
+          "value": null
+        },
+        {
+          "period": "2026-08",
+          "value": null
+        },
+        {
+          "period": "2026-09",
+          "value": null
+        },
+        {
+          "period": "2026-10",
+          "value": null
+        },
+        {
+          "period": "2026-11",
+          "value": null
+        },
+        {
+          "period": "2026-12",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Total Visitor Expenditure (EC$M)",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2023-01",
+          "value": 271.58
+        },
+        {
+          "period": "2023-02",
+          "value": 272.86
+        },
+        {
+          "period": "2023-03",
+          "value": 310.49
+        },
+        {
+          "period": "2023-04",
+          "value": 273.35
+        },
+        {
+          "period": "2023-05",
+          "value": 261.82
+        },
+        {
+          "period": "2023-06",
+          "value": 216.11
+        },
+        {
+          "period": "2023-07",
+          "value": 229.96
+        },
+        {
+          "period": "2023-08",
+          "value": 199.74
+        },
+        {
+          "period": "2023-09",
+          "value": 156.49
+        },
+        {
+          "period": "2023-10",
+          "value": 264.79
+        },
+        {
+          "period": "2023-11",
+          "value": 331.24
+        },
+        {
+          "period": "2023-12",
+          "value": 394.34
+        },
+        {
+          "period": "2024-01",
+          "value": 313.68
+        },
+        {
+          "period": "2024-02",
+          "value": 326.45
+        },
+        {
+          "period": "2024-03",
+          "value": 374.06
+        },
+        {
+          "period": "2024-04",
+          "value": 284.29
+        },
+        {
+          "period": "2024-05",
+          "value": 268.1
+        },
+        {
+          "period": "2024-06",
+          "value": 292.22
+        },
+        {
+          "period": "2024-07",
+          "value": 346.44
+        },
+        {
+          "period": "2024-08",
+          "value": 288.52
+        },
+        {
+          "period": "2024-09",
+          "value": 171.31
+        },
+        {
+          "period": "2024-10",
+          "value": 270.34
+        },
+        {
+          "period": "2024-11",
+          "value": 310.39
+        },
+        {
+          "period": "2024-12",
+          "value": 389.65
+        },
+        {
+          "period": "2025-01",
+          "value": 294.88
+        },
+        {
+          "period": "2025-02",
+          "value": 304.45
+        },
+        {
+          "period": "2025-03",
+          "value": 329.47
+        },
+        {
+          "period": "2025-04",
+          "value": 303.34
+        },
+        {
+          "period": "2025-05",
+          "value": 281.12
+        },
+        {
+          "period": "2025-06",
+          "value": 269.9
+        },
+        {
+          "period": "2025-07",
+          "value": 295.31
+        },
+        {
+          "period": "2025-08",
+          "value": 252.95
+        },
+        {
+          "period": "2025-09",
+          "value": 147.12
+        },
+        {
+          "period": "2025-10",
+          "value": 252.33
+        },
+        {
+          "period": "2025-11",
+          "value": 313.27
+        },
+        {
+          "period": "2025-12",
+          "value": 360.16
+        },
+        {
+          "period": "2026-01",
+          "value": 277.28
+        },
+        {
+          "period": "2026-02",
+          "value": 281.13
+        },
+        {
+          "period": "2026-03",
+          "value": 308.97
+        },
+        {
+          "period": "2026-04",
+          "value": null
+        },
+        {
+          "period": "2026-05",
+          "value": null
+        },
+        {
+          "period": "2026-06",
+          "value": null
+        },
+        {
+          "period": "2026-07",
+          "value": null
+        },
+        {
+          "period": "2026-08",
+          "value": null
+        },
+        {
+          "period": "2026-09",
+          "value": null
+        },
+        {
+          "period": "2026-10",
+          "value": null
+        },
+        {
+          "period": "2026-11",
+          "value": null
+        },
+        {
+          "period": "2026-12",
+          "value": null
+        }
+      ]
+    }
+  ]
+}

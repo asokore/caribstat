@@ -1,0 +1,531 @@
+{
+  "source": "Eastern Caribbean Central Bank",
+  "source_id": "eccb",
+  "source_url": "https://www.eccb-centralbank.org/statistics-category/public-sector-debt/debt-to-gross-domestic-product",
+  "table_id": "debt-to-gdp",
+  "table_title": "Debt to Gross Domestic Product",
+  "country": {
+    "iso3": "AIA",
+    "name": "Anguilla"
+  },
+  "frequency": "a",
+  "data_as_at": "2026-06-08",
+  "data_as_at_raw": "08 June 2026",
+  "retrieved_at": "2026-08-13T21:49:20.996Z",
+  "periods": [
+    "2015",
+    "2016",
+    "2017",
+    "2018",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024",
+    "2025",
+    "2026"
+  ],
+  "periods_raw": [
+    "2015",
+    "2016",
+    "2017",
+    "2018",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024",
+    "2025",
+    "2026"
+  ],
+  "series": [
+    {
+      "label": "Central Government Debt to GDP",
+      "unit": "%",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 22.66
+        },
+        {
+          "period": "2016",
+          "value": 62.98
+        },
+        {
+          "period": "2017",
+          "value": 67.43
+        },
+        {
+          "period": "2018",
+          "value": 60.45
+        },
+        {
+          "period": "2019",
+          "value": 47.46
+        },
+        {
+          "period": "2020",
+          "value": 64.16
+        },
+        {
+          "period": "2021",
+          "value": 51.97
+        },
+        {
+          "period": "2022",
+          "value": 36.76
+        },
+        {
+          "period": "2023",
+          "value": 30.81
+        },
+        {
+          "period": "2024",
+          "value": 23.95
+        },
+        {
+          "period": "2025",
+          "value": 20.44
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Central Government External Debt",
+      "unit": "%",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 17.09
+        },
+        {
+          "period": "2016",
+          "value": 23.13
+        },
+        {
+          "period": "2017",
+          "value": 24.65
+        },
+        {
+          "period": "2018",
+          "value": 24.88
+        },
+        {
+          "period": "2019",
+          "value": 19.7
+        },
+        {
+          "period": "2020",
+          "value": 26.6
+        },
+        {
+          "period": "2021",
+          "value": 23.16
+        },
+        {
+          "period": "2022",
+          "value": 16.09
+        },
+        {
+          "period": "2023",
+          "value": 13.43
+        },
+        {
+          "period": "2024",
+          "value": 9.64
+        },
+        {
+          "period": "2025",
+          "value": 7.73
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Central Government Domestic Debt",
+      "unit": "%",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 5.57
+        },
+        {
+          "period": "2016",
+          "value": 39.85
+        },
+        {
+          "period": "2017",
+          "value": 42.78
+        },
+        {
+          "period": "2018",
+          "value": 35.57
+        },
+        {
+          "period": "2019",
+          "value": 27.76
+        },
+        {
+          "period": "2020",
+          "value": 37.57
+        },
+        {
+          "period": "2021",
+          "value": 28.81
+        },
+        {
+          "period": "2022",
+          "value": 20.67
+        },
+        {
+          "period": "2023",
+          "value": 17.39
+        },
+        {
+          "period": "2024",
+          "value": 14.31
+        },
+        {
+          "period": "2025",
+          "value": 12.7
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Public Corporations Debt to GDP",
+      "unit": "%",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 1.26
+        },
+        {
+          "period": "2016",
+          "value": 1.43
+        },
+        {
+          "period": "2017",
+          "value": 1.38
+        },
+        {
+          "period": "2018",
+          "value": 0.99
+        },
+        {
+          "period": "2019",
+          "value": 0.65
+        },
+        {
+          "period": "2020",
+          "value": 3.36
+        },
+        {
+          "period": "2021",
+          "value": 2.4
+        },
+        {
+          "period": "2022",
+          "value": 1.52
+        },
+        {
+          "period": "2023",
+          "value": 1.18
+        },
+        {
+          "period": "2024",
+          "value": 0.03
+        },
+        {
+          "period": "2025",
+          "value": 0.02
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Public Corporation External Debt to GDP",
+      "unit": "%",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 1.18
+        },
+        {
+          "period": "2016",
+          "value": 1.08
+        },
+        {
+          "period": "2017",
+          "value": 1.07
+        },
+        {
+          "period": "2018",
+          "value": 0.79
+        },
+        {
+          "period": "2019",
+          "value": 0.55
+        },
+        {
+          "period": "2020",
+          "value": 0.61
+        },
+        {
+          "period": "2021",
+          "value": 0.37
+        },
+        {
+          "period": "2022",
+          "value": 0.17
+        },
+        {
+          "period": "2023",
+          "value": 0.05
+        },
+        {
+          "period": "2024",
+          "value": 0.03
+        },
+        {
+          "period": "2025",
+          "value": 0.02
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Public Corporation Domestic Debt to GDP",
+      "unit": "%",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 0.08
+        },
+        {
+          "period": "2016",
+          "value": 0.35
+        },
+        {
+          "period": "2017",
+          "value": 0.31
+        },
+        {
+          "period": "2018",
+          "value": 0.2
+        },
+        {
+          "period": "2019",
+          "value": 0.11
+        },
+        {
+          "period": "2020",
+          "value": 2.75
+        },
+        {
+          "period": "2021",
+          "value": 2.03
+        },
+        {
+          "period": "2022",
+          "value": 1.36
+        },
+        {
+          "period": "2023",
+          "value": 1.14
+        },
+        {
+          "period": "2024",
+          "value": 0
+        },
+        {
+          "period": "2025",
+          "value": 0
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Total Public Sector Debt to GDP",
+      "unit": "%",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 23.91
+        },
+        {
+          "period": "2016",
+          "value": 64.41
+        },
+        {
+          "period": "2017",
+          "value": 68.8
+        },
+        {
+          "period": "2018",
+          "value": 61.44
+        },
+        {
+          "period": "2019",
+          "value": 48.11
+        },
+        {
+          "period": "2020",
+          "value": 67.52
+        },
+        {
+          "period": "2021",
+          "value": 54.37
+        },
+        {
+          "period": "2022",
+          "value": 38.28
+        },
+        {
+          "period": "2023",
+          "value": 32
+        },
+        {
+          "period": "2024",
+          "value": 23.98
+        },
+        {
+          "period": "2025",
+          "value": 20.45
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Total Public Sector External Debt to GDP",
+      "unit": "%",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 18.27
+        },
+        {
+          "period": "2016",
+          "value": 24.21
+        },
+        {
+          "period": "2017",
+          "value": 25.72
+        },
+        {
+          "period": "2018",
+          "value": 25.67
+        },
+        {
+          "period": "2019",
+          "value": 20.25
+        },
+        {
+          "period": "2020",
+          "value": 27.21
+        },
+        {
+          "period": "2021",
+          "value": 23.52
+        },
+        {
+          "period": "2022",
+          "value": 16.26
+        },
+        {
+          "period": "2023",
+          "value": 13.47
+        },
+        {
+          "period": "2024",
+          "value": 9.67
+        },
+        {
+          "period": "2025",
+          "value": 7.75
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Total Public Sector Domestic Debt to GDP",
+      "unit": "%",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 5.65
+        },
+        {
+          "period": "2016",
+          "value": 40.2
+        },
+        {
+          "period": "2017",
+          "value": 43.09
+        },
+        {
+          "period": "2018",
+          "value": 35.77
+        },
+        {
+          "period": "2019",
+          "value": 27.87
+        },
+        {
+          "period": "2020",
+          "value": 40.32
+        },
+        {
+          "period": "2021",
+          "value": 30.84
+        },
+        {
+          "period": "2022",
+          "value": 22.02
+        },
+        {
+          "period": "2023",
+          "value": 18.52
+        },
+        {
+          "period": "2024",
+          "value": 14.31
+        },
+        {
+          "period": "2025",
+          "value": 12.7
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    }
+  ]
+}

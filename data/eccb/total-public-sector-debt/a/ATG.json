@@ -1,0 +1,531 @@
+{
+  "source": "Eastern Caribbean Central Bank",
+  "source_id": "eccb",
+  "source_url": "https://www.eccb-centralbank.org/statistics-category/public-sector-debt/total-public-sector-debt",
+  "table_id": "total-public-sector-debt",
+  "table_title": "Total Public Sector Debt",
+  "country": {
+    "iso3": "ATG",
+    "name": "Antigua and Barbuda"
+  },
+  "frequency": "a",
+  "data_as_at": "2026-06-08",
+  "data_as_at_raw": "08 June 2026",
+  "retrieved_at": "2026-08-14T11:36:59.285Z",
+  "periods": [
+    "2015",
+    "2016",
+    "2017",
+    "2018",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024",
+    "2025",
+    "2026"
+  ],
+  "periods_raw": [
+    "2015",
+    "2016",
+    "2017",
+    "2018",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024",
+    "2025",
+    "2026"
+  ],
+  "series": [
+    {
+      "label": "Central Government Debt",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 2566.17
+        },
+        {
+          "period": "2016",
+          "value": 2630
+        },
+        {
+          "period": "2017",
+          "value": 2677.22
+        },
+        {
+          "period": "2018",
+          "value": 2794.49
+        },
+        {
+          "period": "2019",
+          "value": 2930.37
+        },
+        {
+          "period": "2020",
+          "value": 3159.83
+        },
+        {
+          "period": "2021",
+          "value": 3311.01
+        },
+        {
+          "period": "2022",
+          "value": 3395.2
+        },
+        {
+          "period": "2023",
+          "value": 3407.57
+        },
+        {
+          "period": "2024",
+          "value": 3362.14
+        },
+        {
+          "period": "2025",
+          "value": 3578.06
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Central Government Domestic Debt",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 1279.28
+        },
+        {
+          "period": "2016",
+          "value": 1354.4
+        },
+        {
+          "period": "2017",
+          "value": 1365.68
+        },
+        {
+          "period": "2018",
+          "value": 1403.45
+        },
+        {
+          "period": "2019",
+          "value": 1394.97
+        },
+        {
+          "period": "2020",
+          "value": 1590.38
+        },
+        {
+          "period": "2021",
+          "value": 1662.47
+        },
+        {
+          "period": "2022",
+          "value": 1744.41
+        },
+        {
+          "period": "2023",
+          "value": 1746.9
+        },
+        {
+          "period": "2024",
+          "value": 1739.95
+        },
+        {
+          "period": "2025",
+          "value": 1898.11
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Central Government External Debt",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 1286.9
+        },
+        {
+          "period": "2016",
+          "value": 1275.6
+        },
+        {
+          "period": "2017",
+          "value": 1311.55
+        },
+        {
+          "period": "2018",
+          "value": 1391.04
+        },
+        {
+          "period": "2019",
+          "value": 1535.4
+        },
+        {
+          "period": "2020",
+          "value": 1569.45
+        },
+        {
+          "period": "2021",
+          "value": 1648.54
+        },
+        {
+          "period": "2022",
+          "value": 1650.78
+        },
+        {
+          "period": "2023",
+          "value": 1660.68
+        },
+        {
+          "period": "2024",
+          "value": 1622.18
+        },
+        {
+          "period": "2025",
+          "value": 1679.95
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Public Corporation Debt",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 571
+        },
+        {
+          "period": "2016",
+          "value": 574.33
+        },
+        {
+          "period": "2017",
+          "value": 646.51
+        },
+        {
+          "period": "2018",
+          "value": 626.31
+        },
+        {
+          "period": "2019",
+          "value": 543.66
+        },
+        {
+          "period": "2020",
+          "value": 530.72
+        },
+        {
+          "period": "2021",
+          "value": 590.41
+        },
+        {
+          "period": "2022",
+          "value": 610.04
+        },
+        {
+          "period": "2023",
+          "value": 572.68
+        },
+        {
+          "period": "2024",
+          "value": 578.86
+        },
+        {
+          "period": "2025",
+          "value": 538.44
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Public Corporation Domestic Debt",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 309.92
+        },
+        {
+          "period": "2016",
+          "value": 333.35
+        },
+        {
+          "period": "2017",
+          "value": 380.16
+        },
+        {
+          "period": "2018",
+          "value": 357.2
+        },
+        {
+          "period": "2019",
+          "value": 295.51
+        },
+        {
+          "period": "2020",
+          "value": 279.42
+        },
+        {
+          "period": "2021",
+          "value": 268.54
+        },
+        {
+          "period": "2022",
+          "value": 274.23
+        },
+        {
+          "period": "2023",
+          "value": 265.53
+        },
+        {
+          "period": "2024",
+          "value": 288.88
+        },
+        {
+          "period": "2025",
+          "value": 249.32
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Public Corporation External Debt",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 261.08
+        },
+        {
+          "period": "2016",
+          "value": 240.98
+        },
+        {
+          "period": "2017",
+          "value": 266.35
+        },
+        {
+          "period": "2018",
+          "value": 269.11
+        },
+        {
+          "period": "2019",
+          "value": 248.15
+        },
+        {
+          "period": "2020",
+          "value": 251.3
+        },
+        {
+          "period": "2021",
+          "value": 321.86
+        },
+        {
+          "period": "2022",
+          "value": 335.82
+        },
+        {
+          "period": "2023",
+          "value": 307.16
+        },
+        {
+          "period": "2024",
+          "value": 289.99
+        },
+        {
+          "period": "2025",
+          "value": 289.12
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Public Sector Debt",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 3137.18
+        },
+        {
+          "period": "2016",
+          "value": 3204.33
+        },
+        {
+          "period": "2017",
+          "value": 3323.73
+        },
+        {
+          "period": "2018",
+          "value": 3420.8
+        },
+        {
+          "period": "2019",
+          "value": 3474.04
+        },
+        {
+          "period": "2020",
+          "value": 3690.55
+        },
+        {
+          "period": "2021",
+          "value": 3901.42
+        },
+        {
+          "period": "2022",
+          "value": 4005.24
+        },
+        {
+          "period": "2023",
+          "value": 3980.26
+        },
+        {
+          "period": "2024",
+          "value": 3941
+        },
+        {
+          "period": "2025",
+          "value": 4116.5
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Public Sector Domestic Debt",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 1589.2
+        },
+        {
+          "period": "2016",
+          "value": 1687.75
+        },
+        {
+          "period": "2017",
+          "value": 1745.83
+        },
+        {
+          "period": "2018",
+          "value": 1760.66
+        },
+        {
+          "period": "2019",
+          "value": 1690.48
+        },
+        {
+          "period": "2020",
+          "value": 1869.8
+        },
+        {
+          "period": "2021",
+          "value": 1931.02
+        },
+        {
+          "period": "2022",
+          "value": 2018.64
+        },
+        {
+          "period": "2023",
+          "value": 2012.42
+        },
+        {
+          "period": "2024",
+          "value": 2028.83
+        },
+        {
+          "period": "2025",
+          "value": 2147.43
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Public Sector External Debt",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 1547.98
+        },
+        {
+          "period": "2016",
+          "value": 1516.58
+        },
+        {
+          "period": "2017",
+          "value": 1577.9
+        },
+        {
+          "period": "2018",
+          "value": 1660.15
+        },
+        {
+          "period": "2019",
+          "value": 1783.55
+        },
+        {
+          "period": "2020",
+          "value": 1820.75
+        },
+        {
+          "period": "2021",
+          "value": 1970.4
+        },
+        {
+          "period": "2022",
+          "value": 1986.6
+        },
+        {
+          "period": "2023",
+          "value": 1967.84
+        },
+        {
+          "period": "2024",
+          "value": 1912.17
+        },
+        {
+          "period": "2025",
+          "value": 1969.07
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    }
+  ]
+}

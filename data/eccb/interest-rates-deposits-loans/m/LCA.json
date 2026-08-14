@@ -1,0 +1,5265 @@
+{
+  "source": "Eastern Caribbean Central Bank",
+  "source_id": "eccb",
+  "source_url": "https://www.eccb-centralbank.org/statistics-category/mfs-interest-rates/interest-rates-on-deposits-and-loans",
+  "table_id": "interest-rates-deposits-loans",
+  "table_title": "Interest Rates on Deposits and Loans",
+  "country": {
+    "iso3": "LCA",
+    "name": "Saint Lucia"
+  },
+  "frequency": "m",
+  "data_as_at": "2026-07-10",
+  "data_as_at_raw": "10 July 2026",
+  "retrieved_at": "2026-08-13T21:55:22.029Z",
+  "periods": [
+    "2023-01",
+    "2023-02",
+    "2023-03",
+    "2023-04",
+    "2023-05",
+    "2023-06",
+    "2023-07",
+    "2023-08",
+    "2023-09",
+    "2023-10",
+    "2023-11",
+    "2023-12",
+    "2024-01",
+    "2024-02",
+    "2024-03",
+    "2024-04",
+    "2024-05",
+    "2024-06",
+    "2024-07",
+    "2024-08",
+    "2024-09",
+    "2024-10",
+    "2024-11",
+    "2024-12",
+    "2025-01",
+    "2025-02",
+    "2025-03",
+    "2025-04",
+    "2025-05",
+    "2025-06",
+    "2025-07",
+    "2025-08",
+    "2025-09",
+    "2025-10",
+    "2025-11",
+    "2025-12",
+    "2026-01",
+    "2026-02",
+    "2026-03",
+    "2026-04",
+    "2026-05",
+    "2026-06",
+    "2026-07",
+    "2026-08",
+    "2026-09",
+    "2026-10",
+    "2026-11",
+    "2026-12"
+  ],
+  "periods_raw": [
+    "Jan 2023",
+    "Feb 2023",
+    "Mar 2023",
+    "Apr 2023",
+    "May 2023",
+    "Jun 2023",
+    "Jul 2023",
+    "Aug 2023",
+    "Sep 2023",
+    "Oct 2023",
+    "Nov 2023",
+    "Dec 2023",
+    "Jan 2024",
+    "Feb 2024",
+    "Mar 2024",
+    "Apr 2024",
+    "May 2024",
+    "Jun 2024",
+    "Jul 2024",
+    "Aug 2024",
+    "Sep 2024",
+    "Oct 2024",
+    "Nov 2024",
+    "Dec 2024",
+    "Jan 2025",
+    "Feb 2025",
+    "Mar 2025",
+    "Apr 2025",
+    "May 2025",
+    "Jun 2025",
+    "Jul 2025",
+    "Aug 2025",
+    "Sep 2025",
+    "Oct 2025",
+    "Nov 2025",
+    "Dec 2025",
+    "Jan 2026",
+    "Feb 2026",
+    "Mar 2026",
+    "Apr 2026",
+    "May 2026",
+    "Jun 2026",
+    "Jul 2026",
+    "Aug 2026",
+    "Sep 2026",
+    "Oct 2026",
+    "Nov 2026",
+    "Dec 2026"
+  ],
+  "series": [
+    {
+      "label": "Discount Rate",
+      "unit": "%",
+      "observations": [
+        {
+          "period": "2023-01",
+          "value": 2
+        },
+        {
+          "period": "2023-02",
+          "value": 2
+        },
+        {
+          "period": "2023-03",
+          "value": 2
+        },
+        {
+          "period": "2023-04",
+          "value": 2
+        },
+        {
+          "period": "2023-05",
+          "value": 2
+        },
+        {
+          "period": "2023-06",
+          "value": 2
+        },
+        {
+          "period": "2023-07",
+          "value": 2
+        },
+        {
+          "period": "2023-08",
+          "value": 2
+        },
+        {
+          "period": "2023-09",
+          "value": 2
+        },
+        {
+          "period": "2023-10",
+          "value": 2
+        },
+        {
+          "period": "2023-11",
+          "value": 2
+        },
+        {
+          "period": "2023-12",
+          "value": 2
+        },
+        {
+          "period": "2024-01",
+          "value": 3
+        },
+        {
+          "period": "2024-02",
+          "value": 3
+        },
+        {
+          "period": "2024-03",
+          "value": 3
+        },
+        {
+          "period": "2024-04",
+          "value": 3
+        },
+        {
+          "period": "2024-05",
+          "value": 3
+        },
+        {
+          "period": "2024-06",
+          "value": 3
+        },
+        {
+          "period": "2024-07",
+          "value": 3
+        },
+        {
+          "period": "2024-08",
+          "value": 3
+        },
+        {
+          "period": "2024-09",
+          "value": 3
+        },
+        {
+          "period": "2024-10",
+          "value": 3
+        },
+        {
+          "period": "2024-11",
+          "value": 3
+        },
+        {
+          "period": "2024-12",
+          "value": 3
+        },
+        {
+          "period": "2025-01",
+          "value": 3
+        },
+        {
+          "period": "2025-02",
+          "value": 3
+        },
+        {
+          "period": "2025-03",
+          "value": 3
+        },
+        {
+          "period": "2025-04",
+          "value": 3
+        },
+        {
+          "period": "2025-05",
+          "value": 3
+        },
+        {
+          "period": "2025-06",
+          "value": 3
+        },
+        {
+          "period": "2025-07",
+          "value": 3
+        },
+        {
+          "period": "2025-08",
+          "value": 3
+        },
+        {
+          "period": "2025-09",
+          "value": 3
+        },
+        {
+          "period": "2025-10",
+          "value": 3
+        },
+        {
+          "period": "2025-11",
+          "value": 3
+        },
+        {
+          "period": "2025-12",
+          "value": 3
+        },
+        {
+          "period": "2026-01",
+          "value": 3
+        },
+        {
+          "period": "2026-02",
+          "value": 3
+        },
+        {
+          "period": "2026-03",
+          "value": 3
+        },
+        {
+          "period": "2026-04",
+          "value": 3
+        },
+        {
+          "period": "2026-05",
+          "value": 3
+        },
+        {
+          "period": "2026-06",
+          "value": null
+        },
+        {
+          "period": "2026-07",
+          "value": null
+        },
+        {
+          "period": "2026-08",
+          "value": null
+        },
+        {
+          "period": "2026-09",
+          "value": null
+        },
+        {
+          "period": "2026-10",
+          "value": null
+        },
+        {
+          "period": "2026-11",
+          "value": null
+        },
+        {
+          "period": "2026-12",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Interbank Rate",
+      "unit": "%",
+      "observations": [
+        {
+          "period": "2023-01",
+          "value": 0
+        },
+        {
+          "period": "2023-02",
+          "value": 0
+        },
+        {
+          "period": "2023-03",
+          "value": 0
+        },
+        {
+          "period": "2023-04",
+          "value": 0
+        },
+        {
+          "period": "2023-05",
+          "value": 0
+        },
+        {
+          "period": "2023-06",
+          "value": 0
+        },
+        {
+          "period": "2023-07",
+          "value": 0
+        },
+        {
+          "period": "2023-08",
+          "value": 0
+        },
+        {
+          "period": "2023-09",
+          "value": 0
+        },
+        {
+          "period": "2023-10",
+          "value": 0
+        },
+        {
+          "period": "2023-11",
+          "value": 0
+        },
+        {
+          "period": "2023-12",
+          "value": 0
+        },
+        {
+          "period": "2024-01",
+          "value": 0
+        },
+        {
+          "period": "2024-02",
+          "value": 0
+        },
+        {
+          "period": "2024-03",
+          "value": 0
+        },
+        {
+          "period": "2024-04",
+          "value": 0
+        },
+        {
+          "period": "2024-05",
+          "value": 0
+        },
+        {
+          "period": "2024-06",
+          "value": 0
+        },
+        {
+          "period": "2024-07",
+          "value": 0
+        },
+        {
+          "period": "2024-08",
+          "value": 0
+        },
+        {
+          "period": "2024-09",
+          "value": 0
+        },
+        {
+          "period": "2024-10",
+          "value": 0
+        },
+        {
+          "period": "2024-11",
+          "value": 0
+        },
+        {
+          "period": "2024-12",
+          "value": 0
+        },
+        {
+          "period": "2025-01",
+          "value": 0
+        },
+        {
+          "period": "2025-02",
+          "value": 0
+        },
+        {
+          "period": "2025-03",
+          "value": 0
+        },
+        {
+          "period": "2025-04",
+          "value": 0
+        },
+        {
+          "period": "2025-05",
+          "value": 0
+        },
+        {
+          "period": "2025-06",
+          "value": 0
+        },
+        {
+          "period": "2025-07",
+          "value": 0
+        },
+        {
+          "period": "2025-08",
+          "value": 0
+        },
+        {
+          "period": "2025-09",
+          "value": 0
+        },
+        {
+          "period": "2025-10",
+          "value": 0
+        },
+        {
+          "period": "2025-11",
+          "value": 0
+        },
+        {
+          "period": "2025-12",
+          "value": 0
+        },
+        {
+          "period": "2026-01",
+          "value": 0
+        },
+        {
+          "period": "2026-02",
+          "value": 0
+        },
+        {
+          "period": "2026-03",
+          "value": 0
+        },
+        {
+          "period": "2026-04",
+          "value": 0
+        },
+        {
+          "period": "2026-05",
+          "value": 0
+        },
+        {
+          "period": "2026-06",
+          "value": null
+        },
+        {
+          "period": "2026-07",
+          "value": null
+        },
+        {
+          "period": "2026-08",
+          "value": null
+        },
+        {
+          "period": "2026-09",
+          "value": null
+        },
+        {
+          "period": "2026-10",
+          "value": null
+        },
+        {
+          "period": "2026-11",
+          "value": null
+        },
+        {
+          "period": "2026-12",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Demand Deposits: Min. NC",
+      "unit": "%",
+      "observations": [
+        {
+          "period": "2023-01",
+          "value": 0
+        },
+        {
+          "period": "2023-02",
+          "value": 0
+        },
+        {
+          "period": "2023-03",
+          "value": 0
+        },
+        {
+          "period": "2023-04",
+          "value": 0
+        },
+        {
+          "period": "2023-05",
+          "value": 0
+        },
+        {
+          "period": "2023-06",
+          "value": 0
+        },
+        {
+          "period": "2023-07",
+          "value": 0
+        },
+        {
+          "period": "2023-08",
+          "value": 0
+        },
+        {
+          "period": "2023-09",
+          "value": 0
+        },
+        {
+          "period": "2023-10",
+          "value": 0
+        },
+        {
+          "period": "2023-11",
+          "value": 0
+        },
+        {
+          "period": "2023-12",
+          "value": 0
+        },
+        {
+          "period": "2024-01",
+          "value": 0
+        },
+        {
+          "period": "2024-02",
+          "value": 0
+        },
+        {
+          "period": "2024-03",
+          "value": 0
+        },
+        {
+          "period": "2024-04",
+          "value": 0
+        },
+        {
+          "period": "2024-05",
+          "value": 0
+        },
+        {
+          "period": "2024-06",
+          "value": 0
+        },
+        {
+          "period": "2024-07",
+          "value": 0
+        },
+        {
+          "period": "2024-08",
+          "value": 0
+        },
+        {
+          "period": "2024-09",
+          "value": 0
+        },
+        {
+          "period": "2024-10",
+          "value": 0
+        },
+        {
+          "period": "2024-11",
+          "value": 0
+        },
+        {
+          "period": "2024-12",
+          "value": 0
+        },
+        {
+          "period": "2025-01",
+          "value": 0
+        },
+        {
+          "period": "2025-02",
+          "value": 0
+        },
+        {
+          "period": "2025-03",
+          "value": 0
+        },
+        {
+          "period": "2025-04",
+          "value": 0
+        },
+        {
+          "period": "2025-05",
+          "value": 0
+        },
+        {
+          "period": "2025-06",
+          "value": 0
+        },
+        {
+          "period": "2025-07",
+          "value": 0
+        },
+        {
+          "period": "2025-08",
+          "value": 0
+        },
+        {
+          "period": "2025-09",
+          "value": 0
+        },
+        {
+          "period": "2025-10",
+          "value": 0
+        },
+        {
+          "period": "2025-11",
+          "value": 0
+        },
+        {
+          "period": "2025-12",
+          "value": 0
+        },
+        {
+          "period": "2026-01",
+          "value": 0
+        },
+        {
+          "period": "2026-02",
+          "value": 0
+        },
+        {
+          "period": "2026-03",
+          "value": 0
+        },
+        {
+          "period": "2026-04",
+          "value": 0
+        },
+        {
+          "period": "2026-05",
+          "value": 0
+        },
+        {
+          "period": "2026-06",
+          "value": null
+        },
+        {
+          "period": "2026-07",
+          "value": null
+        },
+        {
+          "period": "2026-08",
+          "value": null
+        },
+        {
+          "period": "2026-09",
+          "value": null
+        },
+        {
+          "period": "2026-10",
+          "value": null
+        },
+        {
+          "period": "2026-11",
+          "value": null
+        },
+        {
+          "period": "2026-12",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Demand Deposits: Max. NC",
+      "unit": "%",
+      "observations": [
+        {
+          "period": "2023-01",
+          "value": 2
+        },
+        {
+          "period": "2023-02",
+          "value": 2
+        },
+        {
+          "period": "2023-03",
+          "value": 2
+        },
+        {
+          "period": "2023-04",
+          "value": 2
+        },
+        {
+          "period": "2023-05",
+          "value": 2
+        },
+        {
+          "period": "2023-06",
+          "value": 2
+        },
+        {
+          "period": "2023-07",
+          "value": 2
+        },
+        {
+          "period": "2023-08",
+          "value": 2
+        },
+        {
+          "period": "2023-09",
+          "value": 2
+        },
+        {
+          "period": "2023-10",
+          "value": 2
+        },
+        {
+          "period": "2023-11",
+          "value": 2
+        },
+        {
+          "period": "2023-12",
+          "value": 2
+        },
+        {
+          "period": "2024-01",
+          "value": 0.5
+        },
+        {
+          "period": "2024-02",
+          "value": 0.5
+        },
+        {
+          "period": "2024-03",
+          "value": 0.5
+        },
+        {
+          "period": "2024-04",
+          "value": 0.5
+        },
+        {
+          "period": "2024-05",
+          "value": 0.5
+        },
+        {
+          "period": "2024-06",
+          "value": 0.5
+        },
+        {
+          "period": "2024-07",
+          "value": 0.5
+        },
+        {
+          "period": "2024-08",
+          "value": 0.5
+        },
+        {
+          "period": "2024-09",
+          "value": 0.5
+        },
+        {
+          "period": "2024-10",
+          "value": 0.5
+        },
+        {
+          "period": "2024-11",
+          "value": 0.5
+        },
+        {
+          "period": "2024-12",
+          "value": 0.5
+        },
+        {
+          "period": "2025-01",
+          "value": 0.5
+        },
+        {
+          "period": "2025-02",
+          "value": 0.5
+        },
+        {
+          "period": "2025-03",
+          "value": 0.5
+        },
+        {
+          "period": "2025-04",
+          "value": 0.5
+        },
+        {
+          "period": "2025-05",
+          "value": 0.5
+        },
+        {
+          "period": "2025-06",
+          "value": 0.5
+        },
+        {
+          "period": "2025-07",
+          "value": 0.5
+        },
+        {
+          "period": "2025-08",
+          "value": 0.5
+        },
+        {
+          "period": "2025-09",
+          "value": 0.5
+        },
+        {
+          "period": "2025-10",
+          "value": 0.5
+        },
+        {
+          "period": "2025-11",
+          "value": 0.5
+        },
+        {
+          "period": "2025-12",
+          "value": 0.5
+        },
+        {
+          "period": "2026-01",
+          "value": 0.5
+        },
+        {
+          "period": "2026-02",
+          "value": 0.5
+        },
+        {
+          "period": "2026-03",
+          "value": 0.5
+        },
+        {
+          "period": "2026-04",
+          "value": 0.5
+        },
+        {
+          "period": "2026-05",
+          "value": 0.5
+        },
+        {
+          "period": "2026-06",
+          "value": null
+        },
+        {
+          "period": "2026-07",
+          "value": null
+        },
+        {
+          "period": "2026-08",
+          "value": null
+        },
+        {
+          "period": "2026-09",
+          "value": null
+        },
+        {
+          "period": "2026-10",
+          "value": null
+        },
+        {
+          "period": "2026-11",
+          "value": null
+        },
+        {
+          "period": "2026-12",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Savings Deps.: Minimum NC",
+      "unit": "%",
+      "observations": [
+        {
+          "period": "2023-01",
+          "value": 2
+        },
+        {
+          "period": "2023-02",
+          "value": 2
+        },
+        {
+          "period": "2023-03",
+          "value": 2
+        },
+        {
+          "period": "2023-04",
+          "value": 2
+        },
+        {
+          "period": "2023-05",
+          "value": 2
+        },
+        {
+          "period": "2023-06",
+          "value": 2
+        },
+        {
+          "period": "2023-07",
+          "value": 2
+        },
+        {
+          "period": "2023-08",
+          "value": 2
+        },
+        {
+          "period": "2023-09",
+          "value": 2
+        },
+        {
+          "period": "2023-10",
+          "value": 2
+        },
+        {
+          "period": "2023-11",
+          "value": 2
+        },
+        {
+          "period": "2023-12",
+          "value": 2
+        },
+        {
+          "period": "2024-01",
+          "value": 2
+        },
+        {
+          "period": "2024-02",
+          "value": 2
+        },
+        {
+          "period": "2024-03",
+          "value": 2
+        },
+        {
+          "period": "2024-04",
+          "value": 2
+        },
+        {
+          "period": "2024-05",
+          "value": 2
+        },
+        {
+          "period": "2024-06",
+          "value": 2
+        },
+        {
+          "period": "2024-07",
+          "value": 2
+        },
+        {
+          "period": "2024-08",
+          "value": 2
+        },
+        {
+          "period": "2024-09",
+          "value": 2
+        },
+        {
+          "period": "2024-10",
+          "value": 2
+        },
+        {
+          "period": "2024-11",
+          "value": 2
+        },
+        {
+          "period": "2024-12",
+          "value": 2
+        },
+        {
+          "period": "2025-01",
+          "value": 2
+        },
+        {
+          "period": "2025-02",
+          "value": 2
+        },
+        {
+          "period": "2025-03",
+          "value": 2
+        },
+        {
+          "period": "2025-04",
+          "value": 2
+        },
+        {
+          "period": "2025-05",
+          "value": 2
+        },
+        {
+          "period": "2025-06",
+          "value": 2
+        },
+        {
+          "period": "2025-07",
+          "value": 2
+        },
+        {
+          "period": "2025-08",
+          "value": 2
+        },
+        {
+          "period": "2025-09",
+          "value": 2
+        },
+        {
+          "period": "2025-10",
+          "value": 2
+        },
+        {
+          "period": "2025-11",
+          "value": 2
+        },
+        {
+          "period": "2025-12",
+          "value": 2
+        },
+        {
+          "period": "2026-01",
+          "value": 2
+        },
+        {
+          "period": "2026-02",
+          "value": 2
+        },
+        {
+          "period": "2026-03",
+          "value": 2
+        },
+        {
+          "period": "2026-04",
+          "value": 2
+        },
+        {
+          "period": "2026-05",
+          "value": 2
+        },
+        {
+          "period": "2026-06",
+          "value": null
+        },
+        {
+          "period": "2026-07",
+          "value": null
+        },
+        {
+          "period": "2026-08",
+          "value": null
+        },
+        {
+          "period": "2026-09",
+          "value": null
+        },
+        {
+          "period": "2026-10",
+          "value": null
+        },
+        {
+          "period": "2026-11",
+          "value": null
+        },
+        {
+          "period": "2026-12",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Savings Deps.: Maximum NC",
+      "unit": "%",
+      "observations": [
+        {
+          "period": "2023-01",
+          "value": 3
+        },
+        {
+          "period": "2023-02",
+          "value": 3
+        },
+        {
+          "period": "2023-03",
+          "value": 3
+        },
+        {
+          "period": "2023-04",
+          "value": 3
+        },
+        {
+          "period": "2023-05",
+          "value": 3
+        },
+        {
+          "period": "2023-06",
+          "value": 3
+        },
+        {
+          "period": "2023-07",
+          "value": 3
+        },
+        {
+          "period": "2023-08",
+          "value": 3
+        },
+        {
+          "period": "2023-09",
+          "value": 3
+        },
+        {
+          "period": "2023-10",
+          "value": 3
+        },
+        {
+          "period": "2023-11",
+          "value": 3
+        },
+        {
+          "period": "2023-12",
+          "value": 3
+        },
+        {
+          "period": "2024-01",
+          "value": 3
+        },
+        {
+          "period": "2024-02",
+          "value": 3
+        },
+        {
+          "period": "2024-03",
+          "value": 3
+        },
+        {
+          "period": "2024-04",
+          "value": 3
+        },
+        {
+          "period": "2024-05",
+          "value": 3
+        },
+        {
+          "period": "2024-06",
+          "value": 3
+        },
+        {
+          "period": "2024-07",
+          "value": 3
+        },
+        {
+          "period": "2024-08",
+          "value": 3
+        },
+        {
+          "period": "2024-09",
+          "value": 3
+        },
+        {
+          "period": "2024-10",
+          "value": 3
+        },
+        {
+          "period": "2024-11",
+          "value": 3
+        },
+        {
+          "period": "2024-12",
+          "value": 3
+        },
+        {
+          "period": "2025-01",
+          "value": 3
+        },
+        {
+          "period": "2025-02",
+          "value": 3
+        },
+        {
+          "period": "2025-03",
+          "value": 3
+        },
+        {
+          "period": "2025-04",
+          "value": 3
+        },
+        {
+          "period": "2025-05",
+          "value": 3
+        },
+        {
+          "period": "2025-06",
+          "value": 3
+        },
+        {
+          "period": "2025-07",
+          "value": 3
+        },
+        {
+          "period": "2025-08",
+          "value": 3
+        },
+        {
+          "period": "2025-09",
+          "value": 3
+        },
+        {
+          "period": "2025-10",
+          "value": 3
+        },
+        {
+          "period": "2025-11",
+          "value": 3
+        },
+        {
+          "period": "2025-12",
+          "value": 3
+        },
+        {
+          "period": "2026-01",
+          "value": 3
+        },
+        {
+          "period": "2026-02",
+          "value": 3
+        },
+        {
+          "period": "2026-03",
+          "value": 3
+        },
+        {
+          "period": "2026-04",
+          "value": 3
+        },
+        {
+          "period": "2026-05",
+          "value": 3
+        },
+        {
+          "period": "2026-06",
+          "value": null
+        },
+        {
+          "period": "2026-07",
+          "value": null
+        },
+        {
+          "period": "2026-08",
+          "value": null
+        },
+        {
+          "period": "2026-09",
+          "value": null
+        },
+        {
+          "period": "2026-10",
+          "value": null
+        },
+        {
+          "period": "2026-11",
+          "value": null
+        },
+        {
+          "period": "2026-12",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Time Deposits: 3-Month Min. NC",
+      "unit": "%",
+      "observations": [
+        {
+          "period": "2023-01",
+          "value": null
+        },
+        {
+          "period": "2023-02",
+          "value": null
+        },
+        {
+          "period": "2023-03",
+          "value": null
+        },
+        {
+          "period": "2023-04",
+          "value": null
+        },
+        {
+          "period": "2023-05",
+          "value": null
+        },
+        {
+          "period": "2023-06",
+          "value": null
+        },
+        {
+          "period": "2023-07",
+          "value": null
+        },
+        {
+          "period": "2023-08",
+          "value": null
+        },
+        {
+          "period": "2023-09",
+          "value": null
+        },
+        {
+          "period": "2023-10",
+          "value": null
+        },
+        {
+          "period": "2023-11",
+          "value": null
+        },
+        {
+          "period": "2023-12",
+          "value": null
+        },
+        {
+          "period": "2024-01",
+          "value": null
+        },
+        {
+          "period": "2024-02",
+          "value": null
+        },
+        {
+          "period": "2024-03",
+          "value": null
+        },
+        {
+          "period": "2024-04",
+          "value": null
+        },
+        {
+          "period": "2024-05",
+          "value": null
+        },
+        {
+          "period": "2024-06",
+          "value": null
+        },
+        {
+          "period": "2024-07",
+          "value": null
+        },
+        {
+          "period": "2024-08",
+          "value": null
+        },
+        {
+          "period": "2024-09",
+          "value": null
+        },
+        {
+          "period": "2024-10",
+          "value": null
+        },
+        {
+          "period": "2024-11",
+          "value": null
+        },
+        {
+          "period": "2024-12",
+          "value": null
+        },
+        {
+          "period": "2025-01",
+          "value": null
+        },
+        {
+          "period": "2025-02",
+          "value": null
+        },
+        {
+          "period": "2025-03",
+          "value": null
+        },
+        {
+          "period": "2025-04",
+          "value": null
+        },
+        {
+          "period": "2025-05",
+          "value": null
+        },
+        {
+          "period": "2025-06",
+          "value": null
+        },
+        {
+          "period": "2025-07",
+          "value": null
+        },
+        {
+          "period": "2025-08",
+          "value": null
+        },
+        {
+          "period": "2025-09",
+          "value": null
+        },
+        {
+          "period": "2025-10",
+          "value": null
+        },
+        {
+          "period": "2025-11",
+          "value": null
+        },
+        {
+          "period": "2025-12",
+          "value": null
+        },
+        {
+          "period": "2026-01",
+          "value": null
+        },
+        {
+          "period": "2026-02",
+          "value": null
+        },
+        {
+          "period": "2026-03",
+          "value": null
+        },
+        {
+          "period": "2026-04",
+          "value": null
+        },
+        {
+          "period": "2026-05",
+          "value": null
+        },
+        {
+          "period": "2026-06",
+          "value": null
+        },
+        {
+          "period": "2026-07",
+          "value": null
+        },
+        {
+          "period": "2026-08",
+          "value": null
+        },
+        {
+          "period": "2026-09",
+          "value": null
+        },
+        {
+          "period": "2026-10",
+          "value": null
+        },
+        {
+          "period": "2026-11",
+          "value": null
+        },
+        {
+          "period": "2026-12",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Time Deposits: 3-Month Max. NC",
+      "unit": "%",
+      "observations": [
+        {
+          "period": "2023-01",
+          "value": null
+        },
+        {
+          "period": "2023-02",
+          "value": null
+        },
+        {
+          "period": "2023-03",
+          "value": null
+        },
+        {
+          "period": "2023-04",
+          "value": null
+        },
+        {
+          "period": "2023-05",
+          "value": null
+        },
+        {
+          "period": "2023-06",
+          "value": null
+        },
+        {
+          "period": "2023-07",
+          "value": null
+        },
+        {
+          "period": "2023-08",
+          "value": null
+        },
+        {
+          "period": "2023-09",
+          "value": null
+        },
+        {
+          "period": "2023-10",
+          "value": null
+        },
+        {
+          "period": "2023-11",
+          "value": null
+        },
+        {
+          "period": "2023-12",
+          "value": null
+        },
+        {
+          "period": "2024-01",
+          "value": null
+        },
+        {
+          "period": "2024-02",
+          "value": null
+        },
+        {
+          "period": "2024-03",
+          "value": null
+        },
+        {
+          "period": "2024-04",
+          "value": null
+        },
+        {
+          "period": "2024-05",
+          "value": null
+        },
+        {
+          "period": "2024-06",
+          "value": null
+        },
+        {
+          "period": "2024-07",
+          "value": null
+        },
+        {
+          "period": "2024-08",
+          "value": null
+        },
+        {
+          "period": "2024-09",
+          "value": null
+        },
+        {
+          "period": "2024-10",
+          "value": null
+        },
+        {
+          "period": "2024-11",
+          "value": null
+        },
+        {
+          "period": "2024-12",
+          "value": null
+        },
+        {
+          "period": "2025-01",
+          "value": null
+        },
+        {
+          "period": "2025-02",
+          "value": null
+        },
+        {
+          "period": "2025-03",
+          "value": null
+        },
+        {
+          "period": "2025-04",
+          "value": null
+        },
+        {
+          "period": "2025-05",
+          "value": null
+        },
+        {
+          "period": "2025-06",
+          "value": null
+        },
+        {
+          "period": "2025-07",
+          "value": null
+        },
+        {
+          "period": "2025-08",
+          "value": null
+        },
+        {
+          "period": "2025-09",
+          "value": null
+        },
+        {
+          "period": "2025-10",
+          "value": null
+        },
+        {
+          "period": "2025-11",
+          "value": null
+        },
+        {
+          "period": "2025-12",
+          "value": null
+        },
+        {
+          "period": "2026-01",
+          "value": null
+        },
+        {
+          "period": "2026-02",
+          "value": null
+        },
+        {
+          "period": "2026-03",
+          "value": null
+        },
+        {
+          "period": "2026-04",
+          "value": null
+        },
+        {
+          "period": "2026-05",
+          "value": null
+        },
+        {
+          "period": "2026-06",
+          "value": null
+        },
+        {
+          "period": "2026-07",
+          "value": null
+        },
+        {
+          "period": "2026-08",
+          "value": null
+        },
+        {
+          "period": "2026-09",
+          "value": null
+        },
+        {
+          "period": "2026-10",
+          "value": null
+        },
+        {
+          "period": "2026-11",
+          "value": null
+        },
+        {
+          "period": "2026-12",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Time Deposits: 6-Month Min. NC",
+      "unit": "%",
+      "observations": [
+        {
+          "period": "2023-01",
+          "value": 0.01
+        },
+        {
+          "period": "2023-02",
+          "value": 0.01
+        },
+        {
+          "period": "2023-03",
+          "value": 0.01
+        },
+        {
+          "period": "2023-04",
+          "value": 0.01
+        },
+        {
+          "period": "2023-05",
+          "value": 0.01
+        },
+        {
+          "period": "2023-06",
+          "value": 0.01
+        },
+        {
+          "period": "2023-07",
+          "value": 0.01
+        },
+        {
+          "period": "2023-08",
+          "value": 0.01
+        },
+        {
+          "period": "2023-09",
+          "value": 0.01
+        },
+        {
+          "period": "2023-10",
+          "value": 0.01
+        },
+        {
+          "period": "2023-11",
+          "value": 0.01
+        },
+        {
+          "period": "2023-12",
+          "value": 0.01
+        },
+        {
+          "period": "2024-01",
+          "value": 1.3
+        },
+        {
+          "period": "2024-02",
+          "value": 1.3
+        },
+        {
+          "period": "2024-03",
+          "value": 1.3
+        },
+        {
+          "period": "2024-04",
+          "value": 1.3
+        },
+        {
+          "period": "2024-05",
+          "value": 1.3
+        },
+        {
+          "period": "2024-06",
+          "value": 1.3
+        },
+        {
+          "period": "2024-07",
+          "value": 1.3
+        },
+        {
+          "period": "2024-08",
+          "value": 1.3
+        },
+        {
+          "period": "2024-09",
+          "value": 1.3
+        },
+        {
+          "period": "2024-10",
+          "value": 1.3
+        },
+        {
+          "period": "2024-11",
+          "value": 1.3
+        },
+        {
+          "period": "2024-12",
+          "value": 1.3
+        },
+        {
+          "period": "2025-01",
+          "value": 1.3
+        },
+        {
+          "period": "2025-02",
+          "value": 1.3
+        },
+        {
+          "period": "2025-03",
+          "value": 1.3
+        },
+        {
+          "period": "2025-04",
+          "value": 1.3
+        },
+        {
+          "period": "2025-05",
+          "value": 1.3
+        },
+        {
+          "period": "2025-06",
+          "value": 1.3
+        },
+        {
+          "period": "2025-07",
+          "value": 1.3
+        },
+        {
+          "period": "2025-08",
+          "value": 1.3
+        },
+        {
+          "period": "2025-09",
+          "value": 1.3
+        },
+        {
+          "period": "2025-10",
+          "value": 1.3
+        },
+        {
+          "period": "2025-11",
+          "value": 1.3
+        },
+        {
+          "period": "2025-12",
+          "value": 1.3
+        },
+        {
+          "period": "2026-01",
+          "value": 1.3
+        },
+        {
+          "period": "2026-02",
+          "value": 1.3
+        },
+        {
+          "period": "2026-03",
+          "value": 1.3
+        },
+        {
+          "period": "2026-04",
+          "value": 1.3
+        },
+        {
+          "period": "2026-05",
+          "value": 1.3
+        },
+        {
+          "period": "2026-06",
+          "value": null
+        },
+        {
+          "period": "2026-07",
+          "value": null
+        },
+        {
+          "period": "2026-08",
+          "value": null
+        },
+        {
+          "period": "2026-09",
+          "value": null
+        },
+        {
+          "period": "2026-10",
+          "value": null
+        },
+        {
+          "period": "2026-11",
+          "value": null
+        },
+        {
+          "period": "2026-12",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Time Deposits: 6-Month Max. NC",
+      "unit": "%",
+      "observations": [
+        {
+          "period": "2023-01",
+          "value": 2.5
+        },
+        {
+          "period": "2023-02",
+          "value": 2.5
+        },
+        {
+          "period": "2023-03",
+          "value": 2.5
+        },
+        {
+          "period": "2023-04",
+          "value": 2.5
+        },
+        {
+          "period": "2023-05",
+          "value": 2.5
+        },
+        {
+          "period": "2023-06",
+          "value": 2.5
+        },
+        {
+          "period": "2023-07",
+          "value": 2.5
+        },
+        {
+          "period": "2023-08",
+          "value": 2.5
+        },
+        {
+          "period": "2023-09",
+          "value": 2.5
+        },
+        {
+          "period": "2023-10",
+          "value": 2.5
+        },
+        {
+          "period": "2023-11",
+          "value": 2.5
+        },
+        {
+          "period": "2023-12",
+          "value": 2.5
+        },
+        {
+          "period": "2024-01",
+          "value": 2.5
+        },
+        {
+          "period": "2024-02",
+          "value": 2.5
+        },
+        {
+          "period": "2024-03",
+          "value": 2.5
+        },
+        {
+          "period": "2024-04",
+          "value": 2.5
+        },
+        {
+          "period": "2024-05",
+          "value": 2.5
+        },
+        {
+          "period": "2024-06",
+          "value": 2.5
+        },
+        {
+          "period": "2024-07",
+          "value": 2.5
+        },
+        {
+          "period": "2024-08",
+          "value": 2.5
+        },
+        {
+          "period": "2024-09",
+          "value": 2.5
+        },
+        {
+          "period": "2024-10",
+          "value": 2.5
+        },
+        {
+          "period": "2024-11",
+          "value": 2.5
+        },
+        {
+          "period": "2024-12",
+          "value": 2.5
+        },
+        {
+          "period": "2025-01",
+          "value": 2.5
+        },
+        {
+          "period": "2025-02",
+          "value": 2.5
+        },
+        {
+          "period": "2025-03",
+          "value": 2.5
+        },
+        {
+          "period": "2025-04",
+          "value": 2.5
+        },
+        {
+          "period": "2025-05",
+          "value": 2.5
+        },
+        {
+          "period": "2025-06",
+          "value": 2.5
+        },
+        {
+          "period": "2025-07",
+          "value": 2.5
+        },
+        {
+          "period": "2025-08",
+          "value": 2.5
+        },
+        {
+          "period": "2025-09",
+          "value": 2.5
+        },
+        {
+          "period": "2025-10",
+          "value": 2.5
+        },
+        {
+          "period": "2025-11",
+          "value": 2.5
+        },
+        {
+          "period": "2025-12",
+          "value": 2.5
+        },
+        {
+          "period": "2026-01",
+          "value": 2.5
+        },
+        {
+          "period": "2026-02",
+          "value": 2.5
+        },
+        {
+          "period": "2026-03",
+          "value": 2.5
+        },
+        {
+          "period": "2026-04",
+          "value": 2.5
+        },
+        {
+          "period": "2026-05",
+          "value": 2.5
+        },
+        {
+          "period": "2026-06",
+          "value": null
+        },
+        {
+          "period": "2026-07",
+          "value": null
+        },
+        {
+          "period": "2026-08",
+          "value": null
+        },
+        {
+          "period": "2026-09",
+          "value": null
+        },
+        {
+          "period": "2026-10",
+          "value": null
+        },
+        {
+          "period": "2026-11",
+          "value": null
+        },
+        {
+          "period": "2026-12",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Time Deposits: 12 Month Min. NC",
+      "unit": "%",
+      "observations": [
+        {
+          "period": "2023-01",
+          "value": 0.01
+        },
+        {
+          "period": "2023-02",
+          "value": 0.01
+        },
+        {
+          "period": "2023-03",
+          "value": 0.01
+        },
+        {
+          "period": "2023-04",
+          "value": 0.01
+        },
+        {
+          "period": "2023-05",
+          "value": 0.01
+        },
+        {
+          "period": "2023-06",
+          "value": 0.01
+        },
+        {
+          "period": "2023-07",
+          "value": 0.01
+        },
+        {
+          "period": "2023-08",
+          "value": 0.01
+        },
+        {
+          "period": "2023-09",
+          "value": 0.01
+        },
+        {
+          "period": "2023-10",
+          "value": 0.01
+        },
+        {
+          "period": "2023-11",
+          "value": 0.01
+        },
+        {
+          "period": "2023-12",
+          "value": 0.01
+        },
+        {
+          "period": "2024-01",
+          "value": 0.1
+        },
+        {
+          "period": "2024-02",
+          "value": 0.1
+        },
+        {
+          "period": "2024-03",
+          "value": 0.1
+        },
+        {
+          "period": "2024-04",
+          "value": 0.1
+        },
+        {
+          "period": "2024-05",
+          "value": 0.1
+        },
+        {
+          "period": "2024-06",
+          "value": 0.1
+        },
+        {
+          "period": "2024-07",
+          "value": 0.1
+        },
+        {
+          "period": "2024-08",
+          "value": 0.1
+        },
+        {
+          "period": "2024-09",
+          "value": 0.1
+        },
+        {
+          "period": "2024-10",
+          "value": 0.1
+        },
+        {
+          "period": "2024-11",
+          "value": 0.1
+        },
+        {
+          "period": "2024-12",
+          "value": 0.1
+        },
+        {
+          "period": "2025-01",
+          "value": 0.1
+        },
+        {
+          "period": "2025-02",
+          "value": 0.1
+        },
+        {
+          "period": "2025-03",
+          "value": 0.1
+        },
+        {
+          "period": "2025-04",
+          "value": 0.1
+        },
+        {
+          "period": "2025-05",
+          "value": 0.1
+        },
+        {
+          "period": "2025-06",
+          "value": 0.1
+        },
+        {
+          "period": "2025-07",
+          "value": 0.1
+        },
+        {
+          "period": "2025-08",
+          "value": 0.1
+        },
+        {
+          "period": "2025-09",
+          "value": 0.1
+        },
+        {
+          "period": "2025-10",
+          "value": 0.1
+        },
+        {
+          "period": "2025-11",
+          "value": 0.1
+        },
+        {
+          "period": "2025-12",
+          "value": 0.1
+        },
+        {
+          "period": "2026-01",
+          "value": 0.1
+        },
+        {
+          "period": "2026-02",
+          "value": 0.1
+        },
+        {
+          "period": "2026-03",
+          "value": 0.1
+        },
+        {
+          "period": "2026-04",
+          "value": 0.1
+        },
+        {
+          "period": "2026-05",
+          "value": 0.1
+        },
+        {
+          "period": "2026-06",
+          "value": null
+        },
+        {
+          "period": "2026-07",
+          "value": null
+        },
+        {
+          "period": "2026-08",
+          "value": null
+        },
+        {
+          "period": "2026-09",
+          "value": null
+        },
+        {
+          "period": "2026-10",
+          "value": null
+        },
+        {
+          "period": "2026-11",
+          "value": null
+        },
+        {
+          "period": "2026-12",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Time Deposits: 12 Month Max. NC",
+      "unit": "%",
+      "observations": [
+        {
+          "period": "2023-01",
+          "value": 2.5
+        },
+        {
+          "period": "2023-02",
+          "value": 2.5
+        },
+        {
+          "period": "2023-03",
+          "value": 2.5
+        },
+        {
+          "period": "2023-04",
+          "value": 2.5
+        },
+        {
+          "period": "2023-05",
+          "value": 2.5
+        },
+        {
+          "period": "2023-06",
+          "value": 2.5
+        },
+        {
+          "period": "2023-07",
+          "value": 2.5
+        },
+        {
+          "period": "2023-08",
+          "value": 2.5
+        },
+        {
+          "period": "2023-09",
+          "value": 2.5
+        },
+        {
+          "period": "2023-10",
+          "value": 2.5
+        },
+        {
+          "period": "2023-11",
+          "value": 2.5
+        },
+        {
+          "period": "2023-12",
+          "value": 2.5
+        },
+        {
+          "period": "2024-01",
+          "value": 2.5
+        },
+        {
+          "period": "2024-02",
+          "value": 2.5
+        },
+        {
+          "period": "2024-03",
+          "value": 2.5
+        },
+        {
+          "period": "2024-04",
+          "value": 2.5
+        },
+        {
+          "period": "2024-05",
+          "value": 2.5
+        },
+        {
+          "period": "2024-06",
+          "value": 2.5
+        },
+        {
+          "period": "2024-07",
+          "value": 2.5
+        },
+        {
+          "period": "2024-08",
+          "value": 2.5
+        },
+        {
+          "period": "2024-09",
+          "value": 2.5
+        },
+        {
+          "period": "2024-10",
+          "value": 2.5
+        },
+        {
+          "period": "2024-11",
+          "value": 2.5
+        },
+        {
+          "period": "2024-12",
+          "value": 2.5
+        },
+        {
+          "period": "2025-01",
+          "value": 2.5
+        },
+        {
+          "period": "2025-02",
+          "value": 2.5
+        },
+        {
+          "period": "2025-03",
+          "value": 2.5
+        },
+        {
+          "period": "2025-04",
+          "value": 2.5
+        },
+        {
+          "period": "2025-05",
+          "value": 2.5
+        },
+        {
+          "period": "2025-06",
+          "value": 2.5
+        },
+        {
+          "period": "2025-07",
+          "value": 2.5
+        },
+        {
+          "period": "2025-08",
+          "value": 2.5
+        },
+        {
+          "period": "2025-09",
+          "value": 2.5
+        },
+        {
+          "period": "2025-10",
+          "value": 2.5
+        },
+        {
+          "period": "2025-11",
+          "value": 2.5
+        },
+        {
+          "period": "2025-12",
+          "value": 2.5
+        },
+        {
+          "period": "2026-01",
+          "value": 2.5
+        },
+        {
+          "period": "2026-02",
+          "value": 2.5
+        },
+        {
+          "period": "2026-03",
+          "value": 2.5
+        },
+        {
+          "period": "2026-04",
+          "value": 2.5
+        },
+        {
+          "period": "2026-05",
+          "value": 2.5
+        },
+        {
+          "period": "2026-06",
+          "value": null
+        },
+        {
+          "period": "2026-07",
+          "value": null
+        },
+        {
+          "period": "2026-08",
+          "value": null
+        },
+        {
+          "period": "2026-09",
+          "value": null
+        },
+        {
+          "period": "2026-10",
+          "value": null
+        },
+        {
+          "period": "2026-11",
+          "value": null
+        },
+        {
+          "period": "2026-12",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Banks Prime Loan Rate: Min.",
+      "unit": "%",
+      "observations": [
+        {
+          "period": "2023-01",
+          "value": 9
+        },
+        {
+          "period": "2023-02",
+          "value": 9
+        },
+        {
+          "period": "2023-03",
+          "value": 9
+        },
+        {
+          "period": "2023-04",
+          "value": 9
+        },
+        {
+          "period": "2023-05",
+          "value": 9
+        },
+        {
+          "period": "2023-06",
+          "value": 9
+        },
+        {
+          "period": "2023-07",
+          "value": 9
+        },
+        {
+          "period": "2023-08",
+          "value": 9
+        },
+        {
+          "period": "2023-09",
+          "value": 9
+        },
+        {
+          "period": "2023-10",
+          "value": 9
+        },
+        {
+          "period": "2023-11",
+          "value": 9
+        },
+        {
+          "period": "2023-12",
+          "value": 9
+        },
+        {
+          "period": "2024-01",
+          "value": 9
+        },
+        {
+          "period": "2024-02",
+          "value": 9
+        },
+        {
+          "period": "2024-03",
+          "value": 9
+        },
+        {
+          "period": "2024-04",
+          "value": 9
+        },
+        {
+          "period": "2024-05",
+          "value": 9
+        },
+        {
+          "period": "2024-06",
+          "value": 9
+        },
+        {
+          "period": "2024-07",
+          "value": 9
+        },
+        {
+          "period": "2024-08",
+          "value": 9
+        },
+        {
+          "period": "2024-09",
+          "value": 9
+        },
+        {
+          "period": "2024-10",
+          "value": 9
+        },
+        {
+          "period": "2024-11",
+          "value": 9
+        },
+        {
+          "period": "2024-12",
+          "value": 9
+        },
+        {
+          "period": "2025-01",
+          "value": 9
+        },
+        {
+          "period": "2025-02",
+          "value": 9
+        },
+        {
+          "period": "2025-03",
+          "value": 9
+        },
+        {
+          "period": "2025-04",
+          "value": 9
+        },
+        {
+          "period": "2025-05",
+          "value": 9
+        },
+        {
+          "period": "2025-06",
+          "value": 9
+        },
+        {
+          "period": "2025-07",
+          "value": 9
+        },
+        {
+          "period": "2025-08",
+          "value": 9
+        },
+        {
+          "period": "2025-09",
+          "value": 9
+        },
+        {
+          "period": "2025-10",
+          "value": 9
+        },
+        {
+          "period": "2025-11",
+          "value": 9
+        },
+        {
+          "period": "2025-12",
+          "value": 9
+        },
+        {
+          "period": "2026-01",
+          "value": 9
+        },
+        {
+          "period": "2026-02",
+          "value": 9
+        },
+        {
+          "period": "2026-03",
+          "value": 9
+        },
+        {
+          "period": "2026-04",
+          "value": 9
+        },
+        {
+          "period": "2026-05",
+          "value": 9
+        },
+        {
+          "period": "2026-06",
+          "value": null
+        },
+        {
+          "period": "2026-07",
+          "value": null
+        },
+        {
+          "period": "2026-08",
+          "value": null
+        },
+        {
+          "period": "2026-09",
+          "value": null
+        },
+        {
+          "period": "2026-10",
+          "value": null
+        },
+        {
+          "period": "2026-11",
+          "value": null
+        },
+        {
+          "period": "2026-12",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Banks Prime Loan Rate: Max.",
+      "unit": "%",
+      "observations": [
+        {
+          "period": "2023-01",
+          "value": 15
+        },
+        {
+          "period": "2023-02",
+          "value": 15
+        },
+        {
+          "period": "2023-03",
+          "value": 15
+        },
+        {
+          "period": "2023-04",
+          "value": 15
+        },
+        {
+          "period": "2023-05",
+          "value": 15
+        },
+        {
+          "period": "2023-06",
+          "value": 15
+        },
+        {
+          "period": "2023-07",
+          "value": 15
+        },
+        {
+          "period": "2023-08",
+          "value": 15
+        },
+        {
+          "period": "2023-09",
+          "value": 15
+        },
+        {
+          "period": "2023-10",
+          "value": 15
+        },
+        {
+          "period": "2023-11",
+          "value": 15
+        },
+        {
+          "period": "2023-12",
+          "value": 15
+        },
+        {
+          "period": "2024-01",
+          "value": 15
+        },
+        {
+          "period": "2024-02",
+          "value": 15
+        },
+        {
+          "period": "2024-03",
+          "value": 15
+        },
+        {
+          "period": "2024-04",
+          "value": 15
+        },
+        {
+          "period": "2024-05",
+          "value": 15
+        },
+        {
+          "period": "2024-06",
+          "value": 15
+        },
+        {
+          "period": "2024-07",
+          "value": 15
+        },
+        {
+          "period": "2024-08",
+          "value": 15
+        },
+        {
+          "period": "2024-09",
+          "value": 15
+        },
+        {
+          "period": "2024-10",
+          "value": 15
+        },
+        {
+          "period": "2024-11",
+          "value": 15
+        },
+        {
+          "period": "2024-12",
+          "value": 15
+        },
+        {
+          "period": "2025-01",
+          "value": 15
+        },
+        {
+          "period": "2025-02",
+          "value": 15
+        },
+        {
+          "period": "2025-03",
+          "value": 15
+        },
+        {
+          "period": "2025-04",
+          "value": 15
+        },
+        {
+          "period": "2025-05",
+          "value": 15
+        },
+        {
+          "period": "2025-06",
+          "value": 15
+        },
+        {
+          "period": "2025-07",
+          "value": 15
+        },
+        {
+          "period": "2025-08",
+          "value": 15
+        },
+        {
+          "period": "2025-09",
+          "value": 15
+        },
+        {
+          "period": "2025-10",
+          "value": 15
+        },
+        {
+          "period": "2025-11",
+          "value": 15
+        },
+        {
+          "period": "2025-12",
+          "value": 15
+        },
+        {
+          "period": "2026-01",
+          "value": 15
+        },
+        {
+          "period": "2026-02",
+          "value": 15
+        },
+        {
+          "period": "2026-03",
+          "value": 15
+        },
+        {
+          "period": "2026-04",
+          "value": 15
+        },
+        {
+          "period": "2026-05",
+          "value": 15
+        },
+        {
+          "period": "2026-06",
+          "value": null
+        },
+        {
+          "period": "2026-07",
+          "value": null
+        },
+        {
+          "period": "2026-08",
+          "value": null
+        },
+        {
+          "period": "2026-09",
+          "value": null
+        },
+        {
+          "period": "2026-10",
+          "value": null
+        },
+        {
+          "period": "2026-11",
+          "value": null
+        },
+        {
+          "period": "2026-12",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Residential Mortgages Rates: Min.",
+      "unit": "%",
+      "observations": [
+        {
+          "period": "2023-01",
+          "value": 4
+        },
+        {
+          "period": "2023-02",
+          "value": 4
+        },
+        {
+          "period": "2023-03",
+          "value": 3.5
+        },
+        {
+          "period": "2023-04",
+          "value": 3.5
+        },
+        {
+          "period": "2023-05",
+          "value": 3.5
+        },
+        {
+          "period": "2023-06",
+          "value": 4
+        },
+        {
+          "period": "2023-07",
+          "value": 4
+        },
+        {
+          "period": "2023-08",
+          "value": 4
+        },
+        {
+          "period": "2023-09",
+          "value": 4
+        },
+        {
+          "period": "2023-10",
+          "value": 4
+        },
+        {
+          "period": "2023-11",
+          "value": 4
+        },
+        {
+          "period": "2023-12",
+          "value": 4
+        },
+        {
+          "period": "2024-01",
+          "value": 4
+        },
+        {
+          "period": "2024-02",
+          "value": 4
+        },
+        {
+          "period": "2024-03",
+          "value": 4
+        },
+        {
+          "period": "2024-04",
+          "value": 4
+        },
+        {
+          "period": "2024-05",
+          "value": 4
+        },
+        {
+          "period": "2024-06",
+          "value": 4
+        },
+        {
+          "period": "2024-07",
+          "value": 4
+        },
+        {
+          "period": "2024-08",
+          "value": 4
+        },
+        {
+          "period": "2024-09",
+          "value": 4
+        },
+        {
+          "period": "2024-10",
+          "value": 4
+        },
+        {
+          "period": "2024-11",
+          "value": 4
+        },
+        {
+          "period": "2024-12",
+          "value": 4
+        },
+        {
+          "period": "2025-01",
+          "value": 4
+        },
+        {
+          "period": "2025-02",
+          "value": 4
+        },
+        {
+          "period": "2025-03",
+          "value": 4
+        },
+        {
+          "period": "2025-04",
+          "value": 4
+        },
+        {
+          "period": "2025-05",
+          "value": 4
+        },
+        {
+          "period": "2025-06",
+          "value": 4
+        },
+        {
+          "period": "2025-07",
+          "value": 4
+        },
+        {
+          "period": "2025-08",
+          "value": 4
+        },
+        {
+          "period": "2025-09",
+          "value": 4
+        },
+        {
+          "period": "2025-10",
+          "value": 4
+        },
+        {
+          "period": "2025-11",
+          "value": 4
+        },
+        {
+          "period": "2025-12",
+          "value": 4
+        },
+        {
+          "period": "2026-01",
+          "value": 4
+        },
+        {
+          "period": "2026-02",
+          "value": 4
+        },
+        {
+          "period": "2026-03",
+          "value": 4
+        },
+        {
+          "period": "2026-04",
+          "value": 4
+        },
+        {
+          "period": "2026-05",
+          "value": 4
+        },
+        {
+          "period": "2026-06",
+          "value": null
+        },
+        {
+          "period": "2026-07",
+          "value": null
+        },
+        {
+          "period": "2026-08",
+          "value": null
+        },
+        {
+          "period": "2026-09",
+          "value": null
+        },
+        {
+          "period": "2026-10",
+          "value": null
+        },
+        {
+          "period": "2026-11",
+          "value": null
+        },
+        {
+          "period": "2026-12",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Residential Mortgages Rates: Max.",
+      "unit": "%",
+      "observations": [
+        {
+          "period": "2023-01",
+          "value": 14
+        },
+        {
+          "period": "2023-02",
+          "value": 14
+        },
+        {
+          "period": "2023-03",
+          "value": 14
+        },
+        {
+          "period": "2023-04",
+          "value": 14
+        },
+        {
+          "period": "2023-05",
+          "value": 14
+        },
+        {
+          "period": "2023-06",
+          "value": 14
+        },
+        {
+          "period": "2023-07",
+          "value": 14
+        },
+        {
+          "period": "2023-08",
+          "value": 14
+        },
+        {
+          "period": "2023-09",
+          "value": 14
+        },
+        {
+          "period": "2023-10",
+          "value": 14
+        },
+        {
+          "period": "2023-11",
+          "value": 14
+        },
+        {
+          "period": "2023-12",
+          "value": 14
+        },
+        {
+          "period": "2024-01",
+          "value": 14
+        },
+        {
+          "period": "2024-02",
+          "value": 14
+        },
+        {
+          "period": "2024-03",
+          "value": 14
+        },
+        {
+          "period": "2024-04",
+          "value": 14
+        },
+        {
+          "period": "2024-05",
+          "value": 14
+        },
+        {
+          "period": "2024-06",
+          "value": 14
+        },
+        {
+          "period": "2024-07",
+          "value": 14
+        },
+        {
+          "period": "2024-08",
+          "value": 14
+        },
+        {
+          "period": "2024-09",
+          "value": 14
+        },
+        {
+          "period": "2024-10",
+          "value": 14
+        },
+        {
+          "period": "2024-11",
+          "value": 14
+        },
+        {
+          "period": "2024-12",
+          "value": 14
+        },
+        {
+          "period": "2025-01",
+          "value": 14
+        },
+        {
+          "period": "2025-02",
+          "value": 14
+        },
+        {
+          "period": "2025-03",
+          "value": 14
+        },
+        {
+          "period": "2025-04",
+          "value": 14
+        },
+        {
+          "period": "2025-05",
+          "value": 14
+        },
+        {
+          "period": "2025-06",
+          "value": 14
+        },
+        {
+          "period": "2025-07",
+          "value": 14
+        },
+        {
+          "period": "2025-08",
+          "value": 14
+        },
+        {
+          "period": "2025-09",
+          "value": 14
+        },
+        {
+          "period": "2025-10",
+          "value": 14
+        },
+        {
+          "period": "2025-11",
+          "value": 14
+        },
+        {
+          "period": "2025-12",
+          "value": 14
+        },
+        {
+          "period": "2026-01",
+          "value": 14
+        },
+        {
+          "period": "2026-02",
+          "value": 14
+        },
+        {
+          "period": "2026-03",
+          "value": 14
+        },
+        {
+          "period": "2026-04",
+          "value": 14
+        },
+        {
+          "period": "2026-05",
+          "value": 14
+        },
+        {
+          "period": "2026-06",
+          "value": null
+        },
+        {
+          "period": "2026-07",
+          "value": null
+        },
+        {
+          "period": "2026-08",
+          "value": null
+        },
+        {
+          "period": "2026-09",
+          "value": null
+        },
+        {
+          "period": "2026-10",
+          "value": null
+        },
+        {
+          "period": "2026-11",
+          "value": null
+        },
+        {
+          "period": "2026-12",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Commercial Mortgages Rates: Min.",
+      "unit": "%",
+      "observations": [
+        {
+          "period": "2023-01",
+          "value": 4.5
+        },
+        {
+          "period": "2023-02",
+          "value": 4.5
+        },
+        {
+          "period": "2023-03",
+          "value": 4.5
+        },
+        {
+          "period": "2023-04",
+          "value": 4.5
+        },
+        {
+          "period": "2023-05",
+          "value": 4.5
+        },
+        {
+          "period": "2023-06",
+          "value": 4.5
+        },
+        {
+          "period": "2023-07",
+          "value": 4.5
+        },
+        {
+          "period": "2023-08",
+          "value": 4.5
+        },
+        {
+          "period": "2023-09",
+          "value": 4.5
+        },
+        {
+          "period": "2023-10",
+          "value": 4.5
+        },
+        {
+          "period": "2023-11",
+          "value": 4.5
+        },
+        {
+          "period": "2023-12",
+          "value": 4.5
+        },
+        {
+          "period": "2024-01",
+          "value": 4.5
+        },
+        {
+          "period": "2024-02",
+          "value": 4.5
+        },
+        {
+          "period": "2024-03",
+          "value": 4.5
+        },
+        {
+          "period": "2024-04",
+          "value": 4.5
+        },
+        {
+          "period": "2024-05",
+          "value": 4.5
+        },
+        {
+          "period": "2024-06",
+          "value": 4.5
+        },
+        {
+          "period": "2024-07",
+          "value": 4.5
+        },
+        {
+          "period": "2024-08",
+          "value": 4.5
+        },
+        {
+          "period": "2024-09",
+          "value": 4.5
+        },
+        {
+          "period": "2024-10",
+          "value": 4.5
+        },
+        {
+          "period": "2024-11",
+          "value": 4.5
+        },
+        {
+          "period": "2024-12",
+          "value": 4.5
+        },
+        {
+          "period": "2025-01",
+          "value": 4.5
+        },
+        {
+          "period": "2025-02",
+          "value": 4.5
+        },
+        {
+          "period": "2025-03",
+          "value": 4.5
+        },
+        {
+          "period": "2025-04",
+          "value": 4.5
+        },
+        {
+          "period": "2025-05",
+          "value": 4.5
+        },
+        {
+          "period": "2025-06",
+          "value": 4.5
+        },
+        {
+          "period": "2025-07",
+          "value": 4.5
+        },
+        {
+          "period": "2025-08",
+          "value": 4.5
+        },
+        {
+          "period": "2025-09",
+          "value": 4.5
+        },
+        {
+          "period": "2025-10",
+          "value": 4.5
+        },
+        {
+          "period": "2025-11",
+          "value": 4.5
+        },
+        {
+          "period": "2025-12",
+          "value": 4.5
+        },
+        {
+          "period": "2026-01",
+          "value": 4.5
+        },
+        {
+          "period": "2026-02",
+          "value": 4.5
+        },
+        {
+          "period": "2026-03",
+          "value": 4.5
+        },
+        {
+          "period": "2026-04",
+          "value": 4.5
+        },
+        {
+          "period": "2026-05",
+          "value": 4.5
+        },
+        {
+          "period": "2026-06",
+          "value": null
+        },
+        {
+          "period": "2026-07",
+          "value": null
+        },
+        {
+          "period": "2026-08",
+          "value": null
+        },
+        {
+          "period": "2026-09",
+          "value": null
+        },
+        {
+          "period": "2026-10",
+          "value": null
+        },
+        {
+          "period": "2026-11",
+          "value": null
+        },
+        {
+          "period": "2026-12",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Commercial Mortgages Rates: Max.",
+      "unit": "%",
+      "observations": [
+        {
+          "period": "2023-01",
+          "value": 15.5
+        },
+        {
+          "period": "2023-02",
+          "value": 15.5
+        },
+        {
+          "period": "2023-03",
+          "value": 15.5
+        },
+        {
+          "period": "2023-04",
+          "value": 15.5
+        },
+        {
+          "period": "2023-05",
+          "value": 15.5
+        },
+        {
+          "period": "2023-06",
+          "value": 15.5
+        },
+        {
+          "period": "2023-07",
+          "value": 15.5
+        },
+        {
+          "period": "2023-08",
+          "value": 15.5
+        },
+        {
+          "period": "2023-09",
+          "value": 15.5
+        },
+        {
+          "period": "2023-10",
+          "value": 15.5
+        },
+        {
+          "period": "2023-11",
+          "value": 15.5
+        },
+        {
+          "period": "2023-12",
+          "value": 15.5
+        },
+        {
+          "period": "2024-01",
+          "value": 15.5
+        },
+        {
+          "period": "2024-02",
+          "value": 15.5
+        },
+        {
+          "period": "2024-03",
+          "value": 15.5
+        },
+        {
+          "period": "2024-04",
+          "value": 15.5
+        },
+        {
+          "period": "2024-05",
+          "value": 15.5
+        },
+        {
+          "period": "2024-06",
+          "value": 15.5
+        },
+        {
+          "period": "2024-07",
+          "value": 15.5
+        },
+        {
+          "period": "2024-08",
+          "value": 15.5
+        },
+        {
+          "period": "2024-09",
+          "value": 15.5
+        },
+        {
+          "period": "2024-10",
+          "value": 15.5
+        },
+        {
+          "period": "2024-11",
+          "value": 15.5
+        },
+        {
+          "period": "2024-12",
+          "value": 15.5
+        },
+        {
+          "period": "2025-01",
+          "value": 15.5
+        },
+        {
+          "period": "2025-02",
+          "value": 15.5
+        },
+        {
+          "period": "2025-03",
+          "value": 15.5
+        },
+        {
+          "period": "2025-04",
+          "value": 15.5
+        },
+        {
+          "period": "2025-05",
+          "value": 15.5
+        },
+        {
+          "period": "2025-06",
+          "value": 15.5
+        },
+        {
+          "period": "2025-07",
+          "value": 15.5
+        },
+        {
+          "period": "2025-08",
+          "value": 15.5
+        },
+        {
+          "period": "2025-09",
+          "value": 15.5
+        },
+        {
+          "period": "2025-10",
+          "value": 15.5
+        },
+        {
+          "period": "2025-11",
+          "value": 15.5
+        },
+        {
+          "period": "2025-12",
+          "value": 15.5
+        },
+        {
+          "period": "2026-01",
+          "value": 15.5
+        },
+        {
+          "period": "2026-02",
+          "value": 15.5
+        },
+        {
+          "period": "2026-03",
+          "value": 15.5
+        },
+        {
+          "period": "2026-04",
+          "value": 15.5
+        },
+        {
+          "period": "2026-05",
+          "value": 15.5
+        },
+        {
+          "period": "2026-06",
+          "value": null
+        },
+        {
+          "period": "2026-07",
+          "value": null
+        },
+        {
+          "period": "2026-08",
+          "value": null
+        },
+        {
+          "period": "2026-09",
+          "value": null
+        },
+        {
+          "period": "2026-10",
+          "value": null
+        },
+        {
+          "period": "2026-11",
+          "value": null
+        },
+        {
+          "period": "2026-12",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Other Lending Rates: Min.",
+      "unit": "%",
+      "observations": [
+        {
+          "period": "2023-01",
+          "value": 3.5
+        },
+        {
+          "period": "2023-02",
+          "value": 3.5
+        },
+        {
+          "period": "2023-03",
+          "value": 3.5
+        },
+        {
+          "period": "2023-04",
+          "value": 3.5
+        },
+        {
+          "period": "2023-05",
+          "value": 3.5
+        },
+        {
+          "period": "2023-06",
+          "value": 3.5
+        },
+        {
+          "period": "2023-07",
+          "value": 3.5
+        },
+        {
+          "period": "2023-08",
+          "value": 3.5
+        },
+        {
+          "period": "2023-09",
+          "value": 3.5
+        },
+        {
+          "period": "2023-10",
+          "value": 3.5
+        },
+        {
+          "period": "2023-11",
+          "value": 3.5
+        },
+        {
+          "period": "2023-12",
+          "value": 3.5
+        },
+        {
+          "period": "2024-01",
+          "value": 3.5
+        },
+        {
+          "period": "2024-02",
+          "value": 3.5
+        },
+        {
+          "period": "2024-03",
+          "value": 3.5
+        },
+        {
+          "period": "2024-04",
+          "value": 3.5
+        },
+        {
+          "period": "2024-05",
+          "value": 3.5
+        },
+        {
+          "period": "2024-06",
+          "value": 3.5
+        },
+        {
+          "period": "2024-07",
+          "value": 3.5
+        },
+        {
+          "period": "2024-08",
+          "value": 3.5
+        },
+        {
+          "period": "2024-09",
+          "value": 3.5
+        },
+        {
+          "period": "2024-10",
+          "value": 3.5
+        },
+        {
+          "period": "2024-11",
+          "value": 3.5
+        },
+        {
+          "period": "2024-12",
+          "value": 3.5
+        },
+        {
+          "period": "2025-01",
+          "value": 3.5
+        },
+        {
+          "period": "2025-02",
+          "value": 3.5
+        },
+        {
+          "period": "2025-03",
+          "value": 3.5
+        },
+        {
+          "period": "2025-04",
+          "value": 3.5
+        },
+        {
+          "period": "2025-05",
+          "value": 3.5
+        },
+        {
+          "period": "2025-06",
+          "value": 3.5
+        },
+        {
+          "period": "2025-07",
+          "value": 3.5
+        },
+        {
+          "period": "2025-08",
+          "value": 3.5
+        },
+        {
+          "period": "2025-09",
+          "value": 3.5
+        },
+        {
+          "period": "2025-10",
+          "value": 3.5
+        },
+        {
+          "period": "2025-11",
+          "value": 3.5
+        },
+        {
+          "period": "2025-12",
+          "value": 3.5
+        },
+        {
+          "period": "2026-01",
+          "value": 3.5
+        },
+        {
+          "period": "2026-02",
+          "value": 3.5
+        },
+        {
+          "period": "2026-03",
+          "value": 3.5
+        },
+        {
+          "period": "2026-04",
+          "value": 3.5
+        },
+        {
+          "period": "2026-05",
+          "value": 3.5
+        },
+        {
+          "period": "2026-06",
+          "value": null
+        },
+        {
+          "period": "2026-07",
+          "value": null
+        },
+        {
+          "period": "2026-08",
+          "value": null
+        },
+        {
+          "period": "2026-09",
+          "value": null
+        },
+        {
+          "period": "2026-10",
+          "value": null
+        },
+        {
+          "period": "2026-11",
+          "value": null
+        },
+        {
+          "period": "2026-12",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Other Lending Rates: Max.",
+      "unit": "%",
+      "observations": [
+        {
+          "period": "2023-01",
+          "value": 25
+        },
+        {
+          "period": "2023-02",
+          "value": 25
+        },
+        {
+          "period": "2023-03",
+          "value": 25
+        },
+        {
+          "period": "2023-04",
+          "value": 25
+        },
+        {
+          "period": "2023-05",
+          "value": 25
+        },
+        {
+          "period": "2023-06",
+          "value": 25
+        },
+        {
+          "period": "2023-07",
+          "value": 25
+        },
+        {
+          "period": "2023-08",
+          "value": 25
+        },
+        {
+          "period": "2023-09",
+          "value": 25
+        },
+        {
+          "period": "2023-10",
+          "value": 25
+        },
+        {
+          "period": "2023-11",
+          "value": 25
+        },
+        {
+          "period": "2023-12",
+          "value": 25
+        },
+        {
+          "period": "2024-01",
+          "value": 25
+        },
+        {
+          "period": "2024-02",
+          "value": 25
+        },
+        {
+          "period": "2024-03",
+          "value": 25
+        },
+        {
+          "period": "2024-04",
+          "value": 25
+        },
+        {
+          "period": "2024-05",
+          "value": 25
+        },
+        {
+          "period": "2024-06",
+          "value": 25
+        },
+        {
+          "period": "2024-07",
+          "value": 25
+        },
+        {
+          "period": "2024-08",
+          "value": 25
+        },
+        {
+          "period": "2024-09",
+          "value": 25
+        },
+        {
+          "period": "2024-10",
+          "value": 25
+        },
+        {
+          "period": "2024-11",
+          "value": 25
+        },
+        {
+          "period": "2024-12",
+          "value": 25
+        },
+        {
+          "period": "2025-01",
+          "value": 25
+        },
+        {
+          "period": "2025-02",
+          "value": 25
+        },
+        {
+          "period": "2025-03",
+          "value": 25
+        },
+        {
+          "period": "2025-04",
+          "value": 25
+        },
+        {
+          "period": "2025-05",
+          "value": 25
+        },
+        {
+          "period": "2025-06",
+          "value": 25
+        },
+        {
+          "period": "2025-07",
+          "value": 25
+        },
+        {
+          "period": "2025-08",
+          "value": 25
+        },
+        {
+          "period": "2025-09",
+          "value": 25
+        },
+        {
+          "period": "2025-10",
+          "value": 25
+        },
+        {
+          "period": "2025-11",
+          "value": 25
+        },
+        {
+          "period": "2025-12",
+          "value": 25
+        },
+        {
+          "period": "2026-01",
+          "value": 25
+        },
+        {
+          "period": "2026-02",
+          "value": 25
+        },
+        {
+          "period": "2026-03",
+          "value": 25
+        },
+        {
+          "period": "2026-04",
+          "value": 25
+        },
+        {
+          "period": "2026-05",
+          "value": 25
+        },
+        {
+          "period": "2026-06",
+          "value": null
+        },
+        {
+          "period": "2026-07",
+          "value": null
+        },
+        {
+          "period": "2026-08",
+          "value": null
+        },
+        {
+          "period": "2026-09",
+          "value": null
+        },
+        {
+          "period": "2026-10",
+          "value": null
+        },
+        {
+          "period": "2026-11",
+          "value": null
+        },
+        {
+          "period": "2026-12",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Nominal Interest Rates: Min.",
+      "unit": "%",
+      "observations": [
+        {
+          "period": "2023-01",
+          "value": 7.99
+        },
+        {
+          "period": "2023-02",
+          "value": 7.99
+        },
+        {
+          "period": "2023-03",
+          "value": 7.99
+        },
+        {
+          "period": "2023-04",
+          "value": 7.99
+        },
+        {
+          "period": "2023-05",
+          "value": 7.99
+        },
+        {
+          "period": "2023-06",
+          "value": 7.99
+        },
+        {
+          "period": "2023-07",
+          "value": 7.99
+        },
+        {
+          "period": "2023-08",
+          "value": 7.99
+        },
+        {
+          "period": "2023-09",
+          "value": 7.99
+        },
+        {
+          "period": "2023-10",
+          "value": 7.99
+        },
+        {
+          "period": "2023-11",
+          "value": 7.99
+        },
+        {
+          "period": "2023-12",
+          "value": 7.99
+        },
+        {
+          "period": "2024-01",
+          "value": 7.99
+        },
+        {
+          "period": "2024-02",
+          "value": 7.99
+        },
+        {
+          "period": "2024-03",
+          "value": 7.99
+        },
+        {
+          "period": "2024-04",
+          "value": 7.99
+        },
+        {
+          "period": "2024-05",
+          "value": 7.99
+        },
+        {
+          "period": "2024-06",
+          "value": 7.99
+        },
+        {
+          "period": "2024-07",
+          "value": 7.99
+        },
+        {
+          "period": "2024-08",
+          "value": 7.99
+        },
+        {
+          "period": "2024-09",
+          "value": 7.99
+        },
+        {
+          "period": "2024-10",
+          "value": 7.99
+        },
+        {
+          "period": "2024-11",
+          "value": 7.99
+        },
+        {
+          "period": "2024-12",
+          "value": 7.99
+        },
+        {
+          "period": "2025-01",
+          "value": 7.99
+        },
+        {
+          "period": "2025-02",
+          "value": 7.99
+        },
+        {
+          "period": "2025-03",
+          "value": 7.99
+        },
+        {
+          "period": "2025-04",
+          "value": 7.99
+        },
+        {
+          "period": "2025-05",
+          "value": 7.99
+        },
+        {
+          "period": "2025-06",
+          "value": 7.99
+        },
+        {
+          "period": "2025-07",
+          "value": 7.99
+        },
+        {
+          "period": "2025-08",
+          "value": 7.99
+        },
+        {
+          "period": "2025-09",
+          "value": 7.99
+        },
+        {
+          "period": "2025-10",
+          "value": 7.99
+        },
+        {
+          "period": "2025-11",
+          "value": 7.99
+        },
+        {
+          "period": "2025-12",
+          "value": 7.99
+        },
+        {
+          "period": "2026-01",
+          "value": 7.99
+        },
+        {
+          "period": "2026-02",
+          "value": 7.99
+        },
+        {
+          "period": "2026-03",
+          "value": 7.99
+        },
+        {
+          "period": "2026-04",
+          "value": 7.99
+        },
+        {
+          "period": "2026-05",
+          "value": 7.99
+        },
+        {
+          "period": "2026-06",
+          "value": null
+        },
+        {
+          "period": "2026-07",
+          "value": null
+        },
+        {
+          "period": "2026-08",
+          "value": null
+        },
+        {
+          "period": "2026-09",
+          "value": null
+        },
+        {
+          "period": "2026-10",
+          "value": null
+        },
+        {
+          "period": "2026-11",
+          "value": null
+        },
+        {
+          "period": "2026-12",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Nominal Interest Rates: Max.",
+      "unit": "%",
+      "observations": [
+        {
+          "period": "2023-01",
+          "value": 13
+        },
+        {
+          "period": "2023-02",
+          "value": 13
+        },
+        {
+          "period": "2023-03",
+          "value": 13
+        },
+        {
+          "period": "2023-04",
+          "value": 13
+        },
+        {
+          "period": "2023-05",
+          "value": 13
+        },
+        {
+          "period": "2023-06",
+          "value": 13
+        },
+        {
+          "period": "2023-07",
+          "value": 13
+        },
+        {
+          "period": "2023-08",
+          "value": 13
+        },
+        {
+          "period": "2023-09",
+          "value": 13
+        },
+        {
+          "period": "2023-10",
+          "value": 13
+        },
+        {
+          "period": "2023-11",
+          "value": 13
+        },
+        {
+          "period": "2023-12",
+          "value": 13
+        },
+        {
+          "period": "2024-01",
+          "value": 13
+        },
+        {
+          "period": "2024-02",
+          "value": 13
+        },
+        {
+          "period": "2024-03",
+          "value": 13
+        },
+        {
+          "period": "2024-04",
+          "value": 13
+        },
+        {
+          "period": "2024-05",
+          "value": 13
+        },
+        {
+          "period": "2024-06",
+          "value": 13
+        },
+        {
+          "period": "2024-07",
+          "value": 13
+        },
+        {
+          "period": "2024-08",
+          "value": 13
+        },
+        {
+          "period": "2024-09",
+          "value": 13
+        },
+        {
+          "period": "2024-10",
+          "value": 13
+        },
+        {
+          "period": "2024-11",
+          "value": 13
+        },
+        {
+          "period": "2024-12",
+          "value": 13
+        },
+        {
+          "period": "2025-01",
+          "value": 13
+        },
+        {
+          "period": "2025-02",
+          "value": 13
+        },
+        {
+          "period": "2025-03",
+          "value": 13
+        },
+        {
+          "period": "2025-04",
+          "value": 13
+        },
+        {
+          "period": "2025-05",
+          "value": 13
+        },
+        {
+          "period": "2025-06",
+          "value": 13
+        },
+        {
+          "period": "2025-07",
+          "value": 13
+        },
+        {
+          "period": "2025-08",
+          "value": 13
+        },
+        {
+          "period": "2025-09",
+          "value": 13
+        },
+        {
+          "period": "2025-10",
+          "value": 13
+        },
+        {
+          "period": "2025-11",
+          "value": 13
+        },
+        {
+          "period": "2025-12",
+          "value": 13
+        },
+        {
+          "period": "2026-01",
+          "value": 13
+        },
+        {
+          "period": "2026-02",
+          "value": 13
+        },
+        {
+          "period": "2026-03",
+          "value": 13
+        },
+        {
+          "period": "2026-04",
+          "value": 13
+        },
+        {
+          "period": "2026-05",
+          "value": 13
+        },
+        {
+          "period": "2026-06",
+          "value": null
+        },
+        {
+          "period": "2026-07",
+          "value": null
+        },
+        {
+          "period": "2026-08",
+          "value": null
+        },
+        {
+          "period": "2026-09",
+          "value": null
+        },
+        {
+          "period": "2026-10",
+          "value": null
+        },
+        {
+          "period": "2026-11",
+          "value": null
+        },
+        {
+          "period": "2026-12",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Effective Interest Rates: Min.",
+      "unit": "%",
+      "observations": [
+        {
+          "period": "2023-01",
+          "value": 11.26
+        },
+        {
+          "period": "2023-02",
+          "value": 11.26
+        },
+        {
+          "period": "2023-03",
+          "value": 11.26
+        },
+        {
+          "period": "2023-04",
+          "value": 11.26
+        },
+        {
+          "period": "2023-05",
+          "value": 11.26
+        },
+        {
+          "period": "2023-06",
+          "value": 11.26
+        },
+        {
+          "period": "2023-07",
+          "value": 11.26
+        },
+        {
+          "period": "2023-08",
+          "value": 11.26
+        },
+        {
+          "period": "2023-09",
+          "value": 11.26
+        },
+        {
+          "period": "2023-10",
+          "value": 11.26
+        },
+        {
+          "period": "2023-11",
+          "value": 11.26
+        },
+        {
+          "period": "2023-12",
+          "value": 11.26
+        },
+        {
+          "period": "2024-01",
+          "value": 11.26
+        },
+        {
+          "period": "2024-02",
+          "value": 11.26
+        },
+        {
+          "period": "2024-03",
+          "value": 11.26
+        },
+        {
+          "period": "2024-04",
+          "value": 11.26
+        },
+        {
+          "period": "2024-05",
+          "value": 11.26
+        },
+        {
+          "period": "2024-06",
+          "value": 11.26
+        },
+        {
+          "period": "2024-07",
+          "value": 11.26
+        },
+        {
+          "period": "2024-08",
+          "value": 11.26
+        },
+        {
+          "period": "2024-09",
+          "value": 11.26
+        },
+        {
+          "period": "2024-10",
+          "value": 11.26
+        },
+        {
+          "period": "2024-11",
+          "value": 11.26
+        },
+        {
+          "period": "2024-12",
+          "value": 11.26
+        },
+        {
+          "period": "2025-01",
+          "value": 11.26
+        },
+        {
+          "period": "2025-02",
+          "value": 11.26
+        },
+        {
+          "period": "2025-03",
+          "value": 11.26
+        },
+        {
+          "period": "2025-04",
+          "value": 11.26
+        },
+        {
+          "period": "2025-05",
+          "value": 11.26
+        },
+        {
+          "period": "2025-06",
+          "value": 11.26
+        },
+        {
+          "period": "2025-07",
+          "value": 11.26
+        },
+        {
+          "period": "2025-08",
+          "value": 11.26
+        },
+        {
+          "period": "2025-09",
+          "value": 11.26
+        },
+        {
+          "period": "2025-10",
+          "value": 11.26
+        },
+        {
+          "period": "2025-11",
+          "value": 11.26
+        },
+        {
+          "period": "2025-12",
+          "value": 11.26
+        },
+        {
+          "period": "2026-01",
+          "value": 11.26
+        },
+        {
+          "period": "2026-02",
+          "value": 11.26
+        },
+        {
+          "period": "2026-03",
+          "value": 11.26
+        },
+        {
+          "period": "2026-04",
+          "value": 11.26
+        },
+        {
+          "period": "2026-05",
+          "value": 11.26
+        },
+        {
+          "period": "2026-06",
+          "value": null
+        },
+        {
+          "period": "2026-07",
+          "value": null
+        },
+        {
+          "period": "2026-08",
+          "value": null
+        },
+        {
+          "period": "2026-09",
+          "value": null
+        },
+        {
+          "period": "2026-10",
+          "value": null
+        },
+        {
+          "period": "2026-11",
+          "value": null
+        },
+        {
+          "period": "2026-12",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Effective Interest Rates: Max.",
+      "unit": "%",
+      "observations": [
+        {
+          "period": "2023-01",
+          "value": 23.19
+        },
+        {
+          "period": "2023-02",
+          "value": 23.19
+        },
+        {
+          "period": "2023-03",
+          "value": 23.19
+        },
+        {
+          "period": "2023-04",
+          "value": 23.19
+        },
+        {
+          "period": "2023-05",
+          "value": 23.19
+        },
+        {
+          "period": "2023-06",
+          "value": 23.19
+        },
+        {
+          "period": "2023-07",
+          "value": 23.19
+        },
+        {
+          "period": "2023-08",
+          "value": 23.19
+        },
+        {
+          "period": "2023-09",
+          "value": 23.19
+        },
+        {
+          "period": "2023-10",
+          "value": 23.19
+        },
+        {
+          "period": "2023-11",
+          "value": 23.19
+        },
+        {
+          "period": "2023-12",
+          "value": 23.19
+        },
+        {
+          "period": "2024-01",
+          "value": 23.19
+        },
+        {
+          "period": "2024-02",
+          "value": 23.19
+        },
+        {
+          "period": "2024-03",
+          "value": 23.19
+        },
+        {
+          "period": "2024-04",
+          "value": 23.19
+        },
+        {
+          "period": "2024-05",
+          "value": 23.19
+        },
+        {
+          "period": "2024-06",
+          "value": 23.19
+        },
+        {
+          "period": "2024-07",
+          "value": 23.19
+        },
+        {
+          "period": "2024-08",
+          "value": 23.19
+        },
+        {
+          "period": "2024-09",
+          "value": 23.19
+        },
+        {
+          "period": "2024-10",
+          "value": 23.19
+        },
+        {
+          "period": "2024-11",
+          "value": 23.19
+        },
+        {
+          "period": "2024-12",
+          "value": 23.19
+        },
+        {
+          "period": "2025-01",
+          "value": 23.19
+        },
+        {
+          "period": "2025-02",
+          "value": 23.19
+        },
+        {
+          "period": "2025-03",
+          "value": 23.19
+        },
+        {
+          "period": "2025-04",
+          "value": 23.19
+        },
+        {
+          "period": "2025-05",
+          "value": 23.19
+        },
+        {
+          "period": "2025-06",
+          "value": 23.19
+        },
+        {
+          "period": "2025-07",
+          "value": 23.19
+        },
+        {
+          "period": "2025-08",
+          "value": 23.19
+        },
+        {
+          "period": "2025-09",
+          "value": 23.19
+        },
+        {
+          "period": "2025-10",
+          "value": 23.19
+        },
+        {
+          "period": "2025-11",
+          "value": 23.19
+        },
+        {
+          "period": "2025-12",
+          "value": 23.19
+        },
+        {
+          "period": "2026-01",
+          "value": 23.19
+        },
+        {
+          "period": "2026-02",
+          "value": 23.19
+        },
+        {
+          "period": "2026-03",
+          "value": 23.19
+        },
+        {
+          "period": "2026-04",
+          "value": 23.19
+        },
+        {
+          "period": "2026-05",
+          "value": 23.19
+        },
+        {
+          "period": "2026-06",
+          "value": null
+        },
+        {
+          "period": "2026-07",
+          "value": null
+        },
+        {
+          "period": "2026-08",
+          "value": null
+        },
+        {
+          "period": "2026-09",
+          "value": null
+        },
+        {
+          "period": "2026-10",
+          "value": null
+        },
+        {
+          "period": "2026-11",
+          "value": null
+        },
+        {
+          "period": "2026-12",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Other Rates, Range: Min.",
+      "unit": "%",
+      "observations": [
+        {
+          "period": "2023-01",
+          "value": 3.5
+        },
+        {
+          "period": "2023-02",
+          "value": 3.5
+        },
+        {
+          "period": "2023-03",
+          "value": 3.5
+        },
+        {
+          "period": "2023-04",
+          "value": 3.5
+        },
+        {
+          "period": "2023-05",
+          "value": 3.5
+        },
+        {
+          "period": "2023-06",
+          "value": 3.5
+        },
+        {
+          "period": "2023-07",
+          "value": 3.5
+        },
+        {
+          "period": "2023-08",
+          "value": 3.5
+        },
+        {
+          "period": "2023-09",
+          "value": 3.5
+        },
+        {
+          "period": "2023-10",
+          "value": 3.5
+        },
+        {
+          "period": "2023-11",
+          "value": 3.5
+        },
+        {
+          "period": "2023-12",
+          "value": 3.5
+        },
+        {
+          "period": "2024-01",
+          "value": 3.5
+        },
+        {
+          "period": "2024-02",
+          "value": 3.5
+        },
+        {
+          "period": "2024-03",
+          "value": 3.5
+        },
+        {
+          "period": "2024-04",
+          "value": 3.5
+        },
+        {
+          "period": "2024-05",
+          "value": 3.5
+        },
+        {
+          "period": "2024-06",
+          "value": 3.5
+        },
+        {
+          "period": "2024-07",
+          "value": 3.5
+        },
+        {
+          "period": "2024-08",
+          "value": 3.5
+        },
+        {
+          "period": "2024-09",
+          "value": 3.5
+        },
+        {
+          "period": "2024-10",
+          "value": 3.5
+        },
+        {
+          "period": "2024-11",
+          "value": 3.5
+        },
+        {
+          "period": "2024-12",
+          "value": 3.5
+        },
+        {
+          "period": "2025-01",
+          "value": 3.5
+        },
+        {
+          "period": "2025-02",
+          "value": 3.5
+        },
+        {
+          "period": "2025-03",
+          "value": 3.5
+        },
+        {
+          "period": "2025-04",
+          "value": 3.5
+        },
+        {
+          "period": "2025-05",
+          "value": 3.5
+        },
+        {
+          "period": "2025-06",
+          "value": 3.5
+        },
+        {
+          "period": "2025-07",
+          "value": 3.5
+        },
+        {
+          "period": "2025-08",
+          "value": 3.5
+        },
+        {
+          "period": "2025-09",
+          "value": 3.5
+        },
+        {
+          "period": "2025-10",
+          "value": 3.5
+        },
+        {
+          "period": "2025-11",
+          "value": 3.5
+        },
+        {
+          "period": "2025-12",
+          "value": 3.5
+        },
+        {
+          "period": "2026-01",
+          "value": 3.5
+        },
+        {
+          "period": "2026-02",
+          "value": 3.5
+        },
+        {
+          "period": "2026-03",
+          "value": 3.5
+        },
+        {
+          "period": "2026-04",
+          "value": 3.5
+        },
+        {
+          "period": "2026-05",
+          "value": 3.5
+        },
+        {
+          "period": "2026-06",
+          "value": null
+        },
+        {
+          "period": "2026-07",
+          "value": null
+        },
+        {
+          "period": "2026-08",
+          "value": null
+        },
+        {
+          "period": "2026-09",
+          "value": null
+        },
+        {
+          "period": "2026-10",
+          "value": null
+        },
+        {
+          "period": "2026-11",
+          "value": null
+        },
+        {
+          "period": "2026-12",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Other Rates, Range: Max.",
+      "unit": "%",
+      "observations": [
+        {
+          "period": "2023-01",
+          "value": 25
+        },
+        {
+          "period": "2023-02",
+          "value": 25
+        },
+        {
+          "period": "2023-03",
+          "value": 25
+        },
+        {
+          "period": "2023-04",
+          "value": 25
+        },
+        {
+          "period": "2023-05",
+          "value": 25
+        },
+        {
+          "period": "2023-06",
+          "value": 25
+        },
+        {
+          "period": "2023-07",
+          "value": 25
+        },
+        {
+          "period": "2023-08",
+          "value": 25
+        },
+        {
+          "period": "2023-09",
+          "value": 25
+        },
+        {
+          "period": "2023-10",
+          "value": 25
+        },
+        {
+          "period": "2023-11",
+          "value": 25
+        },
+        {
+          "period": "2023-12",
+          "value": 25
+        },
+        {
+          "period": "2024-01",
+          "value": 25
+        },
+        {
+          "period": "2024-02",
+          "value": 25
+        },
+        {
+          "period": "2024-03",
+          "value": 25
+        },
+        {
+          "period": "2024-04",
+          "value": 25
+        },
+        {
+          "period": "2024-05",
+          "value": 25
+        },
+        {
+          "period": "2024-06",
+          "value": 25
+        },
+        {
+          "period": "2024-07",
+          "value": 25
+        },
+        {
+          "period": "2024-08",
+          "value": 25
+        },
+        {
+          "period": "2024-09",
+          "value": 25
+        },
+        {
+          "period": "2024-10",
+          "value": 25
+        },
+        {
+          "period": "2024-11",
+          "value": 25
+        },
+        {
+          "period": "2024-12",
+          "value": 25
+        },
+        {
+          "period": "2025-01",
+          "value": 25
+        },
+        {
+          "period": "2025-02",
+          "value": 25
+        },
+        {
+          "period": "2025-03",
+          "value": 25
+        },
+        {
+          "period": "2025-04",
+          "value": 25
+        },
+        {
+          "period": "2025-05",
+          "value": 25
+        },
+        {
+          "period": "2025-06",
+          "value": 25
+        },
+        {
+          "period": "2025-07",
+          "value": 25
+        },
+        {
+          "period": "2025-08",
+          "value": 25
+        },
+        {
+          "period": "2025-09",
+          "value": 25
+        },
+        {
+          "period": "2025-10",
+          "value": 25
+        },
+        {
+          "period": "2025-11",
+          "value": 25
+        },
+        {
+          "period": "2025-12",
+          "value": 25
+        },
+        {
+          "period": "2026-01",
+          "value": 25
+        },
+        {
+          "period": "2026-02",
+          "value": 25
+        },
+        {
+          "period": "2026-03",
+          "value": 25
+        },
+        {
+          "period": "2026-04",
+          "value": 25
+        },
+        {
+          "period": "2026-05",
+          "value": 25
+        },
+        {
+          "period": "2026-06",
+          "value": null
+        },
+        {
+          "period": "2026-07",
+          "value": null
+        },
+        {
+          "period": "2026-08",
+          "value": null
+        },
+        {
+          "period": "2026-09",
+          "value": null
+        },
+        {
+          "period": "2026-10",
+          "value": null
+        },
+        {
+          "period": "2026-11",
+          "value": null
+        },
+        {
+          "period": "2026-12",
+          "value": null
+        }
+      ]
+    }
+  ]
+}
