@@ -11,7 +11,7 @@
     "name": "Barbados"
   },
   "published_at": "2024-09-06",
-  "retrieved_at": "2026-08-13T19:13:30.218Z",
+  "retrieved_at": "2026-08-15T00:30:55.333Z",
   "periods": [
     "2004-Q1",
     "2004-Q2",
@@ -180,7 +180,7 @@
   ],
   "series": [
     {
-      "label": "",
+      "label": "1 Month or less",
       "observations": [
         {
           "period": "2004-Q1",
@@ -501,7 +501,7 @@
       ]
     },
     {
-      "label": "Female",
+      "label": "",
       "observations": [
         {
           "period": "2004-Q1",
@@ -822,7 +822,7 @@
       ]
     },
     {
-      "label": "Male",
+      "label": "Between 1 and 3 Months",
       "observations": [
         {
           "period": "2004-Q1",
@@ -1143,7 +1143,7 @@
       ]
     },
     {
-      "label": "Female",
+      "label": "",
       "observations": [
         {
           "period": "2004-Q1",
@@ -1464,7 +1464,7 @@
       ]
     },
     {
-      "label": "Male",
+      "label": "Between 3 Months and 1 Year",
       "observations": [
         {
           "period": "2004-Q1",
@@ -1785,7 +1785,7 @@
       ]
     },
     {
-      "label": "Female",
+      "label": "",
       "observations": [
         {
           "period": "2004-Q1",
@@ -2106,7 +2106,7 @@
       ]
     },
     {
-      "label": "Male",
+      "label": "Over 1 Year",
       "observations": [
         {
           "period": "2004-Q1",
@@ -2427,7 +2427,7 @@
       ]
     },
     {
-      "label": "Female",
+      "label": "",
       "observations": [
         {
           "period": "2004-Q1",
@@ -2748,7 +2748,7 @@
       ]
     },
     {
-      "label": "Male",
+      "label": "Not Stated",
       "observations": [
         {
           "period": "2004-Q1",
@@ -3069,7 +3069,7 @@
       ]
     },
     {
-      "label": "Female",
+      "label": "",
       "observations": [
         {
           "period": "2004-Q1",

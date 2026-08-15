@@ -4,14 +4,14 @@
   "source_url": "https://www.centralbank.org.bb/news/balance-of-payments-reports/balance-of-payments-bop-1967-2017",
   "attachment_url": "https://cdn.centralbank.org.bb/documents/2022-07-28-13-47-28-Balance-of-Payments1967---2017.xlsx",
   "category": "balance-of-payments-reports",
-  "publication_title": "Balance of Payments (BOP) 1967 - 2017 - Central Bank of Barbados",
+  "publication_title": "Balance of Payments (BOP) 1967 - 2017",
   "sheet": "Current Account",
   "country": {
     "iso3": "BRB",
     "name": "Barbados"
   },
   "published_at": "2022-07-28",
-  "retrieved_at": "2026-08-13T21:56:30.104Z",
+  "retrieved_at": "2026-08-15T00:31:08.709Z",
   "periods": [
     "1967",
     "1968",
@@ -1589,7 +1589,7 @@
       "observations": [
         {
           "period": "1967",
-          "value": -2438.872222
+          "value": null
         },
         {
           "period": "1968",
@@ -1765,7 +1765,7 @@
         },
         {
           "period": "2011",
-          "value": null
+          "value": -2438.872222
         },
         {
           "period": "2012",
@@ -1798,7 +1798,7 @@
       "observations": [
         {
           "period": "1967",
-          "value": 3227.4997764600002
+          "value": null
         },
         {
           "period": "1968",
@@ -1974,7 +1974,7 @@
         },
         {
           "period": "2011",
-          "value": null
+          "value": 3227.4997764600002
         },
         {
           "period": "2012",
