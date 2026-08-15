@@ -11,7 +11,7 @@
     "name": "Barbados"
   },
   "published_at": "2024-09-06",
-  "retrieved_at": "2026-08-13T19:13:30.218Z",
+  "retrieved_at": "2026-08-15T00:30:55.333Z",
   "periods": [
     "2009-Q1",
     "2009-Q2",
@@ -138,7 +138,7 @@
   ],
   "series": [
     {
-      "label": "",
+      "label": "Employer",
       "observations": [
         {
           "period": "2009-Q1",
@@ -375,7 +375,7 @@
       ]
     },
     {
-      "label": "Female",
+      "label": "",
       "observations": [
         {
           "period": "2009-Q1",
@@ -612,7 +612,7 @@
       ]
     },
     {
-      "label": "Male",
+      "label": "Government Employee - Total",
       "observations": [
         {
           "period": "2009-Q1",
@@ -849,7 +849,7 @@
       ]
     },
     {
-      "label": "Female",
+      "label": "",
       "observations": [
         {
           "period": "2009-Q1",
@@ -1086,7 +1086,7 @@
       ]
     },
     {
-      "label": "Male",
+      "label": "Private Employee - Total",
       "observations": [
         {
           "period": "2009-Q1",
@@ -1323,7 +1323,7 @@
       ]
     },
     {
-      "label": "Female",
+      "label": "",
       "observations": [
         {
           "period": "2009-Q1",
@@ -1560,7 +1560,7 @@
       ]
     },
     {
-      "label": "Male",
+      "label": "Self Employed - Total",
       "observations": [
         {
           "period": "2009-Q1",
@@ -1797,7 +1797,7 @@
       ]
     },
     {
-      "label": "Female",
+      "label": "",
       "observations": [
         {
           "period": "2009-Q1",
@@ -2034,7 +2034,7 @@
       ]
     },
     {
-      "label": "Male",
+      "label": "Unpaid Family Worker - Total",
       "observations": [
         {
           "period": "2009-Q1",
@@ -2271,7 +2271,7 @@
       ]
     },
     {
-      "label": "Female",
+      "label": "",
       "observations": [
         {
           "period": "2009-Q1",
@@ -2508,7 +2508,7 @@
       ]
     },
     {
-      "label": "Male",
+      "label": "Apprentice - Total",
       "observations": [
         {
           "period": "2009-Q1",
@@ -2745,7 +2745,7 @@
       ]
     },
     {
-      "label": "Female",
+      "label": "",
       "observations": [
         {
           "period": "2009-Q1",
@@ -2982,7 +2982,7 @@
       ]
     },
     {
-      "label": "Male",
+      "label": "Other - Total",
       "observations": [
         {
           "period": "2009-Q1",
@@ -3219,7 +3219,7 @@
       ]
     },
     {
-      "label": "Female",
+      "label": "",
       "observations": [
         {
           "period": "2009-Q1",
@@ -3456,7 +3456,7 @@
       ]
     },
     {
-      "label": "Male",
+      "label": "Not Stated - Total",
       "observations": [
         {
           "period": "2009-Q1",
@@ -3693,7 +3693,7 @@
       ]
     },
     {
-      "label": "Female",
+      "label": "",
       "observations": [
         {
           "period": "2009-Q1",
@@ -3930,7 +3930,7 @@
       ]
     },
     {
-      "label": "Male",
+      "label": "Total",
       "observations": [
         {
           "period": "2009-Q1",
@@ -4167,7 +4167,7 @@
       ]
     },
     {
-      "label": "Female",
+      "label": "",
       "observations": [
         {
           "period": "2009-Q1",
