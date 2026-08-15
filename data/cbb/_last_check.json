@@ -1,60 +1,60 @@
 {
   "entries": {
     "statistics": {
-      "checked_at": "2026-08-15T18:12:51.500Z",
+      "checked_at": "2026-08-15T18:18:41.923Z",
       "source_stamp": "2026-07-06",
       "window": null,
-      "action": "fetch",
-      "last_full_fetch_at": "2026-08-15T18:12:51.500Z"
+      "action": "deep-fetch",
+      "last_full_fetch_at": "2026-08-15T18:18:41.923Z"
     },
     "gross-domestic-product": {
-      "checked_at": "2026-08-15T18:12:56.504Z",
+      "checked_at": "2026-08-15T18:18:47.369Z",
       "source_stamp": "2025-06-19",
       "window": null,
-      "action": "skipped",
-      "last_full_fetch_at": "2026-08-15T13:56:05.916Z"
+      "action": "deep-fetch",
+      "last_full_fetch_at": "2026-08-15T18:18:47.369Z"
     },
     "inflation-and-retail-price-index": {
-      "checked_at": "2026-08-15T18:12:57.742Z",
+      "checked_at": "2026-08-15T18:18:49.950Z",
       "source_stamp": "2025-03-31",
       "window": null,
-      "action": "skipped",
-      "last_full_fetch_at": "2026-08-15T13:56:08.310Z"
+      "action": "deep-fetch",
+      "last_full_fetch_at": "2026-08-15T18:18:49.950Z"
     },
     "labour-statistics": {
-      "checked_at": "2026-08-15T18:12:59.067Z",
+      "checked_at": "2026-08-15T18:18:53.753Z",
       "source_stamp": "2024-09-06",
       "window": null,
-      "action": "skipped",
-      "last_full_fetch_at": "2026-08-15T13:56:11.550Z"
+      "action": "deep-fetch",
+      "last_full_fetch_at": "2026-08-15T18:18:53.753Z"
     },
     "the-wages-index": {
-      "checked_at": "2026-08-15T18:13:00.798Z",
+      "checked_at": "2026-08-15T18:18:56.702Z",
       "source_stamp": "2023-08-23",
       "window": null,
-      "action": "skipped",
-      "last_full_fetch_at": "2026-08-15T13:56:14.109Z"
+      "action": "deep-fetch",
+      "last_full_fetch_at": "2026-08-15T18:18:56.702Z"
     },
     "index-of-industrial-production": {
-      "checked_at": "2026-08-15T18:13:04.102Z",
+      "checked_at": "2026-08-15T18:18:59.109Z",
       "source_stamp": "2023-08-23",
       "window": null,
-      "action": "skipped",
-      "last_full_fetch_at": "2026-08-15T13:56:16.433Z"
+      "action": "deep-fetch",
+      "last_full_fetch_at": "2026-08-15T18:18:59.109Z"
     },
     "tourism": {
-      "checked_at": "2026-08-15T18:13:05.536Z",
+      "checked_at": "2026-08-15T18:19:06.216Z",
       "source_stamp": "2025-09-16",
       "window": null,
-      "action": "skipped",
-      "last_full_fetch_at": "2026-08-15T13:56:18.796Z"
+      "action": "deep-fetch",
+      "last_full_fetch_at": "2026-08-15T18:19:06.216Z"
     },
     "balance-of-payments-reports": {
-      "checked_at": "2026-08-15T18:13:06.957Z",
+      "checked_at": "2026-08-15T18:19:09.810Z",
       "source_stamp": "2022-07-28",
       "window": null,
-      "action": "skipped",
-      "last_full_fetch_at": "2026-08-15T13:56:21.235Z"
+      "action": "deep-fetch",
+      "last_full_fetch_at": "2026-08-15T18:19:09.810Z"
     }
   }
 }
