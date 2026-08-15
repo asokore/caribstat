@@ -1,60 +1,116 @@
 {
   "entries": {
     "statistics": {
-      "checked_at": "2026-08-15T18:18:41.923Z",
+      "checked_at": "2026-08-15T21:27:56.904Z",
       "source_stamp": "2026-07-06",
       "window": null,
       "action": "deep-fetch",
-      "last_full_fetch_at": "2026-08-15T18:18:41.923Z"
+      "last_full_fetch_at": "2026-08-15T21:27:56.904Z"
     },
     "gross-domestic-product": {
-      "checked_at": "2026-08-15T18:18:47.369Z",
+      "checked_at": "2026-08-15T21:28:02.204Z",
       "source_stamp": "2025-06-19",
       "window": null,
       "action": "deep-fetch",
-      "last_full_fetch_at": "2026-08-15T18:18:47.369Z"
+      "last_full_fetch_at": "2026-08-15T21:28:02.204Z"
     },
     "inflation-and-retail-price-index": {
-      "checked_at": "2026-08-15T18:18:49.950Z",
+      "checked_at": "2026-08-15T21:28:05.694Z",
       "source_stamp": "2025-03-31",
       "window": null,
       "action": "deep-fetch",
-      "last_full_fetch_at": "2026-08-15T18:18:49.950Z"
+      "last_full_fetch_at": "2026-08-15T21:28:05.694Z"
     },
     "labour-statistics": {
-      "checked_at": "2026-08-15T18:18:53.753Z",
+      "checked_at": "2026-08-15T21:28:08.877Z",
       "source_stamp": "2024-09-06",
       "window": null,
       "action": "deep-fetch",
-      "last_full_fetch_at": "2026-08-15T18:18:53.753Z"
+      "last_full_fetch_at": "2026-08-15T21:28:08.877Z"
     },
     "the-wages-index": {
-      "checked_at": "2026-08-15T18:18:56.702Z",
+      "checked_at": "2026-08-15T21:28:11.477Z",
       "source_stamp": "2023-08-23",
       "window": null,
       "action": "deep-fetch",
-      "last_full_fetch_at": "2026-08-15T18:18:56.702Z"
+      "last_full_fetch_at": "2026-08-15T21:28:11.477Z"
     },
     "index-of-industrial-production": {
-      "checked_at": "2026-08-15T18:18:59.109Z",
+      "checked_at": "2026-08-15T21:28:13.723Z",
       "source_stamp": "2023-08-23",
       "window": null,
       "action": "deep-fetch",
-      "last_full_fetch_at": "2026-08-15T18:18:59.109Z"
+      "last_full_fetch_at": "2026-08-15T21:28:13.723Z"
     },
     "tourism": {
-      "checked_at": "2026-08-15T18:19:06.216Z",
+      "checked_at": "2026-08-15T21:28:16.081Z",
       "source_stamp": "2025-09-16",
       "window": null,
       "action": "deep-fetch",
-      "last_full_fetch_at": "2026-08-15T18:19:06.216Z"
+      "last_full_fetch_at": "2026-08-15T21:28:16.081Z"
     },
     "balance-of-payments-reports": {
-      "checked_at": "2026-08-15T18:19:09.810Z",
+      "checked_at": "2026-08-15T21:28:18.495Z",
       "source_stamp": "2022-07-28",
       "window": null,
       "action": "deep-fetch",
-      "last_full_fetch_at": "2026-08-15T18:19:09.810Z"
+      "last_full_fetch_at": "2026-08-15T21:28:18.495Z"
+    },
+    "international-reserves": {
+      "checked_at": "2026-08-15T21:28:21.589Z",
+      "source_stamp": "2026-04-02",
+      "window": null,
+      "action": "deep-fetch",
+      "last_full_fetch_at": "2026-08-15T21:28:21.589Z"
+    },
+    "commercial-banks-deposit-liabilities": {
+      "checked_at": "2026-08-15T21:28:24.192Z",
+      "source_stamp": "2026-04-01",
+      "window": null,
+      "action": "deep-fetch",
+      "last_full_fetch_at": "2026-08-15T21:28:24.192Z"
+    },
+    "depository-corporations-survey": {
+      "checked_at": "2026-08-15T21:28:26.700Z",
+      "source_stamp": "2026-04-01",
+      "window": null,
+      "action": "deep-fetch",
+      "last_full_fetch_at": "2026-08-15T21:28:26.700Z"
+    },
+    "commercial-banks-provisional-deposit-liabilities": {
+      "checked_at": "2026-08-15T21:28:29.305Z",
+      "source_stamp": "2026-06-11",
+      "window": null,
+      "action": "deep-fetch",
+      "last_full_fetch_at": "2026-08-15T21:28:29.305Z"
+    },
+    "financial-soundness-indicators": {
+      "checked_at": "2026-08-15T21:28:31.946Z",
+      "source_stamp": "2026-07-14",
+      "window": null,
+      "action": "deep-fetch",
+      "last_full_fetch_at": "2026-08-15T21:28:31.946Z"
+    },
+    "interest-rates": {
+      "checked_at": "2026-08-15T21:28:34.588Z",
+      "source_stamp": "2026-06-08",
+      "window": null,
+      "action": "deep-fetch",
+      "last_full_fetch_at": "2026-08-15T21:28:34.588Z"
+    },
+    "exchange-rates-cbob": {
+      "checked_at": "2026-08-15T21:28:37.493Z",
+      "source_stamp": "2026-08-07",
+      "window": null,
+      "action": "deep-fetch",
+      "last_full_fetch_at": "2026-08-15T21:28:37.493Z"
+    },
+    "trade-in-goods-barbados": {
+      "checked_at": "2026-08-15T21:28:40.003Z",
+      "source_stamp": "2025-08-07",
+      "window": null,
+      "action": "deep-fetch",
+      "last_full_fetch_at": "2026-08-15T21:28:40.003Z"
     }
   }
 }
