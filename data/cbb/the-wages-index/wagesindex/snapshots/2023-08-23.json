@@ -11,7 +11,7 @@
     "name": "Barbados"
   },
   "published_at": "2023-08-23",
-  "retrieved_at": "2026-08-15T00:30:58.480Z",
+  "retrieved_at": "2026-08-15T00:42:24.159Z",
   "periods": [
     "1970",
     "1971",
@@ -58,7 +58,10 @@
     "2012",
     "2013",
     "2014",
-    "2015"
+    "2015",
+    "2016",
+    "2017",
+    "2018"
   ],
   "periods_raw": [
     1970,
@@ -106,13 +109,17 @@
     2012,
     2013,
     2014,
-    2015
-  ],
-  "revised_periods": [],
-  "unparsed_labels": [
+    2015,
     "2016 (R)",
     "2017 (P)",
-    "2018 (P)",
+    "2018 (P)"
+  ],
+  "revised_periods": [
+    "2016",
+    "2017",
+    "2018"
+  ],
+  "unparsed_labels": [
     "Source: Central Bank of Barbados (and th",
     "Note: The Wages Index was sourced from t",
     "In 2005 the article by Moore and Maynard",
@@ -120,7 +127,7 @@
   ],
   "series": [
     {
-      "label": "",
+      "label": "Extrapolated WAGES INDEX",
       "observations": [
         {
           "period": "1970",
@@ -305,11 +312,23 @@
         {
           "period": "2015",
           "value": 362.9
+        },
+        {
+          "period": "2016",
+          "value": 372.1
+        },
+        {
+          "period": "2017",
+          "value": 375.9
+        },
+        {
+          "period": "2018",
+          "value": 380.7
         }
       ]
     },
     {
-      "label": "",
+      "label": "Total All Sectors",
       "observations": [
         {
           "period": "1970",
@@ -494,11 +513,23 @@
         {
           "period": "2015",
           "value": null
+        },
+        {
+          "period": "2016",
+          "value": null
+        },
+        {
+          "period": "2017",
+          "value": null
+        },
+        {
+          "period": "2018",
+          "value": null
         }
       ]
     },
     {
-      "label": "",
+      "label": "Hotels",
       "observations": [
         {
           "period": "1970",
@@ -683,11 +714,23 @@
         {
           "period": "2015",
           "value": null
+        },
+        {
+          "period": "2016",
+          "value": null
+        },
+        {
+          "period": "2017",
+          "value": null
+        },
+        {
+          "period": "2018",
+          "value": null
         }
       ]
     },
     {
-      "label": "",
+      "label": "Distribution",
       "observations": [
         {
           "period": "1970",
@@ -872,11 +915,23 @@
         {
           "period": "2015",
           "value": null
+        },
+        {
+          "period": "2016",
+          "value": null
+        },
+        {
+          "period": "2017",
+          "value": null
+        },
+        {
+          "period": "2018",
+          "value": null
         }
       ]
     },
     {
-      "label": "",
+      "label": "Sugar Farms",
       "observations": [
         {
           "period": "1970",
@@ -1061,11 +1116,23 @@
         {
           "period": "2015",
           "value": null
+        },
+        {
+          "period": "2016",
+          "value": null
+        },
+        {
+          "period": "2017",
+          "value": null
+        },
+        {
+          "period": "2018",
+          "value": null
         }
       ]
     },
     {
-      "label": "",
+      "label": "Transport",
       "observations": [
         {
           "period": "1970",
@@ -1250,11 +1317,23 @@
         {
           "period": "2015",
           "value": null
+        },
+        {
+          "period": "2016",
+          "value": null
+        },
+        {
+          "period": "2017",
+          "value": null
+        },
+        {
+          "period": "2018",
+          "value": null
         }
       ]
     },
     {
-      "label": "",
+      "label": "Government",
       "observations": [
         {
           "period": "1970",
@@ -1439,11 +1518,23 @@
         {
           "period": "2015",
           "value": null
+        },
+        {
+          "period": "2016",
+          "value": null
+        },
+        {
+          "period": "2017",
+          "value": null
+        },
+        {
+          "period": "2018",
+          "value": null
         }
       ]
     },
     {
-      "label": "",
+      "label": "Construction",
       "observations": [
         {
           "period": "1970",
@@ -1628,11 +1719,23 @@
         {
           "period": "2015",
           "value": null
+        },
+        {
+          "period": "2016",
+          "value": null
+        },
+        {
+          "period": "2017",
+          "value": null
+        },
+        {
+          "period": "2018",
+          "value": null
         }
       ]
     },
     {
-      "label": "",
+      "label": "Telephone",
       "observations": [
         {
           "period": "1970",
@@ -1817,11 +1920,23 @@
         {
           "period": "2015",
           "value": null
+        },
+        {
+          "period": "2016",
+          "value": null
+        },
+        {
+          "period": "2017",
+          "value": null
+        },
+        {
+          "period": "2018",
+          "value": null
         }
       ]
     },
     {
-      "label": "",
+      "label": "Electricity",
       "observations": [
         {
           "period": "1970",
@@ -2006,11 +2121,23 @@
         {
           "period": "2015",
           "value": null
+        },
+        {
+          "period": "2016",
+          "value": null
+        },
+        {
+          "period": "2017",
+          "value": null
+        },
+        {
+          "period": "2018",
+          "value": null
         }
       ]
     },
     {
-      "label": "",
+      "label": "Long- Shoremen",
       "observations": [
         {
           "period": "1970",
@@ -2194,6 +2321,18 @@
         },
         {
           "period": "2015",
+          "value": null
+        },
+        {
+          "period": "2016",
+          "value": null
+        },
+        {
+          "period": "2017",
+          "value": null
+        },
+        {
+          "period": "2018",
           "value": null
         }
       ]
@@ -2384,6 +2523,18 @@
         {
           "period": "2015",
           "value": null
+        },
+        {
+          "period": "2016",
+          "value": null
+        },
+        {
+          "period": "2017",
+          "value": null
+        },
+        {
+          "period": "2018",
+          "value": null
         }
       ]
     },
@@ -2572,6 +2723,18 @@
         },
         {
           "period": "2015",
+          "value": null
+        },
+        {
+          "period": "2016",
+          "value": null
+        },
+        {
+          "period": "2017",
+          "value": null
+        },
+        {
+          "period": "2018",
           "value": null
         }
       ]
@@ -2762,6 +2925,18 @@
         {
           "period": "2015",
           "value": null
+        },
+        {
+          "period": "2016",
+          "value": null
+        },
+        {
+          "period": "2017",
+          "value": null
+        },
+        {
+          "period": "2018",
+          "value": null
         }
       ]
     },
@@ -2950,6 +3125,18 @@
         },
         {
           "period": "2015",
+          "value": null
+        },
+        {
+          "period": "2016",
+          "value": null
+        },
+        {
+          "period": "2017",
+          "value": null
+        },
+        {
+          "period": "2018",
           "value": null
         }
       ]
@@ -3140,6 +3327,18 @@
         {
           "period": "2015",
           "value": null
+        },
+        {
+          "period": "2016",
+          "value": null
+        },
+        {
+          "period": "2017",
+          "value": null
+        },
+        {
+          "period": "2018",
+          "value": null
         }
       ]
     },
@@ -3328,6 +3527,18 @@
         },
         {
           "period": "2015",
+          "value": null
+        },
+        {
+          "period": "2016",
+          "value": null
+        },
+        {
+          "period": "2017",
+          "value": null
+        },
+        {
+          "period": "2018",
           "value": null
         }
       ]
