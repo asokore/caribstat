@@ -5,13 +5,13 @@
   "table_id": "summarized-monetary-survey",
   "table_title": "Summarized Monetary Survey",
   "country": {
-    "iso3": "GRD",
-    "name": "Grenada"
+    "iso3": "ATG",
+    "name": "Antigua and Barbuda"
   },
   "frequency": "a",
   "data_as_at": "2026-08-27",
   "data_as_at_raw": "27 August 2026",
-  "retrieved_at": "2026-08-31T00:09:42.421Z",
+  "retrieved_at": "2026-08-31T00:04:39.087Z",
   "periods": [
     "2015",
     "2016",
@@ -47,47 +47,47 @@
       "observations": [
         {
           "period": "2015",
-          "value": 837.94
+          "value": 1373.79
         },
         {
           "period": "2016",
-          "value": 975.27
+          "value": 1225.5
         },
         {
           "period": "2017",
-          "value": 1053.7
+          "value": 1576.48
         },
         {
           "period": "2018",
-          "value": 1315.16
+          "value": 1793.2
         },
         {
           "period": "2019",
-          "value": 1400.42
+          "value": 1759.54
         },
         {
           "period": "2020",
-          "value": 1720.73
+          "value": 1587.85
         },
         {
           "period": "2021",
-          "value": 1919.12
+          "value": 2230.61
         },
         {
           "period": "2022",
-          "value": 2211.71
+          "value": 2363.09
         },
         {
           "period": "2023",
-          "value": 2404.96
+          "value": 2370.63
         },
         {
           "period": "2024",
-          "value": 2892.16
+          "value": 2531.29
         },
         {
           "period": "2025",
-          "value": 2692.66
+          "value": 2834.6
         },
         {
           "period": "2026",
@@ -101,47 +101,47 @@
       "observations": [
         {
           "period": "2015",
-          "value": 1385.34
+          "value": 3573.4
         },
         {
           "period": "2016",
-          "value": 1526.39
+          "value": 3423.61
         },
         {
           "period": "2017",
-          "value": 1638.79
+          "value": 3864.06
         },
         {
           "period": "2018",
-          "value": 1870.21
+          "value": 4221.3
         },
         {
           "period": "2019",
-          "value": 1906.03
+          "value": 3018.31
         },
         {
           "period": "2020",
-          "value": 2088.02
+          "value": 2323.65
         },
         {
           "period": "2021",
-          "value": 2367.78
+          "value": 2848.89
         },
         {
           "period": "2022",
-          "value": 2766.97
+          "value": 3095.29
         },
         {
           "period": "2023",
-          "value": 2996.99
+          "value": 3264.31
         },
         {
           "period": "2024",
-          "value": 3571.01
+          "value": 3531.26
         },
         {
           "period": "2025",
-          "value": 3487.96
+          "value": 3730.39
         },
         {
           "period": "2026",
@@ -155,47 +155,47 @@
       "observations": [
         {
           "period": "2015",
-          "value": 517.56
+          "value": 1059.39
         },
         {
           "period": "2016",
-          "value": 543.91
+          "value": 963.36
         },
         {
           "period": "2017",
-          "value": 526.34
+          "value": 929.29
         },
         {
           "period": "2018",
-          "value": 623.49
+          "value": 963.27
         },
         {
           "period": "2019",
-          "value": 632.39
+          "value": 828.33
         },
         {
           "period": "2020",
-          "value": 785.58
+          "value": 751.92
         },
         {
           "period": "2021",
-          "value": 875.43
+          "value": 991.4
         },
         {
           "period": "2022",
-          "value": 951.78
+          "value": 1070.04
         },
         {
           "period": "2023",
-          "value": 1050.72
+          "value": 982.28
         },
         {
           "period": "2024",
-          "value": 1115.82
+          "value": 966.51
         },
         {
           "period": "2025",
-          "value": 1089.42
+          "value": 1020.89
         },
         {
           "period": "2026",
@@ -209,47 +209,47 @@
       "observations": [
         {
           "period": "2015",
-          "value": 867.78
+          "value": 2514
         },
         {
           "period": "2016",
-          "value": 982.48
+          "value": 2460.25
         },
         {
           "period": "2017",
-          "value": 1112.45
+          "value": 2934.77
         },
         {
           "period": "2018",
-          "value": 1246.73
+          "value": 3258.03
         },
         {
           "period": "2019",
-          "value": 1273.64
+          "value": 2189.98
         },
         {
           "period": "2020",
-          "value": 1302.43
+          "value": 1571.73
         },
         {
           "period": "2021",
-          "value": 1492.35
+          "value": 1857.5
         },
         {
           "period": "2022",
-          "value": 1815.19
+          "value": 2025.25
         },
         {
           "period": "2023",
-          "value": 1946.27
+          "value": 2282.03
         },
         {
           "period": "2024",
-          "value": 2455.19
+          "value": 2564.75
         },
         {
           "period": "2025",
-          "value": 2398.55
+          "value": 2709.5
         },
         {
           "period": "2026",
@@ -263,47 +263,47 @@
       "observations": [
         {
           "period": "2015",
-          "value": 547.39
+          "value": 2199.61
         },
         {
           "period": "2016",
-          "value": 551.12
+          "value": 2198.1
         },
         {
           "period": "2017",
-          "value": 585.09
+          "value": 2287.58
         },
         {
           "period": "2018",
-          "value": 555.06
+          "value": 2428.1
         },
         {
           "period": "2019",
-          "value": 505.61
+          "value": 1258.77
         },
         {
           "period": "2020",
-          "value": 367.29
+          "value": 735.8
         },
         {
           "period": "2021",
-          "value": 448.66
+          "value": 618.28
         },
         {
           "period": "2022",
-          "value": 555.25
+          "value": 732.2
         },
         {
           "period": "2023",
-          "value": 592.02
+          "value": 893.68
         },
         {
           "period": "2024",
-          "value": 678.85
+          "value": 999.97
         },
         {
           "period": "2025",
-          "value": 795.31
+          "value": 895.79
         },
         {
           "period": "2026",
@@ -317,47 +317,47 @@
       "observations": [
         {
           "period": "2015",
-          "value": 8.44
+          "value": 99.38
         },
         {
           "period": "2016",
-          "value": 0.03
+          "value": 72.69
         },
         {
           "period": "2017",
-          "value": 0.05
+          "value": 82.58
         },
         {
           "period": "2018",
-          "value": 0.08
+          "value": 76.16
         },
         {
           "period": "2019",
-          "value": 0.09
+          "value": 75.1
         },
         {
           "period": "2020",
-          "value": 0.08
+          "value": 153.38
         },
         {
           "period": "2021",
-          "value": 0.13
+          "value": 117.08
         },
         {
           "period": "2022",
-          "value": 0.13
+          "value": 135.53
         },
         {
           "period": "2023",
-          "value": 0.17
+          "value": 120.94
         },
         {
           "period": "2024",
-          "value": 0.23
+          "value": 107.72
         },
         {
           "period": "2025",
-          "value": 3.44
+          "value": 71.54
         },
         {
           "period": "2026",
@@ -371,47 +371,47 @@
       "observations": [
         {
           "period": "2015",
-          "value": 538.95
+          "value": 2100.23
         },
         {
           "period": "2016",
-          "value": 551.08
+          "value": 2125.41
         },
         {
           "period": "2017",
-          "value": 585.04
+          "value": 2205
         },
         {
           "period": "2018",
-          "value": 554.98
+          "value": 2351.94
         },
         {
           "period": "2019",
-          "value": 505.52
+          "value": 1183.67
         },
         {
           "period": "2020",
-          "value": 367.21
+          "value": 582.42
         },
         {
           "period": "2021",
-          "value": 448.53
+          "value": 501.2
         },
         {
           "period": "2022",
-          "value": 555.12
+          "value": 596.68
         },
         {
           "period": "2023",
-          "value": 591.85
+          "value": 772.74
         },
         {
           "period": "2024",
-          "value": 678.63
+          "value": 892.25
         },
         {
           "period": "2025",
-          "value": 791.87
+          "value": 824.25
         },
         {
           "period": "2026",
@@ -425,47 +425,47 @@
       "observations": [
         {
           "period": "2015",
-          "value": 1404.3
+          "value": 2041.5
         },
         {
           "period": "2016",
-          "value": 1330.83
+          "value": 2143.54
         },
         {
           "period": "2017",
-          "value": 1381.11
+          "value": 2031.8
         },
         {
           "period": "2018",
-          "value": 1303.28
+          "value": 2072.47
         },
         {
           "period": "2019",
-          "value": 1290.84
+          "value": 2102.16
         },
         {
           "period": "2020",
-          "value": 938.05
+          "value": 1937.13
         },
         {
           "period": "2021",
-          "value": 965.54
+          "value": 1783.12
         },
         {
           "period": "2022",
-          "value": 958.13
+          "value": 1835.12
         },
         {
           "period": "2023",
-          "value": 808.03
+          "value": 1967.82
         },
         {
           "period": "2024",
-          "value": 591.98
+          "value": 2007.24
         },
         {
           "period": "2025",
-          "value": 836.6
+          "value": 1973.43
         },
         {
           "period": "2026",
@@ -479,47 +479,47 @@
       "observations": [
         {
           "period": "2015",
-          "value": 1439.95
+          "value": 2385.67
         },
         {
           "period": "2016",
-          "value": 1395.99
+          "value": 2481.15
         },
         {
           "period": "2017",
-          "value": 1405.36
+          "value": 2462.7
         },
         {
           "period": "2018",
-          "value": 1351.37
+          "value": 2537.33
         },
         {
           "period": "2019",
-          "value": 1326.22
+          "value": 2563.89
         },
         {
           "period": "2020",
-          "value": 1243.94
+          "value": 2621.17
         },
         {
           "period": "2021",
-          "value": 1348.68
+          "value": 2670.19
         },
         {
           "period": "2022",
-          "value": 1464.18
+          "value": 2633.54
         },
         {
           "period": "2023",
-          "value": 1306.44
+          "value": 2783.84
         },
         {
           "period": "2024",
-          "value": 1179.57
+          "value": 2914.34
         },
         {
           "period": "2025",
-          "value": 1542.59
+          "value": 2979.32
         },
         {
           "period": "2026",
@@ -533,47 +533,47 @@
       "observations": [
         {
           "period": "2015",
-          "value": -157.86
+          "value": 330.64
         },
         {
           "period": "2016",
-          "value": -191.83
+          "value": 388.5
         },
         {
           "period": "2017",
-          "value": -200.33
+          "value": 368.46
         },
         {
           "period": "2018",
-          "value": -329.9
+          "value": 379.4
         },
         {
           "period": "2019",
-          "value": -363.66
+          "value": 375.8
         },
         {
           "period": "2020",
-          "value": -446.49
+          "value": 493.32
         },
         {
           "period": "2021",
-          "value": -448.22
+          "value": 533.15
         },
         {
           "period": "2022",
-          "value": -371.84
+          "value": 562.47
         },
         {
           "period": "2023",
-          "value": -623.74
+          "value": 517.51
         },
         {
           "period": "2024",
-          "value": -924.45
+          "value": 398.69
         },
         {
           "period": "2025",
-          "value": -734.64
+          "value": 361.15
         },
         {
           "period": "2026",
@@ -587,47 +587,47 @@
       "observations": [
         {
           "period": "2015",
-          "value": 76.27
+          "value": 551.69
         },
         {
           "period": "2016",
-          "value": 72.64
+          "value": 489.17
         },
         {
           "period": "2017",
-          "value": 63.42
+          "value": 503.78
         },
         {
           "period": "2018",
-          "value": 44.24
+          "value": 489.58
         },
         {
           "period": "2019",
-          "value": 48.32
+          "value": 479.36
         },
         {
           "period": "2020",
-          "value": 103.83
+          "value": 685.69
         },
         {
           "period": "2021",
-          "value": 79.66
+          "value": 651.14
         },
         {
           "period": "2022",
-          "value": 63.02
+          "value": 704.1
         },
         {
           "period": "2023",
-          "value": 56.17
+          "value": 661.66
         },
         {
           "period": "2024",
-          "value": 77.82
+          "value": 622.75
         },
         {
           "period": "2025",
-          "value": 79.66
+          "value": 603.7
         },
         {
           "period": "2026",
@@ -641,47 +641,47 @@
       "observations": [
         {
           "period": "2015",
-          "value": 8.32
+          "value": 89.7
         },
         {
           "period": "2016",
-          "value": 0
+          "value": 72.68
         },
         {
           "period": "2017",
-          "value": 0
+          "value": 82.5
         },
         {
           "period": "2018",
-          "value": 0
+          "value": 76.06
         },
         {
           "period": "2019",
-          "value": 0
+          "value": 75
         },
         {
           "period": "2020",
-          "value": 0
+          "value": 153.27
         },
         {
           "period": "2021",
-          "value": 0
+          "value": 116.98
         },
         {
           "period": "2022",
-          "value": 0
+          "value": 135.43
         },
         {
           "period": "2023",
-          "value": 0
+          "value": 120.88
         },
         {
           "period": "2024",
-          "value": 0
+          "value": 107.66
         },
         {
           "period": "2025",
-          "value": 3.21
+          "value": 71.49
         },
         {
           "period": "2026",
@@ -695,47 +695,47 @@
       "observations": [
         {
           "period": "2015",
-          "value": 67.95
+          "value": 461.99
         },
         {
           "period": "2016",
-          "value": 72.64
+          "value": 416.49
         },
         {
           "period": "2017",
-          "value": 63.42
+          "value": 421.28
         },
         {
           "period": "2018",
-          "value": 44.24
+          "value": 413.52
         },
         {
           "period": "2019",
-          "value": 48.32
+          "value": 404.36
         },
         {
           "period": "2020",
-          "value": 103.83
+          "value": 532.42
         },
         {
           "period": "2021",
-          "value": 79.66
+          "value": 534.16
         },
         {
           "period": "2022",
-          "value": 63.02
+          "value": 568.67
         },
         {
           "period": "2023",
-          "value": 56.17
+          "value": 540.79
         },
         {
           "period": "2024",
-          "value": 77.82
+          "value": 515.09
         },
         {
           "period": "2025",
-          "value": 76.45
+          "value": 532.21
         },
         {
           "period": "2026",
@@ -749,47 +749,47 @@
       "observations": [
         {
           "period": "2015",
-          "value": 234.13
+          "value": 221.05
         },
         {
           "period": "2016",
-          "value": 264.47
+          "value": 100.67
         },
         {
           "period": "2017",
-          "value": 263.75
+          "value": 135.32
         },
         {
           "period": "2018",
-          "value": 374.14
+          "value": 110.18
         },
         {
           "period": "2019",
-          "value": 411.98
+          "value": 103.56
         },
         {
           "period": "2020",
-          "value": 550.33
+          "value": 192.38
         },
         {
           "period": "2021",
-          "value": 527.89
+          "value": 117.99
         },
         {
           "period": "2022",
-          "value": 434.86
+          "value": 141.63
         },
         {
           "period": "2023",
-          "value": 679.91
+          "value": 144.15
         },
         {
           "period": "2024",
-          "value": 1002.27
+          "value": 224.06
         },
         {
           "period": "2025",
-          "value": 814.3
+          "value": 242.55
         },
         {
           "period": "2026",
@@ -803,47 +803,47 @@
       "observations": [
         {
           "period": "2015",
-          "value": 1597.82
+          "value": 2055.03
         },
         {
           "period": "2016",
-          "value": 1587.82
+          "value": 2092.65
         },
         {
           "period": "2017",
-          "value": 1605.69
+          "value": 2094.24
         },
         {
           "period": "2018",
-          "value": 1681.28
+          "value": 2157.93
         },
         {
           "period": "2019",
-          "value": 1689.89
+          "value": 2188.09
         },
         {
           "period": "2020",
-          "value": 1690.43
+          "value": 2127.85
         },
         {
           "period": "2021",
-          "value": 1796.91
+          "value": 2137.04
         },
         {
           "period": "2022",
-          "value": 1836.02
+          "value": 2071.07
         },
         {
           "period": "2023",
-          "value": 1930.18
+          "value": 2266.33
         },
         {
           "period": "2024",
-          "value": 2104.02
+          "value": 2515.65
         },
         {
           "period": "2025",
-          "value": 2277.23
+          "value": 2618.18
         },
         {
           "period": "2026",
@@ -857,47 +857,47 @@
       "observations": [
         {
           "period": "2015",
-          "value": 9.34
+          "value": 21.97
         },
         {
           "period": "2016",
-          "value": 8.67
+          "value": 37.48
         },
         {
           "period": "2017",
-          "value": 6.44
+          "value": 64.88
         },
         {
           "period": "2018",
-          "value": 6.88
+          "value": 62.42
         },
         {
           "period": "2019",
-          "value": 0.74
+          "value": 55.1
         },
         {
           "period": "2020",
-          "value": 1.21
+          "value": 7.45
         },
         {
           "period": "2021",
-          "value": 1.51
+          "value": 5.89
         },
         {
           "period": "2022",
-          "value": 2.71
+          "value": 5.33
         },
         {
           "period": "2023",
-          "value": 2.49
+          "value": 4.41
         },
         {
           "period": "2024",
-          "value": 1.72
+          "value": 4.24
         },
         {
           "period": "2025",
-          "value": 5.63
+          "value": 2.76
         },
         {
           "period": "2026",
@@ -911,47 +911,47 @@
       "observations": [
         {
           "period": "2015",
-          "value": 45.43
+          "value": 145.56
         },
         {
           "period": "2016",
-          "value": 39.23
+          "value": 164.32
         },
         {
           "period": "2017",
-          "value": 47.14
+          "value": 196.57
         },
         {
           "period": "2018",
-          "value": 79.27
+          "value": 226.85
         },
         {
           "period": "2019",
-          "value": 65.78
+          "value": 177.56
         },
         {
           "period": "2020",
-          "value": 15.88
+          "value": 70.98
         },
         {
           "period": "2021",
-          "value": 58.72
+          "value": 165.76
         },
         {
           "period": "2022",
-          "value": 60.94
+          "value": 142.08
         },
         {
           "period": "2023",
-          "value": 87.92
+          "value": 203.34
         },
         {
           "period": "2024",
-          "value": 70.51
+          "value": 213.47
         },
         {
           "period": "2025",
-          "value": 65.43
+          "value": 253.15
         },
         {
           "period": "2026",
@@ -965,47 +965,47 @@
       "observations": [
         {
           "period": "2015",
-          "value": 1543.05
+          "value": 1887.5
         },
         {
           "period": "2016",
-          "value": 1539.93
+          "value": 1890.85
         },
         {
           "period": "2017",
-          "value": 1552.1
+          "value": 1832.8
         },
         {
           "period": "2018",
-          "value": 1595.13
+          "value": 1868.66
         },
         {
           "period": "2019",
-          "value": 1623.37
+          "value": 1955.42
         },
         {
           "period": "2020",
-          "value": 1673.34
+          "value": 2049.42
         },
         {
           "period": "2021",
-          "value": 1736.68
+          "value": 1965.39
         },
         {
           "period": "2022",
-          "value": 1772.38
+          "value": 1923.66
         },
         {
           "period": "2023",
-          "value": 1839.78
+          "value": 2058.58
         },
         {
           "period": "2024",
-          "value": 2031.79
+          "value": 2297.94
         },
         {
           "period": "2025",
-          "value": 2206.16
+          "value": 2362.27
         },
         {
           "period": "2026",
@@ -1019,47 +1019,47 @@
       "observations": [
         {
           "period": "2015",
-          "value": 469.46
+          "value": 713.57
         },
         {
           "period": "2016",
-          "value": 485.32
+          "value": 706.14
         },
         {
           "period": "2017",
-          "value": 514.13
+          "value": 625.59
         },
         {
           "period": "2018",
-          "value": 539.19
+          "value": 645.64
         },
         {
           "period": "2019",
-          "value": 583.4
+          "value": 696.92
         },
         {
           "period": "2020",
-          "value": 623.22
+          "value": 814.49
         },
         {
           "period": "2021",
-          "value": 694.22
+          "value": 785.65
         },
         {
           "period": "2022",
-          "value": 407.67
+          "value": 765.71
         },
         {
           "period": "2023",
-          "value": 537.36
+          "value": 837.34
         },
         {
           "period": "2024",
-          "value": 643.82
+          "value": 1026.14
         },
         {
           "period": "2025",
-          "value": 768.23
+          "value": 1094.56
         },
         {
           "period": "2026",
@@ -1073,47 +1073,47 @@
       "observations": [
         {
           "period": "2015",
-          "value": 1073.59
+          "value": 1173.93
         },
         {
           "period": "2016",
-          "value": 1054.61
+          "value": 1184.71
         },
         {
           "period": "2017",
-          "value": 1037.97
+          "value": 1207.21
         },
         {
           "period": "2018",
-          "value": 1055.94
+          "value": 1223.02
         },
         {
           "period": "2019",
-          "value": 1039.97
+          "value": 1258.5
         },
         {
           "period": "2020",
-          "value": 1050.12
+          "value": 1234.93
         },
         {
           "period": "2021",
-          "value": 1042.46
+          "value": 1179.74
         },
         {
           "period": "2022",
-          "value": 1364.7
+          "value": 1157.95
         },
         {
           "period": "2023",
-          "value": 1302.42
+          "value": 1221.23
         },
         {
           "period": "2024",
-          "value": 1387.97
+          "value": 1271.8
         },
         {
           "period": "2025",
-          "value": 1437.94
+          "value": 1267.71
         },
         {
           "period": "2026",
@@ -1127,47 +1127,47 @@
       "observations": [
         {
           "period": "2015",
-          "value": -35.65
+          "value": -344.17
         },
         {
           "period": "2016",
-          "value": -65.17
+          "value": -337.6
         },
         {
           "period": "2017",
-          "value": -24.25
+          "value": -430.91
         },
         {
           "period": "2018",
-          "value": -48.1
+          "value": -464.86
         },
         {
           "period": "2019",
-          "value": -35.39
+          "value": -461.73
         },
         {
           "period": "2020",
-          "value": -305.88
+          "value": -684.03
         },
         {
           "period": "2021",
-          "value": -383.14
+          "value": -887.07
         },
         {
           "period": "2022",
-          "value": -506.05
+          "value": -798.41
         },
         {
           "period": "2023",
-          "value": -498.4
+          "value": -816.02
         },
         {
           "period": "2024",
-          "value": -587.6
+          "value": -907.09
         },
         {
           "period": "2025",
-          "value": -705.99
+          "value": -1005.9
         },
         {
           "period": "2026",
@@ -1181,47 +1181,47 @@
       "observations": [
         {
           "period": "2015",
-          "value": 2242.24
+          "value": 3415.28
         },
         {
           "period": "2016",
-          "value": 2306.09
+          "value": 3369.05
         },
         {
           "period": "2017",
-          "value": 2434.81
+          "value": 3608.28
         },
         {
           "period": "2018",
-          "value": 2618.43
+          "value": 3865.67
         },
         {
           "period": "2019",
-          "value": 2691.25
+          "value": 3861.71
         },
         {
           "period": "2020",
-          "value": 2658.78
+          "value": 3524.98
         },
         {
           "period": "2021",
-          "value": 2884.66
+          "value": 4013.73
         },
         {
           "period": "2022",
-          "value": 3169.85
+          "value": 4198.21
         },
         {
           "period": "2023",
-          "value": 3213
+          "value": 4338.45
         },
         {
           "period": "2024",
-          "value": 3484.14
+          "value": 4538.53
         },
         {
           "period": "2025",
-          "value": 3529.26
+          "value": 4808.03
         },
         {
           "period": "2026",
@@ -1235,47 +1235,47 @@
       "observations": [
         {
           "period": "2015",
-          "value": 612.62
+          "value": 750.23
         },
         {
           "period": "2016",
-          "value": 678.15
+          "value": 858.1
         },
         {
           "period": "2017",
-          "value": 751.89
+          "value": 995.3
         },
         {
           "period": "2018",
-          "value": 856.22
+          "value": 1070.73
         },
         {
           "period": "2019",
-          "value": 919.24
+          "value": 1181.57
         },
         {
           "period": "2020",
-          "value": 825.31
+          "value": 1069.84
         },
         {
           "period": "2021",
-          "value": 1026.01
+          "value": 1217.45
         },
         {
           "period": "2022",
-          "value": 1436.16
+          "value": 1227.44
         },
         {
           "period": "2023",
-          "value": 1564.54
+          "value": 1515.81
         },
         {
           "period": "2024",
-          "value": 1725.16
+          "value": 1640.85
         },
         {
           "period": "2025",
-          "value": 1741.8
+          "value": 1770.27
         },
         {
           "period": "2026",
@@ -1289,47 +1289,47 @@
       "observations": [
         {
           "period": "2015",
-          "value": 131.55
+          "value": 159.59
         },
         {
           "period": "2016",
-          "value": 135.66
+          "value": 167.53
         },
         {
           "period": "2017",
-          "value": 151.38
+          "value": 176.33
         },
         {
           "period": "2018",
-          "value": 143.85
+          "value": 188.26
         },
         {
           "period": "2019",
-          "value": 138.6
+          "value": 195.96
         },
         {
           "period": "2020",
-          "value": 160.78
+          "value": 212.25
         },
         {
           "period": "2021",
-          "value": 188.08
+          "value": 236.04
         },
         {
           "period": "2022",
-          "value": 207.12
+          "value": 255.16
         },
         {
           "period": "2023",
-          "value": 211.61
+          "value": 264.97
         },
         {
           "period": "2024",
-          "value": 238.35
+          "value": 291.88
         },
         {
           "period": "2025",
-          "value": 260.39
+          "value": 323.92
         },
         {
           "period": "2026",
@@ -1343,47 +1343,47 @@
       "observations": [
         {
           "period": "2015",
-          "value": 188.61
+          "value": 202.22
         },
         {
           "period": "2016",
-          "value": 194.76
+          "value": 219.81
         },
         {
           "period": "2017",
-          "value": 208.7
+          "value": 231.69
         },
         {
           "period": "2018",
-          "value": 205.48
+          "value": 247.11
         },
         {
           "period": "2019",
-          "value": 202.76
+          "value": 263.98
         },
         {
           "period": "2020",
-          "value": 225.16
+          "value": 272.87
         },
         {
           "period": "2021",
-          "value": 259.01
+          "value": 297.56
         },
         {
           "period": "2022",
-          "value": 277.07
+          "value": 309.17
         },
         {
           "period": "2023",
-          "value": 283.48
+          "value": 330.82
         },
         {
           "period": "2024",
-          "value": 315.51
+          "value": 362.75
         },
         {
           "period": "2025",
-          "value": 341.03
+          "value": 389.32
         },
         {
           "period": "2026",
@@ -1397,47 +1397,47 @@
       "observations": [
         {
           "period": "2015",
-          "value": 57.06
+          "value": 42.62
         },
         {
           "period": "2016",
-          "value": 59.1
+          "value": 52.28
         },
         {
           "period": "2017",
-          "value": 57.32
+          "value": 55.36
         },
         {
           "period": "2018",
-          "value": 61.63
+          "value": 58.86
         },
         {
           "period": "2019",
-          "value": 64.17
+          "value": 68.02
         },
         {
           "period": "2020",
-          "value": 64.38
+          "value": 60.62
         },
         {
           "period": "2021",
-          "value": 70.93
+          "value": 61.52
         },
         {
           "period": "2022",
-          "value": 69.95
+          "value": 54.01
         },
         {
           "period": "2023",
-          "value": 71.87
+          "value": 65.85
         },
         {
           "period": "2024",
-          "value": 77.16
+          "value": 70.87
         },
         {
           "period": "2025",
-          "value": 80.64
+          "value": 65.4
         },
         {
           "period": "2026",
@@ -1451,47 +1451,47 @@
       "observations": [
         {
           "period": "2015",
-          "value": 481.07
+          "value": 590.64
         },
         {
           "period": "2016",
-          "value": 542.49
+          "value": 690.57
         },
         {
           "period": "2017",
-          "value": 600.51
+          "value": 818.98
         },
         {
           "period": "2018",
-          "value": 712.37
+          "value": 882.47
         },
         {
           "period": "2019",
-          "value": 780.64
+          "value": 985.6
         },
         {
           "period": "2020",
-          "value": 664.54
+          "value": 857.58
         },
         {
           "period": "2021",
-          "value": 837.93
+          "value": 981.41
         },
         {
           "period": "2022",
-          "value": 1229.04
+          "value": 972.28
         },
         {
           "period": "2023",
-          "value": 1352.94
+          "value": 1250.84
         },
         {
           "period": "2024",
-          "value": 1486.82
+          "value": 1348.98
         },
         {
           "period": "2025",
-          "value": 1481.42
+          "value": 1446.35
         },
         {
           "period": "2026",
@@ -1505,47 +1505,47 @@
       "observations": [
         {
           "period": "2015",
-          "value": 1629.62
+          "value": 2665.05
         },
         {
           "period": "2016",
-          "value": 1627.95
+          "value": 2510.94
         },
         {
           "period": "2017",
-          "value": 1682.92
+          "value": 2612.97
         },
         {
           "period": "2018",
-          "value": 1762.21
+          "value": 2794.94
         },
         {
           "period": "2019",
-          "value": 1772.01
+          "value": 2680.14
         },
         {
           "period": "2020",
-          "value": 1833.47
+          "value": 2455.15
         },
         {
           "period": "2021",
-          "value": 1858.65
+          "value": 2796.28
         },
         {
           "period": "2022",
-          "value": 1733.69
+          "value": 2970.78
         },
         {
           "period": "2023",
-          "value": 1648.45
+          "value": 2822.64
         },
         {
           "period": "2024",
-          "value": 1758.97
+          "value": 2897.68
         },
         {
           "period": "2025",
-          "value": 1787.46
+          "value": 3037.76
         },
         {
           "period": "2026",
@@ -1559,47 +1559,47 @@
       "observations": [
         {
           "period": "2015",
-          "value": 1481.78
+          "value": 2090.1
         },
         {
           "period": "2016",
-          "value": 1469.52
+          "value": 2145.18
         },
         {
           "period": "2017",
-          "value": 1479.43
+          "value": 2164.44
         },
         {
           "period": "2018",
-          "value": 1502.82
+          "value": 2268.25
         },
         {
           "period": "2019",
-          "value": 1512.77
+          "value": 2159.72
         },
         {
           "period": "2020",
-          "value": 1542.22
+          "value": 2121
         },
         {
           "period": "2021",
-          "value": 1540.57
+          "value": 2257.66
         },
         {
           "period": "2022",
-          "value": 1306.17
+          "value": 2362.43
         },
         {
           "period": "2023",
-          "value": 1329.4
+          "value": 2182.3
         },
         {
           "period": "2024",
-          "value": 1410.21
+          "value": 2326.17
         },
         {
           "period": "2025",
-          "value": 1467.08
+          "value": 2474.29
         },
         {
           "period": "2026",
@@ -1613,47 +1613,47 @@
       "observations": [
         {
           "period": "2015",
-          "value": 147.85
+          "value": 574.95
         },
         {
           "period": "2016",
-          "value": 158.43
+          "value": 365.76
         },
         {
           "period": "2017",
-          "value": 203.49
+          "value": 448.54
         },
         {
           "period": "2018",
-          "value": 259.39
+          "value": 526.69
         },
         {
           "period": "2019",
-          "value": 259.25
+          "value": 520.41
         },
         {
           "period": "2020",
-          "value": 291.25
+          "value": 334.15
         },
         {
           "period": "2021",
-          "value": 318.08
+          "value": 538.63
         },
         {
           "period": "2022",
-          "value": 427.52
+          "value": 608.34
         },
         {
           "period": "2023",
-          "value": 319.06
+          "value": 640.34
         },
         {
           "period": "2024",
-          "value": 348.77
+          "value": 571.51
         },
         {
           "period": "2025",
-          "value": 320.37
+          "value": 563.46
         },
         {
           "period": "2026",
