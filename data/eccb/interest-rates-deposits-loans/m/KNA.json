@@ -9,7 +9,7 @@
     "name": "Saint Christopher (St Kitts) and Nevis"
   },
   "frequency": "m",
-  "retrieved_at": "2026-09-30T13:41:42.406Z",
+  "retrieved_at": "2026-10-11T11:43:52.239Z",
   "periods": [
     "2023-01",
     "2023-02",
@@ -289,7 +289,7 @@
         },
         {
           "period": "2026-08",
-          "value": null
+          "value": 3
         },
         {
           "period": "2026-09",
@@ -487,7 +487,7 @@
         },
         {
           "period": "2026-08",
-          "value": null
+          "value": 0
         },
         {
           "period": "2026-09",
@@ -685,7 +685,7 @@
         },
         {
           "period": "2026-08",
-          "value": null
+          "value": 0
         },
         {
           "period": "2026-09",
@@ -883,7 +883,7 @@
         },
         {
           "period": "2026-08",
-          "value": null
+          "value": 5
         },
         {
           "period": "2026-09",
@@ -1081,7 +1081,7 @@
         },
         {
           "period": "2026-08",
-          "value": null
+          "value": 2
         },
         {
           "period": "2026-09",
@@ -1279,7 +1279,7 @@
         },
         {
           "period": "2026-08",
-          "value": null
+          "value": 2.75
         },
         {
           "period": "2026-09",
@@ -1477,7 +1477,7 @@
         },
         {
           "period": "2026-08",
-          "value": null
+          "value": 2
         },
         {
           "period": "2026-09",
@@ -1675,7 +1675,7 @@
         },
         {
           "period": "2026-08",
-          "value": null
+          "value": 2
         },
         {
           "period": "2026-09",
@@ -1873,7 +1873,7 @@
         },
         {
           "period": "2026-08",
-          "value": null
+          "value": 2
         },
         {
           "period": "2026-09",
@@ -2071,7 +2071,7 @@
         },
         {
           "period": "2026-08",
-          "value": null
+          "value": 2
         },
         {
           "period": "2026-09",
@@ -2269,7 +2269,7 @@
         },
         {
           "period": "2026-08",
-          "value": null
+          "value": 0.1
         },
         {
           "period": "2026-09",
@@ -2467,7 +2467,7 @@
         },
         {
           "period": "2026-08",
-          "value": null
+          "value": 4.25
         },
         {
           "period": "2026-09",
@@ -2665,7 +2665,7 @@
         },
         {
           "period": "2026-08",
-          "value": null
+          "value": 9
         },
         {
           "period": "2026-09",
@@ -2863,7 +2863,7 @@
         },
         {
           "period": "2026-08",
-          "value": null
+          "value": 9
         },
         {
           "period": "2026-09",
@@ -3061,7 +3061,7 @@
         },
         {
           "period": "2026-08",
-          "value": null
+          "value": 3.5
         },
         {
           "period": "2026-09",
@@ -3259,7 +3259,7 @@
         },
         {
           "period": "2026-08",
-          "value": null
+          "value": 12
         },
         {
           "period": "2026-09",
@@ -3457,7 +3457,7 @@
         },
         {
           "period": "2026-08",
-          "value": null
+          "value": 4.5
         },
         {
           "period": "2026-09",
@@ -3655,7 +3655,7 @@
         },
         {
           "period": "2026-08",
-          "value": null
+          "value": 15
         },
         {
           "period": "2026-09",
@@ -3853,7 +3853,7 @@
         },
         {
           "period": "2026-08",
-          "value": null
+          "value": 3.5
         },
         {
           "period": "2026-09",
@@ -4051,7 +4051,7 @@
         },
         {
           "period": "2026-08",
-          "value": null
+          "value": 24
         },
         {
           "period": "2026-09",
@@ -5041,7 +5041,7 @@
         },
         {
           "period": "2026-08",
-          "value": null
+          "value": 3.5
         },
         {
           "period": "2026-09",
@@ -5239,7 +5239,7 @@
         },
         {
           "period": "2026-08",
-          "value": null
+          "value": 24
         },
         {
           "period": "2026-09",
