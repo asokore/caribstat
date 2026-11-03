@@ -1,0 +1,1987 @@
+{
+  "source": "Eastern Caribbean Central Bank",
+  "source_id": "eccb",
+  "source_url": "https://www.eccb-centralbank.org/statistics-category/external-sector/international-investment-position-summary",
+  "table_id": "international-investment-position",
+  "table_title": "International Investment Position (Summary)",
+  "country": {
+    "iso3": "LCA",
+    "name": "Saint Lucia"
+  },
+  "frequency": "a",
+  "retrieved_at": "2026-11-03T13:36:59.027Z",
+  "periods": [
+    "2015",
+    "2016",
+    "2017",
+    "2018",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024",
+    "2025",
+    "2026"
+  ],
+  "periods_raw": [
+    "2015",
+    "2016",
+    "2017",
+    "2018",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024",
+    "2025",
+    "2026"
+  ],
+  "series": [
+    {
+      "label": "Net International Investment Position",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": -2545
+        },
+        {
+          "period": "2016",
+          "value": -2732.54
+        },
+        {
+          "period": "2017",
+          "value": -2702.67
+        },
+        {
+          "period": "2018",
+          "value": -2563.68
+        },
+        {
+          "period": "2019",
+          "value": -2336.31
+        },
+        {
+          "period": "2020",
+          "value": -2905.08
+        },
+        {
+          "period": "2021",
+          "value": -3219.62
+        },
+        {
+          "period": "2022",
+          "value": -3411
+        },
+        {
+          "period": "2023",
+          "value": -3490.5
+        },
+        {
+          "period": "2024",
+          "value": -3496.54
+        },
+        {
+          "period": "2025",
+          "value": -3959.91
+        },
+        {
+          "period": "2026",
+          "value": -4404.56
+        }
+      ]
+    },
+    {
+      "label": "Total Assets",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 4257.78
+        },
+        {
+          "period": "2016",
+          "value": 4521.65
+        },
+        {
+          "period": "2017",
+          "value": 4923.11
+        },
+        {
+          "period": "2018",
+          "value": 5237.06
+        },
+        {
+          "period": "2019",
+          "value": 5658.88
+        },
+        {
+          "period": "2020",
+          "value": 5274.26
+        },
+        {
+          "period": "2021",
+          "value": 5670.59
+        },
+        {
+          "period": "2022",
+          "value": 5928.19
+        },
+        {
+          "period": "2023",
+          "value": 6876.3
+        },
+        {
+          "period": "2024",
+          "value": 7976.88
+        },
+        {
+          "period": "2025",
+          "value": 8479.67
+        },
+        {
+          "period": "2026",
+          "value": 8663.84
+        }
+      ]
+    },
+    {
+      "label": "Direct investment, assets",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 1566.19
+        },
+        {
+          "period": "2016",
+          "value": 1599.7
+        },
+        {
+          "period": "2017",
+          "value": 1596.51
+        },
+        {
+          "period": "2018",
+          "value": 1625.17
+        },
+        {
+          "period": "2019",
+          "value": 1838.88
+        },
+        {
+          "period": "2020",
+          "value": 1820.41
+        },
+        {
+          "period": "2021",
+          "value": 1774.33
+        },
+        {
+          "period": "2022",
+          "value": 1726.21
+        },
+        {
+          "period": "2023",
+          "value": 1817.69
+        },
+        {
+          "period": "2024",
+          "value": 1837.54
+        },
+        {
+          "period": "2025",
+          "value": 1887.79
+        },
+        {
+          "period": "2026",
+          "value": 1910.22
+        }
+      ]
+    },
+    {
+      "label": "Direct investment: Equity and investment fund shares, assets",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 974.11
+        },
+        {
+          "period": "2016",
+          "value": 968.09
+        },
+        {
+          "period": "2017",
+          "value": 976.79
+        },
+        {
+          "period": "2018",
+          "value": 984.2
+        },
+        {
+          "period": "2019",
+          "value": 1084.5
+        },
+        {
+          "period": "2020",
+          "value": 1080.37
+        },
+        {
+          "period": "2021",
+          "value": 1107.17
+        },
+        {
+          "period": "2022",
+          "value": 1073.73
+        },
+        {
+          "period": "2023",
+          "value": 1057.33
+        },
+        {
+          "period": "2024",
+          "value": 1083
+        },
+        {
+          "period": "2025",
+          "value": 1109.17
+        },
+        {
+          "period": "2026",
+          "value": 1136.48
+        }
+      ]
+    },
+    {
+      "label": "Direct Investment: Debt instruments, assets",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 592.09
+        },
+        {
+          "period": "2016",
+          "value": 631.61
+        },
+        {
+          "period": "2017",
+          "value": 619.72
+        },
+        {
+          "period": "2018",
+          "value": 640.97
+        },
+        {
+          "period": "2019",
+          "value": 754.38
+        },
+        {
+          "period": "2020",
+          "value": 740.04
+        },
+        {
+          "period": "2021",
+          "value": 667.16
+        },
+        {
+          "period": "2022",
+          "value": 652.48
+        },
+        {
+          "period": "2023",
+          "value": 760.36
+        },
+        {
+          "period": "2024",
+          "value": 754.54
+        },
+        {
+          "period": "2025",
+          "value": 778.62
+        },
+        {
+          "period": "2026",
+          "value": 773.74
+        }
+      ]
+    },
+    {
+      "label": "Portfolio investment, assets",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 589.2
+        },
+        {
+          "period": "2016",
+          "value": 783.48
+        },
+        {
+          "period": "2017",
+          "value": 1305.74
+        },
+        {
+          "period": "2018",
+          "value": 1449.32
+        },
+        {
+          "period": "2019",
+          "value": 1578.67
+        },
+        {
+          "period": "2020",
+          "value": 1802.97
+        },
+        {
+          "period": "2021",
+          "value": 2014.38
+        },
+        {
+          "period": "2022",
+          "value": 2191.94
+        },
+        {
+          "period": "2023",
+          "value": 2289.98
+        },
+        {
+          "period": "2024",
+          "value": 2887.02
+        },
+        {
+          "period": "2025",
+          "value": 3083.65
+        },
+        {
+          "period": "2026",
+          "value": 3167.67
+        }
+      ]
+    },
+    {
+      "label": "Portfolio investment: Equity and investment fund shares, assets",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 130.89
+        },
+        {
+          "period": "2016",
+          "value": 176.61
+        },
+        {
+          "period": "2017",
+          "value": 373.54
+        },
+        {
+          "period": "2018",
+          "value": 364.59
+        },
+        {
+          "period": "2019",
+          "value": 358.41
+        },
+        {
+          "period": "2020",
+          "value": 362.04
+        },
+        {
+          "period": "2021",
+          "value": 549.66
+        },
+        {
+          "period": "2022",
+          "value": 493.64
+        },
+        {
+          "period": "2023",
+          "value": 625.56
+        },
+        {
+          "period": "2024",
+          "value": 719.48
+        },
+        {
+          "period": "2025",
+          "value": 881.43
+        },
+        {
+          "period": "2026",
+          "value": 935.07
+        }
+      ]
+    },
+    {
+      "label": "Portfolio investment: Debt securities, assets",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 458.31
+        },
+        {
+          "period": "2016",
+          "value": 606.87
+        },
+        {
+          "period": "2017",
+          "value": 932.2
+        },
+        {
+          "period": "2018",
+          "value": 1084.73
+        },
+        {
+          "period": "2019",
+          "value": 1220.26
+        },
+        {
+          "period": "2020",
+          "value": 1440.93
+        },
+        {
+          "period": "2021",
+          "value": 1464.72
+        },
+        {
+          "period": "2022",
+          "value": 1698.3
+        },
+        {
+          "period": "2023",
+          "value": 1664.41
+        },
+        {
+          "period": "2024",
+          "value": 2167.53
+        },
+        {
+          "period": "2025",
+          "value": 2202.22
+        },
+        {
+          "period": "2026",
+          "value": 2232.59
+        }
+      ]
+    },
+    {
+      "label": "Financial derivatives (other than reserves) and employee stock options, assets",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 0
+        },
+        {
+          "period": "2016",
+          "value": 0
+        },
+        {
+          "period": "2017",
+          "value": 4.29
+        },
+        {
+          "period": "2018",
+          "value": 0
+        },
+        {
+          "period": "2019",
+          "value": 2.55
+        },
+        {
+          "period": "2020",
+          "value": 0.57
+        },
+        {
+          "period": "2021",
+          "value": 1.37
+        },
+        {
+          "period": "2022",
+          "value": 0.03
+        },
+        {
+          "period": "2023",
+          "value": 0
+        },
+        {
+          "period": "2024",
+          "value": 0
+        },
+        {
+          "period": "2025",
+          "value": 0
+        },
+        {
+          "period": "2026",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "label": "Other investment, assets",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 1244.59
+        },
+        {
+          "period": "2016",
+          "value": 1313.12
+        },
+        {
+          "period": "2017",
+          "value": 1147.32
+        },
+        {
+          "period": "2018",
+          "value": 1390.41
+        },
+        {
+          "period": "2019",
+          "value": 1534.43
+        },
+        {
+          "period": "2020",
+          "value": 1025.63
+        },
+        {
+          "period": "2021",
+          "value": 839.1
+        },
+        {
+          "period": "2022",
+          "value": 1083.47
+        },
+        {
+          "period": "2023",
+          "value": 1675.78
+        },
+        {
+          "period": "2024",
+          "value": 2208.84
+        },
+        {
+          "period": "2025",
+          "value": 2395.39
+        },
+        {
+          "period": "2026",
+          "value": 2417.12
+        }
+      ]
+    },
+    {
+      "label": "Other investment: Other equity assets",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 24.52
+        },
+        {
+          "period": "2016",
+          "value": 22.24
+        },
+        {
+          "period": "2017",
+          "value": 23.57
+        },
+        {
+          "period": "2018",
+          "value": 25.56
+        },
+        {
+          "period": "2019",
+          "value": 33.13
+        },
+        {
+          "period": "2020",
+          "value": 46.3
+        },
+        {
+          "period": "2021",
+          "value": 51.36
+        },
+        {
+          "period": "2022",
+          "value": 40.53
+        },
+        {
+          "period": "2023",
+          "value": 28.64
+        },
+        {
+          "period": "2024",
+          "value": 45.59
+        },
+        {
+          "period": "2025",
+          "value": 54.69
+        },
+        {
+          "period": "2026",
+          "value": 65.48
+        }
+      ]
+    },
+    {
+      "label": "Other investment: Currency and deposits assets",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 741.92
+        },
+        {
+          "period": "2016",
+          "value": 824.03
+        },
+        {
+          "period": "2017",
+          "value": 945.11
+        },
+        {
+          "period": "2018",
+          "value": 1176.24
+        },
+        {
+          "period": "2019",
+          "value": 1298.48
+        },
+        {
+          "period": "2020",
+          "value": 766.38
+        },
+        {
+          "period": "2021",
+          "value": 470.93
+        },
+        {
+          "period": "2022",
+          "value": 771.24
+        },
+        {
+          "period": "2023",
+          "value": 1361.98
+        },
+        {
+          "period": "2024",
+          "value": 1811.69
+        },
+        {
+          "period": "2025",
+          "value": 1289.16
+        },
+        {
+          "period": "2026",
+          "value": 1287.84
+        }
+      ]
+    },
+    {
+      "label": "Other investment: Loan assets",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 360.68
+        },
+        {
+          "period": "2016",
+          "value": 362.13
+        },
+        {
+          "period": "2017",
+          "value": 74.81
+        },
+        {
+          "period": "2018",
+          "value": 73.26
+        },
+        {
+          "period": "2019",
+          "value": 81
+        },
+        {
+          "period": "2020",
+          "value": 88.15
+        },
+        {
+          "period": "2021",
+          "value": 82.25
+        },
+        {
+          "period": "2022",
+          "value": 69.61
+        },
+        {
+          "period": "2023",
+          "value": 115.07
+        },
+        {
+          "period": "2024",
+          "value": 140.03
+        },
+        {
+          "period": "2025",
+          "value": 153.74
+        },
+        {
+          "period": "2026",
+          "value": 156.73
+        }
+      ]
+    },
+    {
+      "label": "Other investment: Insurance, pension, and standardized guarantee schemes assets",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 101.1
+        },
+        {
+          "period": "2016",
+          "value": 89.55
+        },
+        {
+          "period": "2017",
+          "value": 76.49
+        },
+        {
+          "period": "2018",
+          "value": 87.39
+        },
+        {
+          "period": "2019",
+          "value": 96.69
+        },
+        {
+          "period": "2020",
+          "value": 104.4
+        },
+        {
+          "period": "2021",
+          "value": 109.03
+        },
+        {
+          "period": "2022",
+          "value": 124.27
+        },
+        {
+          "period": "2023",
+          "value": 111.13
+        },
+        {
+          "period": "2024",
+          "value": 116.37
+        },
+        {
+          "period": "2025",
+          "value": 97.33
+        },
+        {
+          "period": "2026",
+          "value": 99.28
+        }
+      ]
+    },
+    {
+      "label": "Other investment: Trade credit and advances assets",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 4.11
+        },
+        {
+          "period": "2016",
+          "value": 4.63
+        },
+        {
+          "period": "2017",
+          "value": 5.11
+        },
+        {
+          "period": "2018",
+          "value": 4.83
+        },
+        {
+          "period": "2019",
+          "value": 5.94
+        },
+        {
+          "period": "2020",
+          "value": 3.15
+        },
+        {
+          "period": "2021",
+          "value": 2.98
+        },
+        {
+          "period": "2022",
+          "value": 4.74
+        },
+        {
+          "period": "2023",
+          "value": 2.59
+        },
+        {
+          "period": "2024",
+          "value": 1.38
+        },
+        {
+          "period": "2025",
+          "value": 0.15
+        },
+        {
+          "period": "2026",
+          "value": 0.22
+        }
+      ]
+    },
+    {
+      "label": "Other investment: Other accounts receivable assets",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 12.26
+        },
+        {
+          "period": "2016",
+          "value": 10.54
+        },
+        {
+          "period": "2017",
+          "value": 22.24
+        },
+        {
+          "period": "2018",
+          "value": 23.13
+        },
+        {
+          "period": "2019",
+          "value": 19.2
+        },
+        {
+          "period": "2020",
+          "value": 17.26
+        },
+        {
+          "period": "2021",
+          "value": 122.55
+        },
+        {
+          "period": "2022",
+          "value": 73.08
+        },
+        {
+          "period": "2023",
+          "value": 56.38
+        },
+        {
+          "period": "2024",
+          "value": 93.78
+        },
+        {
+          "period": "2025",
+          "value": 800.33
+        },
+        {
+          "period": "2026",
+          "value": 807.57
+        }
+      ]
+    },
+    {
+      "label": "Reserve assets",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 857.79
+        },
+        {
+          "period": "2016",
+          "value": 825.34
+        },
+        {
+          "period": "2017",
+          "value": 869.25
+        },
+        {
+          "period": "2018",
+          "value": 772.16
+        },
+        {
+          "period": "2019",
+          "value": 704.35
+        },
+        {
+          "period": "2020",
+          "value": 624.68
+        },
+        {
+          "period": "2021",
+          "value": 1041.42
+        },
+        {
+          "period": "2022",
+          "value": 926.54
+        },
+        {
+          "period": "2023",
+          "value": 1092.85
+        },
+        {
+          "period": "2024",
+          "value": 1043.48
+        },
+        {
+          "period": "2025",
+          "value": 1112.85
+        },
+        {
+          "period": "2026",
+          "value": 1168.84
+        }
+      ]
+    },
+    {
+      "label": "Special drawing rights",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 52.46
+        },
+        {
+          "period": "2016",
+          "value": 38.96
+        },
+        {
+          "period": "2017",
+          "value": 32.96
+        },
+        {
+          "period": "2018",
+          "value": 23.93
+        },
+        {
+          "period": "2019",
+          "value": 15.45
+        },
+        {
+          "period": "2020",
+          "value": 13
+        },
+        {
+          "period": "2021",
+          "value": 88.67
+        },
+        {
+          "period": "2022",
+          "value": 84.02
+        },
+        {
+          "period": "2023",
+          "value": 83.27
+        },
+        {
+          "period": "2024",
+          "value": 79.34
+        },
+        {
+          "period": "2025",
+          "value": 74.06
+        },
+        {
+          "period": "2026",
+          "value": 72.3
+        }
+      ]
+    },
+    {
+      "label": "Reserve position in the IMF",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 0.02
+        },
+        {
+          "period": "2016",
+          "value": 5.56
+        },
+        {
+          "period": "2017",
+          "value": 5.89
+        },
+        {
+          "period": "2018",
+          "value": 5.75
+        },
+        {
+          "period": "2019",
+          "value": 5.72
+        },
+        {
+          "period": "2020",
+          "value": 5.96
+        },
+        {
+          "period": "2021",
+          "value": 5.79
+        },
+        {
+          "period": "2022",
+          "value": 5.5
+        },
+        {
+          "period": "2023",
+          "value": 5.55
+        },
+        {
+          "period": "2024",
+          "value": 5.39
+        },
+        {
+          "period": "2025",
+          "value": 5.66
+        },
+        {
+          "period": "2026",
+          "value": 5.53
+        }
+      ]
+    },
+    {
+      "label": "Other reserve assets",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 805.3
+        },
+        {
+          "period": "2016",
+          "value": 780.82
+        },
+        {
+          "period": "2017",
+          "value": 830.4
+        },
+        {
+          "period": "2018",
+          "value": 742.48
+        },
+        {
+          "period": "2019",
+          "value": 683.18
+        },
+        {
+          "period": "2020",
+          "value": 605.72
+        },
+        {
+          "period": "2021",
+          "value": 946.97
+        },
+        {
+          "period": "2022",
+          "value": 837.02
+        },
+        {
+          "period": "2023",
+          "value": 1004.03
+        },
+        {
+          "period": "2024",
+          "value": 958.75
+        },
+        {
+          "period": "2025",
+          "value": 1033.12
+        },
+        {
+          "period": "2026",
+          "value": 1091.01
+        }
+      ]
+    },
+    {
+      "label": "Total Liabilities",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 6802.78
+        },
+        {
+          "period": "2016",
+          "value": 7254.2
+        },
+        {
+          "period": "2017",
+          "value": 7625.78
+        },
+        {
+          "period": "2018",
+          "value": 7800.74
+        },
+        {
+          "period": "2019",
+          "value": 7995.2
+        },
+        {
+          "period": "2020",
+          "value": 8179.34
+        },
+        {
+          "period": "2021",
+          "value": 8890.21
+        },
+        {
+          "period": "2022",
+          "value": 9339.19
+        },
+        {
+          "period": "2023",
+          "value": 10366.8
+        },
+        {
+          "period": "2024",
+          "value": 11473.42
+        },
+        {
+          "period": "2025",
+          "value": 12439.58
+        },
+        {
+          "period": "2026",
+          "value": 13068.4
+        }
+      ]
+    },
+    {
+      "label": "Direct investment, liabilities",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 3329.47
+        },
+        {
+          "period": "2016",
+          "value": 3768.56
+        },
+        {
+          "period": "2017",
+          "value": 4004.96
+        },
+        {
+          "period": "2018",
+          "value": 4135.8
+        },
+        {
+          "period": "2019",
+          "value": 4316.57
+        },
+        {
+          "period": "2020",
+          "value": 4639.96
+        },
+        {
+          "period": "2021",
+          "value": 4842.77
+        },
+        {
+          "period": "2022",
+          "value": 5010.4
+        },
+        {
+          "period": "2023",
+          "value": 5560.58
+        },
+        {
+          "period": "2024",
+          "value": 6052.82
+        },
+        {
+          "period": "2025",
+          "value": 6526.55
+        },
+        {
+          "period": "2026",
+          "value": 7056.37
+        }
+      ]
+    },
+    {
+      "label": "Direct investment: Equity and investment fund shares, liabilities",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 2893.89
+        },
+        {
+          "period": "2016",
+          "value": 3309.11
+        },
+        {
+          "period": "2017",
+          "value": 3523.9
+        },
+        {
+          "period": "2018",
+          "value": 3743.97
+        },
+        {
+          "period": "2019",
+          "value": 3879
+        },
+        {
+          "period": "2020",
+          "value": 4047.97
+        },
+        {
+          "period": "2021",
+          "value": 4206.1
+        },
+        {
+          "period": "2022",
+          "value": 4485.79
+        },
+        {
+          "period": "2023",
+          "value": 5066.13
+        },
+        {
+          "period": "2024",
+          "value": 5613.21
+        },
+        {
+          "period": "2025",
+          "value": 6143.55
+        },
+        {
+          "period": "2026",
+          "value": 6666.98
+        }
+      ]
+    },
+    {
+      "label": "Direct investment: Debt instruments, liabilities",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 435.57
+        },
+        {
+          "period": "2016",
+          "value": 459.46
+        },
+        {
+          "period": "2017",
+          "value": 481.07
+        },
+        {
+          "period": "2018",
+          "value": 391.83
+        },
+        {
+          "period": "2019",
+          "value": 437.57
+        },
+        {
+          "period": "2020",
+          "value": 591.99
+        },
+        {
+          "period": "2021",
+          "value": 636.67
+        },
+        {
+          "period": "2022",
+          "value": 524.61
+        },
+        {
+          "period": "2023",
+          "value": 494.45
+        },
+        {
+          "period": "2024",
+          "value": 439.61
+        },
+        {
+          "period": "2025",
+          "value": 382.99
+        },
+        {
+          "period": "2026",
+          "value": 389.39
+        }
+      ]
+    },
+    {
+      "label": "Portfolio investment, liabilities",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 643.47
+        },
+        {
+          "period": "2016",
+          "value": 737.59
+        },
+        {
+          "period": "2017",
+          "value": 949.89
+        },
+        {
+          "period": "2018",
+          "value": 971.14
+        },
+        {
+          "period": "2019",
+          "value": 968.49
+        },
+        {
+          "period": "2020",
+          "value": 931.15
+        },
+        {
+          "period": "2021",
+          "value": 945.77
+        },
+        {
+          "period": "2022",
+          "value": 993.61
+        },
+        {
+          "period": "2023",
+          "value": 1135.77
+        },
+        {
+          "period": "2024",
+          "value": 1158.62
+        },
+        {
+          "period": "2025",
+          "value": 1218.19
+        },
+        {
+          "period": "2026",
+          "value": 1275.11
+        }
+      ]
+    },
+    {
+      "label": "Portfolio investment: Equity and investment fund shares, liabilities",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 20.37
+        },
+        {
+          "period": "2016",
+          "value": 22.47
+        },
+        {
+          "period": "2017",
+          "value": 31.07
+        },
+        {
+          "period": "2018",
+          "value": 31.41
+        },
+        {
+          "period": "2019",
+          "value": 32.94
+        },
+        {
+          "period": "2020",
+          "value": 39.5
+        },
+        {
+          "period": "2021",
+          "value": 41.28
+        },
+        {
+          "period": "2022",
+          "value": 42.73
+        },
+        {
+          "period": "2023",
+          "value": 44.38
+        },
+        {
+          "period": "2024",
+          "value": 45.08
+        },
+        {
+          "period": "2025",
+          "value": 45.79
+        },
+        {
+          "period": "2026",
+          "value": 46.53
+        }
+      ]
+    },
+    {
+      "label": "Portfolio investment: Debt securities, liabilities",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 623.1
+        },
+        {
+          "period": "2016",
+          "value": 715.12
+        },
+        {
+          "period": "2017",
+          "value": 918.82
+        },
+        {
+          "period": "2018",
+          "value": 939.73
+        },
+        {
+          "period": "2019",
+          "value": 935.55
+        },
+        {
+          "period": "2020",
+          "value": 891.65
+        },
+        {
+          "period": "2021",
+          "value": 904.49
+        },
+        {
+          "period": "2022",
+          "value": 950.88
+        },
+        {
+          "period": "2023",
+          "value": 1091.39
+        },
+        {
+          "period": "2024",
+          "value": 1113.54
+        },
+        {
+          "period": "2025",
+          "value": 1172.4
+        },
+        {
+          "period": "2026",
+          "value": 1228.59
+        }
+      ]
+    },
+    {
+      "label": "Financial derivatives (other than reserves) and employee stock options, liabilities",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 0
+        },
+        {
+          "period": "2016",
+          "value": 0
+        },
+        {
+          "period": "2017",
+          "value": 0
+        },
+        {
+          "period": "2018",
+          "value": 11.28
+        },
+        {
+          "period": "2019",
+          "value": 0
+        },
+        {
+          "period": "2020",
+          "value": 1.1
+        },
+        {
+          "period": "2021",
+          "value": 0.25
+        },
+        {
+          "period": "2022",
+          "value": 1.27
+        },
+        {
+          "period": "2023",
+          "value": 1.32
+        },
+        {
+          "period": "2024",
+          "value": 0.8
+        },
+        {
+          "period": "2025",
+          "value": 0.27
+        },
+        {
+          "period": "2026",
+          "value": 1.16
+        }
+      ]
+    },
+    {
+      "label": "Other investment, liabilities",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 2829.85
+        },
+        {
+          "period": "2016",
+          "value": 2748.04
+        },
+        {
+          "period": "2017",
+          "value": 2670.93
+        },
+        {
+          "period": "2018",
+          "value": 2682.52
+        },
+        {
+          "period": "2019",
+          "value": 2710.13
+        },
+        {
+          "period": "2020",
+          "value": 2607.13
+        },
+        {
+          "period": "2021",
+          "value": 3101.42
+        },
+        {
+          "period": "2022",
+          "value": 3333.91
+        },
+        {
+          "period": "2023",
+          "value": 3669.13
+        },
+        {
+          "period": "2024",
+          "value": 4261.19
+        },
+        {
+          "period": "2025",
+          "value": 4694.58
+        },
+        {
+          "period": "2026",
+          "value": 4735.75
+        }
+      ]
+    },
+    {
+      "label": "Other investment: Other equity liabilities",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 0
+        },
+        {
+          "period": "2016",
+          "value": 0
+        },
+        {
+          "period": "2017",
+          "value": 0
+        },
+        {
+          "period": "2018",
+          "value": 0
+        },
+        {
+          "period": "2019",
+          "value": 0
+        },
+        {
+          "period": "2020",
+          "value": 0
+        },
+        {
+          "period": "2021",
+          "value": 0
+        },
+        {
+          "period": "2022",
+          "value": 0
+        },
+        {
+          "period": "2023",
+          "value": 0
+        },
+        {
+          "period": "2024",
+          "value": 0
+        },
+        {
+          "period": "2025",
+          "value": 0
+        },
+        {
+          "period": "2026",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "label": "Other investment: Currency and deposits liabilities",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 1784.96
+        },
+        {
+          "period": "2016",
+          "value": 1737.58
+        },
+        {
+          "period": "2017",
+          "value": 1691.19
+        },
+        {
+          "period": "2018",
+          "value": 1732.01
+        },
+        {
+          "period": "2019",
+          "value": 1678.33
+        },
+        {
+          "period": "2020",
+          "value": 1284.25
+        },
+        {
+          "period": "2021",
+          "value": 1317.25
+        },
+        {
+          "period": "2022",
+          "value": 1503.78
+        },
+        {
+          "period": "2023",
+          "value": 1533.92
+        },
+        {
+          "period": "2024",
+          "value": 1925.16
+        },
+        {
+          "period": "2025",
+          "value": 1786.51
+        },
+        {
+          "period": "2026",
+          "value": 1847.47
+        }
+      ]
+    },
+    {
+      "label": "Other investment: Loan liabilities",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 781.7
+        },
+        {
+          "period": "2016",
+          "value": 750.51
+        },
+        {
+          "period": "2017",
+          "value": 743.58
+        },
+        {
+          "period": "2018",
+          "value": 708.38
+        },
+        {
+          "period": "2019",
+          "value": 788.41
+        },
+        {
+          "period": "2020",
+          "value": 1119.45
+        },
+        {
+          "period": "2021",
+          "value": 1441.49
+        },
+        {
+          "period": "2022",
+          "value": 1476.99
+        },
+        {
+          "period": "2023",
+          "value": 1815.15
+        },
+        {
+          "period": "2024",
+          "value": 2055.25
+        },
+        {
+          "period": "2025",
+          "value": 2204.43
+        },
+        {
+          "period": "2026",
+          "value": 2166.78
+        }
+      ]
+    },
+    {
+      "label": "Other investment: Insurance, pension, and standardized guarantee schemes liabilities",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 34.68
+        },
+        {
+          "period": "2016",
+          "value": 36.36
+        },
+        {
+          "period": "2017",
+          "value": 38.41
+        },
+        {
+          "period": "2018",
+          "value": 44.99
+        },
+        {
+          "period": "2019",
+          "value": 45.42
+        },
+        {
+          "period": "2020",
+          "value": 28.41
+        },
+        {
+          "period": "2021",
+          "value": 23.18
+        },
+        {
+          "period": "2022",
+          "value": 26.78
+        },
+        {
+          "period": "2023",
+          "value": 28.5
+        },
+        {
+          "period": "2024",
+          "value": 32.96
+        },
+        {
+          "period": "2025",
+          "value": 40.57
+        },
+        {
+          "period": "2026",
+          "value": 48.33
+        }
+      ]
+    },
+    {
+      "label": "Other investment: Trade credit and advances liabilities",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 34.61
+        },
+        {
+          "period": "2016",
+          "value": 46.22
+        },
+        {
+          "period": "2017",
+          "value": 38.55
+        },
+        {
+          "period": "2018",
+          "value": 37.88
+        },
+        {
+          "period": "2019",
+          "value": 32.29
+        },
+        {
+          "period": "2020",
+          "value": 37.81
+        },
+        {
+          "period": "2021",
+          "value": 82.74
+        },
+        {
+          "period": "2022",
+          "value": 88.43
+        },
+        {
+          "period": "2023",
+          "value": 89.58
+        },
+        {
+          "period": "2024",
+          "value": 75.71
+        },
+        {
+          "period": "2025",
+          "value": 78.56
+        },
+        {
+          "period": "2026",
+          "value": 81.53
+        }
+      ]
+    },
+    {
+      "label": "Other investment: Other accounts payable liabilities",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 139.39
+        },
+        {
+          "period": "2016",
+          "value": 124.51
+        },
+        {
+          "period": "2017",
+          "value": 103.18
+        },
+        {
+          "period": "2018",
+          "value": 104.56
+        },
+        {
+          "period": "2019",
+          "value": 111.3
+        },
+        {
+          "period": "2020",
+          "value": 80.56
+        },
+        {
+          "period": "2021",
+          "value": 104.21
+        },
+        {
+          "period": "2022",
+          "value": 111.89
+        },
+        {
+          "period": "2023",
+          "value": 74.91
+        },
+        {
+          "period": "2024",
+          "value": 48.6
+        },
+        {
+          "period": "2025",
+          "value": 454.81
+        },
+        {
+          "period": "2026",
+          "value": 465.02
+        }
+      ]
+    },
+    {
+      "label": "Special drawing rights (Net incurrence of liabilities)",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 54.5
+        },
+        {
+          "period": "2016",
+          "value": 52.87
+        },
+        {
+          "period": "2017",
+          "value": 56.01
+        },
+        {
+          "period": "2018",
+          "value": 54.7
+        },
+        {
+          "period": "2019",
+          "value": 54.39
+        },
+        {
+          "period": "2020",
+          "value": 56.65
+        },
+        {
+          "period": "2021",
+          "value": 132.55
+        },
+        {
+          "period": "2022",
+          "value": 126.04
+        },
+        {
+          "period": "2023",
+          "value": 127.07
+        },
+        {
+          "period": "2024",
+          "value": 123.51
+        },
+        {
+          "period": "2025",
+          "value": 129.71
+        },
+        {
+          "period": "2026",
+          "value": 126.61
+        }
+      ]
+    }
+  ]
+}

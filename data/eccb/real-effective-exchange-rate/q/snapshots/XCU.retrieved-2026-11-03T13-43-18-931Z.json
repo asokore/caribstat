@@ -1,0 +1,311 @@
+{
+  "source": "Eastern Caribbean Central Bank",
+  "source_id": "eccb",
+  "source_url": "https://www.eccb-centralbank.org/statistics-category/external-sector/real-effective-exchange-rate-index",
+  "table_id": "real-effective-exchange-rate",
+  "table_title": "Real Effective Exchange Rate Index",
+  "country": {
+    "iso3": "XCU",
+    "name": "ECCU"
+  },
+  "frequency": "q",
+  "retrieved_at": "2026-11-03T13:43:18.931Z",
+  "periods": [
+    "2020-Q1",
+    "2020-Q2",
+    "2020-Q3",
+    "2020-Q4",
+    "2021-Q1",
+    "2021-Q2",
+    "2021-Q3",
+    "2021-Q4",
+    "2022-Q1",
+    "2022-Q2",
+    "2022-Q3",
+    "2022-Q4",
+    "2023-Q1",
+    "2023-Q2",
+    "2023-Q3",
+    "2023-Q4",
+    "2024-Q1",
+    "2024-Q2",
+    "2024-Q3",
+    "2024-Q4",
+    "2025-Q1",
+    "2025-Q2",
+    "2025-Q3",
+    "2025-Q4",
+    "2026-Q1",
+    "2026-Q2",
+    "2026-Q3",
+    "2026-Q4"
+  ],
+  "periods_raw": [
+    "Mar 2020",
+    "Jun 2020",
+    "Sep 2020",
+    "Dec 2020",
+    "Mar 2021",
+    "Jun 2021",
+    "Sep 2021",
+    "Dec 2021",
+    "Mar 2022",
+    "Jun 2022",
+    "Sep 2022",
+    "Dec 2022",
+    "Mar 2023",
+    "Jun 2023",
+    "Sep 2023",
+    "Dec 2023",
+    "Mar 2024",
+    "Jun 2024",
+    "Sep 2024",
+    "Dec 2024",
+    "Mar 2025",
+    "Jun 2025",
+    "Sep 2025",
+    "Dec 2025",
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026",
+    "Dec 2026"
+  ],
+  "series": [
+    {
+      "label": "REER",
+      "unit": "Index",
+      "observations": [
+        {
+          "period": "2020-Q1",
+          "value": 90.97
+        },
+        {
+          "period": "2020-Q2",
+          "value": 91.59
+        },
+        {
+          "period": "2020-Q3",
+          "value": 89.85
+        },
+        {
+          "period": "2020-Q4",
+          "value": 89.32
+        },
+        {
+          "period": "2021-Q1",
+          "value": 87.8
+        },
+        {
+          "period": "2021-Q2",
+          "value": 86.64
+        },
+        {
+          "period": "2021-Q3",
+          "value": 86.72
+        },
+        {
+          "period": "2021-Q4",
+          "value": 87.09
+        },
+        {
+          "period": "2022-Q1",
+          "value": 86.82
+        },
+        {
+          "period": "2022-Q2",
+          "value": 88.2
+        },
+        {
+          "period": "2022-Q3",
+          "value": 91.87
+        },
+        {
+          "period": "2022-Q4",
+          "value": 90.87
+        },
+        {
+          "period": "2023-Q1",
+          "value": 89.1
+        },
+        {
+          "period": "2023-Q2",
+          "value": 88.45
+        },
+        {
+          "period": "2023-Q3",
+          "value": 88.14
+        },
+        {
+          "period": "2023-Q4",
+          "value": 88.87
+        },
+        {
+          "period": "2024-Q1",
+          "value": 88.28
+        },
+        {
+          "period": "2024-Q2",
+          "value": 88.75
+        },
+        {
+          "period": "2024-Q3",
+          "value": 88.1
+        },
+        {
+          "period": "2024-Q4",
+          "value": 88.06
+        },
+        {
+          "period": "2025-Q1",
+          "value": 88.82
+        },
+        {
+          "period": "2025-Q2",
+          "value": 86.36
+        },
+        {
+          "period": "2025-Q3",
+          "value": 85.09
+        },
+        {
+          "period": "2025-Q4",
+          "value": null
+        },
+        {
+          "period": "2026-Q1",
+          "value": null
+        },
+        {
+          "period": "2026-Q2",
+          "value": null
+        },
+        {
+          "period": "2026-Q3",
+          "value": null
+        },
+        {
+          "period": "2026-Q4",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "NEER",
+      "unit": "Index",
+      "observations": [
+        {
+          "period": "2020-Q1",
+          "value": 104.85
+        },
+        {
+          "period": "2020-Q2",
+          "value": 105.73
+        },
+        {
+          "period": "2020-Q3",
+          "value": 104.34
+        },
+        {
+          "period": "2020-Q4",
+          "value": 103.72
+        },
+        {
+          "period": "2021-Q1",
+          "value": 102.64
+        },
+        {
+          "period": "2021-Q2",
+          "value": 102.37
+        },
+        {
+          "period": "2021-Q3",
+          "value": 102.97
+        },
+        {
+          "period": "2021-Q4",
+          "value": 103.6
+        },
+        {
+          "period": "2022-Q1",
+          "value": 103.92
+        },
+        {
+          "period": "2022-Q2",
+          "value": 105.65
+        },
+        {
+          "period": "2022-Q3",
+          "value": 107.74
+        },
+        {
+          "period": "2022-Q4",
+          "value": 108.02
+        },
+        {
+          "period": "2023-Q1",
+          "value": 106.8
+        },
+        {
+          "period": "2023-Q2",
+          "value": 106.18
+        },
+        {
+          "period": "2023-Q3",
+          "value": 106.1
+        },
+        {
+          "period": "2023-Q4",
+          "value": 106.74
+        },
+        {
+          "period": "2024-Q1",
+          "value": 105.91
+        },
+        {
+          "period": "2024-Q2",
+          "value": 106.34
+        },
+        {
+          "period": "2024-Q3",
+          "value": 106.16
+        },
+        {
+          "period": "2024-Q4",
+          "value": 106.16
+        },
+        {
+          "period": "2025-Q1",
+          "value": 106.91
+        },
+        {
+          "period": "2025-Q2",
+          "value": 105.45
+        },
+        {
+          "period": "2025-Q3",
+          "value": 104.67
+        },
+        {
+          "period": "2025-Q4",
+          "value": null
+        },
+        {
+          "period": "2026-Q1",
+          "value": null
+        },
+        {
+          "period": "2026-Q2",
+          "value": null
+        },
+        {
+          "period": "2026-Q3",
+          "value": null
+        },
+        {
+          "period": "2026-Q4",
+          "value": null
+        }
+      ]
+    }
+  ]
+}

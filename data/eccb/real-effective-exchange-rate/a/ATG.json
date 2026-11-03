@@ -1,0 +1,151 @@
+{
+  "source": "Eastern Caribbean Central Bank",
+  "source_id": "eccb",
+  "source_url": "https://www.eccb-centralbank.org/statistics-category/external-sector/real-effective-exchange-rate-index",
+  "table_id": "real-effective-exchange-rate",
+  "table_title": "Real Effective Exchange Rate Index",
+  "country": {
+    "iso3": "ATG",
+    "name": "Antigua and Barbuda"
+  },
+  "frequency": "a",
+  "retrieved_at": "2026-11-03T13:39:20.545Z",
+  "periods": [
+    "2015",
+    "2016",
+    "2017",
+    "2018",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024",
+    "2025",
+    "2026"
+  ],
+  "periods_raw": [
+    "2015",
+    "2016",
+    "2017",
+    "2018",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024",
+    "2025",
+    "2026"
+  ],
+  "series": [
+    {
+      "label": "REER",
+      "unit": "Index",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 92.8
+        },
+        {
+          "period": "2016",
+          "value": 94.04
+        },
+        {
+          "period": "2017",
+          "value": 95.21
+        },
+        {
+          "period": "2018",
+          "value": 93.62
+        },
+        {
+          "period": "2019",
+          "value": 94.66
+        },
+        {
+          "period": "2020",
+          "value": 94.46
+        },
+        {
+          "period": "2021",
+          "value": 90.54
+        },
+        {
+          "period": "2022",
+          "value": 94.14
+        },
+        {
+          "period": "2023",
+          "value": 93.83
+        },
+        {
+          "period": "2024",
+          "value": 96.67
+        },
+        {
+          "period": "2025",
+          "value": null
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "NEER",
+      "unit": "Index",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 99.16
+        },
+        {
+          "period": "2016",
+          "value": 102.42
+        },
+        {
+          "period": "2017",
+          "value": 103.67
+        },
+        {
+          "period": "2018",
+          "value": 102.6
+        },
+        {
+          "period": "2019",
+          "value": 104.07
+        },
+        {
+          "period": "2020",
+          "value": 103.9
+        },
+        {
+          "period": "2021",
+          "value": 101.63
+        },
+        {
+          "period": "2022",
+          "value": 105.52
+        },
+        {
+          "period": "2023",
+          "value": 105.64
+        },
+        {
+          "period": "2024",
+          "value": 105.18
+        },
+        {
+          "period": "2025",
+          "value": null
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    }
+  ]
+}

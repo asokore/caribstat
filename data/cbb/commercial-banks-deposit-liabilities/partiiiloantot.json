@@ -1,17 +1,17 @@
 {
   "source": "Central Bank of Barbados",
   "source_id": "cbb",
-  "source_url": "https://www.centralbank.org.bb/news/commercial-banks-deposit-liabilities/loan-assets-and-deposit-liability-december-2025-b2c-b4d-1",
-  "attachment_url": "https://cdn.centralbank.org.bb/documents/2026-04-01-09-54-13-B2CB4DLOANASSETSANDDEPOSITLIABJanuary2026.xlsx",
+  "source_url": "https://www.centralbank.org.bb/news/statistics-1/loan-assets-and-deposit-liability-july-2026-b2c-b4d",
+  "attachment_url": "https://cdn.centralbank.org.bb/documents/2026-09-30-13-49-33-B2CB4DLOANASSETSANDDEPOSITLIABJuly2026.xlsx",
   "category": "commercial-banks-deposit-liabilities",
-  "publication_title": "Loan Assets And Deposit Liability January 2026 (B2C - B4D)",
+  "publication_title": "Loan Assets And Deposit Liability July 2026 (B2C - B4D)",
   "sheet": "PartIIILoanTot",
   "country": {
     "iso3": "BRB",
     "name": "Barbados"
   },
-  "published_at": "2026-04-01",
-  "retrieved_at": "2026-08-15T21:28:24.192Z",
+  "published_at": "2026-09-30",
+  "retrieved_at": "2026-11-03T13:15:51.620Z",
   "periods": [
     "2012-01",
     "2012-02",
@@ -181,7 +181,13 @@
     "2025-10",
     "2025-11",
     "2025-12",
-    "2026-01"
+    "2026-01",
+    "2026-02",
+    "2026-03",
+    "2026-04",
+    "2026-05",
+    "2026-06",
+    "2026-07"
   ],
   "periods_raw": [
     40909,
@@ -352,7 +358,13 @@
     45931,
     45962,
     45992,
-    46023
+    46023,
+    46054,
+    46082,
+    46113,
+    46143,
+    46174,
+    46204
   ],
   "revised_periods": [],
   "unparsed_labels": [],
@@ -1035,6 +1047,30 @@
         {
           "period": "2026-01",
           "value": 0
+        },
+        {
+          "period": "2026-02",
+          "value": 0
+        },
+        {
+          "period": "2026-03",
+          "value": 0
+        },
+        {
+          "period": "2026-04",
+          "value": 0
+        },
+        {
+          "period": "2026-05",
+          "value": 0
+        },
+        {
+          "period": "2026-06",
+          "value": 0
+        },
+        {
+          "period": "2026-07",
+          "value": 0
         }
       ]
     },
@@ -1715,6 +1751,30 @@
         },
         {
           "period": "2026-01",
+          "value": 0
+        },
+        {
+          "period": "2026-02",
+          "value": 0
+        },
+        {
+          "period": "2026-03",
+          "value": 0
+        },
+        {
+          "period": "2026-04",
+          "value": 0
+        },
+        {
+          "period": "2026-05",
+          "value": 0
+        },
+        {
+          "period": "2026-06",
+          "value": 0
+        },
+        {
+          "period": "2026-07",
           "value": 0
         }
       ]
@@ -2397,6 +2457,30 @@
         {
           "period": "2026-01",
           "value": 0
+        },
+        {
+          "period": "2026-02",
+          "value": 0
+        },
+        {
+          "period": "2026-03",
+          "value": 0
+        },
+        {
+          "period": "2026-04",
+          "value": 0
+        },
+        {
+          "period": "2026-05",
+          "value": 0
+        },
+        {
+          "period": "2026-06",
+          "value": 0
+        },
+        {
+          "period": "2026-07",
+          "value": 0
         }
       ]
     },
@@ -3078,6 +3162,30 @@
         {
           "period": "2026-01",
           "value": 0
+        },
+        {
+          "period": "2026-02",
+          "value": 0
+        },
+        {
+          "period": "2026-03",
+          "value": 19.304080000000003
+        },
+        {
+          "period": "2026-04",
+          "value": 7.23448
+        },
+        {
+          "period": "2026-05",
+          "value": 13.26928
+        },
+        {
+          "period": "2026-06",
+          "value": 0
+        },
+        {
+          "period": "2026-07",
+          "value": 6.034800000000001
         }
       ]
     },
@@ -3759,6 +3867,30 @@
         {
           "period": "2026-01",
           "value": 10272.881573981238
+        },
+        {
+          "period": "2026-02",
+          "value": 10205.048413220798
+        },
+        {
+          "period": "2026-03",
+          "value": 10300.64012
+        },
+        {
+          "period": "2026-04",
+          "value": 10290.808590000011
+        },
+        {
+          "period": "2026-05",
+          "value": 12784.765479999936
+        },
+        {
+          "period": "2026-06",
+          "value": 13247.29485999994
+        },
+        {
+          "period": "2026-07",
+          "value": 13165.204140000013
         }
       ]
     },
@@ -4440,6 +4572,30 @@
         {
           "period": "2026-01",
           "value": 10272.881573981238
+        },
+        {
+          "period": "2026-02",
+          "value": 10205.048413220798
+        },
+        {
+          "period": "2026-03",
+          "value": 10319.9442
+        },
+        {
+          "period": "2026-04",
+          "value": 10298.04307000001
+        },
+        {
+          "period": "2026-05",
+          "value": 12798.034759999937
+        },
+        {
+          "period": "2026-06",
+          "value": 13247.29485999994
+        },
+        {
+          "period": "2026-07",
+          "value": 13171.238940000012
         }
       ]
     },
@@ -5121,6 +5277,30 @@
         {
           "period": "2026-01",
           "value": 7602.86560726425
+        },
+        {
+          "period": "2026-02",
+          "value": 7521.92334192871
+        },
+        {
+          "period": "2026-03",
+          "value": 7321.61312854178
+        },
+        {
+          "period": "2026-04",
+          "value": 7077.358317392016
+        },
+        {
+          "period": "2026-05",
+          "value": 7470.125477259963
+        },
+        {
+          "period": "2026-06",
+          "value": 7697.199641507755
+        },
+        {
+          "period": "2026-07",
+          "value": 5997.756770072749
         }
       ]
     },
@@ -5802,6 +5982,30 @@
         {
           "period": "2026-01",
           "value": 12999.92727
+        },
+        {
+          "period": "2026-02",
+          "value": 12999.92727
+        },
+        {
+          "period": "2026-03",
+          "value": 12999.92727
+        },
+        {
+          "period": "2026-04",
+          "value": 12999.92617
+        },
+        {
+          "period": "2026-05",
+          "value": 12999.92617
+        },
+        {
+          "period": "2026-06",
+          "value": 12999.92617
+        },
+        {
+          "period": "2026-07",
+          "value": 12999.925060000001
         }
       ]
     },
@@ -6483,6 +6687,30 @@
         {
           "period": "2026-01",
           "value": 205470.4136116266
+        },
+        {
+          "period": "2026-02",
+          "value": 204553.478296776
+        },
+        {
+          "period": "2026-03",
+          "value": 210640.40289305782
+        },
+        {
+          "period": "2026-04",
+          "value": 209474.85684461507
+        },
+        {
+          "period": "2026-05",
+          "value": 213968.3266972092
+        },
+        {
+          "period": "2026-06",
+          "value": 216677.79492333275
+        },
+        {
+          "period": "2026-07",
+          "value": 221247.2185511998
         }
       ]
     },
@@ -7164,6 +7392,30 @@
         {
           "period": "2026-01",
           "value": 632166.6533506091
+        },
+        {
+          "period": "2026-02",
+          "value": 634737.341929607
+        },
+        {
+          "period": "2026-03",
+          "value": 635331.45213848
+        },
+        {
+          "period": "2026-04",
+          "value": 637137.9775204576
+        },
+        {
+          "period": "2026-05",
+          "value": 637410.527305531
+        },
+        {
+          "period": "2026-06",
+          "value": 638928.8702970296
+        },
+        {
+          "period": "2026-07",
+          "value": 636672.5576010443
         }
       ]
     },
@@ -7845,6 +8097,30 @@
         {
           "period": "2026-01",
           "value": 858239.8598394999
+        },
+        {
+          "period": "2026-02",
+          "value": 859812.6708383117
+        },
+        {
+          "period": "2026-03",
+          "value": 866293.3954300797
+        },
+        {
+          "period": "2026-04",
+          "value": 866690.1188524647
+        },
+        {
+          "period": "2026-05",
+          "value": 871848.9056500001
+        },
+        {
+          "period": "2026-06",
+          "value": 876303.7910318701
+        },
+        {
+          "period": "2026-07",
+          "value": 876917.4579823168
         }
       ]
     },
@@ -8526,6 +8802,30 @@
         {
           "period": "2026-01",
           "value": 868512.7414134812
+        },
+        {
+          "period": "2026-02",
+          "value": 870017.7192515325
+        },
+        {
+          "period": "2026-03",
+          "value": 876613.3396300797
+        },
+        {
+          "period": "2026-04",
+          "value": 876988.1619224647
+        },
+        {
+          "period": "2026-05",
+          "value": 884646.94041
+        },
+        {
+          "period": "2026-06",
+          "value": 889551.08589187
+        },
+        {
+          "period": "2026-07",
+          "value": 890088.6969223169
         }
       ]
     }
