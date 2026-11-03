@@ -1,17 +1,17 @@
 {
   "source": "Central Bank of Barbados",
   "source_id": "cbb",
-  "source_url": "https://www.centralbank.org.bb/news/statistics-1/commercial-banks-provisional-deposit-liabilities-july-2026",
-  "attachment_url": "https://cdn.centralbank.org.bb/documents/2026-10-01-08-41-10-CommercialBanksPROVISIONALDepositLiabilities2012July2026.xlsx",
+  "source_url": "https://www.centralbank.org.bb/news/statistics-1/commercial-banks-provisional-deposit-liabilities-august-2026",
+  "attachment_url": "https://cdn.centralbank.org.bb/documents/2026-11-03-10-54-17-CommercialBanksPROVISIONALDepositLiabilities2012August2026.xlsx",
   "category": "commercial-banks-provisional-deposit-liabilities",
-  "publication_title": "Commercial Banks' Provisional Deposit Liabilities - July 2026",
+  "publication_title": "Commercial Banks' Provisional Deposit Liabilities - August 2026",
   "sheet": "B2E1A",
   "country": {
     "iso3": "BRB",
     "name": "Barbados"
   },
-  "published_at": "2026-10-01",
-  "retrieved_at": "2026-11-03T13:15:57.861Z",
+  "published_at": "2026-11-03",
+  "retrieved_at": "2026-11-03T15:22:42.409Z",
   "periods": [
     "2012-01",
     "2012-02",
@@ -187,7 +187,8 @@
     "2026-04",
     "2026-05",
     "2026-06",
-    "2026-07"
+    "2026-07",
+    "2026-08"
   ],
   "periods_raw": [
     "January  2012",
@@ -364,7 +365,8 @@
     46113,
     46143,
     46174,
-    46204
+    46204,
+    46235
   ],
   "revised_periods": [],
   "unparsed_labels": [],
@@ -1071,6 +1073,10 @@
         {
           "period": "2026-07",
           "value": 39624.020769999996
+        },
+        {
+          "period": "2026-08",
+          "value": 43072.42706
         }
       ]
     },
@@ -1776,6 +1782,10 @@
         {
           "period": "2026-07",
           "value": 164512.20914000002
+        },
+        {
+          "period": "2026-08",
+          "value": 158349.20586
         }
       ]
     },
@@ -2481,6 +2491,10 @@
         {
           "period": "2026-07",
           "value": 858927.2558299999
+        },
+        {
+          "period": "2026-08",
+          "value": 828256.6092700001
         }
       ]
     },
@@ -3186,6 +3200,10 @@
         {
           "period": "2026-07",
           "value": 254109.18463
+        },
+        {
+          "period": "2026-08",
+          "value": 240197.53435999996
         }
       ]
     },
@@ -3891,6 +3909,10 @@
         {
           "period": "2026-07",
           "value": 197974.51789000002
+        },
+        {
+          "period": "2026-08",
+          "value": 210274.56861
         }
       ]
     },
@@ -4596,6 +4618,10 @@
         {
           "period": "2026-07",
           "value": 84.91864000000001
+        },
+        {
+          "period": "2026-08",
+          "value": 122.51632999999998
         }
       ]
     },
@@ -5301,6 +5327,10 @@
         {
           "period": "2026-07",
           "value": 7110.95123
+        },
+        {
+          "period": "2026-08",
+          "value": 6872.915860000001
         }
       ]
     },
@@ -6006,6 +6036,10 @@
         {
           "period": "2026-07",
           "value": 165115.05683
+        },
+        {
+          "period": "2026-08",
+          "value": 158398.7419
         }
       ]
     },
@@ -6711,6 +6745,10 @@
         {
           "period": "2026-07",
           "value": 180487.48008
+        },
+        {
+          "period": "2026-08",
+          "value": 179229.3422
         }
       ]
     },
@@ -7416,6 +7454,10 @@
         {
           "period": "2026-07",
           "value": 1407313.8023
+        },
+        {
+          "period": "2026-08",
+          "value": 1424798.31256
         }
       ]
     },
@@ -8121,6 +8163,10 @@
         {
           "period": "2026-07",
           "value": 60862.37177
+        },
+        {
+          "period": "2026-08",
+          "value": 68489.20822999997
         }
       ]
     },
@@ -8826,6 +8872,10 @@
         {
           "period": "2026-07",
           "value": 116275.88938
+        },
+        {
+          "period": "2026-08",
+          "value": 121077.98300000001
         }
       ]
     },
@@ -9531,6 +9581,10 @@
         {
           "period": "2026-07",
           "value": 122888.09908000001
+        },
+        {
+          "period": "2026-08",
+          "value": 120942.62044999997
         }
       ]
     },
@@ -10236,6 +10290,10 @@
         {
           "period": "2026-07",
           "value": 80326.25281
+        },
+        {
+          "period": "2026-08",
+          "value": 79058.90431000001
         }
       ]
     },
@@ -10941,6 +10999,10 @@
         {
           "period": "2026-07",
           "value": 3655612.0103800003
+        },
+        {
+          "period": "2026-08",
+          "value": 3639140.89
         }
       ]
     },
@@ -11646,6 +11708,10 @@
         {
           "period": "2026-07",
           "value": 895425.5482434827
+        },
+        {
+          "period": "2026-08",
+          "value": 878681.426611272
         }
       ]
     },
@@ -12351,6 +12417,10 @@
         {
           "period": "2026-07",
           "value": 4551037.558623483
+        },
+        {
+          "period": "2026-08",
+          "value": 4517822.316611272
         }
       ]
     }

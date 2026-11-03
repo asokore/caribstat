@@ -1,17 +1,17 @@
 {
   "source": "Central Bank of Barbados",
   "source_id": "cbb",
-  "source_url": "https://www.centralbank.org.bb/news/exchange-rates-cbob/exchange-rates-september-2026-e3-e4",
-  "attachment_url": "https://cdn.centralbank.org.bb/documents/2026-10-05-10-30-37-E3E4ExchangeRatesSeptember2026.xlsx",
+  "source_url": "https://www.centralbank.org.bb/news/exchange-rates-cbob/exchange-rates-october-2026-e3-e4",
+  "attachment_url": "https://cdn.centralbank.org.bb/documents/2026-11-03-11-14-17-E3E4ExchangeRatesOctober2026.xlsx",
   "category": "exchange-rates-cbob",
-  "publication_title": "Exchange Rates September 2026 (E3, E4)",
+  "publication_title": "Exchange Rates October 2026 (E3, E4)",
   "sheet": "E3",
   "country": {
     "iso3": "BRB",
     "name": "Barbados"
   },
-  "published_at": "2026-10-05",
-  "retrieved_at": "2026-10-07T12:19:39.665Z",
+  "published_at": "2026-11-03",
+  "retrieved_at": "2026-11-03T15:22:48.953Z",
   "periods": [
     "1987-01",
     "1987-02",
@@ -489,7 +489,8 @@
     "2026-06",
     "2026-07",
     "2026-08",
-    "2026-09"
+    "2026-09",
+    "2026-10"
   ],
   "periods_raw": [
     31778,
@@ -968,7 +969,8 @@
     "June 2026",
     "July 2026",
     "August 2026",
-    "September 2026"
+    "September 2026",
+    "October 2026"
   ],
   "revised_periods": [],
   "unparsed_labels": [],
@@ -2883,6 +2885,10 @@
         {
           "period": "2026-09",
           "value": 2.6459
+        },
+        {
+          "period": "2026-10",
+          "value": 2.6723
         }
       ]
     },
@@ -4795,6 +4801,10 @@
         },
         {
           "period": "2026-09",
+          "value": 2
+        },
+        {
+          "period": "2026-10",
           "value": 2
         }
       ]
@@ -6709,6 +6719,10 @@
         {
           "period": "2026-09",
           "value": 1.41078
+        },
+        {
+          "period": "2026-10",
+          "value": 1.42984
         }
       ]
     },
@@ -8622,6 +8636,10 @@
         {
           "period": "2026-09",
           "value": 0.01262
+        },
+        {
+          "period": "2026-10",
+          "value": 0.0126
         }
       ]
     },
@@ -10535,6 +10553,10 @@
         {
           "period": "2026-09",
           "value": 0.29836
+        },
+        {
+          "period": "2026-10",
+          "value": 0.29837
         }
       ]
     },
@@ -12448,6 +12470,10 @@
         {
           "period": "2026-09",
           "value": 0.0096
+        },
+        {
+          "period": "2026-10",
+          "value": 0.00957
         }
       ]
     },
@@ -14360,6 +14386,10 @@
         },
         {
           "period": "2026-09",
+          "value": 0.7407
+        },
+        {
+          "period": "2026-10",
           "value": 0.7407
         }
       ]
@@ -16274,6 +16304,10 @@
         {
           "period": "2026-09",
           "value": 2.7195
+        },
+        {
+          "period": "2026-10",
+          "value": 2.71228
         }
       ]
     },
@@ -18187,6 +18221,10 @@
         {
           "period": "2026-09",
           "value": 2.2685
+        },
+        {
+          "period": "2026-10",
+          "value": 2.2325
         }
       ]
     },
@@ -20100,6 +20138,10 @@
         {
           "period": "2026-09",
           "value": 0.01272
+        },
+        {
+          "period": "2026-10",
+          "value": 0.01266
         }
       ]
     }
