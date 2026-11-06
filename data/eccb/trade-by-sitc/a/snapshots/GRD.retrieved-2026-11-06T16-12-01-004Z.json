@@ -1,0 +1,2688 @@
+{
+  "source": "Eastern Caribbean Central Bank",
+  "source_id": "eccb",
+  "source_url": "https://www.eccb-centralbank.org/statistics-category/external-sector/trade-statistics-by-sitc",
+  "table_id": "trade-by-sitc",
+  "table_title": "Trade Statistics by SITC",
+  "country": {
+    "iso3": "GRD",
+    "name": "Grenada"
+  },
+  "frequency": "a",
+  "retrieved_at": "2026-11-06T16:12:01.004Z",
+  "periods": [
+    "2015",
+    "2016",
+    "2017",
+    "2018",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024",
+    "2025",
+    "2026"
+  ],
+  "periods_raw": [
+    "2015",
+    "2016",
+    "2017",
+    "2018",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024",
+    "2025",
+    "2026"
+  ],
+  "future_periods": [
+    "2026"
+  ],
+  "series": [
+    {
+      "label": "Trade Balance",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": -847.87
+        },
+        {
+          "period": "2016",
+          "value": -865.03
+        },
+        {
+          "period": "2017",
+          "value": -1053.65
+        },
+        {
+          "period": "2018",
+          "value": -1176.27
+        },
+        {
+          "period": "2019",
+          "value": -1197.01
+        },
+        {
+          "period": "2020",
+          "value": -1000.78
+        },
+        {
+          "period": "2021",
+          "value": -1134.87
+        },
+        {
+          "period": "2022",
+          "value": -1496.55
+        },
+        {
+          "period": "2023",
+          "value": -1530.09
+        },
+        {
+          "period": "2024",
+          "value": -1619.85
+        },
+        {
+          "period": "2025",
+          "value": -1856.21
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Total Imports",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 942.16
+        },
+        {
+          "period": "2016",
+          "value": 946.38
+        },
+        {
+          "period": "2017",
+          "value": 1134.78
+        },
+        {
+          "period": "2018",
+          "value": 1260.72
+        },
+        {
+          "period": "2019",
+          "value": 1281.51
+        },
+        {
+          "period": "2020",
+          "value": 1060.99
+        },
+        {
+          "period": "2021",
+          "value": 1214.49
+        },
+        {
+          "period": "2022",
+          "value": 1588.85
+        },
+        {
+          "period": "2023",
+          "value": 1641.69
+        },
+        {
+          "period": "2024",
+          "value": 1710.28
+        },
+        {
+          "period": "2025",
+          "value": 1956.79
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Total Exports",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 94.29
+        },
+        {
+          "period": "2016",
+          "value": 81.34
+        },
+        {
+          "period": "2017",
+          "value": 81.12
+        },
+        {
+          "period": "2018",
+          "value": 84.45
+        },
+        {
+          "period": "2019",
+          "value": 84.51
+        },
+        {
+          "period": "2020",
+          "value": 60.21
+        },
+        {
+          "period": "2021",
+          "value": 79.62
+        },
+        {
+          "period": "2022",
+          "value": 92.3
+        },
+        {
+          "period": "2023",
+          "value": 111.6
+        },
+        {
+          "period": "2024",
+          "value": 90.43
+        },
+        {
+          "period": "2025",
+          "value": 100.59
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Re-Exports",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 5.14
+        },
+        {
+          "period": "2016",
+          "value": 5.64
+        },
+        {
+          "period": "2017",
+          "value": 5.99
+        },
+        {
+          "period": "2018",
+          "value": 6.74
+        },
+        {
+          "period": "2019",
+          "value": 6.02
+        },
+        {
+          "period": "2020",
+          "value": 5.48
+        },
+        {
+          "period": "2021",
+          "value": 6.07
+        },
+        {
+          "period": "2022",
+          "value": 12.01
+        },
+        {
+          "period": "2023",
+          "value": 20.66
+        },
+        {
+          "period": "2024",
+          "value": 14.14
+        },
+        {
+          "period": "2025",
+          "value": 15.73
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Domestic Exports",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 89.15
+        },
+        {
+          "period": "2016",
+          "value": 75.7
+        },
+        {
+          "period": "2017",
+          "value": 75.13
+        },
+        {
+          "period": "2018",
+          "value": 77.71
+        },
+        {
+          "period": "2019",
+          "value": 78.48
+        },
+        {
+          "period": "2020",
+          "value": 54.73
+        },
+        {
+          "period": "2021",
+          "value": 73.55
+        },
+        {
+          "period": "2022",
+          "value": 80.29
+        },
+        {
+          "period": "2023",
+          "value": 90.94
+        },
+        {
+          "period": "2024",
+          "value": 76.29
+        },
+        {
+          "period": "2025",
+          "value": 84.86
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "IMPORTS by SITC",
+      "observations": [
+        {
+          "period": "2015",
+          "value": null
+        },
+        {
+          "period": "2016",
+          "value": null
+        },
+        {
+          "period": "2017",
+          "value": null
+        },
+        {
+          "period": "2018",
+          "value": null
+        },
+        {
+          "period": "2019",
+          "value": null
+        },
+        {
+          "period": "2020",
+          "value": null
+        },
+        {
+          "period": "2021",
+          "value": null
+        },
+        {
+          "period": "2022",
+          "value": null
+        },
+        {
+          "period": "2023",
+          "value": null
+        },
+        {
+          "period": "2024",
+          "value": null
+        },
+        {
+          "period": "2025",
+          "value": null
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Food & Live Animals",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 200.59
+        },
+        {
+          "period": "2016",
+          "value": 204.05
+        },
+        {
+          "period": "2017",
+          "value": 211.29
+        },
+        {
+          "period": "2018",
+          "value": 228.74
+        },
+        {
+          "period": "2019",
+          "value": 259.42
+        },
+        {
+          "period": "2020",
+          "value": 225.81
+        },
+        {
+          "period": "2021",
+          "value": 253.4
+        },
+        {
+          "period": "2022",
+          "value": 332.15
+        },
+        {
+          "period": "2023",
+          "value": 333.36
+        },
+        {
+          "period": "2024",
+          "value": 357.83
+        },
+        {
+          "period": "2025",
+          "value": 384.42
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Beverages and Tobaco",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 31.86
+        },
+        {
+          "period": "2016",
+          "value": 36.07
+        },
+        {
+          "period": "2017",
+          "value": 64.14
+        },
+        {
+          "period": "2018",
+          "value": 32.59
+        },
+        {
+          "period": "2019",
+          "value": 36.33
+        },
+        {
+          "period": "2020",
+          "value": 30.68
+        },
+        {
+          "period": "2021",
+          "value": 29.67
+        },
+        {
+          "period": "2022",
+          "value": 47.65
+        },
+        {
+          "period": "2023",
+          "value": 46.74
+        },
+        {
+          "period": "2024",
+          "value": 48.89
+        },
+        {
+          "period": "2025",
+          "value": 49.77
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Crude Materials, Inedible Except Fuels",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 21.11
+        },
+        {
+          "period": "2016",
+          "value": 24.01
+        },
+        {
+          "period": "2017",
+          "value": 29.92
+        },
+        {
+          "period": "2018",
+          "value": 31.96
+        },
+        {
+          "period": "2019",
+          "value": 28.82
+        },
+        {
+          "period": "2020",
+          "value": 27.9
+        },
+        {
+          "period": "2021",
+          "value": 39.66
+        },
+        {
+          "period": "2022",
+          "value": 50.12
+        },
+        {
+          "period": "2023",
+          "value": 45.58
+        },
+        {
+          "period": "2024",
+          "value": 44.96
+        },
+        {
+          "period": "2025",
+          "value": 49.67
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Mineral Fuels & Related Materials",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 167.59
+        },
+        {
+          "period": "2016",
+          "value": 152.54
+        },
+        {
+          "period": "2017",
+          "value": 149.41
+        },
+        {
+          "period": "2018",
+          "value": 210.45
+        },
+        {
+          "period": "2019",
+          "value": 210.76
+        },
+        {
+          "period": "2020",
+          "value": 151.23
+        },
+        {
+          "period": "2021",
+          "value": 184.2
+        },
+        {
+          "period": "2022",
+          "value": 320.6
+        },
+        {
+          "period": "2023",
+          "value": 283.83
+        },
+        {
+          "period": "2024",
+          "value": 278.55
+        },
+        {
+          "period": "2025",
+          "value": 300.02
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Animal & Vegetable Oils, Fats & Waxes",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 4.9
+        },
+        {
+          "period": "2016",
+          "value": 4.52
+        },
+        {
+          "period": "2017",
+          "value": 4.22
+        },
+        {
+          "period": "2018",
+          "value": 5.36
+        },
+        {
+          "period": "2019",
+          "value": 5.01
+        },
+        {
+          "period": "2020",
+          "value": 4.87
+        },
+        {
+          "period": "2021",
+          "value": 6.2
+        },
+        {
+          "period": "2022",
+          "value": 6.81
+        },
+        {
+          "period": "2023",
+          "value": 7.25
+        },
+        {
+          "period": "2024",
+          "value": 6.9
+        },
+        {
+          "period": "2025",
+          "value": 9.24
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Chemicals & Related Products",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 83.94
+        },
+        {
+          "period": "2016",
+          "value": 79.53
+        },
+        {
+          "period": "2017",
+          "value": 81.88
+        },
+        {
+          "period": "2018",
+          "value": 88.12
+        },
+        {
+          "period": "2019",
+          "value": 97.34
+        },
+        {
+          "period": "2020",
+          "value": 98.18
+        },
+        {
+          "period": "2021",
+          "value": 111.98
+        },
+        {
+          "period": "2022",
+          "value": 121.97
+        },
+        {
+          "period": "2023",
+          "value": 128.17
+        },
+        {
+          "period": "2024",
+          "value": 128.57
+        },
+        {
+          "period": "2025",
+          "value": 141.39
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Manufactured Goods",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 132.38
+        },
+        {
+          "period": "2016",
+          "value": 140.45
+        },
+        {
+          "period": "2017",
+          "value": 181.78
+        },
+        {
+          "period": "2018",
+          "value": 217.96
+        },
+        {
+          "period": "2019",
+          "value": 214.34
+        },
+        {
+          "period": "2020",
+          "value": 168.6
+        },
+        {
+          "period": "2021",
+          "value": 207.01
+        },
+        {
+          "period": "2022",
+          "value": 259.34
+        },
+        {
+          "period": "2023",
+          "value": 258.95
+        },
+        {
+          "period": "2024",
+          "value": 254.66
+        },
+        {
+          "period": "2025",
+          "value": 320.15
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Machinery & Transport Equipment",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 163.59
+        },
+        {
+          "period": "2016",
+          "value": 174.18
+        },
+        {
+          "period": "2017",
+          "value": 241.45
+        },
+        {
+          "period": "2018",
+          "value": 257.1
+        },
+        {
+          "period": "2019",
+          "value": 283.39
+        },
+        {
+          "period": "2020",
+          "value": 234.61
+        },
+        {
+          "period": "2021",
+          "value": 234.29
+        },
+        {
+          "period": "2022",
+          "value": 269.48
+        },
+        {
+          "period": "2023",
+          "value": 339.54
+        },
+        {
+          "period": "2024",
+          "value": 390.69
+        },
+        {
+          "period": "2025",
+          "value": 470.44
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Miscellaneous Manufactured Articles",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 136.19
+        },
+        {
+          "period": "2016",
+          "value": 130.98
+        },
+        {
+          "period": "2017",
+          "value": 170.65
+        },
+        {
+          "period": "2018",
+          "value": 188.42
+        },
+        {
+          "period": "2019",
+          "value": 146.09
+        },
+        {
+          "period": "2020",
+          "value": 119.05
+        },
+        {
+          "period": "2021",
+          "value": 148.09
+        },
+        {
+          "period": "2022",
+          "value": 180.67
+        },
+        {
+          "period": "2023",
+          "value": 197.25
+        },
+        {
+          "period": "2024",
+          "value": 197.7
+        },
+        {
+          "period": "2025",
+          "value": 228.02
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Commodities & Transactions",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 0.01
+        },
+        {
+          "period": "2016",
+          "value": 0.04
+        },
+        {
+          "period": "2017",
+          "value": 0.03
+        },
+        {
+          "period": "2018",
+          "value": 0.01
+        },
+        {
+          "period": "2019",
+          "value": 0.02
+        },
+        {
+          "period": "2020",
+          "value": 0.05
+        },
+        {
+          "period": "2021",
+          "value": 0
+        },
+        {
+          "period": "2022",
+          "value": 0.05
+        },
+        {
+          "period": "2023",
+          "value": 1.03
+        },
+        {
+          "period": "2024",
+          "value": 1.52
+        },
+        {
+          "period": "2025",
+          "value": 3.68
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "EXPORTS by SITC",
+      "observations": [
+        {
+          "period": "2015",
+          "value": null
+        },
+        {
+          "period": "2016",
+          "value": null
+        },
+        {
+          "period": "2017",
+          "value": null
+        },
+        {
+          "period": "2018",
+          "value": null
+        },
+        {
+          "period": "2019",
+          "value": null
+        },
+        {
+          "period": "2020",
+          "value": null
+        },
+        {
+          "period": "2021",
+          "value": null
+        },
+        {
+          "period": "2022",
+          "value": null
+        },
+        {
+          "period": "2023",
+          "value": null
+        },
+        {
+          "period": "2024",
+          "value": null
+        },
+        {
+          "period": "2025",
+          "value": null
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Food & Live Animals",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 71.03
+        },
+        {
+          "period": "2016",
+          "value": 59.37
+        },
+        {
+          "period": "2017",
+          "value": 57.79
+        },
+        {
+          "period": "2018",
+          "value": 52.83
+        },
+        {
+          "period": "2019",
+          "value": 48.82
+        },
+        {
+          "period": "2020",
+          "value": 35.54
+        },
+        {
+          "period": "2021",
+          "value": 48.44
+        },
+        {
+          "period": "2022",
+          "value": 56.68
+        },
+        {
+          "period": "2023",
+          "value": 47.78
+        },
+        {
+          "period": "2024",
+          "value": 31.54
+        },
+        {
+          "period": "2025",
+          "value": 27.15
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Beverages and Tobaco",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 2.36
+        },
+        {
+          "period": "2016",
+          "value": 2.14
+        },
+        {
+          "period": "2017",
+          "value": 5.24
+        },
+        {
+          "period": "2018",
+          "value": 6.95
+        },
+        {
+          "period": "2019",
+          "value": 11.04
+        },
+        {
+          "period": "2020",
+          "value": 9.62
+        },
+        {
+          "period": "2021",
+          "value": 12.63
+        },
+        {
+          "period": "2022",
+          "value": 8.68
+        },
+        {
+          "period": "2023",
+          "value": 8.16
+        },
+        {
+          "period": "2024",
+          "value": 15.49
+        },
+        {
+          "period": "2025",
+          "value": 18.23
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Crude Materials, Inedible Except Fuels",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 0.1
+        },
+        {
+          "period": "2016",
+          "value": 0.11
+        },
+        {
+          "period": "2017",
+          "value": 0.3
+        },
+        {
+          "period": "2018",
+          "value": 1.36
+        },
+        {
+          "period": "2019",
+          "value": 0.86
+        },
+        {
+          "period": "2020",
+          "value": 0.43
+        },
+        {
+          "period": "2021",
+          "value": 0.24
+        },
+        {
+          "period": "2022",
+          "value": 4.42
+        },
+        {
+          "period": "2023",
+          "value": 1.93
+        },
+        {
+          "period": "2024",
+          "value": 1.68
+        },
+        {
+          "period": "2025",
+          "value": 0.83
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Mineral Fuels & Related Materials",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 0.2
+        },
+        {
+          "period": "2016",
+          "value": 0.01
+        },
+        {
+          "period": "2017",
+          "value": 0.01
+        },
+        {
+          "period": "2018",
+          "value": 0.01
+        },
+        {
+          "period": "2019",
+          "value": 0
+        },
+        {
+          "period": "2020",
+          "value": 0.02
+        },
+        {
+          "period": "2021",
+          "value": 0.04
+        },
+        {
+          "period": "2022",
+          "value": 0.02
+        },
+        {
+          "period": "2023",
+          "value": 0
+        },
+        {
+          "period": "2024",
+          "value": 0
+        },
+        {
+          "period": "2025",
+          "value": 0
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Animal & Vegetable Oils, Fats & Waxes",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 0
+        },
+        {
+          "period": "2016",
+          "value": 0
+        },
+        {
+          "period": "2017",
+          "value": 0
+        },
+        {
+          "period": "2018",
+          "value": 0
+        },
+        {
+          "period": "2019",
+          "value": 0
+        },
+        {
+          "period": "2020",
+          "value": 0
+        },
+        {
+          "period": "2021",
+          "value": 0
+        },
+        {
+          "period": "2022",
+          "value": 0
+        },
+        {
+          "period": "2023",
+          "value": 0
+        },
+        {
+          "period": "2024",
+          "value": 0
+        },
+        {
+          "period": "2025",
+          "value": 0
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Chemicals & Related Products",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 4.02
+        },
+        {
+          "period": "2016",
+          "value": 2.73
+        },
+        {
+          "period": "2017",
+          "value": 3.24
+        },
+        {
+          "period": "2018",
+          "value": 4.74
+        },
+        {
+          "period": "2019",
+          "value": 5.76
+        },
+        {
+          "period": "2020",
+          "value": 3.91
+        },
+        {
+          "period": "2021",
+          "value": 3.54
+        },
+        {
+          "period": "2022",
+          "value": 4.92
+        },
+        {
+          "period": "2023",
+          "value": 12.12
+        },
+        {
+          "period": "2024",
+          "value": 12.27
+        },
+        {
+          "period": "2025",
+          "value": 12.75
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Manufactured Goods",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 6.35
+        },
+        {
+          "period": "2016",
+          "value": 5.56
+        },
+        {
+          "period": "2017",
+          "value": 6.12
+        },
+        {
+          "period": "2018",
+          "value": 5.66
+        },
+        {
+          "period": "2019",
+          "value": 5.49
+        },
+        {
+          "period": "2020",
+          "value": 5.57
+        },
+        {
+          "period": "2021",
+          "value": 7.13
+        },
+        {
+          "period": "2022",
+          "value": 6.49
+        },
+        {
+          "period": "2023",
+          "value": 16.87
+        },
+        {
+          "period": "2024",
+          "value": 5.51
+        },
+        {
+          "period": "2025",
+          "value": 8.51
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Machinery & Transport Equipment",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 6.82
+        },
+        {
+          "period": "2016",
+          "value": 7.43
+        },
+        {
+          "period": "2017",
+          "value": 7.05
+        },
+        {
+          "period": "2018",
+          "value": 11.19
+        },
+        {
+          "period": "2019",
+          "value": 10.71
+        },
+        {
+          "period": "2020",
+          "value": 4.48
+        },
+        {
+          "period": "2021",
+          "value": 6.01
+        },
+        {
+          "period": "2022",
+          "value": 9.08
+        },
+        {
+          "period": "2023",
+          "value": 23.17
+        },
+        {
+          "period": "2024",
+          "value": 22.19
+        },
+        {
+          "period": "2025",
+          "value": 27.97
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Miscellaneous Manufactured Articles",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 3.4
+        },
+        {
+          "period": "2016",
+          "value": 3.99
+        },
+        {
+          "period": "2017",
+          "value": 1.38
+        },
+        {
+          "period": "2018",
+          "value": 1.7
+        },
+        {
+          "period": "2019",
+          "value": 1.81
+        },
+        {
+          "period": "2020",
+          "value": 0.65
+        },
+        {
+          "period": "2021",
+          "value": 1.6
+        },
+        {
+          "period": "2022",
+          "value": 2.01
+        },
+        {
+          "period": "2023",
+          "value": 1.48
+        },
+        {
+          "period": "2024",
+          "value": 1.13
+        },
+        {
+          "period": "2025",
+          "value": 4.55
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Commodities & Transactions",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 0
+        },
+        {
+          "period": "2016",
+          "value": 0
+        },
+        {
+          "period": "2017",
+          "value": 0
+        },
+        {
+          "period": "2018",
+          "value": 0
+        },
+        {
+          "period": "2019",
+          "value": 0
+        },
+        {
+          "period": "2020",
+          "value": 0
+        },
+        {
+          "period": "2021",
+          "value": 0
+        },
+        {
+          "period": "2022",
+          "value": 0
+        },
+        {
+          "period": "2023",
+          "value": 0.09
+        },
+        {
+          "period": "2024",
+          "value": 0.61
+        },
+        {
+          "period": "2025",
+          "value": 0.6
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "RE - EXPORTS by SITC",
+      "observations": [
+        {
+          "period": "2015",
+          "value": null
+        },
+        {
+          "period": "2016",
+          "value": null
+        },
+        {
+          "period": "2017",
+          "value": null
+        },
+        {
+          "period": "2018",
+          "value": null
+        },
+        {
+          "period": "2019",
+          "value": null
+        },
+        {
+          "period": "2020",
+          "value": null
+        },
+        {
+          "period": "2021",
+          "value": null
+        },
+        {
+          "period": "2022",
+          "value": null
+        },
+        {
+          "period": "2023",
+          "value": null
+        },
+        {
+          "period": "2024",
+          "value": null
+        },
+        {
+          "period": "2025",
+          "value": null
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Food & Live Animals",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 0.08
+        },
+        {
+          "period": "2016",
+          "value": 0.02
+        },
+        {
+          "period": "2017",
+          "value": 0.06
+        },
+        {
+          "period": "2018",
+          "value": 0
+        },
+        {
+          "period": "2019",
+          "value": 0.03
+        },
+        {
+          "period": "2020",
+          "value": 0.01
+        },
+        {
+          "period": "2021",
+          "value": 0.13
+        },
+        {
+          "period": "2022",
+          "value": 0.02
+        },
+        {
+          "period": "2023",
+          "value": 0
+        },
+        {
+          "period": "2024",
+          "value": 0.22
+        },
+        {
+          "period": "2025",
+          "value": 0.06
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Beverages and Tobaco",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 0.14
+        },
+        {
+          "period": "2016",
+          "value": 0.12
+        },
+        {
+          "period": "2017",
+          "value": 0.06
+        },
+        {
+          "period": "2018",
+          "value": 0.14
+        },
+        {
+          "period": "2019",
+          "value": 0.34
+        },
+        {
+          "period": "2020",
+          "value": 1
+        },
+        {
+          "period": "2021",
+          "value": 0.08
+        },
+        {
+          "period": "2022",
+          "value": 0.06
+        },
+        {
+          "period": "2023",
+          "value": 0.17
+        },
+        {
+          "period": "2024",
+          "value": 0.21
+        },
+        {
+          "period": "2025",
+          "value": 0.35
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Crude Materials, Inedible Except Fuels",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 0
+        },
+        {
+          "period": "2016",
+          "value": 0.02
+        },
+        {
+          "period": "2017",
+          "value": 0
+        },
+        {
+          "period": "2018",
+          "value": 0.06
+        },
+        {
+          "period": "2019",
+          "value": 0.08
+        },
+        {
+          "period": "2020",
+          "value": 0.02
+        },
+        {
+          "period": "2021",
+          "value": 0.02
+        },
+        {
+          "period": "2022",
+          "value": 3.17
+        },
+        {
+          "period": "2023",
+          "value": 0.52
+        },
+        {
+          "period": "2024",
+          "value": 0.01
+        },
+        {
+          "period": "2025",
+          "value": 0.09
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Mineral Fuels & Related Materials",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 0.05
+        },
+        {
+          "period": "2016",
+          "value": 0.01
+        },
+        {
+          "period": "2017",
+          "value": 0.01
+        },
+        {
+          "period": "2018",
+          "value": 0.01
+        },
+        {
+          "period": "2019",
+          "value": 0
+        },
+        {
+          "period": "2020",
+          "value": 0.02
+        },
+        {
+          "period": "2021",
+          "value": 0.04
+        },
+        {
+          "period": "2022",
+          "value": 0.02
+        },
+        {
+          "period": "2023",
+          "value": 0
+        },
+        {
+          "period": "2024",
+          "value": 0
+        },
+        {
+          "period": "2025",
+          "value": 0
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Animal & Vegetable Oils, Fats & Waxes",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 0
+        },
+        {
+          "period": "2016",
+          "value": 0
+        },
+        {
+          "period": "2017",
+          "value": 0
+        },
+        {
+          "period": "2018",
+          "value": 0
+        },
+        {
+          "period": "2019",
+          "value": 0
+        },
+        {
+          "period": "2020",
+          "value": 0
+        },
+        {
+          "period": "2021",
+          "value": 0
+        },
+        {
+          "period": "2022",
+          "value": 0
+        },
+        {
+          "period": "2023",
+          "value": 0
+        },
+        {
+          "period": "2024",
+          "value": 0
+        },
+        {
+          "period": "2025",
+          "value": 0
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Chemicals & Related Products",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 0.61
+        },
+        {
+          "period": "2016",
+          "value": 0.03
+        },
+        {
+          "period": "2017",
+          "value": 0.04
+        },
+        {
+          "period": "2018",
+          "value": 0.13
+        },
+        {
+          "period": "2019",
+          "value": 0.01
+        },
+        {
+          "period": "2020",
+          "value": 0.07
+        },
+        {
+          "period": "2021",
+          "value": 0.04
+        },
+        {
+          "period": "2022",
+          "value": 0.08
+        },
+        {
+          "period": "2023",
+          "value": 0.04
+        },
+        {
+          "period": "2024",
+          "value": 0.1
+        },
+        {
+          "period": "2025",
+          "value": 0.52
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Manufactured Goods",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 0.41
+        },
+        {
+          "period": "2016",
+          "value": 0.52
+        },
+        {
+          "period": "2017",
+          "value": 0.47
+        },
+        {
+          "period": "2018",
+          "value": 0.47
+        },
+        {
+          "period": "2019",
+          "value": 0.25
+        },
+        {
+          "period": "2020",
+          "value": 0.61
+        },
+        {
+          "period": "2021",
+          "value": 0.95
+        },
+        {
+          "period": "2022",
+          "value": 0.61
+        },
+        {
+          "period": "2023",
+          "value": 2.52
+        },
+        {
+          "period": "2024",
+          "value": 0.55
+        },
+        {
+          "period": "2025",
+          "value": 0.6
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Machinery & Transport Equipment",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 3.42
+        },
+        {
+          "period": "2016",
+          "value": 4.28
+        },
+        {
+          "period": "2017",
+          "value": 4.62
+        },
+        {
+          "period": "2018",
+          "value": 5.09
+        },
+        {
+          "period": "2019",
+          "value": 4.67
+        },
+        {
+          "period": "2020",
+          "value": 3.5
+        },
+        {
+          "period": "2021",
+          "value": 3.9
+        },
+        {
+          "period": "2022",
+          "value": 6.54
+        },
+        {
+          "period": "2023",
+          "value": 16.49
+        },
+        {
+          "period": "2024",
+          "value": 12.36
+        },
+        {
+          "period": "2025",
+          "value": 12.49
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Miscellaneous Manufactured Articles",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 0.43
+        },
+        {
+          "period": "2016",
+          "value": 0.66
+        },
+        {
+          "period": "2017",
+          "value": 0.73
+        },
+        {
+          "period": "2018",
+          "value": 0.83
+        },
+        {
+          "period": "2019",
+          "value": 0.64
+        },
+        {
+          "period": "2020",
+          "value": 0.25
+        },
+        {
+          "period": "2021",
+          "value": 0.91
+        },
+        {
+          "period": "2022",
+          "value": 1.51
+        },
+        {
+          "period": "2023",
+          "value": 0.91
+        },
+        {
+          "period": "2024",
+          "value": 0.48
+        },
+        {
+          "period": "2025",
+          "value": 1.27
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Commodities & Transactions",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 0
+        },
+        {
+          "period": "2016",
+          "value": 0
+        },
+        {
+          "period": "2017",
+          "value": 0
+        },
+        {
+          "period": "2018",
+          "value": 0
+        },
+        {
+          "period": "2019",
+          "value": 0
+        },
+        {
+          "period": "2020",
+          "value": 0
+        },
+        {
+          "period": "2021",
+          "value": 0
+        },
+        {
+          "period": "2022",
+          "value": 0
+        },
+        {
+          "period": "2023",
+          "value": 0.01
+        },
+        {
+          "period": "2024",
+          "value": 0.23
+        },
+        {
+          "period": "2025",
+          "value": 0.36
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "DOMESTIC EXPORTS by SITC",
+      "observations": [
+        {
+          "period": "2015",
+          "value": null
+        },
+        {
+          "period": "2016",
+          "value": null
+        },
+        {
+          "period": "2017",
+          "value": null
+        },
+        {
+          "period": "2018",
+          "value": null
+        },
+        {
+          "period": "2019",
+          "value": null
+        },
+        {
+          "period": "2020",
+          "value": null
+        },
+        {
+          "period": "2021",
+          "value": null
+        },
+        {
+          "period": "2022",
+          "value": null
+        },
+        {
+          "period": "2023",
+          "value": null
+        },
+        {
+          "period": "2024",
+          "value": null
+        },
+        {
+          "period": "2025",
+          "value": null
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Food & Live Animals",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 70.95
+        },
+        {
+          "period": "2016",
+          "value": 59.35
+        },
+        {
+          "period": "2017",
+          "value": 57.73
+        },
+        {
+          "period": "2018",
+          "value": 52.82
+        },
+        {
+          "period": "2019",
+          "value": 48.79
+        },
+        {
+          "period": "2020",
+          "value": 35.53
+        },
+        {
+          "period": "2021",
+          "value": 48.31
+        },
+        {
+          "period": "2022",
+          "value": 56.66
+        },
+        {
+          "period": "2023",
+          "value": 47.78
+        },
+        {
+          "period": "2024",
+          "value": 31.33
+        },
+        {
+          "period": "2025",
+          "value": 27.09
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Beverages and Tobaco",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 2.23
+        },
+        {
+          "period": "2016",
+          "value": 2.02
+        },
+        {
+          "period": "2017",
+          "value": 5.18
+        },
+        {
+          "period": "2018",
+          "value": 6.81
+        },
+        {
+          "period": "2019",
+          "value": 10.7
+        },
+        {
+          "period": "2020",
+          "value": 8.62
+        },
+        {
+          "period": "2021",
+          "value": 12.55
+        },
+        {
+          "period": "2022",
+          "value": 8.61
+        },
+        {
+          "period": "2023",
+          "value": 7.99
+        },
+        {
+          "period": "2024",
+          "value": 15.28
+        },
+        {
+          "period": "2025",
+          "value": 17.87
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Crude Materials, Inedible Except Fuels",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 0.09
+        },
+        {
+          "period": "2016",
+          "value": 0.09
+        },
+        {
+          "period": "2017",
+          "value": 0.3
+        },
+        {
+          "period": "2018",
+          "value": 1.29
+        },
+        {
+          "period": "2019",
+          "value": 0.79
+        },
+        {
+          "period": "2020",
+          "value": 0.4
+        },
+        {
+          "period": "2021",
+          "value": 0.22
+        },
+        {
+          "period": "2022",
+          "value": 1.25
+        },
+        {
+          "period": "2023",
+          "value": 1.41
+        },
+        {
+          "period": "2024",
+          "value": 1.67
+        },
+        {
+          "period": "2025",
+          "value": 0.74
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Mineral Fuels & Related Materials",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 0.15
+        },
+        {
+          "period": "2016",
+          "value": 0
+        },
+        {
+          "period": "2017",
+          "value": 0
+        },
+        {
+          "period": "2018",
+          "value": 0
+        },
+        {
+          "period": "2019",
+          "value": 0
+        },
+        {
+          "period": "2020",
+          "value": 0
+        },
+        {
+          "period": "2021",
+          "value": 0
+        },
+        {
+          "period": "2022",
+          "value": 0
+        },
+        {
+          "period": "2023",
+          "value": 0
+        },
+        {
+          "period": "2024",
+          "value": 0
+        },
+        {
+          "period": "2025",
+          "value": 0
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Animal & Vegetable Oils, Fats & Waxes",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 0
+        },
+        {
+          "period": "2016",
+          "value": 0
+        },
+        {
+          "period": "2017",
+          "value": 0
+        },
+        {
+          "period": "2018",
+          "value": 0
+        },
+        {
+          "period": "2019",
+          "value": 0
+        },
+        {
+          "period": "2020",
+          "value": 0
+        },
+        {
+          "period": "2021",
+          "value": 0
+        },
+        {
+          "period": "2022",
+          "value": 0
+        },
+        {
+          "period": "2023",
+          "value": 0
+        },
+        {
+          "period": "2024",
+          "value": 0
+        },
+        {
+          "period": "2025",
+          "value": 0
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Chemicals & Related Products",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 3.41
+        },
+        {
+          "period": "2016",
+          "value": 2.71
+        },
+        {
+          "period": "2017",
+          "value": 3.19
+        },
+        {
+          "period": "2018",
+          "value": 4.61
+        },
+        {
+          "period": "2019",
+          "value": 5.75
+        },
+        {
+          "period": "2020",
+          "value": 3.84
+        },
+        {
+          "period": "2021",
+          "value": 3.5
+        },
+        {
+          "period": "2022",
+          "value": 4.84
+        },
+        {
+          "period": "2023",
+          "value": 12.08
+        },
+        {
+          "period": "2024",
+          "value": 12.17
+        },
+        {
+          "period": "2025",
+          "value": 12.23
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Manufactured Goods",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 5.94
+        },
+        {
+          "period": "2016",
+          "value": 5.04
+        },
+        {
+          "period": "2017",
+          "value": 5.65
+        },
+        {
+          "period": "2018",
+          "value": 5.2
+        },
+        {
+          "period": "2019",
+          "value": 5.24
+        },
+        {
+          "period": "2020",
+          "value": 4.96
+        },
+        {
+          "period": "2021",
+          "value": 6.18
+        },
+        {
+          "period": "2022",
+          "value": 5.89
+        },
+        {
+          "period": "2023",
+          "value": 14.34
+        },
+        {
+          "period": "2024",
+          "value": 4.97
+        },
+        {
+          "period": "2025",
+          "value": 7.91
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Machinery & Transport Equipment",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 3.4
+        },
+        {
+          "period": "2016",
+          "value": 3.15
+        },
+        {
+          "period": "2017",
+          "value": 2.42
+        },
+        {
+          "period": "2018",
+          "value": 6.09
+        },
+        {
+          "period": "2019",
+          "value": 6.04
+        },
+        {
+          "period": "2020",
+          "value": 0.97
+        },
+        {
+          "period": "2021",
+          "value": 2.11
+        },
+        {
+          "period": "2022",
+          "value": 2.53
+        },
+        {
+          "period": "2023",
+          "value": 6.68
+        },
+        {
+          "period": "2024",
+          "value": 9.83
+        },
+        {
+          "period": "2025",
+          "value": 15.48
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Miscellaneous Manufactured Articles",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 2.97
+        },
+        {
+          "period": "2016",
+          "value": 3.34
+        },
+        {
+          "period": "2017",
+          "value": 0.65
+        },
+        {
+          "period": "2018",
+          "value": 0.88
+        },
+        {
+          "period": "2019",
+          "value": 1.18
+        },
+        {
+          "period": "2020",
+          "value": 0.4
+        },
+        {
+          "period": "2021",
+          "value": 0.68
+        },
+        {
+          "period": "2022",
+          "value": 0.5
+        },
+        {
+          "period": "2023",
+          "value": 0.57
+        },
+        {
+          "period": "2024",
+          "value": 0.65
+        },
+        {
+          "period": "2025",
+          "value": 3.28
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "Commodities & Transactions",
+      "unit": "EC$M",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 0
+        },
+        {
+          "period": "2016",
+          "value": 0
+        },
+        {
+          "period": "2017",
+          "value": 0
+        },
+        {
+          "period": "2018",
+          "value": 0
+        },
+        {
+          "period": "2019",
+          "value": 0
+        },
+        {
+          "period": "2020",
+          "value": 0
+        },
+        {
+          "period": "2021",
+          "value": 0
+        },
+        {
+          "period": "2022",
+          "value": 0
+        },
+        {
+          "period": "2023",
+          "value": 0.08
+        },
+        {
+          "period": "2024",
+          "value": 0.38
+        },
+        {
+          "period": "2025",
+          "value": 0.24
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "source": "Eastern Caribbean Central Bank",
+  "source_id": "eccb",
+  "source_url": "https://www.eccb-centralbank.org/statistics-category/external-sector/real-effective-exchange-rate-index",
+  "table_id": "real-effective-exchange-rate",
+  "table_title": "Real Effective Exchange Rate Index",
+  "country": {
+    "iso3": "DMA",
+    "name": "Dominica"
+  },
+  "frequency": "a",
+  "retrieved_at": "2026-11-06T16:12:31.095Z",
+  "periods": [
+    "2015",
+    "2016",
+    "2017",
+    "2018",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024",
+    "2025",
+    "2026"
+  ],
+  "periods_raw": [
+    "2015",
+    "2016",
+    "2017",
+    "2018",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024",
+    "2025",
+    "2026"
+  ],
+  "future_periods": [
+    "2026"
+  ],
+  "series": [
+    {
+      "label": "REER",
+      "unit": "Index",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 82.9
+        },
+        {
+          "period": "2016",
+          "value": 83.94
+        },
+        {
+          "period": "2017",
+          "value": 83.46
+        },
+        {
+          "period": "2018",
+          "value": 82.36
+        },
+        {
+          "period": "2019",
+          "value": 83.23
+        },
+        {
+          "period": "2020",
+          "value": 81.79
+        },
+        {
+          "period": "2021",
+          "value": 79.44
+        },
+        {
+          "period": "2022",
+          "value": 82.36
+        },
+        {
+          "period": "2023",
+          "value": 81.05
+        },
+        {
+          "period": "2024",
+          "value": 80.45
+        },
+        {
+          "period": "2025",
+          "value": null
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    },
+    {
+      "label": "NEER",
+      "unit": "Index",
+      "observations": [
+        {
+          "period": "2015",
+          "value": 109.42
+        },
+        {
+          "period": "2016",
+          "value": 112.42
+        },
+        {
+          "period": "2017",
+          "value": 114.01
+        },
+        {
+          "period": "2018",
+          "value": 113.14
+        },
+        {
+          "period": "2019",
+          "value": 114.61
+        },
+        {
+          "period": "2020",
+          "value": 114.96
+        },
+        {
+          "period": "2021",
+          "value": 114
+        },
+        {
+          "period": "2022",
+          "value": 118.14
+        },
+        {
+          "period": "2023",
+          "value": 118.7
+        },
+        {
+          "period": "2024",
+          "value": 118.86
+        },
+        {
+          "period": "2025",
+          "value": null
+        },
+        {
+          "period": "2026",
+          "value": null
+        }
+      ]
+    }
+  ]
+}
