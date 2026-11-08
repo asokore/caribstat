@@ -1,17 +1,17 @@
 {
   "source": "Central Bank of Barbados",
   "source_id": "cbb",
-  "source_url": "https://www.centralbank.org.bb/news/statistics-1/trade-in-goods-june-2026-g1-g4",
-  "attachment_url": "https://cdn.centralbank.org.bb/documents/2026-07-30-10-24-11-G1G4TradeinGoodsJune2026.xlsx",
+  "source_url": "https://www.centralbank.org.bb/news/statistics-1/trade-in-goods-september-2026-g1-g4",
+  "attachment_url": "https://cdn.centralbank.org.bb/documents/2026-11-06-14-55-06-G1G4TradeinGoodsSeptember2026.xlsx",
   "category": "trade-in-goods-barbados",
-  "publication_title": "Trade in Goods June 2026 (G1-G4)",
+  "publication_title": "Trade in Goods September 2026 (G1-G4)",
   "sheet": "G1",
   "country": {
     "iso3": "BRB",
     "name": "Barbados"
   },
-  "published_at": "2026-07-30",
-  "retrieved_at": "2026-11-03T13:16:07.764Z",
+  "published_at": "2026-11-06",
+  "retrieved_at": "2026-11-08T11:47:53.761Z",
   "periods": [
     "1978-01",
     "1978-02",
@@ -594,7 +594,10 @@
     "2026-03",
     "2026-04",
     "2026-05",
-    "2026-06"
+    "2026-06",
+    "2026-07",
+    "2026-08",
+    "2026-09"
   ],
   "periods_raw": [
     28491,
@@ -1178,7 +1181,10 @@
     46082,
     46113,
     46143,
-    46174
+    46174,
+    46204,
+    46235,
+    46266
   ],
   "revised_periods": [],
   "unparsed_labels": [
@@ -3517,6 +3523,18 @@
         {
           "period": "2026-06",
           "value": 416916.1830000001
+        },
+        {
+          "period": "2026-07",
+          "value": 435421.13599999994
+        },
+        {
+          "period": "2026-08",
+          "value": 426458.425
+        },
+        {
+          "period": "2026-09",
+          "value": 401739.18799999997
         }
       ]
     },
@@ -5850,6 +5868,18 @@
         {
           "period": "2026-06",
           "value": 81412.594
+        },
+        {
+          "period": "2026-07",
+          "value": 83941.71900000001
+        },
+        {
+          "period": "2026-08",
+          "value": 70359.353
+        },
+        {
+          "period": "2026-09",
+          "value": 66670.22
         }
       ]
     },
@@ -8183,6 +8213,18 @@
         {
           "period": "2026-06",
           "value": 40945.598
+        },
+        {
+          "period": "2026-07",
+          "value": 41123.027
+        },
+        {
+          "period": "2026-08",
+          "value": 34260.067
+        },
+        {
+          "period": "2026-09",
+          "value": 33182.189
         }
       ]
     },
@@ -10516,6 +10558,18 @@
         {
           "period": "2026-06",
           "value": 40466.996
+        },
+        {
+          "period": "2026-07",
+          "value": 42818.692
+        },
+        {
+          "period": "2026-08",
+          "value": 36099.286
+        },
+        {
+          "period": "2026-09",
+          "value": 33488.031
         }
       ]
     },
@@ -12849,6 +12903,18 @@
         {
           "period": "2026-06",
           "value": -335503.5890000001
+        },
+        {
+          "period": "2026-07",
+          "value": -351479.4169999999
+        },
+        {
+          "period": "2026-08",
+          "value": -356099.072
+        },
+        {
+          "period": "2026-09",
+          "value": -335068.968
         }
       ]
     }
